@@ -1,0 +1,924 @@
+{
+ "generated_at": "2026-09-12T18:26:22.736722+00:00",
+ "counts": {
+  "fetched": 16083,
+  "fresh_matches": 123,
+  "in_digest": 30,
+  "boards_ok": 137,
+  "boards_failed": 203
+ },
+ "rejected_reasons": {
+  "title not relevant": 592,
+  "rejected title": 435,
+  "location unclear/onsite elsewhere": 116,
+  "non-US location": 138
+ },
+ "jobs": [
+  {
+   "source": "ashby",
+   "company": "vanta",
+   "title": "Enterprise Account Executive, West",
+   "location": "Remote U.S. (Remote)",
+   "url": "https://jobs.ashbyhq.com/vanta/ef741fff-829e-4a9b-bca3-932f414db957",
+   "posted": "2026-09-11T19:30:34.181000+00:00",
+   "description": "At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it. As an Enterprise Account Executive at Vanta, you will play a critical role in expanding our footprint in the Enterprise segment through net-new logo acquisition. This is a high-impact role focused on a land and expand model, requiring a results-driven seller capable of closing 5+ six-figure opportunities per quarter. You\u2019ll be joining a team that is building and scaling our upmarket motion, and you\u2019ll help shape Vanta\u2019s strategy and execution in some of our most strategic segments. This role requires someone who is equally confident navigating complex deals independently and working cross-functionally with product, engineering, and the channel. Success in this role means driving full-cycle deals from prospecting through close - both directly and through partners. At Vanta, our mission is to help businesses earn and prove trust. We believe security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. The ideal candidate for this role at Vanta has prior security or adjacent domain experience. We\u2019re growing quickly, continually outpacing our targets and leading the market in compliance and security. If you\u2019re excited by the opportunity to drive strategic, high-value deals and work in a fast-paced, high-growth environment\u2014we\u2019d love to hear from you. What you\u2019ll do as an Enterprise Account Executive at Vanta: Own and drive net-new business acquisition within the Enterprise segment Close 5+ six-figure opportunities per quarter, managing the full sales cycle from initial outreach through contract execution Build and maintain a strong pipeline through outbound prospecting, inbound leads, referrals, SDR partnership and partner/channel collaboration Engage directly with senior stakeholders (CISO, CIO, CTO) to deliver tailored, consultative value propositions Work closely with legal, product, engineering, solution engineers, and GRC specialists throughout the deal cycle Leverage and contribute to building the enterprise playbook, refining our GTM approach as we scale Provide accurate forecasts and deliver consistently against quota How to be successful in this role: 7+ years in a closing Account Executive role, with at least 5 years selling enterprise B2B SaaS Recent experience at a cybersecurity, compliance automation, infrastructure, or IT operations software company Proven ability to consistently meet/exceed quota, including managing 5+ six-figure deals per quarter Strong outbound prospecting skills and ability to independently build a robust pipeline Experience managing complex, multi-stakeholder sales cycles Executive presence with the ability ",
+   "ats": "ashby",
+   "salary": "$332K \u2013 $390K \u2022 Offers Equity \u2022 This role is also eligible for medical benefits, 401(k) plan, and other company perk programs.",
+   "score": 89,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cybersecurity",
+    "enterprise",
+    "b2b",
+    "channel",
+    "partner",
+    "ai",
+    "automation",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "ccf01deb4cea5a0d"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mongodb",
+   "title": "Enterprise Account Executive",
+   "location": "Montreal",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7269518",
+   "posted": "2026-09-11T15:37:10-04:00",
+   "description": "<h3>Get to Know the Sales Team</h3> <p>Our sales team\u2019s success is MongoDB\u2019s success. We help customers solve challenges and build their next big thing. And our mission is to bring our developer data platform to new markets and new businesses around the globe. Our sales leadership is committed to building the best salesforce in technology. This means, inspiring and enabling success for everyone on the team. We not only equip you to be successful, but we want your feedback and input on how we can continue to \u201c<a href=\"https://www.mongodb.com/company\">Think Big and Go Far</a>.\u201d&nbsp;</p> <h3>The Opportunity</h3> <p>As an Enterprise Account Executive, Growth, you will play a pivotal role in driving the growth and success of MongoDB. You will be responsible for identifying and pursuing new business opportunities within an existing customer base, cultivating relationships with key stakeholders, and ensuring the successful adoption of our solutions.</p> <p>This role will be based remotely in Monrtreal</p> <h3>What You\u2019ll Be Doing</h3> <ul> <li>Prospect into CTOs, Engineering/IT leaders, and technical end users</li> <li>Grow a current base of MongoDB customers by landing new workloads through outbound prospecting</li> <li>Manage the full sales cycle for all MongoDB Products &amp; Services</li> <li>Develop and execute a strategic territory plan to achieve revenue targets</li> <li>Collaborate with the sales ecosystem to drive sales initiatives and partnerships</li> <li>Build a sales pipeline in Salesforce and Clari while maximizing prospecting tools such as Sales Navigator, ZoomInfo, Sendoso, and Outreach</li> </ul> <h3>What You\u2019ll Bring To The Role</h3> <ul> <li>5+ years of quota-carrying field sales experience with a focus on closing new workloads and expanding accounts</li> <li>Demonstrated ability to successfully expand existing accounts and sell horizontally across the organization into different business units</li> <li>A proven track record of overachievement and hitting sales targets</li> <li>Ability to articulate the business value of complex enterprise technology</li> <li>Co-selling with cloud service providers (AWS, GCP and Azure) and large GSIs (Accenture, KPMG, etc) is a plus</li> <li>Must live in territory</li> <li>Fluent in English and French</li> </ul> <h3>Things We Love</h3> <ul> <li>Passionate about growing your career in the largest market in software (database)</li> <li>Previous Sales Methodology training (e.g. MEDDIC, SPIN, Challenger Sales)</li> <li>Familiarity with databases, develops and open source technology a plus</li> </ul> <h3>About MongoDB</h3> <p>MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB\u2019s unified data platform, the most widely available, globally distributed data platform on the market, helps organizations modernize legacy ",
+   "ats": "greenhouse",
+   "score": 87,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "salesforce",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo",
+    "french"
+   ],
+   "resume": "generic",
+   "id": "b21343eeb9e396c5"
+  },
+  {
+   "source": "greenhouse",
+   "company": "huntress",
+   "title": "Sales Development Representative - Mid-Market",
+   "location": "Remote US",
+   "url": "https://job-boards.greenhouse.io/huntress/jobs/7753414003",
+   "posted": "2026-09-11T15:28:33-04:00",
+   "description": "<p><strong>Reports to: SDR Manager</strong></p> <p><strong>Location: Remote US</strong></p> <p><strong>Compensation Range: $58,500 base with on-target earnings at $78,000 plus equity</strong></p> <p>&nbsp;</p> <p><strong>What We Do:&nbsp;</strong></p> <p>Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact.</p> <p>Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That\u2019s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it, ensuring our customers' protection.</p> <p>Huntress now secures more than 5M endpoints and 11M identities worldwide. Those numbers keep growing because more businesses rely on us to help carry the load and operate with more confidence. Every day, you can see that commitment in how we stand with our customers and how we show up for each other.</p> <p><strong>What You'll Do:</strong></p> <p>In this role, you will turn targeted outreach into qualified conversations with security and IT decision-makers. You will build trust with internal IT teams and channel partners by asking clear questions, following up honestly, and learning what matters to each prospect.</p> <p>You will bring Warrior Spirit to a quota-driven role by staying resilient through changing priorities and the daily work of building pipeline. You will Give a $h*t about the details that move opportunities forward, from thoughtful outreach and timely follow-up to accurate CRM data and a clear understanding of how Huntress helps customers and partners stay protected.</p> <p><strong>Responsibilities:</strong></p> <ul> <li>Prospect internal IT departments with 50 to 3,000 employees through phone, email, and LinkedIn.</li> <li>Establish trust and rapport with channel partners through phone, email, and LinkedIn while learning about their solutions, team composition, territories, and ideal customer profile.</li> <li>Work collaboratively with the team to create outbound prospecting strategies for channel partners and mid-market internal IT departments.</li> <li>Develop and manage contact and opportunity pipelines, ensuring timely follow-up on both.</li> <li>Work closely with the Account Executive team to set demos, assist with closing deals, and build a passionate understanding of Huntress products, our human-led SOC, monthly educational webinars, and competitor offerings.</li> <li>Meet and exceed monthly, quarterly, and annual sales quotas while maintaining accurate prospect and opportun",
+   "ats": "greenhouse",
+   "score": 85,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "sales development representative"
+   ],
+   "matched_skills": [
+    "saas",
+    "cybersecurity",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "mid-market",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound"
+   ],
+   "resume": "generic",
+   "id": "afcddaeeffc7839b"
+  },
+  {
+   "source": "greenhouse",
+   "company": "twilio",
+   "title": "Account Executive 3",
+   "location": "Remote - US",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8177722",
+   "posted": "2026-09-12T03:49:03-04:00",
+   "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp;<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as Twilio\u2019s next Account Executive 3 - New Business.</p> <p><strong>About the job</strong></p> <p>This position is needed to&nbsp;lead prospecting, solution selling and closing new business opportunities across our Messaging, Voice and Email products. In this role, you will be directly responsible for expanding our messaging business with some of the largest and fastest growing mid-market and enterprise companies in the Financial Services vertical. New Business Account Executives are experts in the CPaaS ecosystem and Twilio\u2019s product offerings. This role is highly cross functional, with deep integration with product management, carrier relations, finance, and solutions engineering teams.</p> <p><strong>Responsibilities</strong></p> <p>In this role, you\u2019ll:</p> <ul> <li>Drive new customer acquisition, while being assigned a quota for iACV (incremental Account Contract Value)</li> <li>Own highly analytical and consultative sales cycles to win business in competitive vendor sourcing cycles with Twilio\u2019s messaging (e.g. SMS, MMS, WhatsApp, Facebook Messenger, Google Business Messages, Account Security, etc.), voice and email solutions.</li> <li>Work with customers across assigned verticals (Financial Services)&nbsp; to understand their business and technical requirements, and match them to the capabilities of Twilio\u2019s communications API platform, designing a solutio",
+   "ats": "greenhouse",
+   "score": 84,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "mid-market",
+    "partner",
+    "ai",
+    "telecom",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "c869a05bdf763327"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mongodb",
+   "title": "Enterprise Account Executive, Growth",
+   "location": "Chicago",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7191603",
+   "posted": "2026-09-11T15:37:10-04:00",
+   "description": "<h3>About the role</h3> <p>We\u2019re looking for a hardworking, driven individual with superb energy, passion and initiative for new business acquisition. The Enterprise Account Executive role focuses exclusively on formulating and executing a sales strategy within an assigned territory, resulting in revenue growth and new customer acquisition.</p> <p>This role will be based remotely in Chicago.</p> <h3>About the Sales Culture</h3> <p>MongoDB is always developing and innovating \u2014 not only in our technology, but also in our sales go-to-market strategy. Our sales leadership is committed to building the best salesforce in technology. This means, inspiring and enabling success for everyone on the team. We not only equip you to be successful and close deals, but we want your feedback and input on how we can continue to \u201c<a href=\"https://www.mongodb.com/company\">Think Big and Go Far</a>.\u201d As a crucial part of the Sales team at MongoDB, you will have access to a lucrative market and learn how to sell from some of the most successful sales leaders in the software industry.</p> <h3>What you will be doing</h3> <ul> <li>Proactively, identify, qualify and close a sales pipeline&nbsp;</li> <li>Strategically prospect into CTOs, Engineering/IT Leaders, &amp; technical end users</li> <li>Build strong and effective relationships, resulting in growth opportunities</li> <li>Partner with our Solution Architects and work closely with the Professional Services team to achieve customer satisfaction</li> <li>Work closely with the enterprise ecosystem partner sales and channel partner to maximize deal sizes</li> <li>Participate in our sales enablement trainings, including our comprehensive Sales Bootcamp, sophisticated sales training, and leadership and development programs</li> </ul> <h3>What you will bring to the table</h3> <ul> <li>5+ years of field experience of quota-carrying experience in a fast-paced and competitive market with a focus on closing net new logos&nbsp;</li> <li>Demonstrated ability to open new accounts and run a complex sales process&nbsp;</li> <li>A proven track record of overachievement and hitting sales targets</li> <li>Ability to articulate the business value of complex enterprise technology</li> <li>Skilled in building business champions</li> <li>Driven and competitive. Possess a strong desire to be successful</li> <li>Fluent in English</li> <li>Must live in territory</li> </ul> <h3>Things we love</h3> <ul> <li>Passionate about growing your career in the largest market in software (database)</li> <li>Previous Sales Methodology training (e.g. MEDDIC, SPIN, Challenger Sales)</li> <li>Familiarity with databases, develops and open source technology a plus</li> </ul> <h3>Why join now</h3> <ul> <li>MongoDB invests heavily in the development of each of our new hires &amp; continuous career development</li> <li>Accelerators up to 30%</li> <li>Best in breed Sales trainings in MEDDIC and Command of the Message, including our comprehensive Sales Bootcamps and ",
+   "ats": "greenhouse",
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "salesforce",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "9eaa47f41910c10a"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mongodb",
+   "title": "Enterprise Account Executive, Growth",
+   "location": "Ohio",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7362411",
+   "posted": "2026-09-11T15:37:10-04:00",
+   "description": "<h3>About the role</h3> <p>We\u2019re looking for a hardworking, driven individual with superb energy, passion and initiative for new business acquisition. The Enterprise Account Executive role focuses exclusively on formulating and executing a sales strategy within an assigned territory, resulting in revenue growth and new customer acquisition.</p> <h3>About the Sales Culture</h3> <p>MongoDB is always developing and innovating \u2014 not only in our technology, but also in our sales go-to-market strategy. Our sales leadership is committed to building the best salesforce in technology. This means, inspiring and enabling success for everyone on the team. We not only equip you to be successful and close deals, but we want your feedback and input on how we can continue to \u201c<a href=\"https://www.mongodb.com/company\">Think Big and Go Far</a>.\u201d As a crucial part of the Sales team at MongoDB, you will have access to a lucrative market and learn how to sell from some of the most successful sales leaders in the software industry.</p> <p>This role will be based remotely in Ohio.</p> <h3>What you will be doing</h3> <ul> <li>Proactively, identify, qualify and close a sales pipeline&nbsp;</li> <li>Strategically prospect into CTOs, Engineering/IT Leaders, &amp; technical end users</li> <li>Build strong and effective relationships, resulting in growth opportunities</li> <li>Partner with our Solution Architects and work closely with the Professional Services team to achieve customer satisfaction</li> <li>Work closely with the enterprise ecosystem partner sales and channel partner to maximize deal sizes</li> <li>Participate in our sales enablement trainings, including our comprehensive Sales Bootcamp, sophisticated sales training, and leadership and development programs</li> </ul> <h3>What you will bring to the table</h3> <ul> <li>5+ years of field experience of quota-carrying experience in a fast-paced and competitive market with a focus on closing net new logos&nbsp;</li> <li>Demonstrated ability to open new accounts and run a complex sales process&nbsp;</li> <li>A proven track record of overachievement and hitting sales targets</li> <li>Ability to articulate the business value of complex enterprise technology</li> <li>Skilled in building business champions</li> <li>Driven and competitive. Possess a strong desire to be successful</li> <li>Fluent in English</li> <li>Must live in territory</li> </ul> <h3>Things we love</h3> <ul> <li>Passionate about growing your career in the largest market in software (database)</li> <li>Previous Sales Methodology training (e.g. MEDDIC, SPIN, Challenger Sales)</li> <li>Familiarity with databases, develops and open source technology a plus</li> </ul> <h3>Why join now</h3> <ul> <li>MongoDB invests heavily in the development of each of our new hires &amp; continuous career development</li> <li>Accelerators up to 30%</li> <li>Best in breed Sales trainings in MEDDIC and Command of the Message, including our comprehensive Sales Bootcamps and dev",
+   "ats": "greenhouse",
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "salesforce",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "a27aad94326e4828"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mongodb",
+   "title": "Senior Forward Deployed Engineer",
+   "location": "United States",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8094523",
+   "posted": "2026-09-11T15:37:10-04:00",
+   "description": "<p>Senior Forward Deployed Engineers (FDE) sit at the intersection of enterprise customer environments and a fast-moving internal product. They partner directly with customers to design, build, troubleshoot, and improve production solutions, and they are ultimately accountable for helping customers get to production.&nbsp;</p> <p>This role is best suited for engineers who want to own technical outcomes end to end: understanding what a customer is trying to build, shipping the integration, and feeding learnings back into the product roadmap.&nbsp;</p> <p>This role will be based remotely in the United States (East Coast).</p> <h3>Responsibilities&nbsp;</h3> <p>Customer success&nbsp;</p> <ul> <li>Serve as the primary technical owner for customer engagements from initial discovery through production rollout</li> <li>Understand each customer's architecture, constraints, and definition of success, and drive toward that outcome</li> <li>Manage expectations, communicate risks clearly, and help customers navigate technical decisions with confidence&nbsp;</li> </ul> <p>Technical integration&nbsp;</p> <ul> <li>Build the connectors, pipelines, and supporting tooling needed to make the platform work inside real enterprise environments</li> <li>Write production-quality code, troubleshoot issues, and implement fixes directly in active workstreams</li> <li>Work effectively within customer environments that have different stacks, infrastructure, and integration constraints</li> </ul> <p>Product feedback loop&nbsp;</p> <ul> <li>Capture product feedback with precision, including logs, reproduction steps, and a clear proposed path forward</li> <li>Use customer engagements to identify product gaps, surface recurring patterns, and help improve the product roadmap</li> <li>Document technical decisions and tradeoffs clearly so product and engineering teams can extend the work</li> </ul> <p>Workstream collaboration&nbsp;</p> <ul> <li>Partner closely with product and engineering teams to help turn field patterns into reusable product capabilities</li> <li>Contribute directly in focused workstreams by helping drive technical design, implementation, and delivery</li> <li>Make sound engineering decisions under pressure while building and iterating quickly</li> </ul> <p>Engagement management&nbsp;</p> <ul> <li>Coordinate independently across internal teams and customer stakeholders to keep delivery moving</li> <li>Communicate clearly across technical, business, and executive audiences</li> </ul> <h3>Qualifications</h3> <p>Basic qualifications&nbsp;</p> <ul> <li>5 - 8 years of engineering experience required</li> <li>Hands-on production engineering experience, including writing code, debugging failures, and implementing fixes directly</li> <li>Engineering experience in AI and agentic development</li> <li>Experience with developing and deploying software within enterprise environments</li> <li>Experience shipping production solutions at scale that customers relied on</li> <li>E",
+   "ats": "greenhouse",
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "forward deployed engineer"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "llm",
+    "agentic",
+    "pipeline",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "be138997784f48d1"
+  },
+  {
+   "source": "greenhouse",
+   "company": "pagerduty",
+   "title": "Enterprise Account Executive - Florida",
+   "location": "Remote (USA)",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6186218004",
+   "posted": "2026-09-11T10:09:30-04:00",
+   "description": "<div class=\"content-intro\"><p>PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform.</p> <p>&nbsp;</p></div><p>PagerDuty is seeking an Account Executive (AE) to join our high-performing, customer-focused team! As an Account Executive, you will drive growth and expansion within an established customer portfolio, combining strategic account management with consultative enterprise selling. You\u2019ll partner with C-level executives and key stakeholders to deliver measurable outcomes through Operations Cloud conversions and multi-product adoption. This is an exciting opportunity to shape the customer\u2019s journey, close high-value deals, and accelerate PagerDuty\u2019s growth in the enterprise market.</p> <p>The ideal candidate is a relationship-driven sales professional who thrives in complex deal cycles, excels at executive engagement, and is passionate about delivering customer impact through innovative SaaS solutions.</p> <h3><strong>KEY RESPONSIBILITIES</strong></h3> <ul> <li>Own and grow a defined set of enterprise accounts by driving upsell, cross-sell, and expansion opportunities.</li> <li>Build and maintain trusted executive relationships through regular in-person engagement and consultative selling.</li> <li>Develop and execute strategic account plans to identify growth areas, expansion pathways, and competitive positioning.</li> <li>Drive adoption of PagerDuty\u2019s Operations Cloud by articulating clear business value and ROI.</li> <li>Execute complex, multi-product sales motions and partner with Solution Consultants for technical validation and proof-of-concept activities.</li> <li>Maintain accurate forecasts and a disciplined pipeline in Salesforce using the MEDDICC framework.</li> <li>Collaborate with Customer Success, Product Management, and Renewals teams to ensure customer satisfaction and long-term retention.</li> </ul> <h3><strong>BASIC QUALIFICATIONS</strong></h3> <ul> <li>8+ years of experience in B2B sales, account management, or expansion roles within SaaS or cloud software.</li> <li>Proven success managing a quota in complex, long-cycle enterprise sales.</li> <li>Demonstrated experience selling to and influencing C-level executives.</li> <li>Proficiency with Salesforce (SFDC) for pipeline management and forecasting.</li> <li>Bachelor\u2019s degree or equivalent experience.</li> </ul> <h3",
+   "ats": "greenhouse",
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "b2b",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "d5cffee4f97e9d62"
+  },
+  {
+   "source": "greenhouse",
+   "company": "pagerduty",
+   "title": "Enterprise Account Executive (New York)",
+   "location": "Remote (USA - New York City, NY)",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5814164004",
+   "posted": "2026-09-11T10:06:09-04:00",
+   "description": "<div class=\"content-intro\"><p>PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform.</p> <p>&nbsp;</p></div><p>PagerDuty is seeking an Account Executive (AE) to join our high-performing, customer-focused team! As an Account Executive, you will drive growth and expansion within an established customer portfolio, combining strategic account management with consultative enterprise selling. You\u2019ll partner with C-level executives and key stakeholders to deliver measurable outcomes through Operations Cloud conversions and multi-product adoption. This is an exciting opportunity to shape the customer\u2019s journey, close high-value deals, and accelerate PagerDuty\u2019s growth in the enterprise market.</p> <p>The ideal candidate is a relationship-driven sales professional who thrives in complex deal cycles, excels at executive engagement, and is passionate about delivering customer impact through innovative SaaS solutions.</p> <h3><strong>KEY RESPONSIBILITIES</strong></h3> <ul> <li>Own and grow a defined set of enterprise accounts by driving upsell, cross-sell, and expansion opportunities.</li> <li>Build and maintain trusted executive relationships through regular in-person engagement and consultative selling.</li> <li>Develop and execute strategic account plans to identify growth areas, expansion pathways, and competitive positioning.</li> <li>Drive adoption of PagerDuty\u2019s Operations Cloud by articulating clear business value and ROI.</li> <li>Execute complex, multi-product sales motions and partner with Solution Consultants for technical validation and proof-of-concept activities.</li> <li>Maintain accurate forecasts and a disciplined pipeline in Salesforce using the MEDDICC framework.</li> <li>Collaborate with Customer Success, Product Management, and Renewals teams to ensure customer satisfaction and long-term retention.</li> </ul> <h3><strong>BASIC QUALIFICATIONS</strong></h3> <ul> <li>8+ years of experience in B2B sales, account management, or expansion roles within SaaS or cloud software.</li> <li>Proven success managing a quota in complex, long-cycle enterprise sales.</li> <li>Demonstrated experience selling to and influencing C-level executives.</li> <li>Proficiency with Salesforce (SFDC) for pipeline management and forecasting.</li> <li>Bachelor\u2019s degree or equivalent experience.</li> </ul> <h3",
+   "ats": "greenhouse",
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "b2b",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "9ac51406d4424580"
+  },
+  {
+   "source": "greenhouse",
+   "company": "pagerduty",
+   "title": "Enterprise Account Executive (San Francisco)",
+   "location": "Remote (USA - San Francisco, CA)",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6186221004",
+   "posted": "2026-09-11T10:15:09-04:00",
+   "description": "<div class=\"content-intro\"><p>PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform.</p> <p>&nbsp;</p></div><p>PagerDuty is seeking an Account Executive (AE) to join our high-performing, customer-focused team! As an Account Executive, you will drive growth and expansion within an established customer portfolio, combining strategic account management with consultative enterprise selling. You\u2019ll partner with C-level executives and key stakeholders to deliver measurable outcomes through Operations Cloud conversions and multi-product adoption. This is an exciting opportunity to shape the customer\u2019s journey, close high-value deals, and accelerate PagerDuty\u2019s growth in the enterprise market.</p> <p>The ideal candidate is a relationship-driven sales professional who thrives in complex deal cycles, excels at executive engagement, and is passionate about delivering customer impact through innovative SaaS solutions.</p> <h3><strong>KEY RESPONSIBILITIES</strong></h3> <ul> <li>Own and grow a defined set of enterprise accounts by driving upsell, cross-sell, and expansion opportunities.</li> <li>Build and maintain trusted executive relationships through regular in-person engagement and consultative selling.</li> <li>Develop and execute strategic account plans to identify growth areas, expansion pathways, and competitive positioning.</li> <li>Drive adoption of PagerDuty\u2019s Operations Cloud by articulating clear business value and ROI.</li> <li>Execute complex, multi-product sales motions and partner with Solution Consultants for technical validation and proof-of-concept activities.</li> <li>Maintain accurate forecasts and a disciplined pipeline in Salesforce using the MEDDICC framework.</li> <li>Collaborate with Customer Success, Product Management, and Renewals teams to ensure customer satisfaction and long-term retention.</li> </ul> <h3><strong>BASIC QUALIFICATIONS</strong></h3> <ul> <li>8+ years of experience in B2B sales, account management, or expansion roles within SaaS or cloud software.</li> <li>Proven success managing a quota in complex, long-cycle enterprise sales.</li> <li>Demonstrated experience selling to and influencing C-level executives.</li> <li>Proficiency with Salesforce (SFDC) for pipeline management and forecasting.</li> <li>Bachelor\u2019s degree or equivalent experience.</li> </ul> <h3",
+   "ats": "greenhouse",
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "b2b",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "e1963d5a4bb0c662"
+  },
+  {
+   "source": "greenhouse",
+   "company": "gusto",
+   "title": "PEO Sales, Account Executive",
+   "location": "Atlanta, GA - Remote; Denver, CO - Hybrid; Phoenix, AZ - Remote",
+   "url": "https://job-boards.greenhouse.io/gusto/jobs/8008902",
+   "posted": "2026-09-11T16:57:03-04:00",
+   "description": "<div class=\"content-intro\"><p style=\"line-height: 1.2;\">&nbsp;</p> <hr> <p><strong>About Gusto</strong></p> <p>At Gusto, we're on a mission to grow the small business economy. We handle the hard stuff \u2014 payroll, health insurance, 401(k)s, and HR \u2014 so owners can focus on their craft and their customers. With teams in Denver, San Francisco, and New York, we support more than 500,000 small businesses nationwide and are building a workplace that reflects the people we serve.</p> <p>&nbsp;<br>All full-time employees receive competitive base pay, benefits, and equity (RSUs) \u2014 because everyone who helps build Gusto should share in its success. Offer amounts are determined by role, level, and location. Learn more about our<a href=\"https://gusto.com/about/careers/total-rewards\" target=\"_blank\"> <u>Total Rewards philosophy</u></a>.</p> <p>&nbsp;<br>AI is a fundamental part of how work gets done at Gusto. We expect all team members to actively engage with AI tools relevant to their role and grow their fluency as the technology evolves. AI experience requirements vary by role and will be assessed during the interview process.</p></div><p><strong>About the Role:</strong></p> <p>Gusto is building its PEO sales org from the ground up, and we're looking for a quota-carrying seller to be one of the founding members of that team. This is a true ground-floor opportunity: you'll be among the first reps closing PEO business at Gusto, working directly with the Head of PEO Sales to prove out and scale the motion.&nbsp;You'll drive new PEO revenue by selling Gusto's co-employment solution to both net-new prospects and our existing base of 400,000+ customers \u2014 Gusto's single biggest competitive advantage over legacy PEOs. The market opportunity is real, the pace is fast, and the early sellers on this team will help define what \"good\" looks like.Use AI-powered workflows as a core part of how you sell: running assigned tools daily, surfacing friction and inefficiencies as you find them, and collaborating with your team to influence what gets built or improved next.&nbsp; If you're excited to roll up your sleeves, lead by example, and architect something from scratch, let's talk.</p> <p><strong>About the Team:</strong></p> <p>You'll be an early individual contributor on Gusto's founding PEO sales team, reporting to the Head of PEO Sales. As one of the first sellers, you'll carry a personal book of business, run the full sales cycle end to end, and serve as a Subject Matter Expert who guides prospects through complex co-employment buying decisions.&nbsp;You'll partner closely with HR, benefits, and payroll counterparts to deliver a seamless customer experience, and you'll work alongside the Head of PEO to surface what's working in the field \u2014 feedback that directly shapes the playbook, tooling, and pipeline architecture as the org scales.&nbsp;Your biggest unfair advantage: Gusto's existing install base. Like the best scaled PEOs, a meaningful share of your pipeline will com",
+   "ats": "greenhouse",
+   "score": 82,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "smb",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "f49fa4c73c47a791"
+  },
+  {
+   "source": "ashby",
+   "company": "bland",
+   "title": "Channel Manager",
+   "location": "San Francisco or Remote",
+   "url": "https://jobs.ashbyhq.com/bland/ba9e3ca6-a132-4fe2-9886-42f80100e062",
+   "posted": "2026-09-11T20:06:15.342000+00:00",
+   "description": "Channel Manager: Tech Service Distributor Partnerships About Bland AI Bland AI is the voice AI platform built for enterprises with high-volume, complex call center operations. Bland started by solving the core infrastructure problems that made voice AI difficult to use in business: latency, reliability, and the inability to handle real-world complexity. Bland built the voice AI stack in-house and has raised more than $100 million from investors including Emergence Capital, Scale Venture Partners, and Y Combinator. Today, Bland's platform can autonomously handle sophisticated inbound and outbound conversations, including multi-step workflows, authentication, business-rule-based routing, and live data lookups. Owning the stack across transcription, language models, and text-to-speech gives Bland the reliability, security, and customization depth that enterprise and regulated-industry customers require. Why This Role Matters Bland is expanding its channel strategy through Tech Service Distributors and their advisor communities. Partners such as Telarus can introduce Bland to thousands of trusted technology advisors who guide customers through contact center, customer experience, communications, and AI decisions. Bland needs a Channel Manager who can turn those relationships into an active, productive route to market by earning distributor support, activating advisors, creating qualified pipeline, and helping partner-sourced opportunities move to close. Role Overview Objective: Own and grow Bland's TSD channel by building executive and field relationships within assigned distributors, recruiting and enabling high-potential advisors, generating partner-sourced pipeline, and orchestrating successful co-sell motions from first introduction through closed revenue and ongoing partner engagement. Core Responsibilities Own the business plan and day-to-day relationship for assigned TSD partners, beginning with Telarus and expanding to additional strategic distributors over time. Build strong relationships with TSD executives, supplier management, channel managers, solution engineers, marketing teams, and field leaders to increase Bland's visibility and mindshare. Segment the advisor base, identify the highest-potential firms and individuals, and create account-level activation plans that convert awareness into meetings, registered opportunities, and revenue. Recruit, onboard, certify, and continuously enable advisors to recognize strong Bland use cases, position the platform clearly, qualify opportunities, and introduce Bland to the right customers. Run scalable enablement programs including webinars, office hours, sales plays, battlecards, case studies, demo sessions, newsletters, and in-person training. Plan and execute joint go-to-market campaigns, regional events, advisor meetings, and distributor programs in partnership with Bland marketing and sales. Create partner-sourced pipeline through proactive advisor outreach, event follow-up, account mapping, r",
+   "ats": "ashby",
+   "salary": null,
+   "score": 82,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "channel manager"
+   ],
+   "matched_skills": [
+    "cloud",
+    "crm",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "automation",
+    "pipeline",
+    "outbound",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "a83b987abda8a8b1"
+  },
+  {
+   "source": "greenhouse",
+   "company": "gitlab",
+   "title": "Strategic Account Executive, Northeast",
+   "location": "Remote, United States",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8786425002",
+   "posted": "2026-09-11T16:06:01-04:00",
+   "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><span style=\"font-size: 10pt;\"><strong>An overview of this role</strong></span></h2> <p><span style=\"font-size: 10pt;\">As a Strategic Account Executive for the Northeast region, you'll drive GitLab's enterprise growth by helping some of the area's most influential organizations adopt, implement, and expand their use of our AI-powered DevSecOps platform. You'll focus on strategic enterprise accounts, guiding customers through complex digital and DevSecOps transformations and driving pipeline generation that translates into measurable Net ARR and long-term expansion. In this role, you'll act as a key connector between customer stakeholders and GitLab's field organization so GitLab is seen as a trusted, long-term partner across the full sales cycle. In your first year, you'll be expected to build a strong enterprise portfolio across your territory, create repeatable sales motions, and consistently forecast and report on deal progress and account health.</span></p> <h2><span style=\"font-size: 10pt;\"><strong>What you'll do</strong></span></h2> <ul> <li style=\"font-size: 10pt;\"><span style=\"font-size: 10pt;\">Drive strategic growth by leading GitLab's enterprise accounts across the Northeast, serving as a trusted technology advisor to industry leaders in your territory.</span></li> <li style=\"font-size: 10pt;\"><span style=\"font-size: 10pt;\">Orchestrate winning sales strategies by bringing together Solutions Architects, Customer Success experts, Sales Development, Channel &amp; Alliances, and othe",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "enterprise",
+    "b2b",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "676ff3075f026665"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mongodb",
+   "title": "Enterprise Account Executive, Growth",
+   "location": "Auckland; Melbourne",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8066559",
+   "posted": "2026-09-11T15:37:10-04:00",
+   "description": "<p>We\u2019re looking for a hardworking, driven individual with superb energy, passion and initiative for growing business within existing accounts. The Enterprise Account Executive role focuses exclusively on formulating and executing a sales strategy within an assigned territory, resulting in revenue growth.</p> <p>We are looking to speak to candidates who are based in Melbourne or Auckland for our Remote working model.</p> <h3>What you will be doing</h3> <ul> <li>Proactively, identify, qualify and close a sales pipeline</li> <li>Strategically prospect into CTOs, Engineering/IT Leaders, &amp; technical end users</li> <li>Build strong and effective relationships, resulting in growth opportunities</li> <li>Partner with our Solution Architects and work closely with the Professional Services and Customer Success team to achieve customer satisfaction</li> <li>Work closely with the enterprise ecosystem partner sales and channel partner to maximize deal sizes</li> <li>Participate in our sales enablement trainings, including our comprehensive Sales Bootcamp, sophisticated sales training, and leadership and development programs</li> </ul> <h3>What you bring to the table</h3> <ul> <li>8+ years field experience of quota-carrying experience in a fast-paced and competitive market with a focus on expanding new accounts</li> <li>Demonstrated ability to sell into new lines of business within open accounts and run a complex sales process</li> <li>A proven track record of overachievement and hitting sales targets</li> <li>Ability to articulate the business value of complex enterprise technology</li> <li>Skilled in building business champions</li> <li>Fluent in English</li> <li>Ability to attend the office 3 days per week</li> <li>Driven and competitive. Possess a strong desire to be successful</li> <li>Previous Sales Methodology training (e.g. MEDDIC, SPIN, Challenger Sales)</li> <li>Familiarity with databases, develops and open source technology a plus</li> </ul> <h3>Why join now</h3> <ul> <li>MongoDB invests a HUGE amount of development into each of our new hires &amp; continuous career development</li> <li>Accelerators up to 30%</li> <li>Best in breed Sales trainings in MEDDIC and Command of the Message, including our comprehensive Sales Bootcamps and development programs</li> <li>New hire stock equity (RSUs) and employee stock purchase plan</li> <li>Generous and competitive benefits (parental leave, fertility &amp; wellbeing support)</li> <li>Friendly and inclusive workplace culture -<a href=\"https://www.mongodb.com/blog/channel/culture\"> Learn more about what it\u2019s like to work at MongoDB</a></li> </ul> <h3>About MongoDB</h3> <p>MongoDB is built for change, empowering our customers and our people to innovate at the speed of the market. We have redefined the data platform for the AI era, enabling builders to create, transform, and disrupt industries with software. MongoDB\u2019s unified data platform, the most widely available, globally distributed data platform on the",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "8a1367a60edc775a"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mongodb",
+   "title": "Senior Pre-Sales Solutions Architect",
+   "location": "S\u00e3o Paulo",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7658084",
+   "posted": "2026-09-11T15:37:10-04:00",
+   "description": "<p>We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers.</p> <p>MongoDB Pre-Sales Solution Architects are responsible for guiding our customers and users to design and build reliable, scalable systems using our data platform. Our team is made up of seasoned technical sales professionals, software architects, entrepreneurs, and developers who take direct responsibility for customer success, including the design of their software, deployment, and operations. You'll work closely with our sales executives, helping customers solve business problems by leveraging our solutions, playing a key role in winning deals and driving the business forward. You'll be a trusted advisor to a wide range of users from startups to the world's largest enterprise IT organizations.&nbsp;</p> <p>This role will be based remotely in Sao Paulo, Brazil.&nbsp;</p> <h3>As an ideal candidate, you will have:</h3> <ul> <li>Ideally 8 to 11 years of related experience in a customer facing role, with 5 to 7 years of experience in pre-sales with enterprise software</li> <li>Minimum of 3 years experience with modern scripting languages (e.g. Python, Node.js, SQL) and/or popular programming languages (e.g. C/C++, Java, C#) in a professional capacity</li> <li>Experience designing with scalable and highly available distributed systems in the cloud and on-prem</li> <li>Demonstrated ability to work with customers to review complex architecture of existing applications, providing guidance on how to improve by leveraging technology</li> <li>Excellent presentation, communication, and interpersonal skills, with the ability to convey complex technical and business concepts in a clear and compelling manner to technology and business leadership</li> <li>Ability to strategize with sales teams and provide recommendations on how to drive a multi-threaded account strategy, aligning other MongoDB and ecosystem resources to move towards a mutually beneficial account plan</li> <li>The ability to travel up to 25%</li> <li>A Bachelor\u2019s degree or equivalent work experience</li> </ul> <h3>You may also have:</h3> <ul> <li>Experience selling databases and/or deploying applications with any of the major cloud providers&nbsp;</li> <li>Experience with database programming and data models&nbsp;</li> <li>Experience in data engineering or AI/ML projects</li> <li>Experience in transforming legacy systems and platforms into modern, scalable, and efficient technology stacks</li> <li>Understanding of popular sales methodologies/ frameworks such as MEDDPICC/ Command of the Message</li> <li>A MongoDB Certification</li> <li>A Cloud Provider Certification</li> </ul> <h3>What you do at MongoDB:</h3> <p>In this role, you will work on complex opportunities where analysis of situations or data requires an in-depth evaluation of various factors. You will:</p> <ul> <li>Design an",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "pre-sales",
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "24f1226281ea1185"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mongodb",
+   "title": "Senior Solutions Architect",
+   "location": "Sweden",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8109509",
+   "posted": "2026-09-11T15:37:10-04:00",
+   "description": "<p>We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers.</p> <p>MongoDB Pre-Sales Solution Architects are responsible for guiding our customers and users to design and build reliable, scalable systems using our data platform. Our team is made up of seasoned technical sales professionals, software architects, entrepreneurs, and developers who take direct responsibility for customer success, including the design of their software, deployment, and operations. You'll work closely with our sales executives, helping customers solve business problems by leveraging our solutions, playing a key role in winning deals and driving the business forward. You'll be a trusted advisor to a wide range of users from startups to the world's largest enterprise IT organizations.&nbsp;</p> <p>This role will be based remotely in Sweden.</p> <h3>As an ideal candidate, you will have:</h3> <ul> <li>Ideally 8 to 11 years of related experience in a customer facing role, with 5 to 7 years of experience in pre-sales with enterprise software</li> <li>Minimum of 3 years experience with modern scripting languages (e.g. Python, Node.js, SQL) and/or popular programming languages (e.g. C/C++, Java, C#) in a professional capacity</li> <li>Experience designing with scalable and highly available distributed systems in the cloud and on-prem</li> <li>Demonstrated ability to work with customers to review complex architecture of existing applications, providing guidance on how to improve by leveraging technology</li> <li>Excellent presentation, communication, and interpersonal skills, with the ability to convey complex technical and business concepts in a clear and compelling manner to technology and business leadership</li> <li>Ability to strategize with sales teams and provide recommendations on how to drive a multi-threaded account strategy, aligning other MongoDB and ecosystem resources to move towards a mutually beneficial account plan</li> <li>The ability to travel up to 25%</li> <li>A Bachelor\u2019s degree or equivalent work experience</li> </ul> <h3>You may also have:</h3> <ul> <li>Experience selling databases and/or deploying applications with any of the major cloud providers&nbsp;</li> <li>Experience with database programming and data models&nbsp;</li> <li>Experience in data engineering or AI/ML projects</li> <li>Experience in transforming legacy systems and platforms into modern, scalable, and efficient technology stacks</li> <li>Understanding of popular sales methodologies/ frameworks such as MEDDPICC/ Command of the Message</li> <li>A MongoDB Certification</li> <li>A Cloud Provider Certification</li> </ul> <h3>What you do at MongoDB:</h3> <p>In this role, you will work on complex opportunities where analysis of situations or data requires an in-depth evaluation of various factors. You will:</p> <ul> <li>Design and Architect: Desi",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "44ca5e327b1d30c3"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mongodb",
+   "title": "Senior Solutions Architect (Pre-Sales)",
+   "location": "Austin; Dallas; Houston",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8152813",
+   "posted": "2026-09-11T15:37:10-04:00",
+   "description": "<p>We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers.</p> <p>MongoDB Pre-Sales Solution Architects are responsible for guiding our customers and users to design and build reliable, scalable systems using our data platform. Our team is made up of seasoned technical sales professionals, software architects, entrepreneurs, and developers who take direct responsibility for customer success, including the design of their software, deployment, and operations. You'll work closely with our sales executives, helping customers solve business problems by leveraging our solutions, playing a key role in winning deals and driving the business forward. You'll be a trusted advisor to a wide range of users from startups to the world's largest enterprise IT organizations.&nbsp;</p> <p>This role will be based remotely in Austin, Dallas, or Houston.&nbsp;</p> <h3>As an ideal candidate, you will have:</h3> <ul> <li>Ideally 8 to 11 years of related experience in a customer facing role, with 5 to 7 years of experience in pre-sales with enterprise software</li> <li>Minimum of 3 years experience with modern scripting languages (e.g. Python, Node.js, SQL) and/or popular programming languages (e.g. C/C++, Java, C#) in a professional capacity</li> <li>Experience designing with scalable and highly available distributed systems in the cloud and on-prem</li> <li>Demonstrated ability to work with customers to review complex architecture of existing applications, providing guidance on how to improve by leveraging technology</li> <li>Excellent presentation, communication, and interpersonal skills, with the ability to convey complex technical and business concepts in a clear and compelling manner to technology and business leadership</li> <li>Ability to strategize with sales teams and provide recommendations on how to drive a multi-threaded account strategy, aligning other MongoDB and ecosystem resources to move towards a mutually beneficial account plan</li> <li>The ability to travel up to 25%</li> <li>A Bachelor\u2019s degree or equivalent work experience</li> </ul> <h3>You may also have:</h3> <ul> <li>Experience selling databases and/or deploying applications with any of the major cloud providers&nbsp;</li> <li>Experience with database programming and data models&nbsp;</li> <li>Experience in data engineering or AI/ML projects</li> <li>Experience in transforming legacy systems and platforms into modern, scalable, and efficient technology stacks</li> <li>Understanding of popular sales methodologies/ frameworks such as MEDDPICC/ Command of the Message</li> <li>A MongoDB Certification</li> <li>A Cloud Provider Certification</li> </ul> <h3>What you do at MongoDB:</h3> <p>In this role, you will work on complex opportunities where analysis of situations or data requires an in-depth evaluation of various factors. You will:</p> <ul> <li>",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "pre-sales",
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "d96a070e864776bb"
+  },
+  {
+   "source": "greenhouse",
+   "company": "grafanalabs",
+   "title": "Strategic Cloud Partner Manager | Remote | US",
+   "location": "United States (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6190395004",
+   "posted": "2026-09-11T14:08:40-04:00",
+   "description": "<div class=\"content-intro\"><p>Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at <u><span><a href=\"http://grafana.com\" target=\"_blank\">grafana.com</a></span></u> and follow us on <u><span><a href=\"https://www.linkedin.com/company/grafana-labs/\" target=\"_blank\">LinkedIn</a></span></u> and <u><span><a href=\"https://twitter.com/grafana\" target=\"_blank\">X</a></span></u><u>.</u></p> <p>We\u2019re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.</p> <p>You may not meet every requirement, and that\u2019s okay. If this role excites you, we\u2019d love you to raise your hand for what could be a truly career-defining opportunity.</p></div><h3>The Opportunity</h3> <ul> <li>Lead cloud partnership growth across AMER with AWS, Google Cloud, and Microsoft Azure.</li> <li>Work closely with the Head of the AMER Partner organization to align cloud initiatives with regional strategy.</li> <li>Build a scalable, repeatable cloud go-to-market motion across AMER in collaboration with CSP field teams, solution engineers, and SI partners.</li> <li>Drive joint business acceleration by deepening engagement with the region\u2019s major cloud ecosystems.</li> </ul> <h3>What You\u2019ll Be Doing</h3> <ul> <li>Developing and executing the AMER cloud partner strategy aligned to global cloud priorities.</li> <li>Building strong field relationships with AWS, GCP, and Azure to support co-selling, account alignment, and joint pursuit activity.</li> <li>Creating partner-sourced pipeline by educating cloud teams and activating CSP channels as a business-generation engine.</li> <li>Delivering enablement programs, workshops, and technical training for CSP sales and technical teams across APJ.</li> <li>Orchestrating joint go-to-market initiatives with cloud providers and SI partners, including events, campaigns, workshops, and customer-success projects.</li> <li>Managing operational elements of cloud partnerships such as Marketplace transactions, cloud credits, co-marketing funds, and progr",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "partner manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "azure",
+    "salesforce",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "7ff9a67a8ba36508"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Strategic Core Account Executive",
+   "location": "San Francisco, California",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8766584002",
+   "posted": "2026-09-12T11:32:51-04:00",
+   "description": "<p>&nbsp;</p> <p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Candidates in the listed location(s) are encouraged for this role</p> <ul style=\"margin-top: 0in; margin-bottom: 0in;\" type=\"disc\"> <li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Calibri; font-size: 11.0pt;\">Remote - San Francisco&nbsp;</span></li> </ul> <p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">As a Strategic Core Account Executive at Databricks, you are a sales professional experienced in leading go-to-market campaigns in Fortune 500 accounts. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating value to Customers and System Integrators.</p> <p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Databricks operates at the leading edge of the Unified Data Analytics and AI space. Our customers turn to us to lead the accelerated innovation that their businesses need to gain first mover advantage in today\u2019s ultra-competitive landscape. As we continue our rapid expansion, we are looking for a creative, execution-oriented Enterprise Account Executive to join the Databricks team and maximize the phenomenal market opportunity that exists for Databricks.</p> <p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\">Reporting to our Director of Enterprise Sales, you will map to enterprise clients under the CMEG umbrella (Telco orgs). &nbsp;You will come with an informed point of view on Big Data, Advanced Analytics and AI which will help to guide your successful execution strategy and allow you to provide genuine value to the client</p> <p style=\"margin: 0in; font-family: Calibri; font-size: 11.0pt;\"><span style=\"font-weight: bold;\">The impact you will have:&nbsp;</span></p> <ul style=\"margin-top: 0in; margin-bottom: 0in;\" type=\"disc\"> <li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Calibri; font-size: 11.0pt;\">Build relationships with CIOs, IT executives, LOB executives, Program Managers, and other important partners.</span></li> <li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Calibri; font-size: 11.0pt;\">Drive value-based growth within the account.</span></li> <li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Calibri; font-size: 11.0pt;\">Expand the Databricks footprint into new business units and use cases.</span></li> <li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Calibri; font-size: 11.0pt;\">Exceed activity, pipeline, and revenue targets.</span></li> <li style=\"margin-top: 0; margin-bottom: 0; vertical-align: middle;\"><span style=\"font-family: Calibri; font-size: 11.0pt;\">Track all customer details including use case, purchase time frames, next",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai",
+    "telco",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "2f9a92b603d4f6b7"
+  },
+  {
+   "source": "greenhouse",
+   "company": "smartsheet",
+   "title": "Account Executive, Commercial - Named (East)",
+   "location": "Boston, MA, USA",
+   "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8196285",
+   "posted": "2026-09-11T13:19:28-04:00",
+   "description": "<div class=\"content-intro\"><p>For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it\u2019s what we show up for every day.</p></div><p>Smartsheet is seeking change agents to join our&nbsp;<strong>Commercial Sales Team</strong> as an&nbsp;<strong>Account Executive</strong>. You will be responsible for increasing software sales and driving expansion across a territory of accounts. You will be motivated, passionate, and opportunistic. You will be a proactive and curious member of the commercial sales team, identifying growth opportunities for clients before they identify a need or gap for themselves.</p> <p>You will report to our Regional Director, Commercial Sales and can be based in our Boston, MA office or work remotely from anywhere in the US where Smartsheet is a registered employer.</p> <p><strong>You Will:</strong></p> <ul> <li>Build and manage a sales pipeline to meet or exceed software and services sales quotas within your book of business</li> <li>Execute a solution-based sales process encompassing multiple groups within Commercial accounts or equivalent to (2000-5000 employee size)</li> <li>Develop and prospect new business opportunities within existing customers by analyzing and proactively targeting high-value needs across multiple departments and lines of business</li> <li>Leverage existing relationships to expand Smartsheet's footprint into other departments within the account and drive revenue or growth during renewals</li> <li>Articulate and demonstrate Smartsheet's unique organizational solutions and functional value</li> <li>Facilitate and manage the partnerships with Sales Engineers, Solutions Consultants, Sales Development and Customer Success teams to support full sales cycle and close business</li> <li>Create and maintain Joint Engagement Plans for strategic solution deals</li> <li>Maintain accurate and up-to-date records in Salesforce leveraging MEDDICC qualification guidelines to accurately forecast</li> <li>Utilize existing sales enablement tools to successfully implement a territory plan. Identifying top accounts through in-depth account research using internal tools as well as external customer-related resources Smartsheet footprint can add value to the client's business</li> </ul> <p><strong>You Have:</strong></p> <ul> <li>7+ years of years of full cycle sales experience (prospecting to close) in a technology oriented field. SaaS is highly preferred but not required.</li> <li>1+ years experience working with Enterprise level accounts (&gt;2,000 employee size)</li> <li>3+ years of experience maintaining customer relationships and maintaining relationships in a B2B env",
+   "ats": "greenhouse",
+   "score": 80,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "b2b",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "efd59f458ec3d7f0"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mixpanel",
+   "title": "Account Executive, LATAM (Spanish)",
+   "location": "Remote, US ",
+   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8138334",
+   "posted": "2026-09-11T19:34:33-04:00",
+   "description": "<div class=\"content-intro\"><p><strong>About Mixpanel</strong></p> <p>Mixpanel is the leading product intelligence and analytics platform, trusted by more than 29,000 companies to help understand how people use the products they build. By combining powerful analytics with AI that knows your business, Mixpanel helps teams see what\u2019s working, diagnose what\u2019s not, and decide what to build next. Learn more at <a href=\"mixpanel.com\">mixpanel.com</a>.</p></div><p><strong>About the LATAM Sales Team</strong></p> <p>Mixpanel's LATAM Sales team owns the region end to end \u2014 sourcing net-new enterprise logos and expanding existing accounts across Latin America. As a standalone team rather than part of a broader vertical motion, LATAM Sales builds its own playbooks, buyer relationships, and market fluency specific to the region.</p> <p><strong>About the Role</strong></p> <p>The right candidate for this role runs a full sales cycle from first conversation to close, builds real fluency in the LATAM market and its buyers, and turns what they learn in the field into playbooks the rest of the team can use. Reporting to the Senior Manager of LATAM Sales, they own a territory end-to-end: sourcing net-new pipeline, expanding existing accounts, and applying a consistent qualification approach to every deal. They partner closely with Sales Engineering on technical discovery and with Marketing on messaging that reflects what's actually happening in the field. This is a role for someone who understands the LATAM region and its buyers, works well without a finished playbook, and helps build one as they go.</p> <p><strong>Responsibilities</strong></p> <ul> <li>Source, qualify, and close net-new enterprise business across LATAM, including new business units and subsidiaries inside existing accounts</li> <li>Drive expansion pipeline alongside Renewal Managers and Customer Value Managers</li> <li>Run full-cycle enterprise sales using MEDDPICC (or Mixpanel's chosen methodology) to qualify and manage every deal</li> <li>Forecast accurately and flag risk early, to your manager and in the CRM</li> <li>Build fluency in LATAM buyer personas, language, and common use cases, and apply region-specific discovery questions and positioning</li> <li>Feed field learnings \u2014 messaging, discovery questions, competitive intel, deal patterns \u2014 back into team playbooks</li> <li>Ask technical discovery questions about a prospect's data and analytics maturity, and partner with Sales Engineering on tailored demos</li> <li>Keep pipeline and forecast data current in Salesforce</li> <li>Partner with Marketing and Product Marketing to test regional messaging against field reality</li> <li>Share deal volume, win rates, and competitive patterns with your manager to help shape the team's coverage and growth</li> <li>Work with Enablement on onboarding and ongoing training specific to the LATAM market</li> </ul> <p><strong>We're Looking For Someone Who Has</strong></p> <ul> <li>A track record of full-cycle s",
+   "ats": "greenhouse",
+   "score": 80,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "smb",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "3fba5d04b2378f24"
+  },
+  {
+   "source": "ashby",
+   "company": "drata",
+   "title": "Commercial Account Executive - California/Nevada",
+   "location": "Remote - US  (Remote)",
+   "url": "https://jobs.ashbyhq.com/drata/ae442cf0-fc58-4b1a-ac0c-6fd5827ad6d4",
+   "posted": "2026-09-11T17:24:38.457000+00:00",
+   "description": "Drata is building the trust layer between great companies - automating compliance, managing risk, and helping organizations prove trust continuously as they scale. We're Dratanauts: a global crew of 600+ professionals united by a culture that rewards integrity, ownership, and raising the bar, no matter where in the world we're working from. Why Join the Drata Team? At Drata, you're not maintaining legacy compliance software - you're building the agentic AI platform defining what trust looks like for the next generation of companies. Here's what makes the work itself worth showing up for: Problems without a playbook: You'll work at the edge of AI and security, building agentic governance, continuous compliance, and real-time trust verification to solve problems that don't have an established answer yet. You're writing it as you go. Real ownership, not just process: Our values center on owning outcomes and raising the bar, not checking boxes. You're expected to have opinions and back them. A seat at the table: Your perspective is unique and valued. Open debate and diverse viewpoints are built into how decisions actually get made here, at every level. Growth at rocketship speed: Drata is scaling fast, which means scope grows fast too. High performers get more ownership, visibility, and experience. A crew, not just coworkers: Dratanauts consistently describe a \"come as you are\" culture with sharp, curious people\u2014the kind of team that makes hard problems genuinely fun to solve. See what they say here and follow us on LinkedIn for company news, employee stories, and career updates. Job Summary: We\u2019re looking for a high performing Commercial Account Executive with a strong track record of quota attainment, new business generation, and consultative selling. This person thrives in a fast moving environment, takes ownership of their pipeline, and knows how to build trust with senior buyers through strong discovery, structured execution, and clear communication. The strongest candidates will bring experience in full cycle B2B SaaS sales, a history of self generating pipeline, and the ability to operate with both urgency and discipline in an entrepreneurial environment. We will be hiring for a Commercial AE in either California or Nevada. What you\u2019ll do: Own a full cycle commercial sales motion from prospecting through close, with a focus on landing new customers and exceeding revenue targets Generate and manage pipeline through outbound prospecting, referrals, partnerships, and territory development Identify and prioritize prospects aligned to Drata\u2019s ICP Lead consultative discovery with senior stakeholders to uncover business pain, validate urgency, and align Drata\u2019s value to customer needs Build and execute thoughtful account and territory strategies to drive pipeline creation and revenue growth Run a disciplined sales process, including qualification, multithreading, mutual action planning, and accurate forecasting Deliver compelling, tailored presentati",
+   "ats": "ashby",
+   "salary": null,
+   "score": 80,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "commercial account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "b2b",
+    "partner",
+    "ai",
+    "agentic",
+    "quota",
+    "pipeline",
+    "outbound",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "81f3b7fb1bb1a44b"
+  },
+  {
+   "source": "greenhouse",
+   "company": "zscaler",
+   "title": "Senior Sales Engineer - Army ",
+   "location": "Remote - Maryland, USA; Remote - Virginia, USA",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5235465007",
+   "posted": "2026-09-11T14:46:22-04:00",
+   "description": "<div class=\"content-intro\"><p data-pm-slice=\"1 1 []\">Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange\u2122\ufe0f platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 160+ public exchanges globally and thousands of private exchanges at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform.</p> <p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p></div><div>Zscaler is seeking a Senior Sales Engineer to join our Federal team, specifically focused on the Army vertical. This is a hands-on technical role where you are responsible for architecting technical solutions that directly address and resolve critical customer pain points within the world\u2019s most mission-critical environments.<br>We are looking for a critical thinker who can persuasively connect the dots between a customer\u2019s desired business outcomes and the underlying technical levers that make them a reality. For the right candidate, this is a career opportunity to be at the forefront of the cybersecurity industry.<br><br><strong>What You\u2019ll Do (The Role)</strong></div> <ul> <li>Oversee the technical sales process by translating complex enterprise requirements into transformative Zero Trust solution architectures. You are responsible for explaining the <em>why</em> to a CIO and the <em>how</em> to a network engineer with equal fluency and precision.</li> <li>Lead Proof of Value (POV) engagements from start to finish. As the hands-on technical expert, you will prove the simplicity and efficacy of the Zscaler platform. You will produce high-quality POV assets and documentation that clearly articulate Zscaler\u2019s differentiated value.</li> <li>Cultivate technical champions by providing responsive, thoughtful technical counsel. You will earn trusted advisor status with your customers by anticipating their needs and providing insights that drive mission success.</li> <li>Sharing ownership of account development strategies with your Account Executive\u2014from pipeline generation to the final technical win.</li> </ul> <div><br><strong>Who You Are (Success Profile)</strong></div> <ul> <li><strong>You champion simplicity.</strong> You are skilled at distilling complex problems, user needs, and technical concepts into clear, simple, and action",
+   "ats": "greenhouse",
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "cybersecurity",
+    "cloud",
+    "azure",
+    "enterprise",
+    "ai",
+    "agentic",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "d0b7abe1bd7bb2b2"
+  },
+  {
+   "source": "greenhouse",
+   "company": "mongodb",
+   "title": "Pre-Sales Solutions Architect",
+   "location": "S\u00e3o Paulo",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=7847296",
+   "posted": "2026-09-11T15:37:10-04:00",
+   "description": "<p>We are looking for passionate technologists to join our Pre-Sales organization to ensure that our growth is grounded and guided by strong technical alignment with our platform and the needs of our customers.</p> <p>MongoDB Pre-Sales Solution Architects in the Scaled Growth organization are responsible for guiding our customers and users to design and build reliable, scalable systems using our data platform. Our team is made up of seasoned technical sales professionals, software architects, entrepreneurs, and developers who take direct responsibility for customer success, including the design of their software, deployment, and operations. You'll work closely with our sales executives and Field Solutions Architecture team helping customers solve business problems by leveraging our solutions, playing a key role in winning deals and driving the business forward. You'll be a trusted advisor to a wide range of enterprise organizations across the Americas.</p> <p>This role can be based remotely in Sao Paulo<span class=\"internal-typography__ChipText-gLhsrE kjNWmM\" data-library=\"birch\">.</span></p> <h3>As an ideal candidate, you will have:</h3> <ul> <li>5 to 8&nbsp; years of related industry experience, ideally 2 years of experience in a customer facing role</li> <li>Minimum of 2 years experience with modern scripting languages (e.g. Python, Node.js, SQL) and/or popular programming languages (e.g. C/C++, Java, C#) in a professional capacity</li> <li>Experience implementing scalable and highly available distributed systems in the cloud and on-prem</li> <li>Demonstrated ability to work with customers to review complex architecture of existing applications, providing guidance on how to improve by leveraging technology</li> <li>Excellent presentation, communication, and interpersonal skills, with the ability to convey complex technical and business concepts in a clear and compelling manner to technology and business leadership</li> <li>Ability to work with a cross functional sales team to formulate and execute an end to end deal cycle</li> <li>A Bachelor\u2019s degree or equivalent work experience</li> <li>Requires professional proficiency in both written and verbal English communication</li> </ul> <h3>You may also have:</h3> <ul> <li>Experience developing, deploying, or supporting applications with any of the major cloud providers&nbsp;</li> <li>Experience working in a technical pre-sales capacity&nbsp;</li> <li>Experience with database programming and data models&nbsp;</li> <li>Experience in data engineering or AI/ML projects</li> <li>Understanding of popular sales methodologies/ frameworks such as MEDDPICC/ Command of the Message</li> <li>A MongoDB Certification</li> <li>A Cloud Provider Certification</li> </ul> <h3>What you do at MongoDB:</h3> <p>In this role, you will work on complex opportunities where analysis of situations or data requires an in-depth evaluation of various factors. You will:</p> <ul> <li>Design and Architect: Design scalable and perform",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "pre-sales",
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "1f2973c2fdedc06d"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Specialist Solutions Architect - AI/ML",
+   "location": "Central - United States; West Coast - United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8697991002",
+   "posted": "2026-09-12T03:00:00-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">FEQ427R382</p> <p>As an AI/ML Specialist Solutions Architect (SSA), you will lead the advanced AI/ML technical strategy for your customers \u2014 owning complex architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to position Databricks as the foundation of your customers\u2019 data and AI strategy. You are further developing a technical specialization and are recognized within the Field Engineering team for depth in the specific domain.<br><br>This position can be remote.&nbsp;</p> <p><strong data-renderer-mark=\"true\">The Impact You Will Have<br></strong></p> <ul> <li>Own the end-to-end AI/ML technical strategy for your accounts, from discovery through production deployment and consumption growth</li> <li>Lead complex architecture discussions \u2014 designing scalable, production-grade solutions spanning AI/ML, including Retrieval-Augmented Generation (RAG), tool calling, multi-agent orchestration, guardrails, AI evaluation, and observability systems</li> <li>Serve as a trusted technical advisor to customer architects, engineering leads, and Directors</li> <li>Drive technical wins in competitive scenarios by demonstrating Databricks\u2019 differentiation through custom-built solutions</li> <li>Develop and declare an emerging technical specialization (archetype) \u2014 becoming a go-to resource for your team in that domain</li> <li>Orchestrate cross-functional resources (DSAs, SAs, Partners) to deliver comprehensive solutions for complex customer needs</li> <li>Influence product direction by providing structured feedback on customer requirements and competitive gaps</li> </ul> <p><strong>What We Look For</strong></p> <ul> <li>6+ years in solutions architecture, technical pre-sales, or a senior hands-on technical role in the following areas:<br> <ul> <li data-renderer-start-pos=\"2367\">ML Engineering: Building and maintaining cloud infrastructure (AWS, Azure, or GCP) supporting production ML applications and drift monitoring</li> <li data-renderer-start-pos=\"2367\">AI Engineering: Working with LLMs and agentic systems, including vector databases, fine-tuning, AI guardrails, and frameworks like LangChain, Hugging Face, or OpenAI APIs</li> </ul> </li> <li>Strong coding proficiency in Python and SQL \u2014 you must demonstrate live coding, debugging, and solution-building skills</li> <li>Deep expertise in distributed data systems architecture: designing scalable pipelines, streaming architectures, lakehouse patterns, and cloud-native data platforms</li> <li>Proficient on the Databricks Platform (or demonstrated ability to achieve proficiency rapidly) with a developing technical specialization in one area (e.g., real-time/streaming, ML/AI, data governance, migrations)</li> <li>Proven ability to lead architecture discussions with senior technical stakeholders \u2014 whiteboarding, design reviews, and trade-off analysis</li> <li",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "partner",
+    "ai",
+    "llm",
+    "agentic",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "87c1a21a2e8033d0"
+  },
+  {
+   "source": "ashby",
+   "company": "drata",
+   "title": "Sales Development Representative, Emerging - NYC",
+   "location": "Hybrid - New York (Remote)",
+   "url": "https://jobs.ashbyhq.com/drata/009d1981-ea70-4ab7-a439-90a9d4361d02",
+   "posted": "2026-09-11T20:20:56.877000+00:00",
+   "description": "Drata is building the trust layer between great companies - automating compliance, managing risk, and helping organizations prove trust continuously as they scale. We're Dratanauts: a global crew of 600+ professionals united by a culture that rewards integrity, ownership, and raising the bar, no matter where in the world we're working from. Why Join the Drata Team? At Drata, you're not maintaining legacy compliance software - you're building the agentic AI platform defining what trust looks like for the next generation of companies. Here's what makes the work itself worth showing up for: Problems without a playbook: You'll work at the edge of AI and security, building agentic governance, continuous compliance, and real-time trust verification to solve problems that don't have an established answer yet. You're writing it as you go. Real ownership, not just process: Our values center on owning outcomes and raising the bar, not checking boxes. You're expected to have opinions and back them. A seat at the table: Your perspective is unique and valued. Open debate and diverse viewpoints are built into how decisions actually get made here, at every level. Growth at rocketship speed: Drata is scaling fast, which means scope grows fast too. High performers get more ownership, visibility, and experience. A crew, not just coworkers: Dratanauts consistently describe a \"come as you are\" culture with sharp, curious people\u2014the kind of team that makes hard problems genuinely fun to solve. See what they say here and follow us on LinkedIn for company news, employee stories, and career updates. Job Summary: We are looking for a rockstar Emerging SDR to join an unmatched team! As a member of the Drata SDR team, you will be a critical component to an innovative fast-paced Sales Team. You will drive strategic outbound prospecting campaigns (email, phone calls, & social media) to identify potential customers that would benefit from Drata\u2019s solution. You will often be the first point of contact with potential customers with the objective to set qualified meetings for a team of Emerging Account Executives. This is an exciting opportunity for SDR's to be a part of an inclusive team, and experience tremendous career growth. This is a hybrid role located in New York City. What you'll do: Strategically partner with emerging account executives to break into prospective customer accounts to generate high quality outbound qualified opportunities Research commercial accounts, identify key initiatives & key players to generate interest through cold discovery calls, email campaigns, and social selling Methodically qualify, build, and manage an accurate sales pipeline; maintain a high volume of activity including outbound cold calls, emails, & social selling - utilizing tools such as Outreach & Nooks Discovering new leads through internet research and social media monitoring/messaging, using tools such as LinkedIn Navigator and ZoomInfo. Utilize your active listening skills to unde",
+   "ats": "ashby",
+   "salary": null,
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "sales development representative"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "crm",
+    "partner",
+    "ai",
+    "agentic",
+    "pipeline",
+    "outbound",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "6754f7e2a341b4c3"
+  },
+  {
+   "source": "greenhouse",
+   "company": "launchdarkly",
+   "title": "Senior Enterprise Account Executive - Central",
+   "location": "Remote - US Central",
+   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7986944003",
+   "posted": "2026-09-11T09:55:20-04:00",
+   "description": "<h4><strong>About the Job:</strong></h4> <p>As a Senior Enterprise Account Executive, you will play a pivotal role in nurturing and expanding relationships with large enterprise accounts within your designated territory. You should possess exceptional business acumen, a customer-centric approach, and the self-motivation to thrive with minimal supervision. Moreover, you must be adaptable and proficient in wearing multiple hats as you take on this crucial responsibility. We have full confidence in your ability to make the right decisions and drive results autonomously.</p> <p>LaunchDarkly is a rapidly evolving software company with a strong mission and vision, powered by a diverse and talented team. Our mission is to accelerate software development by empowering teams. Joining our dynamic and fast-growing team, you will make an immediate impact on our product and customer success.</p> <h4>Responsibilities:</h4> <ul> <li><strong>Ownership of Large Enterprise Accounts: </strong>You will be the primary point of contact and relationship owner for large enterprise accounts within your territory.</li> <li><strong>Territory and Account Planning:</strong> Develop comprehensive territory and account plans, proactively drive outbound pipeline generation independently, and collaborate effectively with Business Development Representatives.</li> <li><strong>Ensure Successful Adoption:</strong> Ensure the seamless adoption of LaunchDarkly within these large enterprises through robust account management. Coordinate closely with pre-and-post sales engineering, customer success, and support teams to guarantee client satisfaction.</li> <li><strong>Elevate LaunchDarkly's Visibility:</strong> Increase LaunchDarkly's visibility and communicate our value proposition effectively to Vice Presidents and C-Suite executives within these large enterprises.</li> <li><strong>Collaboration with Solutions Engineers:</strong> Work closely with your solutions engineer counterpart to deliver both business and technical value to prospects and customers.</li> <li><strong>Cross-functional Collaboration: </strong>Collaborate with internal teams, including product support, developer relations, marketing, and revenue operations, to align our offerings with customer business needs effectively.</li> </ul> <h4>About You:</h4> <ul> <li><strong>Entrepreneurial and Self-Motivated:</strong> You are driven and proactive, taking ownership of your role and responsibilities.</li> <li><strong>Passion for Learning and Growth:</strong> You are enthusiastic about continuous learning and personal development at LaunchDarkly.</li> <li><strong>Intellectual Curiosity and Ambition: </strong>You have a hunger for knowledge and strive for ambitious goals.</li> <li><strong>Excellent Communication: </strong>Your written and spoken communication skills are outstanding.</li> <li><strong>Highly Organized &amp; Autonomous:</strong> You are capable of efficiently managing your workload and thrive in an environment th",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "enterprise",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "57eef71d0dd802c9"
+  },
+  {
+   "source": "greenhouse",
+   "company": "launchdarkly",
+   "title": "Senior Enterprise Account Executive - East",
+   "location": "Remote - US East",
+   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7991855003",
+   "posted": "2026-09-11T09:58:03-04:00",
+   "description": "<h4><strong>About the Job:</strong></h4> <p>As a Senior Enterprise Account Executive, you will play a pivotal role in nurturing and expanding relationships with large enterprise accounts within your designated territory. You should possess exceptional business acumen, a customer-centric approach, and the self-motivation to thrive with minimal supervision. Moreover, you must be adaptable and proficient in wearing multiple hats as you take on this crucial responsibility. We have full confidence in your ability to make the right decisions and drive results autonomously.</p> <p>LaunchDarkly is a rapidly evolving software company with a strong mission and vision, powered by a diverse and talented team. Our mission is to accelerate software development by empowering teams. Joining our dynamic and fast-growing team, you will make an immediate impact on our product and customer success.</p> <h4>Responsibilities:</h4> <ul> <li><strong>Ownership of Large Enterprise Accounts: </strong>You will be the primary point of contact and relationship owner for large enterprise accounts within your territory.</li> <li><strong>Territory and Account Planning:</strong> Develop comprehensive territory and account plans, proactively drive outbound pipeline generation independently, and collaborate effectively with Business Development Representatives.</li> <li><strong>Ensure Successful Adoption:</strong> Ensure the seamless adoption of LaunchDarkly within these large enterprises through robust account management. Coordinate closely with pre-and-post sales engineering, customer success, and support teams to guarantee client satisfaction.</li> <li><strong>Elevate LaunchDarkly's Visibility:</strong> Increase LaunchDarkly's visibility and communicate our value proposition effectively to Vice Presidents and C-Suite executives within these large enterprises.</li> <li><strong>Collaboration with Solutions Engineers:</strong> Work closely with your solutions engineer counterpart to deliver both business and technical value to prospects and customers.</li> <li><strong>Cross-functional Collaboration: </strong>Collaborate with internal teams, including product support, developer relations, marketing, and revenue operations, to align our offerings with customer business needs effectively.</li> </ul> <h4>About You:</h4> <ul> <li><strong>Entrepreneurial and Self-Motivated:</strong> You are driven and proactive, taking ownership of your role and responsibilities.</li> <li><strong>Passion for Learning and Growth:</strong> You are enthusiastic about continuous learning and personal development at LaunchDarkly.</li> <li><strong>Intellectual Curiosity and Ambition: </strong>You have a hunger for knowledge and strive for ambitious goals.</li> <li><strong>Excellent Communication: </strong>Your written and spoken communication skills are outstanding.</li> <li><strong>Highly Organized &amp; Autonomous:</strong> You are capable of efficiently managing your workload and thrive in an environment th",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "enterprise",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "e3f4773e8447c173"
+  },
+  {
+   "source": "greenhouse",
+   "company": "samsara",
+   "title": "Account Executive, Select (Majors), UK",
+   "location": "Remote - UK",
+   "url": "https://www.samsara.com/company/careers/roles/7266224?gh_jid=7266224",
+   "posted": "2026-09-11T10:57:13-04:00",
+   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:<br></strong>The Select (Majors) Account sales team are responsible for revenue growth in the new and existing customers that represent the largest prospective Enterprise accounts for Samsara by total addressable opportunity. You should be an energetic evangelist and passionate about introducing a transformative new technology into the market. You should have a history of over-achievement and be comfortable selling into all levels of an Enterprise organisation, including technology and lines of business.</p> <p class=\"p1\">Whilst we do support remote working, flexibility is required to travel to visit customers onsite across the region as required.</p> <p><strong>You should apply if:&nbsp;</strong></p> <ul> <li><strong>You want to impact the industries that run our world: </strong>Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.</li> <li><strong>Your mantra is #alwaysbeprospecting:</strong> The world of operations is vast. Your customers are often out in the field and the best way to catch them is live on the phone. Samsara\u2019s top reps do constant research to find companies and contacts to expand their pipeline.</li> <li><strong>You have innate curiosity in how businesses work:</strong> One day you\u2019ll meet with someone in waste management and the next you may be learning about the inner workings of a food distribution center. Our top sales team members seek to learn the ins and outs of the businesses they support in order to make a larger impact.&nbsp;</li> <li><strong>You are a life-long learner: </",
+   "ats": "greenhouse",
+   "score": 76,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "enterprise",
+    "ai",
+    "telco",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "c6a23fb06d520319"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002",
+   "posted": "2026-09-12T03:00:00-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">FEQ427R143</p> <p data-path-to-node=\"12\"><span style=\"margin: 0px; padding: 0px;\">As an<strong>&nbsp;</strong>Infrastructure &amp; Platform Specialist Solutions Architect (SSA), you will serve as a trusted technical advisor, guiding enterprise customers through the architecture, administration, and security of their Databricks deployments on Microsoft Azure. <span style=\"margin: 0px; padding: 0px;\">You combine deep technical expertise with strategic thinking to position Databricks as the foundation of your customers\u2019 data and AI strategy.</span></span></p> <p data-path-to-node=\"13\">This role can be remote.</p> <p data-renderer-start-pos=\"2367\"><strong data-renderer-mark=\"true\">The impact you will have</strong></p> <ul> <li data-renderer-start-pos=\"2367\">Guide strategic customers through the full lifecycle of Databricks on Azure, including platform administration, from initial architectural design to production deployment</li> <li data-renderer-start-pos=\"2367\">Architect secure, scalable enterprise deployments that satisfy complex Azure networking (VNets, Private Endpoints), identity (Microsoft Entra ID), and security compliance standards</li> <li data-renderer-start-pos=\"2367\">Serve as a subject matter expert in core areas such as Microsoft Azure infrastructure, infrastructure-as-code (IaC), cloud networking, and identity management</li> <li>Drive technical wins in competitive scenarios by demonstrating Databricks\u2019 differentiation through custom-built solutions</li> <li>Orchestrate cross-functional resources (DSAs, SAs, SSAs, Partners) to deliver comprehensive solutions for complex customer needs</li> <li>Influence product direction by providing structured feedback on customer requirements and competitive gaps</li> </ul> <p><strong>What We Look For</strong></p> <ul> <li>6+ years in solutions architecture, technical pre-sales, or a senior hands-on technical role</li> <li>Advanced expertise across the following areas: <ul> <li><span class=\"citation-945 citation-end-945\">Security &amp; Identit</span>y: Azure security controls, platform/network/data security, encryption, vulnerability management, compliance, and identity protocols (Microsoft Entra ID / SCIM, OAuth, SAML, Federation)</li> <li>Networking &amp; Deployments: Azure enterprise networking (VNet peering, ExpressRoute, Private Link), network routing, performance optimization, and large-scale deployment management</li> <li>Platform Administration: High availability, disaster recovery, cluster orchestration, observability (Azure Monitor, Log Analytics), and Azure cost management</li> <li>Infrastructure Automation (InfraOps): Hands-on automation using IaC tools (e.g., Terraform, Bicep, ARM) to build, maintain, and scale complex Azure <span class=\"citation-944 citation-end-944\">environments</span></li> </ul> </li> <li>Strong coding proficiency in Python and SQL \u2014 you must demonstrate live coding, debugging, and solution-building skills</li> <li>Deep expertise in distribu",
+   "ats": "greenhouse",
+   "score": 76,
+   "remote": true,
+   "portland": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "partner",
+    "ai",
+    "automation",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "2437570171198872"
+  }
+ ]
+}
