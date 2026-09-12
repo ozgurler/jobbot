@@ -11,10 +11,6 @@
   "ok": true,
   "count": 149
  },
- "greenhouse:hashicorp": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:gitlab": {
   "ok": true,
   "count": 227
@@ -47,21 +43,13 @@
   "ok": true,
   "count": 86
  },
- "greenhouse:snyk": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:pagerduty": {
   "ok": true,
   "count": 48
  },
- "greenhouse:gong": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:cockroachlabs": {
   "ok": true,
-  "count": 20
+  "count": 21
  },
  "greenhouse:grafanalabs": {
   "ok": true,
@@ -75,17 +63,9 @@
   "ok": true,
   "count": 64
  },
- "greenhouse:sentry": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:anthropic": {
   "ok": true,
   "count": 595
- },
- "greenhouse:retool": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:brex": {
   "ok": true,
@@ -93,15 +73,7 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "count": 892
- },
- "greenhouse:confluent": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:dbtlabs": {
-  "ok": false,
-  "error": "HTTP 404"
+  "count": 891
  },
  "greenhouse:lattice": {
   "ok": true,
@@ -110,10 +82,6 @@
  "greenhouse:webflow": {
   "ok": true,
   "count": 25
- },
- "greenhouse:zapier": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:checkr": {
   "ok": true,
@@ -135,33 +103,13 @@
   "ok": true,
   "count": 634
  },
- "greenhouse:sourcegraph": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:temporaltechnologies": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:planetscale": {
   "ok": true,
   "count": 13
  },
- "greenhouse:clickhouse": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:harness": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:launchdarkly": {
   "ok": true,
   "count": 54
- },
- "greenhouse:1password": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:asana": {
   "ok": true,
@@ -187,21 +135,9 @@
   "ok": true,
   "count": 54
  },
- "greenhouse:nylas": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:plaid": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:remotecom": {
   "ok": true,
   "count": 175
- },
- "greenhouse:sonarsource": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:sproutsocial": {
   "ok": true,
@@ -227,10 +163,6 @@
   "ok": true,
   "count": 109
  },
- "greenhouse:vanta": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:tripactions": {
   "ok": true,
   "count": 215
@@ -243,17 +175,9 @@
   "ok": true,
   "count": 67
  },
- "greenhouse:arcticwolf": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:huntress": {
   "ok": true,
   "count": 35
- },
- "greenhouse:ninjaone": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:wizinc": {
   "ok": true,
@@ -263,41 +187,13 @@
   "ok": true,
   "count": 141
  },
- "greenhouse:cohesity": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:druva": {
   "ok": true,
   "count": 41
  },
- "greenhouse:sentinelone": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:crowdstrike": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:paloaltonetworks": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:auth0": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:twingate": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:tailscale": {
   "ok": true,
   "count": 55
- },
- "greenhouse:teleport": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:workato": {
   "ok": true,
@@ -307,49 +203,9 @@
   "ok": true,
   "count": 270
  },
- "greenhouse:uipath": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:docusign": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:box": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:smartsheet": {
   "ok": true,
   "count": 92
- },
- "greenhouse:monday": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:clickup": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:miro": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:loom": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:canva": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:grammarly": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:mural": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:amplitude": {
   "ok": true,
@@ -358,14 +214,6 @@
  "greenhouse:mixpanel": {
   "ok": true,
   "count": 84
- },
- "greenhouse:segment": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:heap": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:pendo": {
   "ok": true,
@@ -391,22 +239,6 @@
   "ok": true,
   "count": 16
  },
- "greenhouse:gorgias": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:front": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:zendesk": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:freshworks": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:algolia": {
   "ok": true,
   "count": 32
@@ -415,33 +247,9 @@
   "ok": true,
   "count": 6
  },
- "greenhouse:sanity": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:netlify": {
   "ok": true,
   "count": 1
- },
- "greenhouse:render": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:fly": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:digitalocean": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:linode": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:vultr": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:backblaze": {
   "ok": true,
@@ -450,18 +258,6 @@
  "greenhouse:wasabi": {
   "ok": true,
   "count": 13
- },
- "greenhouse:pure": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:nutanix": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:veeam": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:commvault": {
   "ok": true,
@@ -475,121 +271,21 @@
   "ok": true,
   "count": 54
  },
- "greenhouse:datto": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:n-able": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:atera": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:syncro": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:auvik": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:liongard": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:threatlocker": {
   "ok": true,
   "count": 0
- },
- "greenhouse:blackpoint": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:todyl": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:coro": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:cynet": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:sophos": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:bitdefender": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:eset": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:malwarebytes": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "greenhouse:knowbe4": {
   "ok": true,
   "count": 65
  },
- "greenhouse:proofpoint": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:mimecast": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:barracuda": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:fortinet": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:checkpoint": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "greenhouse:netskope": {
   "ok": true,
   "count": 140
  },
- "greenhouse:cato": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "greenhouse:perimeter81": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:mistral": {
-  "ok": true,
-  "count": 0
- },
  "lever:palantir": {
   "ok": true,
   "count": 311
- },
- "lever:lucid": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:kandji": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:clari": {
-  "ok": true,
-  "count": 0
  },
  "lever:nium": {
   "ok": true,
@@ -603,253 +299,17 @@
   "ok": true,
   "count": 30
  },
- "lever:salesloft": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:apollo": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:seismic": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:highspot": {
-  "ok": true,
-  "count": 0
- },
- "lever:showpad": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "lever:mindtickle": {
   "ok": true,
   "count": 19
- },
- "lever:chorus": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "lever:people-ai": {
   "ok": true,
   "count": 9
  },
- "lever:6sense": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:demandbase": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:bombora": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:g2": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:trustradius": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:capterra": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:clearbit": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:zoominfo": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:lusha": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:cognism": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:seamless": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:leadiq": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:kaspr": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:dealfront": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:vidyard": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:wistia": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:loom": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:drift": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:qualified": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:intercom": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:ada": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:forethought": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:ultimate": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:kore": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:yellow": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:cresta": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:observe": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:balto": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:invoca": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:callrail": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:dialpad": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "lever:aircall": {
   "ok": true,
   "count": 77
- },
- "lever:talkdesk": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:five9": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:genesys": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:nice": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:verint": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:calabrio": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:playvox": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:assembled": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:agyle": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:shyft": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:ukg": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:workday": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:rippling": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:deel": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:remote": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:oyster": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:papaya": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:velocity": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:multiplier": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:lano": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:omnipresent": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "lever:boundless": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "ashby:ramp": {
   "ok": true,
@@ -862,10 +322,6 @@
  "ashby:replit": {
   "ok": true,
   "count": 77
- },
- "ashby:deel": {
-  "ok": true,
-  "count": 0
  },
  "ashby:openai": {
   "ok": true,
@@ -883,10 +339,6 @@
   "ok": true,
   "count": 11
  },
- "ashby:anysphere": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:perplexity": {
   "ok": true,
   "count": 115
@@ -895,17 +347,9 @@
   "ok": true,
   "count": 246
  },
- "ashby:runwayml": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:cohere": {
   "ok": true,
   "count": 145
- },
- "ashby:mercury": {
-  "ok": true,
-  "count": 0
  },
  "ashby:modal": {
   "ok": true,
@@ -915,21 +359,9 @@
   "ok": true,
   "count": 33
  },
- "ashby:census": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:dagster": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:ashby": {
   "ok": true,
   "count": 71
- },
- "ashby:clay": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "ashby:zip": {
   "ok": true,
@@ -947,49 +379,17 @@
   "ok": true,
   "count": 140
  },
- "ashby:glean": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:writer": {
   "ok": true,
   "count": 49
- },
- "ashby:jasper": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:copy-ai": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "ashby:synthesia": {
   "ok": true,
   "count": 56
  },
- "ashby:heygen": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:descript": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:captions": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:opus": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:vapi": {
   "ok": true,
   "count": 35
- },
- "ashby:retell": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "ashby:bland": {
   "ok": true,
@@ -1003,125 +403,21 @@
   "ok": true,
   "count": 92
  },
- "ashby:assemblyai": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:speechmatics": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:rev": {
   "ok": true,
   "count": 1
- },
- "ashby:otter": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:fireflies": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:gong": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "ashby:attention": {
   "ok": true,
   "count": 2
  },
- "ashby:momentum": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:scratchpad": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:dooly": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:rattle": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:warmly": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:common-room": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:commonroom": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:pocus": {
-  "ok": true,
-  "count": 0
- },
- "ashby:koala": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:unify": {
   "ok": true,
   "count": 11
  },
- "ashby:11x": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:artisan": {
   "ok": true,
   "count": 4
- },
- "ashby:aisdr": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:regie": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:lavender": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:smartlead": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:instantly": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:apollo-io": {
-  "ok": true,
-  "count": 0
- },
- "ashby:amplemarket": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:reply": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:mailshake": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:woodpecker": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:quickmail": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "ashby:lemlist": {
   "ok": true,
@@ -1139,26 +435,6 @@
   "ok": true,
   "count": 14
  },
- "ashby:thoropass": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:sprinto": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:scrut": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:hyperproof": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:anecdotes": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:cursor": {
   "ok": true,
   "count": 127
@@ -1167,37 +443,9 @@
   "ok": true,
   "count": 82
  },
- "ashby:bolt": {
-  "ok": true,
-  "count": 0
- },
- "ashby:windsurf": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:codeium": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:sourcegraph": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:tabnine": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:augment": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:poolside": {
   "ok": true,
   "count": 13
- },
- "ashby:magic": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "ashby:cognition": {
   "ok": true,
@@ -1207,89 +455,25 @@
   "ok": true,
   "count": 52
  },
- "ashby:devin": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "ashby:warp": {
   "ok": true,
   "count": 19
- },
- "ashby:raycast": {
-  "ok": true,
-  "count": 0
- },
- "ashby:arc": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:browser-company": {
-  "ok": false,
-  "error": "HTTP 404"
  },
  "ashby:granola": {
   "ok": true,
   "count": 16
  },
- "ashby:mem": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:reflect": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:tana": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:capacities": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:obsidian": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:logseq": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:roam": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "ashby:craft": {
-  "ok": false,
-  "error": "HTTP 404"
- },
  "workday:Applied Materials": {
   "ok": true,
   "count": 109
- },
- "workday:Lam Research": {
-  "ok": false,
-  "error": "HTTP 422"
  },
  "workday:KLA": {
   "ok": true,
   "count": 90
  },
- "workday:ASML": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "workday:onsemi": {
-  "ok": false,
-  "error": "HTTP 422"
- },
  "workday:NVIDIA": {
   "ok": true,
   "count": 113
- },
- "workday:AMD": {
-  "ok": false,
-  "error": "HTTP 422"
  },
  "workday:Intel": {
   "ok": true,
@@ -1299,49 +483,17 @@
   "ok": true,
   "count": 98
  },
- "workday:Qorvo": {
-  "ok": false,
-  "error": "HTTP 422"
- },
- "workday:Skyworks": {
-  "ok": false,
-  "error": "HTTP 422"
- },
- "workday:Entegris": {
-  "ok": false,
-  "error": "HTTP 404"
- },
- "workday:Teradyne": {
-  "ok": false,
-  "error": "HTTP 422"
- },
- "workday:Microchip": {
-  "ok": false,
-  "error": "HTTP 422"
- },
- "workday:Keysight": {
-  "ok": false,
-  "error": "HTTP 422"
- },
  "workday:Salesforce": {
   "ok": true,
-  "count": 67
- },
- "workday:Microsoft": {
-  "ok": false,
-  "error": "HTTP 422"
+  "count": 66
  },
  "workday:Autodesk": {
   "ok": true,
   "count": 117
  },
- "workday:Snowflake": {
-  "ok": false,
-  "error": "HTTP 401"
- },
  "workday:Adobe": {
   "ok": true,
-  "count": 106
+  "count": 105
  },
  "agg:remotive": {
   "ok": true,
