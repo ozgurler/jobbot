@@ -195,21 +195,44 @@ def classify(job):
     semi = has(T["semiconductor"], title + " " + comp)
     if not (core or adj or semi): return None, "title not relevant"
 
-    remote = any(k in loc for k in ["remote", "anywhere", "work from home", "wfh"]) or \
-             ("remote" in desc[:1500]) or "(remote)" in loc
-    portland = any(re.search(r"\b" + re.escape(k) + r"\b", loc) for k in LOC["home_metro"]) and "orlando" not in loc
-    us = any(k in loc for k in ["united states", "usa", "us", "u.s.", "america", "north america", "americas", "worldwide", "global", "anywhere"]) \
-         or re.search(r"\b[a-z ]+, [a-z]{2}\b", loc) is not None or loc.strip() == ""
-    non_us_only = any(k in loc for k in ["united kingdom", "london", "germany", "berlin", "india", "bangalore", "canada only", "australia", "sydney", "singapore", "japan", "tokyo", "france", "paris", "netherlands", "amsterdam", "ireland", "dublin", "poland", "spain", "brazil", "mexico", "emea only", "apac", "latam", "philippines", "israel", "tel aviv"]) and not (portland or "united states" in loc)
-    if non_us_only: return None, "non-US location"
-    if not (remote or portland or us): return None, "location unclear/onsite elsewhere"
+    NON_US = ["united kingdom", " uk", "england", "london", "scotland", "ireland", "dublin", "germany", "berlin", "munich",
+        "france", "paris", "spain", "madrid", "barcelona", "portugal", "lisbon", "italy", "milan", "netherlands", "amsterdam",
+        "belgium", "sweden", "stockholm", "norway", "denmark", "copenhagen", "finland", "poland", "warsaw", "czech", "prague",
+        "austria", "switzerland", "zurich", "israel", "tel aviv", "india", "bangalore", "bengaluru", "hyderabad", "pune", "mumbai",
+        "delhi", "singapore", "japan", "tokyo", "korea", "seoul", "china", "shanghai", "beijing", "hong kong", "taiwan", "taipei",
+        "australia", "sydney", "melbourne", "new zealand", "auckland", "canada", "toronto", "montreal", "montréal", "vancouver, bc",
+        "ottawa", "calgary", "brazil", "são paulo", "sao paulo", "mexico", "argentina", "colombia", "bogot", "chile", "peru",
+        "latam", "emea", "apac", "philippines", "manila", "indonesia", "vietnam", "thailand", "malaysia", "uae", "dubai",
+        "saudi", "south africa", "nigeria", "kenya", "egypt", "turkey", "istanbul", "ukraine", "romania", "bulgaria", "hungary",
+        "serbia", "croatia", "greece", "cyprus", "estonia", "latvia", "lithuania"]
+    US_HINT = ["united states", "usa", "u.s.", " us", "us-", "us ", "america", "north america", "americas", "worldwide", "global", "anywhere"]
+    US_STATE = re.search(r"\b(al|ak|az|ar|ca|co|ct|de|fl|ga|hi|id|il|in|ia|ks|ky|la|me|md|ma|mi|mn|ms|mo|mt|ne|nv|nh|nj|nm|ny|nc|nd|oh|ok|or|pa|ri|sc|sd|tn|tx|ut|vt|va|wa|wv|wi|wy|dc)\b", loc) is not None
+    US_CITY = any(c in loc for c in ["new york", "san francisco", "bay area", "los angeles", "seattle", "austin", "dallas", "houston",
+        "chicago", "boston", "denver", "atlanta", "miami", "phoenix", "salt lake", "portland", "washington", "philadelphia",
+        "minneapolis", "nashville", "charlotte", "raleigh", "san diego", "san jose", "silicon valley", "ohio", "texas", "california",
+        "florida", "colorado", "oregon", "arizona", "utah", "nevada", "georgia", "illinois", "michigan", "virginia", "carolina"])
+    us_hint = any(k in (" " + loc) for k in US_HINT) or US_STATE or US_CITY
+    non_us = any(k in (" " + loc) for k in NON_US)
+    remote_loc = any(k in loc for k in ["remote", "anywhere", "work from home", "wfh", "distributed"])
+    remote_desc = "remote" in desc[:2000]
+    portland = any(re.search(r"\b" + re.escape(k.strip()) + r"\b", loc) for k in LOC["home_metro"]) and "orlando" not in loc
+
+    if non_us and not us_hint and not portland: return None, "non-US location"
+    if loc.strip() and not (remote_loc or us_hint or portland): return None, "location unclear/onsite elsewhere"
+    if not loc.strip() and not remote_desc: return None, "location unclear/onsite elsewhere"
     if any(k in desc for k in LOC["reject_terms"]): return None, "onsite elsewhere"
+    remote = remote_loc or (remote_desc and not (US_CITY or US_STATE))
 
     # score
     score = 0
     score += 40 if core else (25 if adj else 0)
     if semi: score += 20
-    score += 15 if remote else (12 if portland else 0)
+    if remote_loc: score += 15
+    elif portland: score += 12
+    elif us_hint and not (US_CITY or US_STATE): score += 8   # e.g. bare "United States": usually remote-friendly
+    elif remote_desc: score += 4      # onsite US city with "remote" only in the text: weak signal
+    else: score -= 10
+    if "hybrid" in loc and not portland: score -= 8
     skills = has(PROFILE["skill_terms"], desc)
     score += min(25, len(skills) * 2)
     if any(k in title for k in ["senior", "sr.", "sr ", "enterprise", "strategic", "lead"]): score += 3
@@ -224,7 +247,7 @@ def classify(job):
     elif semi: resume = "semiconductor"
     else: resume = "generic"
 
-    return dict(score=score, remote=remote, portland=portland, matched_title=core + adj + semi,
+    return dict(score=score, remote=remote, portland=portland, remote_in_listing=remote_loc, matched_title=core + adj + semi,
                 matched_skills=skills[:12], resume=resume), "ok"
 
 # ---------------------------------------------------------------- main
