@@ -1,0 +1,86 @@
+{
+  "candidate": {
+    "name": "Emre Ozgurler",
+    "email": "emreozgurler@gmail.com",
+    "phone": "(971) 291-6165",
+    "location": "Portland, OR",
+    "linkedin": "https://www.linkedin.com/in/emre-ozgurler",
+    "website": "https://www.emreozgurler.com",
+    "work_authorization_note": "fill in before first submission"
+  },
+
+  "exclude_employers": [
+    "nmq digital", "nmq", "flyonit", "analog devices", "data market",
+    "azeus", "convene", "cerebro", "odine"
+  ],
+
+  "location": {
+    "home_metro": ["portland", "oregon", ", or", "hillsboro", "beaverton", "vancouver, wa"],
+    "remote_ok": true,
+    "us_only": true,
+    "reject_terms": ["onsite only", "on-site only", "must be located in new york", "must be located in san francisco"]
+  },
+
+  "title_tiers": {
+    "core": [
+      "sales engineer", "solutions engineer", "solution engineer", "presales", "pre-sales",
+      "go-to-market engineer", "gtm engineer", "solutions consultant", "solution consultant",
+      "technical account manager", "account executive", "business development manager",
+      "business development representative", "sales development representative",
+      "enterprise account executive", "mid-market account executive", "commercial account executive",
+      "technical sales", "solutions architect", "customer engineer", "forward deployed engineer",
+      "partner manager", "channel manager", "channel account manager", "partnerships manager",
+      "revenue operations", "revops", "gtm operations", "sales operations"
+    ],
+    "adjacent": [
+      "customer success manager", "account manager", "implementation", "onboarding specialist",
+      "technical consultant", "solutions specialist", "product specialist", "sales specialist",
+      "business development", "growth manager", "alliances", "field engineer", "applications engineer",
+      "customer solutions", "value engineer", "demo engineer", "proof of concept"
+    ],
+    "semiconductor": [
+      "semiconductor", "wafer", "fab", "thin film", "deposition", "equipment", "capital equipment",
+      "applied materials", "lam research", "kla", "asml", "process engineer", "field service engineer",
+      "customer support engineer", "tool owner", "metrology", "lithography", "etch", "cvd", "pvd"
+    ],
+    "reject": [
+      "vp ", "vice president", "director", "chief", "head of", "intern", "internship", "staff software",
+      "software engineer", "frontend", "backend", "full stack", "data scientist", "machine learning engineer",
+      "recruiter", "nurse", "physician", "attorney", "accountant", "controller", "designer", "copywriter",
+      "principal engineer", "manager, software", "engineering manager", "sre", "devops", "security engineer",
+      "product manager", "marketing manager"
+    ]
+  },
+
+  "skill_terms": [
+    "saas", "managed it", "msp", "cybersecurity", "cloud", "azure", "microsoft 365", "salesforce",
+    "apollo", "hubspot", "crm", "rfp", "rfi", "enterprise", "mid-market", "smb", "b2b", "channel",
+    "partner", "ai", "llm", "agentic", "automation", "telecom", "telco", "ecm", "hyland",
+    "semiconductor", "wafer", "fab", "thin film", "applied materials", "electronics", "engineering degree",
+    "emea", "north america", "quota", "pipeline", "outbound", "discovery", "demo", "proof of concept",
+    "technical background", "engineer background", "turkish", "french"
+  ],
+
+  "resumes": {
+    "generic": {
+      "file": "resumes/Emre_Ozgurler_Resume.pdf",
+      "label": "General sales / go-to-market",
+      "when": "Default for SaaS, IT services, cloud, AI, and any non-semiconductor technical sales or GTM role."
+    },
+    "semiconductor_sales": {
+      "file": "resumes/Emre_Ozgurler_Resume_Semiconductor_Sales.pdf",
+      "label": "Semiconductor equipment sales / account management",
+      "when": "Sales, account management, or customer-facing roles at semiconductor equipment makers, foundries, or component companies. Leads with the Analog Devices fab experience."
+    },
+    "semiconductor": {
+      "file": "resumes/Emre_Ozgurler_Resume_Semiconductor.pdf",
+      "label": "Wafer fab operations / equipment technician",
+      "when": "Hands-on fab, equipment, process, or field service roles at semiconductor companies. Leads with the Analog Devices fab experience."
+    }
+  },
+
+  "limits": {
+    "lookback_hours": 30,
+    "max_digest": 30
+  }
+}

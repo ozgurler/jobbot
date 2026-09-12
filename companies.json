@@ -1,0 +1,79 @@
+{
+  "_note": "Board slugs for public ATS APIs. Failed slugs are logged in data/board_status.json after each run; prune or fix from there. Add companies freely.",
+
+  "greenhouse": [
+    "cloudflare", "datadog", "twilio", "hashicorp", "gitlab", "samsara", "okta", "mongodb", "elastic",
+    "airtable", "figma", "vercel", "snyk", "pagerduty", "gong", "cockroachlabs", "grafanalabs", "fivetran",
+    "postman", "sentry", "anthropic", "retool", "brex", "databricks", "confluent", "dbtlabs", "lattice",
+    "webflow", "zapier", "checkr", "flexport", "gusto", "scaleai", "stripe", "sourcegraph",
+    "temporaltechnologies", "planetscale", "clickhouse", "harness", "launchdarkly", "1password", "asana",
+    "calendly", "coinbase", "dropbox", "intercom", "newrelic", "nylas", "plaid", "remotecom", "sonarsource",
+    "sproutsocial", "tanium", "toast", "upwork", "zscaler", "zoominfo", "vanta", "tripactions", "cribl",
+    "abnormalsecurity", "arcticwolf", "huntress", "ninjaone", "wizinc", "rubrik", "cohesity", "druva",
+    "sentinelone", "crowdstrike", "paloaltonetworks", "auth0", "twingate", "tailscale", "teleport",
+    "workato", "celonis", "uipath", "docusign", "box", "smartsheet", "monday", "clickup", "miro",
+    "loom", "canva", "grammarly", "mural", "amplitude", "mixpanel", "segment", "heap", "pendo",
+    "braze", "iterable", "klaviyo", "attentive", "yotpo", "gorgias", "front", "zendesk", "freshworks",
+    "algolia", "contentful", "sanity", "netlify", "render", "fly", "digitalocean", "linode", "vultr",
+    "backblaze", "wasabi", "pure", "nutanix", "veeam", "commvault", "kaseya", "connectwise", "datto",
+    "n-able", "atera", "syncro", "auvik", "liongard", "threatlocker", "blackpoint", "todyl", "coro",
+    "cynet", "sophos", "bitdefender", "eset", "malwarebytes", "knowbe4", "proofpoint", "mimecast",
+    "barracuda", "fortinet", "checkpoint", "netskope", "cato", "perimeter81", "cloudflare"
+  ],
+
+  "lever": [
+    "mistral", "palantir", "lucid", "kandji", "clari", "nium", "veeva", "outreach", "salesloft",
+    "apollo", "seismic", "highspot", "showpad", "mindtickle", "chorus", "people-ai", "6sense",
+    "demandbase", "bombora", "g2", "trustradius", "capterra", "clearbit", "zoominfo", "lusha",
+    "cognism", "seamless", "leadiq", "kaspr", "dealfront", "vidyard", "wistia", "loom", "drift",
+    "qualified", "intercom", "ada", "forethought", "ultimate", "kore", "yellow", "cresta", "observe",
+    "balto", "invoca", "callrail", "dialpad", "aircall", "talkdesk", "five9", "genesys", "nice",
+    "verint", "calabrio", "playvox", "assembled", "agyle", "shyft", "ukg", "workday", "rippling",
+    "deel", "remote", "oyster", "papaya", "velocity", "multiplier", "lano", "omnipresent", "boundless"
+  ],
+
+  "ashby": [
+    "ramp", "linear", "replit", "deel", "openai", "notion", "supabase", "posthog", "anysphere",
+    "perplexity", "elevenlabs", "runwayml", "cohere", "mercury", "modal", "hex", "census", "dagster",
+    "ashby", "clay", "zip", "harvey", "sierra", "decagon", "glean", "writer", "jasper", "copy-ai",
+    "synthesia", "heygen", "descript", "captions", "opus", "vapi", "retell", "bland", "cartesia",
+    "deepgram", "assemblyai", "speechmatics", "rev", "otter", "fireflies", "gong", "attention",
+    "momentum", "scratchpad", "dooly", "rattle", "warmly", "common-room", "commonroom", "pocus",
+    "koala", "unify", "11x", "artisan", "aisdr", "regie", "lavender", "smartlead", "instantly",
+    "apollo-io", "amplemarket", "reply", "mailshake", "woodpecker", "quickmail", "lemlist",
+    "vanta", "drata", "secureframe", "thoropass", "sprinto", "scrut", "hyperproof", "anecdotes",
+    "cursor", "lovable", "bolt", "windsurf", "codeium", "sourcegraph", "tabnine", "augment",
+    "poolside", "magic", "cognition", "factory", "devin", "warp", "raycast", "arc", "browser-company",
+    "granola", "mem", "reflect", "tana", "capacities", "obsidian", "logseq", "roam", "craft"
+  ],
+
+  "workday": [
+    {"name": "Applied Materials", "url": "https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs"},
+    {"name": "Lam Research", "url": "https://lamresearch.wd1.myworkdayjobs.com/wday/cxs/lamresearch/External/jobs"},
+    {"name": "KLA", "url": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs"},
+    {"name": "ASML", "url": "https://asml.wd3.myworkdayjobs.com/wday/cxs/asml/refreshed_ASML_External/jobs"},
+    {"name": "onsemi", "url": "https://onsemi.wd1.myworkdayjobs.com/wday/cxs/onsemi/onsemi/jobs"},
+    {"name": "NVIDIA", "url": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"},
+    {"name": "AMD", "url": "https://amd.wd1.myworkdayjobs.com/wday/cxs/amd/External/jobs"},
+    {"name": "Intel", "url": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"},
+    {"name": "Micron", "url": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs"},
+    {"name": "Qorvo", "url": "https://qorvo.wd1.myworkdayjobs.com/wday/cxs/qorvo/Qorvo_Careers/jobs"},
+    {"name": "Skyworks", "url": "https://skyworks.wd1.myworkdayjobs.com/wday/cxs/skyworks/skyworks/jobs"},
+    {"name": "Entegris", "url": "https://entegris.wd1.myworkdayjobs.com/wday/cxs/entegris/External/jobs"},
+    {"name": "Teradyne", "url": "https://teradyne.wd1.myworkdayjobs.com/wday/cxs/teradyne/External/jobs"},
+    {"name": "Microchip", "url": "https://microchip.wd5.myworkdayjobs.com/wday/cxs/microchip/External/jobs"},
+    {"name": "Keysight", "url": "https://keysight.wd1.myworkdayjobs.com/wday/cxs/keysight/Keysight_Careers/jobs"},
+    {"name": "Salesforce", "url": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"},
+    {"name": "Microsoft", "url": "https://microsoft.wd5.myworkdayjobs.com/wday/cxs/microsoft/External/jobs"},
+    {"name": "Autodesk", "url": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"},
+    {"name": "Snowflake", "url": "https://snowflake.wd5.myworkdayjobs.com/wday/cxs/snowflake/Snowflake_Careers/jobs"},
+    {"name": "Adobe", "url": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"}
+  ],
+
+  "aggregators": {
+    "remotive": "https://remotive.com/api/remote-jobs?category=sales",
+    "remotive_all": "https://remotive.com/api/remote-jobs?category=business",
+    "remoteok": "https://remoteok.com/api",
+    "himalayas": "https://himalayas.app/jobs/api?limit=200"
+  }
+}
