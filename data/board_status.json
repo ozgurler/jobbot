@@ -29,7 +29,7 @@
  },
  "greenhouse:elastic": {
   "ok": true,
-  "count": 356
+  "count": 357
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "count": 595
+  "count": 596
  },
  "greenhouse:brex": {
   "ok": true,
@@ -89,7 +89,7 @@
  },
  "greenhouse:flexport": {
   "ok": true,
-  "count": 179
+  "count": 180
  },
  "greenhouse:gusto": {
   "ok": true,
@@ -101,7 +101,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "count": 634
+  "count": 633
  },
  "greenhouse:planetscale": {
   "ok": true,
@@ -321,11 +321,11 @@
  },
  "ashby:replit": {
   "ok": true,
-  "count": 77
+  "count": 76
  },
  "ashby:openai": {
   "ok": true,
-  "count": 796
+  "count": 794
  },
  "ashby:notion": {
   "ok": true,
@@ -449,7 +449,7 @@
  },
  "ashby:cognition": {
   "ok": true,
-  "count": 93
+  "count": 94
  },
  "ashby:factory": {
   "ok": true,
@@ -485,7 +485,7 @@
  },
  "workday:Salesforce": {
   "ok": true,
-  "count": 66
+  "count": 68
  },
  "workday:Autodesk": {
   "ok": true,
