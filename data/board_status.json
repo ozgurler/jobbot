@@ -1,11 +1,11 @@
 {
  "greenhouse:cloudflare": {
   "ok": true,
-  "count": 358
+  "count": 355
  },
  "greenhouse:datadog": {
   "ok": true,
-  "count": 446
+  "count": 444
  },
  "greenhouse:twilio": {
   "ok": true,
@@ -17,7 +17,7 @@
  },
  "greenhouse:samsara": {
   "ok": true,
-  "count": 262
+  "count": 245
  },
  "greenhouse:okta": {
   "ok": true,
@@ -89,7 +89,7 @@
  },
  "greenhouse:flexport": {
   "ok": true,
-  "count": 180
+  "count": 179
  },
  "greenhouse:gusto": {
   "ok": true,
@@ -101,7 +101,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "count": 633
+  "count": 632
  },
  "greenhouse:planetscale": {
   "ok": true,
@@ -149,7 +149,7 @@
  },
  "greenhouse:toast": {
   "ok": true,
-  "count": 330
+  "count": 327
  },
  "greenhouse:upwork": {
   "ok": true,
@@ -293,7 +293,7 @@
  },
  "lever:veeva": {
   "ok": true,
-  "count": 908
+  "count": 906
  },
  "lever:outreach": {
   "ok": true,
@@ -325,11 +325,11 @@
  },
  "ashby:openai": {
   "ok": true,
-  "count": 794
+  "count": 795
  },
  "ashby:notion": {
   "ok": true,
-  "count": 127
+  "count": 126
  },
  "ashby:supabase": {
   "ok": true,
@@ -349,7 +349,7 @@
  },
  "ashby:cohere": {
   "ok": true,
-  "count": 145
+  "count": 144
  },
  "ashby:modal": {
   "ok": true,
@@ -429,7 +429,7 @@
  },
  "ashby:drata": {
   "ok": true,
-  "count": 41
+  "count": 40
  },
  "ashby:secureframe": {
   "ok": true,
@@ -465,7 +465,7 @@
  },
  "workday:Applied Materials": {
   "ok": true,
-  "count": 109
+  "count": 108
  },
  "workday:KLA": {
   "ok": true,
@@ -481,11 +481,11 @@
  },
  "workday:Micron": {
   "ok": true,
-  "count": 98
+  "count": 99
  },
  "workday:Salesforce": {
   "ok": true,
-  "count": 68
+  "count": 66
  },
  "workday:Autodesk": {
   "ok": true,
@@ -494,6 +494,10 @@
  "workday:Adobe": {
   "ok": true,
   "count": 105
+ },
+ "linkedin:guest-search": {
+  "ok": true,
+  "count": 143
  },
  "agg:remotive": {
   "ok": true,
