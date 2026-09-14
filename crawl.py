@@ -172,6 +172,39 @@ def fetch_himalayas(url):
         ))
     return out
 
+def fetch_linkedin(queries):
+    """LinkedIn's public (logged-out) job search feed. Remote-in-US, last 24h. HTML cards, parsed with regex.
+    Best effort: LinkedIn sometimes rate-limits datacenter IPs; failures just show in board_status."""
+    out, seen = [], set()
+    for q in queries:
+        for start in (0, 25):
+            url = ("https://www.linkedin.com/jobs-guest/jobs/api/seeMoreJobPostings/search?"
+                   + urllib.parse.urlencode({"keywords": q, "location": "United States", "f_WT": "2",
+                                             "f_TPR": "r86400", "start": start}))
+            req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124.0 Safari/537.36",
+                                                       "Accept": "text/html", "Accept-Language": "en-US,en;q=0.9"})
+            with urllib.request.urlopen(req, timeout=30) as r:
+                page = r.read().decode("utf-8", "replace")
+            cards = re.findall(r'<li>(.*?)</li>', page, flags=re.S)
+            if not cards: break
+            for c in cards:
+                link = re.search(r'href="([^"]+)"', c)
+                title = re.search(r'base-search-card__title[^>]*>\s*(.*?)\s*<', c, flags=re.S)
+                comp = re.search(r'base-search-card__subtitle[^>]*>.*?<a[^>]*>\s*(.*?)\s*<', c, flags=re.S) or re.search(r'base-search-card__subtitle[^>]*>\s*(.*?)\s*<', c, flags=re.S)
+                loc = re.search(r'job-search-card__location[^>]*>\s*(.*?)\s*<', c, flags=re.S)
+                when = re.search(r'<time[^>]*datetime="([^"]+)"', c)
+                if not (link and title): continue
+                u = html.unescape(link.group(1)).split("?")[0]
+                if u in seen: continue
+                seen.add(u)
+                out.append(dict(
+                    source="linkedin", company=html.unescape(comp.group(1)) if comp else "", title=html.unescape(title.group(1)),
+                    location=(html.unescape(loc.group(1)) if loc else "") + " (Remote)", url=u,
+                    posted=parse_ts(when.group(1)) if when else NOW, description="", ats="linkedin",
+                ))
+            time.sleep(1.5)
+    return out
+
 # ---------------------------------------------------------------- filtering & scoring
 
 T = PROFILE["title_tiers"]
@@ -221,6 +254,8 @@ def classify(job):
     if loc.strip() and not (remote_loc or us_hint or portland): return None, "location unclear/onsite elsewhere"
     if not loc.strip() and not remote_desc: return None, "location unclear/onsite elsewhere"
     if any(k in desc for k in LOC["reject_terms"]): return None, "onsite elsewhere"
+    onsite_elsewhere = (US_CITY or US_STATE) and not remote_loc and not portland
+    if onsite_elsewhere and LOC.get("reject_onsite_outside_metro", True): return None, "onsite outside Portland"
     remote = remote_loc or (remote_desc and not (US_CITY or US_STATE))
 
     # score
@@ -240,6 +275,7 @@ def classify(job):
     if job.get("salary"): score += 2
     if job["source"] in ("greenhouse", "lever", "ashby"): score += 5  # can be auto-submitted
     if job["source"] == "remoteok": score -= 5  # noisier
+    if job["source"] == "linkedin": score += 6  # search already filtered to remote + 24h; no description to score
 
     # resume routing
     sales_like = bool(core or adj)
@@ -271,6 +307,7 @@ def main():
     for s in dict.fromkeys(COMPANIES.get("lever", [])): run(f"lever:{s}", fetch_lever, s)
     for s in dict.fromkeys(COMPANIES.get("ashby", [])): run(f"ashby:{s}", fetch_ashby, s)
     for w in COMPANIES.get("workday", []): run(f"workday:{w['name']}", fetch_workday, w["name"], w["url"])
+    if COMPANIES.get("linkedin_queries"): run("linkedin:guest-search", fetch_linkedin, COMPANIES["linkedin_queries"])
     agg = COMPANIES.get("aggregators", {})
     for k, u in agg.items():
         if k.startswith("remotive"): run(f"agg:{k}", fetch_remotive, u)

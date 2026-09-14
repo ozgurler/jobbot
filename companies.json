@@ -1,43 +1,175 @@
 {
   "_note": "Board slugs for public ATS APIs, pruned to the ones that responded on 2026-09-12. Check data/board_status.json after each run. Add companies freely; a bad slug just logs a 404.",
-
   "greenhouse": [
-    "cloudflare", "datadog", "twilio", "gitlab", "samsara", "okta", "mongodb", "elastic", "airtable", "figma",
-    "vercel", "pagerduty", "cockroachlabs", "grafanalabs", "fivetran", "postman", "anthropic", "brex", "databricks",
-    "lattice", "webflow", "checkr", "flexport", "gusto", "scaleai", "stripe", "planetscale", "launchdarkly", "asana",
-    "calendly", "coinbase", "dropbox", "intercom", "newrelic", "remotecom", "sproutsocial", "tanium", "toast", "upwork",
-    "zscaler", "zoominfo", "tripactions", "cribl", "abnormalsecurity", "huntress", "wizinc", "rubrik", "druva",
-    "tailscale", "workato", "celonis", "smartsheet", "amplitude", "mixpanel", "pendo", "braze", "iterable", "klaviyo",
-    "attentive", "yotpo", "algolia", "contentful", "netlify", "backblaze", "wasabi", "commvault", "kaseya", "connectwise",
-    "threatlocker", "knowbe4", "netskope"
+    "cloudflare",
+    "datadog",
+    "twilio",
+    "gitlab",
+    "samsara",
+    "okta",
+    "mongodb",
+    "elastic",
+    "airtable",
+    "figma",
+    "vercel",
+    "pagerduty",
+    "cockroachlabs",
+    "grafanalabs",
+    "fivetran",
+    "postman",
+    "anthropic",
+    "brex",
+    "databricks",
+    "lattice",
+    "webflow",
+    "checkr",
+    "flexport",
+    "gusto",
+    "scaleai",
+    "stripe",
+    "planetscale",
+    "launchdarkly",
+    "asana",
+    "calendly",
+    "coinbase",
+    "dropbox",
+    "intercom",
+    "newrelic",
+    "remotecom",
+    "sproutsocial",
+    "tanium",
+    "toast",
+    "upwork",
+    "zscaler",
+    "zoominfo",
+    "tripactions",
+    "cribl",
+    "abnormalsecurity",
+    "huntress",
+    "wizinc",
+    "rubrik",
+    "druva",
+    "tailscale",
+    "workato",
+    "celonis",
+    "smartsheet",
+    "amplitude",
+    "mixpanel",
+    "pendo",
+    "braze",
+    "iterable",
+    "klaviyo",
+    "attentive",
+    "yotpo",
+    "algolia",
+    "contentful",
+    "netlify",
+    "backblaze",
+    "wasabi",
+    "commvault",
+    "kaseya",
+    "connectwise",
+    "threatlocker",
+    "knowbe4",
+    "netskope"
   ],
-
   "lever": [
-    "palantir", "nium", "veeva", "outreach", "mindtickle", "people-ai", "aircall"
+    "palantir",
+    "nium",
+    "veeva",
+    "outreach",
+    "mindtickle",
+    "people-ai",
+    "aircall"
   ],
-
   "ashby": [
-    "ramp", "linear", "replit", "openai", "notion", "supabase", "posthog", "perplexity", "elevenlabs", "cohere",
-    "modal", "hex", "ashby", "zip", "harvey", "sierra", "decagon", "writer", "synthesia", "vapi", "bland", "cartesia",
-    "deepgram", "rev", "attention", "unify", "artisan", "lemlist", "vanta", "drata", "secureframe", "cursor", "lovable",
-    "poolside", "cognition", "factory", "warp", "granola"
+    "ramp",
+    "linear",
+    "replit",
+    "openai",
+    "notion",
+    "supabase",
+    "posthog",
+    "perplexity",
+    "elevenlabs",
+    "cohere",
+    "modal",
+    "hex",
+    "ashby",
+    "zip",
+    "harvey",
+    "sierra",
+    "decagon",
+    "writer",
+    "synthesia",
+    "vapi",
+    "bland",
+    "cartesia",
+    "deepgram",
+    "rev",
+    "attention",
+    "unify",
+    "artisan",
+    "lemlist",
+    "vanta",
+    "drata",
+    "secureframe",
+    "cursor",
+    "lovable",
+    "poolside",
+    "cognition",
+    "factory",
+    "warp",
+    "granola"
   ],
-
   "workday": [
-    {"name": "Applied Materials", "url": "https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs"},
-    {"name": "KLA", "url": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs"},
-    {"name": "NVIDIA", "url": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"},
-    {"name": "Intel", "url": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"},
-    {"name": "Micron", "url": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs"},
-    {"name": "Salesforce", "url": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"},
-    {"name": "Autodesk", "url": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"},
-    {"name": "Adobe", "url": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"}
+    {
+      "name": "Applied Materials",
+      "url": "https://amat.wd1.myworkdayjobs.com/wday/cxs/amat/External/jobs"
+    },
+    {
+      "name": "KLA",
+      "url": "https://kla.wd1.myworkdayjobs.com/wday/cxs/kla/Search/jobs"
+    },
+    {
+      "name": "NVIDIA",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    {
+      "name": "Intel",
+      "url": "https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    {
+      "name": "Micron",
+      "url": "https://micron.wd1.myworkdayjobs.com/wday/cxs/micron/External/jobs"
+    },
+    {
+      "name": "Salesforce",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+    },
+    {
+      "name": "Autodesk",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
+    },
+    {
+      "name": "Adobe",
+      "url": "https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
+    }
   ],
-
   "aggregators": {
     "remotive": "https://remotive.com/api/remote-jobs?category=sales",
     "remotive_all": "https://remotive.com/api/remote-jobs?category=business",
     "remoteok": "https://remoteok.com/api",
     "himalayas": "https://himalayas.app/jobs/api?limit=200"
-  }
+  },
+  "linkedin_queries": [
+    "sales engineer",
+    "solutions engineer",
+    "account executive SaaS",
+    "business development manager technology",
+    "solutions consultant",
+    "technical account manager",
+    "partner manager",
+    "customer engineer"
+  ]
 }
