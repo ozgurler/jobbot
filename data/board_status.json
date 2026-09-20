@@ -5,11 +5,11 @@
  },
  "greenhouse:datadog": {
   "ok": true,
-  "count": 453
+  "count": 454
  },
  "greenhouse:twilio": {
   "ok": true,
-  "count": 143
+  "count": 142
  },
  "greenhouse:gitlab": {
   "ok": true,
@@ -17,7 +17,7 @@
  },
  "greenhouse:samsara": {
   "ok": true,
-  "count": 271
+  "count": 273
  },
  "greenhouse:okta": {
   "ok": true,
@@ -25,7 +25,7 @@
  },
  "greenhouse:mongodb": {
   "ok": true,
-  "count": 402
+  "count": 401
  },
  "greenhouse:elastic": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "count": 610
+  "count": 611
  },
  "greenhouse:brex": {
   "ok": true,
@@ -73,7 +73,7 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "count": 878
+  "count": 875
  },
  "greenhouse:lattice": {
   "ok": true,
@@ -89,19 +89,19 @@
  },
  "greenhouse:flexport": {
   "ok": true,
-  "count": 198
+  "count": 199
  },
  "greenhouse:gusto": {
   "ok": true,
-  "count": 95
+  "count": 94
  },
  "greenhouse:scaleai": {
   "ok": true,
-  "count": 224
+  "count": 223
  },
  "greenhouse:stripe": {
   "ok": true,
-  "count": 666
+  "count": 665
  },
  "greenhouse:planetscale": {
   "ok": true,
@@ -113,7 +113,7 @@
  },
  "greenhouse:asana": {
   "ok": true,
-  "count": 104
+  "count": 103
  },
  "greenhouse:calendly": {
   "ok": true,
@@ -149,7 +149,7 @@
  },
  "greenhouse:toast": {
   "ok": true,
-  "count": 326
+  "count": 327
  },
  "greenhouse:upwork": {
   "ok": true,
@@ -165,7 +165,7 @@
  },
  "greenhouse:tripactions": {
   "ok": true,
-  "count": 216
+  "count": 217
  },
  "greenhouse:cribl": {
   "ok": true,
@@ -281,7 +281,7 @@
  },
  "greenhouse:netskope": {
   "ok": true,
-  "count": 142
+  "count": 141
  },
  "lever:palantir": {
   "ok": true,
@@ -473,19 +473,19 @@
  },
  "workday:NVIDIA": {
   "ok": true,
-  "count": 113
+  "count": 112
  },
  "workday:Intel": {
   "ok": true,
-  "count": 91
+  "count": 92
  },
  "workday:Micron": {
   "ok": true,
-  "count": 90
+  "count": 91
  },
  "workday:Salesforce": {
   "ok": true,
-  "count": 62
+  "count": 64
  },
  "workday:Autodesk": {
   "ok": true,
@@ -497,15 +497,15 @@
  },
  "linkedin:guest-search": {
   "ok": true,
-  "count": 149
+  "count": 143
  },
  "agg:remotive": {
   "ok": true,
-  "count": 17
+  "count": 20
  },
  "agg:remotive_all": {
   "ok": true,
-  "count": 17
+  "count": 20
  },
  "agg:remoteok": {
   "ok": true,
