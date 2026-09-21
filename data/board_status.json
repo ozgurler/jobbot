@@ -1,35 +1,35 @@
 {
  "greenhouse:cloudflare": {
   "ok": true,
-  "count": 379
+  "count": 380
  },
  "greenhouse:datadog": {
   "ok": true,
-  "count": 454
+  "count": 455
  },
  "greenhouse:twilio": {
   "ok": true,
-  "count": 142
+  "count": 143
  },
  "greenhouse:gitlab": {
   "ok": true,
-  "count": 216
+  "count": 206
  },
  "greenhouse:samsara": {
   "ok": true,
-  "count": 273
+  "count": 269
  },
  "greenhouse:okta": {
   "ok": true,
-  "count": 324
+  "count": 326
  },
  "greenhouse:mongodb": {
   "ok": true,
-  "count": 401
+  "count": 404
  },
  "greenhouse:elastic": {
   "ok": true,
-  "count": 358
+  "count": 366
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -53,11 +53,11 @@
  },
  "greenhouse:grafanalabs": {
   "ok": true,
-  "count": 130
+  "count": 135
  },
  "greenhouse:fivetran": {
   "ok": true,
-  "count": 197
+  "count": 198
  },
  "greenhouse:postman": {
   "ok": false,
@@ -65,7 +65,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "count": 611
+  "count": 617
  },
  "greenhouse:brex": {
   "ok": true,
@@ -73,11 +73,11 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "count": 875
+  "count": 876
  },
  "greenhouse:lattice": {
   "ok": true,
-  "count": 7
+  "count": 9
  },
  "greenhouse:webflow": {
   "ok": true,
@@ -89,11 +89,11 @@
  },
  "greenhouse:flexport": {
   "ok": true,
-  "count": 199
+  "count": 196
  },
  "greenhouse:gusto": {
   "ok": true,
-  "count": 94
+  "count": 92
  },
  "greenhouse:scaleai": {
   "ok": true,
@@ -101,7 +101,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "count": 665
+  "count": 671
  },
  "greenhouse:planetscale": {
   "ok": true,
@@ -113,7 +113,7 @@
  },
  "greenhouse:asana": {
   "ok": true,
-  "count": 103
+  "count": 104
  },
  "greenhouse:calendly": {
   "ok": true,
@@ -121,7 +121,7 @@
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "count": 217
+  "count": 216
  },
  "greenhouse:dropbox": {
   "ok": true,
@@ -129,11 +129,11 @@
  },
  "greenhouse:intercom": {
   "ok": true,
-  "count": 110
+  "count": 116
  },
  "greenhouse:newrelic": {
   "ok": true,
-  "count": 47
+  "count": 49
  },
  "greenhouse:remotecom": {
   "ok": true,
@@ -141,15 +141,15 @@
  },
  "greenhouse:sproutsocial": {
   "ok": true,
-  "count": 23
+  "count": 24
  },
  "greenhouse:tanium": {
   "ok": true,
-  "count": 56
+  "count": 54
  },
  "greenhouse:toast": {
   "ok": true,
-  "count": 327
+  "count": 329
  },
  "greenhouse:upwork": {
   "ok": true,
@@ -161,39 +161,39 @@
  },
  "greenhouse:zoominfo": {
   "ok": true,
-  "count": 113
+  "count": 109
  },
  "greenhouse:tripactions": {
   "ok": true,
-  "count": 217
+  "count": 215
  },
  "greenhouse:cribl": {
   "ok": true,
-  "count": 55
+  "count": 56
  },
  "greenhouse:abnormalsecurity": {
   "ok": true,
-  "count": 78
+  "count": 80
  },
  "greenhouse:huntress": {
   "ok": true,
-  "count": 35
+  "count": 33
  },
  "greenhouse:wizinc": {
   "ok": true,
-  "count": 136
+  "count": 134
  },
  "greenhouse:rubrik": {
   "ok": true,
-  "count": 139
+  "count": 131
  },
  "greenhouse:druva": {
   "ok": true,
-  "count": 38
+  "count": 39
  },
  "greenhouse:tailscale": {
   "ok": true,
-  "count": 55
+  "count": 58
  },
  "greenhouse:workato": {
   "ok": true,
@@ -205,15 +205,15 @@
  },
  "greenhouse:smartsheet": {
   "ok": true,
-  "count": 95
+  "count": 94
  },
  "greenhouse:amplitude": {
   "ok": true,
-  "count": 38
+  "count": 40
  },
  "greenhouse:mixpanel": {
   "ok": true,
-  "count": 87
+  "count": 82
  },
  "greenhouse:pendo": {
   "ok": true,
@@ -221,7 +221,7 @@
  },
  "greenhouse:braze": {
   "ok": true,
-  "count": 308
+  "count": 304
  },
  "greenhouse:iterable": {
   "ok": true,
@@ -229,7 +229,7 @@
  },
  "greenhouse:klaviyo": {
   "ok": true,
-  "count": 144
+  "count": 143
  },
  "greenhouse:attentive": {
   "ok": true,
@@ -237,7 +237,7 @@
  },
  "greenhouse:yotpo": {
   "ok": true,
-  "count": 16
+  "count": 15
  },
  "greenhouse:algolia": {
   "ok": true,
@@ -261,7 +261,7 @@
  },
  "greenhouse:commvault": {
   "ok": true,
-  "count": 61
+  "count": 64
  },
  "greenhouse:kaseya": {
   "ok": true,
@@ -281,19 +281,19 @@
  },
  "greenhouse:netskope": {
   "ok": true,
-  "count": 141
+  "count": 146
  },
  "lever:palantir": {
   "ok": true,
-  "count": 313
+  "count": 312
  },
  "lever:nium": {
   "ok": true,
-  "count": 26
+  "count": 25
  },
  "lever:veeva": {
   "ok": true,
-  "count": 918
+  "count": 920
  },
  "lever:outreach": {
   "ok": true,
@@ -301,7 +301,7 @@
  },
  "lever:mindtickle": {
   "ok": true,
-  "count": 19
+  "count": 17
  },
  "lever:people-ai": {
   "ok": true,
@@ -313,7 +313,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "count": 148
+  "count": 149
  },
  "ashby:linear": {
   "ok": true,
@@ -321,11 +321,11 @@
  },
  "ashby:replit": {
   "ok": true,
-  "count": 76
+  "count": 77
  },
  "ashby:openai": {
   "ok": true,
-  "count": 818
+  "count": 816
  },
  "ashby:notion": {
   "ok": true,
@@ -341,11 +341,11 @@
  },
  "ashby:perplexity": {
   "ok": true,
-  "count": 118
+  "count": 119
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "count": 235
+  "count": 225
  },
  "ashby:cohere": {
   "ok": true,
@@ -369,7 +369,7 @@
  },
  "ashby:harvey": {
   "ok": true,
-  "count": 299
+  "count": 302
  },
  "ashby:sierra": {
   "ok": true,
@@ -377,7 +377,7 @@
  },
  "ashby:decagon": {
   "ok": true,
-  "count": 146
+  "count": 145
  },
  "ashby:writer": {
   "ok": true,
@@ -389,7 +389,7 @@
  },
  "ashby:vapi": {
   "ok": true,
-  "count": 30
+  "count": 31
  },
  "ashby:bland": {
   "ok": true,
@@ -397,7 +397,7 @@
  },
  "ashby:cartesia": {
   "ok": true,
-  "count": 30
+  "count": 29
  },
  "ashby:deepgram": {
   "ok": true,
@@ -437,7 +437,7 @@
  },
  "ashby:cursor": {
   "ok": true,
-  "count": 122
+  "count": 121
  },
  "ashby:lovable": {
   "ok": true,
@@ -453,7 +453,7 @@
  },
  "ashby:factory": {
   "ok": true,
-  "count": 50
+  "count": 51
  },
  "ashby:warp": {
   "ok": true,
@@ -461,7 +461,7 @@
  },
  "ashby:granola": {
   "ok": true,
-  "count": 17
+  "count": 18
  },
  "workday:Applied Materials": {
   "ok": true,
@@ -473,39 +473,39 @@
  },
  "workday:NVIDIA": {
   "ok": true,
-  "count": 112
+  "count": 111
  },
  "workday:Intel": {
   "ok": true,
-  "count": 92
+  "count": 89
  },
  "workday:Micron": {
   "ok": true,
-  "count": 91
+  "count": 97
  },
  "workday:Salesforce": {
   "ok": true,
-  "count": 64
+  "count": 63
  },
  "workday:Autodesk": {
   "ok": true,
-  "count": 120
+  "count": 119
  },
  "workday:Adobe": {
   "ok": true,
   "count": 103
  },
  "linkedin:guest-search": {
-  "ok": true,
-  "count": 143
+  "ok": false,
+  "error": "HTTP 429"
  },
  "agg:remotive": {
   "ok": true,
-  "count": 20
+  "count": 18
  },
  "agg:remotive_all": {
   "ok": true,
-  "count": 20
+  "count": 18
  },
  "agg:remoteok": {
   "ok": true,
