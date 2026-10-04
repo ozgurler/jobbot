@@ -5,7 +5,7 @@
  },
  "greenhouse:datadog": {
   "ok": true,
-  "count": 445
+  "count": 444
  },
  "greenhouse:twilio": {
   "ok": true,
@@ -17,7 +17,7 @@
  },
  "greenhouse:samsara": {
   "ok": true,
-  "count": 245
+  "count": 247
  },
  "greenhouse:okta": {
   "ok": true,
@@ -25,11 +25,11 @@
  },
  "greenhouse:mongodb": {
   "ok": true,
-  "count": 390
+  "count": 389
  },
  "greenhouse:elastic": {
   "ok": true,
-  "count": 394
+  "count": 392
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -53,7 +53,7 @@
  },
  "greenhouse:grafanalabs": {
   "ok": true,
-  "count": 122
+  "count": 121
  },
  "greenhouse:fivetran": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "count": 640
+  "count": 638
  },
  "greenhouse:brex": {
   "ok": true,
@@ -73,7 +73,7 @@
  },
  "greenhouse:databricks": {
   "ok": true,
-  "count": 886
+  "count": 887
  },
  "greenhouse:lattice": {
   "ok": true,
@@ -85,7 +85,7 @@
  },
  "greenhouse:checkr": {
   "ok": true,
-  "count": 47
+  "count": 46
  },
  "greenhouse:flexport": {
   "ok": true,
@@ -165,7 +165,7 @@
  },
  "greenhouse:tripactions": {
   "ok": true,
-  "count": 207
+  "count": 208
  },
  "greenhouse:cribl": {
   "ok": true,
@@ -205,7 +205,7 @@
  },
  "greenhouse:smartsheet": {
   "ok": true,
-  "count": 92
+  "count": 90
  },
  "greenhouse:amplitude": {
   "ok": false,
@@ -269,7 +269,7 @@
  },
  "greenhouse:connectwise": {
   "ok": true,
-  "count": 49
+  "count": 48
  },
  "greenhouse:threatlocker": {
   "ok": true,
@@ -313,7 +313,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "count": 157
+  "count": 158
  },
  "ashby:linear": {
   "ok": true,
@@ -345,7 +345,7 @@
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "count": 169
+  "count": 171
  },
  "ashby:cohere": {
   "ok": true,
@@ -429,7 +429,7 @@
  },
  "ashby:drata": {
   "ok": true,
-  "count": 36
+  "count": 35
  },
  "ashby:secureframe": {
   "ok": true,
@@ -449,7 +449,7 @@
  },
  "ashby:cognition": {
   "ok": true,
-  "count": 103
+  "count": 101
  },
  "ashby:factory": {
   "ok": true,
@@ -473,7 +473,7 @@
  },
  "workday:NVIDIA": {
   "ok": true,
-  "count": 112
+  "count": 111
  },
  "workday:Intel": {
   "ok": true,
@@ -481,11 +481,11 @@
  },
  "workday:Micron": {
   "ok": true,
-  "count": 94
+  "count": 104
  },
  "workday:Salesforce": {
   "ok": true,
-  "count": 64
+  "count": 66
  },
  "workday:Autodesk": {
   "ok": true,
@@ -497,15 +497,15 @@
  },
  "linkedin:guest-search": {
   "ok": true,
-  "count": 151
+  "count": 143
  },
  "agg:remotive": {
   "ok": true,
-  "count": 16
+  "count": 18
  },
  "agg:remotive_all": {
   "ok": true,
-  "count": 16
+  "count": 18
  },
  "agg:remoteok": {
   "ok": true,
