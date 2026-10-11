@@ -1,311 +1,730 @@
 {
- "generated_at": "2026-10-10T17:25:38.642453+00:00",
+ "generated_at": "2026-10-11T17:44:53.427376+00:00",
  "counts": {
-  "fetched": 15859,
-  "fresh_matches": 23,
-  "in_digest": 23,
-  "boards_ok": 126,
-  "boards_failed": 3
+  "fetched": 16013,
+  "fresh_matches": 105,
+  "in_digest": 40,
+  "boards_ok": 127,
+  "boards_failed": 2
  },
  "rejected_reasons": {
-  "location unclear/onsite elsewhere": 91,
-  "title not relevant": 1998,
-  "onsite outside Portland": 410,
-  "rejected title": 1502,
-  "non-US location": 759
+  "location unclear/onsite elsewhere": 90,
+  "title not relevant": 2051,
+  "onsite outside Portland": 406,
+  "rejected title": 1499,
+  "non-US location": 768
  },
  "jobs": [
   {
    "source": "greenhouse",
-   "company": "toast",
-   "title": "Hotel Account Executive",
-   "location": "Remote - US",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8249601",
-   "posted": "2026-10-09T15:37:11-04:00",
-   "description": "<p>Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.</p> <p>As a Hotel Account Executive, you will play a key role in expanding our business within the hotel market. Your primary focus will be prospecting, building relationships, and securing new restaurant partnerships within major hotel brands, including Marriott, Hilton, and Choice Hotels, as well as supporting Independent/Boutique hotel properties and groups through the sales process. This role offers a highly cross-functional experience, where you\u2019ll collaborate with multiple internal teams and work closely with independent, franchise and corporate contacts within the hotel industry.</p> <p><strong>A day in the life (Responsibilities)</strong></p> <ul> <li>Work within a list of prospective hotel properties within assigned geographical territory with restaurants, banquets, and retail outlets and manage the entire sales cycle, from the initial discovery calls to closing (experience with self-generating leads is preferred).</li> <li>Conduct a high volume of calls, emails, and coordination efforts between internal teams, independent, franchisee or corporate hotel customers.</li> <li>Deliver product demos and craft tailored solutions that best meet each prospect\u2019s needs.</li> <li>Collaborate with cross-functional teams to ensure seamless delivery and meet the expectations set during the sales process.</li> <li>Use Salesforce (CRM) to manage all sales activities and maintain up-to-date records.</li> <li>Analyze the competitive landscape to strategically position Toast within the hotel market.</li> <li>Clearly communicate the strengths, benefits, and potential challenges of Toast\u2019s POS products and services, ensuring a smooth transition for customers.</li> <li>Develop a deep understanding of the Master Service Agreements (MSA) of Enterprise Hotel customers to support account needs effectively.</li> <li>Travel: 10%-15%</li> </ul> <p><strong>What you'll need to thrive (Requirements)</strong></p> <ul> <li><strong>1+ years in an outbound sourcing or sales role</strong> (preferably in hospitality or a related field), with experience managing the full sales cycle from lead generation to closing.</li> <li><strong>Proven relationship-building skills</strong> with both internal and external stakeholders, managing high volumes of calls, emails, and coordination.</li> <li><strong>Familiarity with POS or tech solutions</strong> and ability to conduct tailored product demos.</li> <li><strong>Cross-functional collaboration</strong> experience to ensure seamless alignment between sales and delivery.</li> <li><strong>Effective communicator</strong> with strong verbal, written, and organizational skills; able to present product value clearly.</li> <li><strong>Technical proficiency</strong> with CRMs (Salesforce preferred) and strong problem-solving skills.</li> <li><strong>Market ",
+   "company": "cloudflare",
+   "title": "Senior Customer Engineer, East China",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190",
+   "posted": "2026-10-11T10:21:55-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><p><strong>Available Location: Beijing, China&nbsp;</strong></p> <p><strong>About the Role</strong></p> <p>At Cloudflare, we are on a mission to help build a better Internet. As the architectural complexity of enterprise solutions scales, we are evolving how we partner with our customers. The Customer Engineer (CE) represents the core driver of our technical go-to-market strategy: a trusted advisor who owns the technical relationship from the initial discovery phase through to long-term adoption and ongoing account expansion.</p> <p>Sitting within the GTM organization and reporting to the Regional Customer Engineering Leader, you will not hand off your customers once an initial agreement is reached. Instead, you will operate as a quota-carrying technologist, utilizing AI-augmented workflows to eliminate administrative toil so you can focus on high-value architectural design and driving measurable business outcomes across the entire customer journey.</p> <p><strong>Key Responsibilities</strong></p> <ul> <li><strong>Technical Validation:</strong> Partner closely with Account Executives to lead technical discovery, build bespoke architectures, and deliver compelling product demonstrations and Proof of Concepts (PoCs) across Cloudflare\u2019s portfolio (Security, Networking, Zero Trust and Developer Platforms).</li> <li><strong>Trusted Advisory:</strong> Act as a trusted technical advisor",
    "ats": "greenhouse",
-   "score": 76,
+   "score": 88,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "customer engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "rfp",
+    "enterprise",
+    "smb",
+    "partner",
+    "ai",
+    "llm",
+    "automation",
+    "quota",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "0b552762f08be8ec"
+  },
+  {
+   "source": "himalayas",
+   "company": "Apollo",
+   "title": "Enterprise Account Executive (Founding Team)",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/apollo/jobs/enterprise-account-executive-founding-team",
+   "posted": "2026-10-11T14:46:33+00:00",
+   "description": "Apollo .io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion. Apollo .io provides sales and marketing teams with easy access to verified contact data for over 210 million B2B contacts and 35 million companies worldwide, along with tools to engage and convert these contacts in one unified platform. By helping revenue professionals find the most accurate contact information and automating the outreach process, Apollo .io turns prospects into customers. Apollo raised a series D in 2023 and is backed by top-tier investors, including Sequoia Capital, Bain Capital Ventures, and more, and counts the former President and COO of Hubspot, JD Sherman, among its board members. Join Apollo as an Enterprise Account Executive (Founding Team). In this role, you\u2019ll play a critical part in driving growth and guiding sales leaders and operations professionals through their evaluation of Apollo \u2019s powerful, all-in-one sales platform. Role Summary: Apollo .io is building its foundational team of sellers responsible for taking the company into the enterprise segment. In this full-cycle land, expand, and renew role, you will drive our growth into organizations with 1,000+ employees by acquiring new logos, retaining and renewing existing customers, and expanding accounts across your book of business. As a founding member of this new segment, you\u2019ll shape our motion, influence strategy, and set the standard for how Apollo wins in larger, more complex environments. This role is ideal for a high-performing seller who wants meaningful ownership, greenfield opportunity, and the ability to directly impact Apollo \u2019s next phase of growth. What You\u2019ll Do: New Logo Acquisition Own a defined set of enterprise accounts (1,000+ employees) as part of Apollo \u2019s first team dedicated to this segment. Proactively engage Director, VP, and C-suite leaders across Sales, Marketing and RevOps to build qualified pipeline and close new logos. Partner with the Outbound BDR team to drive incremental pipeline. Build a repeatable motion for engaging enterprise prospects as Apollo scales upmarket. Achieve 3X pipeline coverage and exceed new business acquisition targets. Account Expansion Mature your understanding of your customers\u2019 business goals to identify cross-sell and upsell opportunities. Build account plans that maximize adoption and generate multi-year growth across your accounts.Partner with Customer Success, Product, and RevOps to ensure customers receive high-impact value that drives expansion revenue.Influence Apollo \u2019s upmarket playbook by identifying expansion patterns and informing product and GTM strategy. Revenue Retention & Renewals Own renewals across your book of business with strong prepara",
+   "ats": "external",
+   "salary": "$250000-280000",
+   "score": 82,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "apollo",
+    "hubspot",
+    "enterprise",
+    "b2b",
+    "partner",
+    "ai",
+    "automation",
+    "quota",
+    "pipeline",
+    "outbound"
+   ],
+   "resume": "generic",
+   "id": "011ee59b6c854333"
+  },
+  {
+   "source": "linkedin",
+   "company": "CyberCoders",
+   "title": "Sales Engineer - Boilers, Industrial Equipment",
+   "location": "San Diego, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sales-engineer-boilers-industrial-equipment-at-cybercoders-4475642108",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "equipment"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "55e1b727098b27eb"
+  },
+  {
+   "source": "linkedin",
+   "company": "Samsung Semiconductor",
+   "title": "Sr. Manager, Foundry Sales Business Development",
+   "location": "San Jose, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-manager-foundry-sales-business-development-at-samsung-semiconductor-4448727295",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 69,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "business development",
+    "semiconductor"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "1fb38fca64e406ae"
+  },
+  {
+   "source": "linkedin",
+   "company": "KLA",
+   "title": "Customer Engagement Applications Engineer",
+   "location": "Phoenix, AZ (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/customer-engagement-applications-engineer-at-kla-4433033469",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 66,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "applications engineer",
+    "kla"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "863119bb93ece4ad"
+  },
+  {
+   "source": "linkedin",
+   "company": "Zscaler",
+   "title": "Senior Sales Engineer - Majors, Florida",
+   "location": "Florida, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-majors-florida-at-zscaler-4450767508",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5a206906945e9bc0"
+  },
+  {
+   "source": "linkedin",
+   "company": "Zscaler",
+   "title": "Senior Sales Engineer - Majors, Georgia",
+   "location": "Georgia, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-majors-georgia-at-zscaler-4450760706",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "64bab667e6b2448e"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cisco",
+   "title": "Solutions Engineer-Enterprise Sales, Nashville",
+   "location": "Nashville, TN (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-engineer-enterprise-sales-nashville-at-cisco-4450552622",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e6ceba03aae6033c"
+  },
+  {
+   "source": "linkedin",
+   "company": "Axon",
+   "title": "Senior Sales Engineer, Enterprise",
+   "location": "Los Angeles, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-enterprise-at-axon-4422149268",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f651e383b1e3f95f"
+  },
+  {
+   "source": "linkedin",
+   "company": "MongoDB",
+   "title": "Senior Solutions Architect (Pre-Sales)",
+   "location": "Cincinnati, OH (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-architect-pre-sales-at-mongodb-4469261967",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "pre-sales",
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "3169ffef6ef78ace"
+  },
+  {
+   "source": "linkedin",
+   "company": "Motorola Solutions",
+   "title": "Senior Presales Engineer",
+   "location": "Allen, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-presales-engineer-at-motorola-solutions-4441920002",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "9457f9b44df21303"
+  },
+  {
+   "source": "linkedin",
+   "company": "MongoDB",
+   "title": "Senior Solutions Architect (Pre-Sales)",
+   "location": "Cleveland, OH (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-architect-pre-sales-at-mongodb-4469275366",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "pre-sales",
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "8995707620fe2427"
+  },
+  {
+   "source": "linkedin",
+   "company": "FYUL",
+   "title": "Solutions Architect/Sales Engineer - Enterprise",
+   "location": "Ohio, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-architect-sales-engineer-enterprise-at-fyul-4460385270",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "630f18426d74e6a7"
+  },
+  {
+   "source": "linkedin",
+   "company": "T-Mobile",
+   "title": "Sr Solutions Engineer - Connected Car IoT Specialist",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-solutions-engineer-connected-car-iot-specialist-at-t-mobile-4478088870",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b8575ae33e08f679"
+  },
+  {
+   "source": "linkedin",
+   "company": "T-Mobile",
+   "title": "Sr Solutions Engineer - Connected Car IoT Specialist",
+   "location": "Parsippany, NJ (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-solutions-engineer-connected-car-iot-specialist-at-t-mobile-4478300257",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "9e1c6e2eaa1c13c9"
+  },
+  {
+   "source": "linkedin",
+   "company": "IBM",
+   "title": "Senior Solution Sales Engineer - Confluent",
+   "location": "Research Park, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solution-sales-engineer-confluent-at-ibm-4449226642",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "0c726c5e21dcb392"
+  },
+  {
+   "source": "linkedin",
+   "company": "IBM",
+   "title": "Senior Solution Sales Engineer - Confluent",
+   "location": "Charlotte, NC (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solution-sales-engineer-confluent-at-ibm-4449234146",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "c52d40ff6b7df164"
+  },
+  {
+   "source": "linkedin",
+   "company": "Ramp",
+   "title": "Solutions Consultant, Enterprise",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-consultant-enterprise-at-ramp-4433516031",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "38b3cc19287edb23"
+  },
+  {
+   "source": "linkedin",
+   "company": "Ramp",
+   "title": "Solutions Consultant, Enterprise",
+   "location": "Miami, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-consultant-enterprise-at-ramp-4433397911",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5b0de25fecc92f3d"
+  },
+  {
+   "source": "linkedin",
+   "company": "Parloa",
+   "title": "Sr Partner Solution Engineer",
+   "location": "Chicago, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-partner-solution-engineer-at-parloa-4424731954",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solution engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "78b776c123c9d059"
+  },
+  {
+   "source": "linkedin",
+   "company": "Jobot",
+   "title": "Senior Sales Engineer",
+   "location": "Pleasanton, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-jobot-4466970394",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "0277edb037f995f4"
+  },
+  {
+   "source": "linkedin",
+   "company": "Checkr, Inc.",
+   "title": "Enterprise Account Executive, Upper Mid-Market",
+   "location": "Dallas, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-upper-mid-market-at-checkr-inc-4441248721",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "89766cb6deae861e"
+  },
+  {
+   "source": "linkedin",
+   "company": "Tailscale",
+   "title": "Senior New Business Account Executive",
+   "location": "Denver, CO (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-new-business-account-executive-at-tailscale-4449221084",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
     "account executive"
    ],
-   "matched_skills": [
-    "salesforce",
-    "crm",
-    "enterprise",
-    "partner",
-    "ai",
-    "outbound",
-    "discovery",
-    "demo"
-   ],
+   "matched_skills": [],
    "resume": "generic",
-   "id": "5d1f08b6e390b16c"
+   "id": "c2a164752ad0c26a"
   },
   {
-   "source": "greenhouse",
-   "company": "gitlab",
-   "title": "Senior Revenue Operations Manager",
-   "location": "Remote, Canada; Remote, United States",
-   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8882059002",
-   "posted": "2026-10-09T19:40:28-04:00",
-   "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><strong>An overview of this role</strong></h2> <p>As a Senior Revenue Operations Manager at GitLab, you'll own work the whole go-to-market organization relies on: the policies and processes that govern how we sell and book deals, our global forecasting process, and the Chief Revenue Officer (CRO) operating cadence. You'll report to the Senior Manager, Sales Operations, and work closely with sales leadership, other Revenue Strategy &amp; Operations teams, Finance, Deal Desk, Product, and Data.</p> <p>This is a senior individual contributor role. You'll bring experience running a forecast process day to day and a practical understanding of how a sales organization works. You'll work independently to take a problem from \"something looks off in the numbers\" to a fix that sticks.</p> <p>GitLab is all-remote, and most of our work happens in writing. Clear, concise documentation is a big part of this job.</p> <h2><strong>What you\u2019ll do</strong></h2> <ul> <li>Own the policies that define how deals are booked, credited, and forecasted, including bookings rules, opportunity netting, and sales stages and exit criteria. Write them, get them approved, and make sure the field understands what changed and why.</li> <li>Identify process problems before they affect the numbers. Validate and size the problem with data, find the root cause, and drive the fix with the right team, whether that's Revenue Systems, Deal Desk, Enablement, or compensation.</li> <li>Partner with Revenue Systems to build policy into ",
-   "ats": "greenhouse",
-   "score": 75,
+   "source": "linkedin",
+   "company": "Snowflake",
+   "title": "Enterprise Account Executive, Observe",
+   "location": "Georgia, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-observe-at-snowflake-4460542637",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "revenue operations"
+    "account executive",
+    "enterprise account executive"
    ],
-   "matched_skills": [
-    "salesforce",
-    "crm",
-    "b2b",
-    "partner",
-    "ai",
-    "pipeline"
-   ],
+   "matched_skills": [],
    "resume": "generic",
-   "id": "32430fc4e97da78f"
+   "id": "f4e4192fc17e63fb"
   },
   {
-   "source": "ashby",
-   "company": "ramp",
-   "title": "Channel Partner Manager, Accounting  ",
-   "location": "New York, NY (HQ) (Remote)",
-   "url": "https://jobs.ashbyhq.com/ramp/440606b5-1923-4f9d-a0ed-c126445b9477",
-   "posted": "2026-10-09T23:32:30.531000+00:00",
-   "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role Ramp's Accounting Channel is seeing exponential growth, and as an early member of the team, you'll have the opportunity to help scale the go-to-market engine and strategy that fuels a key growth driver for the company. At Ramp, we are looking for candidates with a proven track record of acquiring and building net new relationships with accounting and advisory partners, enabling and onboarding their team members, and achieving consistent quota attainment and overachievement through closing client referrals. What You'll Do Source, qualify and conduct deep discovery with net new Accounting partners Sign partners and create comprehensive GTM plans Drive revenue for Ramp through generating client referrals from accounting firms Identify and build relationships with multiple stakeholders within an accounting firm Educate accounting firms on Ramp's offering and articulate the value props Hold monthly and quarterly business reviews with key accounting partners Work cross-functionally across marketing, growth, direct sales, and product & engineering to drive co-marketing opportunities, onboard new clients and inform our product roadmap Become an expert in Ramp's product, features, and workflows Build new (and improve existing) workflows and sales motions to contribute to our team's continued success What You Need 3+ years of professional experience, ideally in Partnerships, Full-Cycle Sales, or a high-volume pipeline generation role Comfortable running a high volume of partner meetings each week and switching between activating new partners and growing existing ones Strong discovery skills, with a knack for identifying pain points and consultative selling History as a top performer, regularly exceeding targets and quotas Dedication to tracking and improving performance and efficiency on a daily basis Strong written and verbal communication skills, with excellent listening skills Bias for action and strong desire to work in a fast-paced startup environment Strong cross-functional collaborator who can build relationships acro",
-   "ats": "ashby",
-   "salary": "$14K \u2013 $214K \u2022 Offers Equity \u2022 Offers Commission \u2022 Multiple Ranges",
-   "score": 74,
+   "source": "linkedin",
+   "company": "Docusign",
+   "title": "Account Executive, Strategic Enterprise",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/account-executive-strategic-enterprise-at-docusign-4459435521",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "partner manager"
+    "account executive"
    ],
-   "matched_skills": [
-    "channel",
-    "partner",
-    "ai",
-    "quota",
-    "pipeline",
-    "discovery"
-   ],
+   "matched_skills": [],
    "resume": "generic",
-   "id": "c4591c17dafabd9e"
+   "id": "c0437953706203f8"
   },
   {
-   "source": "greenhouse",
-   "company": "zoominfo",
-   "title": "Senior Account Manager (Enterprise)",
-   "location": "Remote",
-   "url": "https://www.zoominfo.com/careers?gh_jid=8504483002",
-   "posted": "2026-10-07T11:51:03-04:00",
-   "description": "<div class=\"content-intro\"><p>ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You\u2019ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won\u2019t just contribute. You\u2019ll make things happen\u2013fast.</p></div><p>Join our dynamic team as an <strong>Account Manager, Enterprise Core </strong>and be at the forefront of selling a market leading solution. In this role, you\u2019ll be working within an assigned book of business to retain our highest spend enterprise customers, while looking for opportunities to expand their relationships through cross-sell and upsell. You\u2019ll thrive in a growing organization with exciting career growth opportunities. You'll work alongside driven, supportive teammates, sell proprietary data products that enterprise clients rely on, and earn competitive compensation with unlimited upside.</p> <p><strong>What You Will Do:</strong></p> <ul> <li>Manage six-figure renewals by demonstrating measurable business outcomes driven by ZoomInfo's data points and products</li> <li>Lead data validation exercises and proof-of-value engagements that connect ZoomInfo data to measurable client business outcomes</li> <li>Own a book of business comprising ~20 accounts with an employee headcount over 1,000.</li> <li>Increase spend into these accounts to grow them via off-cycle upsell with deal sizes ranging $100K-$500K+ ACV.</li> <li>Identify new business opportunities within existing clients using referrals, prospecting into white space and utilizing established relationships.</li> <li>Work collaboratively with an entire team of internal resources to navigate complex use cases and ensure tight alignment with customers on how ZoomInfo can help them achieve their business objectives.</li> </ul> <p><strong>What You Bring:</strong></p> <ul> <li>6+ years of successful enterprise solution selling experience, with a proven track record of exceeding quotas.</li> <li>Experience closing six-figure deals using value selling frameworks, point-of-view driven sales processes, and MEDDIC methodology.</li> <li>Strong data fluency with the ability to connect data insights to measurable business outcomes; familiarity with AI, LLMs, and data foundation principles with the ability to articulate their impact on organizational goals.</li> <li>Confidence working with and selling to C-Level executives in IT and GTM, navigating multiple business stakeholders throughout the sales cycle.</li> <li>Consultative, education-first selling approach that guides customers through their AI transformation journey.</li> <li>Technically oriented mindset with the ability to engage confidently in complex, solution-driven conversations.</li> <li>Experience selling alongside ecosystem partners like hyperscalers and global consultancies.</li> <li>Broad business acumen spanning enterprise functions including IT, Finance,",
-   "ats": "greenhouse",
-   "score": 62,
+   "source": "linkedin",
+   "company": "Datadog",
+   "title": "Strategic Account Executive",
+   "location": "Florida, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/strategic-account-executive-at-datadog-4460543038",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "account manager"
+    "account executive"
    ],
-   "matched_skills": [
-    "enterprise",
-    "partner",
-    "ai",
-    "llm",
-    "automation",
-    "quota",
-    "demo"
-   ],
+   "matched_skills": [],
    "resume": "generic",
-   "id": "376b56d5f26ce572"
+   "id": "166a4a87b5479cd7"
   },
   {
-   "source": "greenhouse",
-   "company": "samsara",
-   "title": "Implementation Consultant",
-   "location": "Remote - CA",
-   "url": "https://www.samsara.com/company/careers/roles/8236004?gh_jid=8236004",
-   "posted": "2026-10-07T20:23:27-04:00",
-   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p style=\"font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;\"><span style=\"color: #00263e; background-color: transparent;\"><strong>About the role:<br></strong></span><strong><br></strong>Samsara\u2019s Customer Success team advises and guides our customers, ensuring they adopt Samsara and continuously gain business value from our products. We are the trusted point of contact for Samsara\u2019s Mid-Market customers throughout their lifecycle: onboarding, adoption, advocacy, and renewal.<br><br>In this role, you will be part of our Implementation team, responsible for helping Mid-Market customers deploy and adopt our IoT solutions for their fleet and industrial assets. Picking up where our sales teams leave off, you will own the customer relationship and ensure a successful deployment of Samsara's solution. Your customers span the entire range of businesses that power our economy, including trucking and transportation, food and beverage, passenger transit, utilities, school buses, and many others. All the while building relationships with the customer, helping them learn our system and overall ensuring a successful customer relationship.<br><br>Your role will be cross-functional in nature, working alongside and connecting Sales, Support, Sales Engineering, and Product, enabling you to experience multiple aspects of a fast-growing company from within.<br><br>This role requires exceptional customer-facing communication skills, the ability to quickly understand a customer's business, and comfort explaining technology products to both executives and day-",
-   "ats": "greenhouse",
-   "score": 61,
+   "source": "linkedin",
+   "company": "MongoDB",
+   "title": "Senior Enterprise Account Executive, Pub Sector",
+   "location": "Tysons Corner, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-enterprise-account-executive-pub-sector-at-mongodb-4469276296",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "implementation"
+    "account executive",
+    "enterprise account executive"
    ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "mid-market",
-    "b2b",
-    "partner",
-    "ai",
-    "demo",
-    "french"
-   ],
+   "matched_skills": [],
    "resume": "generic",
-   "id": "93dae77be78a3a23"
+   "id": "1073dc4061f613c9"
   },
   {
-   "source": "greenhouse",
-   "company": "zoominfo",
-   "title": "Presales Solutions Architect",
-   "location": "Waltham, Massachusetts, United States",
-   "url": "https://www.zoominfo.com/careers?gh_jid=8577950002",
-   "posted": "2026-10-07T13:56:39-04:00",
-   "description": "<div class=\"content-intro\"><p>ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You\u2019ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won\u2019t just contribute. You\u2019ll make things happen\u2013fast.</p></div><p>&nbsp;</p> <p>As a <strong>Presales Solutions Architect</strong>, you will play a crucial role in bridging the gap between our innovative solutions and our clients' business needs. You will engage directly with customers to understand their unique challenges, identify opportunities for our solutions, and effectively communicate the tangible business value of ZoomInfo data within GTM systems and offerings. Your expertise in consulting, solution discovery, and value communication will be essential in driving customer satisfaction and sales growth.&nbsp;</p> <p><strong>What You Will Do:</strong></p> <ul> <li>Collaborate with clients to conduct thorough needs assessments and identify their business challenges, goals, and opportunities for our data and solutions</li> <li>Serve as the primary customer-facing representative for solution design and, value assessments, working closely with prospects and existing clients to ensure alignment between their needs and our offerings</li> <li>Develop and present comprehensive ROI assessments to quantify the financial impact of our solutions on client operations, leveraging data-driven insights</li> <li>Craft and deliver compelling narratives that clearly articulate the business value and strategic advantages of our solutions to diverse stakeholders</li> <li>Establish and maintain a robust framework for discovery sessions and solution proposals that can be utilized across the sales organization to ensure consistency and effectiveness</li> <li>Prepare and deliver high-level presentations and workshops to executive teams, ensuring they grasp the solution framework, value proposition and potential ROI of our solutions</li> </ul> <p>&nbsp;</p> <p><strong>What You Bring:</strong></p> <ul> <li>Bachelor\u2019s degree in Business, Marketing, or a related field</li> <li>5+ years of experience in solution selling, consulting, or a similar customer-facing role, preferably within the SaaS industry</li> <li>Proven experience in ROI assessment and business value communication</li> <li>Strong analytical skills with the ability to assess customer needs and translate them into actionable insights</li> <li>Excellent presentation skills, with a track record of successfully engaging executive-level stakeholders</li> <li>Experience in developing tools or frameworks for value assessment and communication</li> <li>Exceptional interpersonal skills and the ability to build relationships with clients and internal teams</li> <li>Ability to establish structure, process, and direction, helping customers navigate uncertainty and move confidently forward</li> <li>Experi",
-   "ats": "greenhouse",
-   "score": 61,
-   "remote": false,
+   "source": "linkedin",
+   "company": "Workwize",
+   "title": "Senior Account Executive  (SaaS)",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-saas-at-workwize-4393932622",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
    "portland": false,
-   "remote_in_listing": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "c3aed5773975b883"
+  },
+  {
+   "source": "linkedin",
+   "company": "Gotransverse",
+   "title": "Senior Enterprise Account Executive",
+   "location": "Austin, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-enterprise-account-executive-at-gotransverse-4478071763",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "92bbb2a07ad7d734"
+  },
+  {
+   "source": "linkedin",
+   "company": "Sectigo",
+   "title": "Enterprise Sales Strategic Account Executive (Ohio or Pennsylvania)",
+   "location": "Philadelphia, PA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-sales-strategic-account-executive-ohio-or-pennsylvania-at-sectigo-4433395387",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "61880d801570f438"
+  },
+  {
+   "source": "linkedin",
+   "company": "Forter",
+   "title": "Enterprise Account Executive, West",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-west-at-forter-4433597789",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "729e4a1d8ae0d420"
+  },
+  {
+   "source": "linkedin",
+   "company": "Vertice",
+   "title": "Senior AI Solutions Consultant - Pre Sales",
+   "location": "New York City Metropolitan Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-ai-solutions-consultant-pre-sales-at-vertice-4423249993",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "7fe03eab018ffe2d"
+  },
+  {
+   "source": "linkedin",
+   "company": "Stripe",
+   "title": "Solutions Architect, Enterprise Hunter (Presales)",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-architect-enterprise-hunter-presales-at-stripe-4465848785",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
    "matched_title": [
     "presales",
     "solutions architect"
    ],
-   "matched_skills": [
-    "saas",
-    "ai",
-    "automation",
-    "discovery"
-   ],
+   "matched_skills": [],
    "resume": "generic",
-   "id": "a45af48d24ce0097"
+   "id": "5f40872992c1a239"
   },
   {
-   "source": "ashby",
-   "company": "notion",
-   "title": "Global Demo Engineer",
-   "location": "San Francisco, California (Remote)",
-   "url": "https://jobs.ashbyhq.com/notion/57b88701-42ce-4c7d-901d-bf65a6256ebc",
-   "posted": "2026-10-09T17:26:07.510000+00:00",
-   "description": "Who We Are Notion is the collaborative AI workspace where teams and agents think together . We're building one place where your knowledge, projects, meetings, and AI tools live side by side, so work is faster, clearer, and less fragmented. Millions of individuals, small teams, and large companies run their work on Notion. Notinos (our employees) are customer zero in bringing this future of work to life. We care about craft, building things that last, and the belief that great work is still fundamentally human. Our goal isn\u2019t to ship the next feature. Each and every team of Notinos is working to set the standard for how humans work together in the AI era. From building a business\u2019s system of record to making and managing AI agents to automating away the busy work, we care deeply about giving our customers more time for their life\u2019s work. About the Role: As one of Notion\u2019s founding Demo Engineers, you\u2019ll build the global demo engine behind how we bring Notion\u2019s most important customer stories to life. You\u2019ll shape the standards, systems, and experiences that help our Sales teams demonstrate what is possible with Notion, from the first customer conversation through implementation and deployment. This is a high-impact opportunity to create the function from the ground up. You\u2019ll establish global standards, turn our strongest customer solutions into repeatable demos, and give regional teams the tools and autonomy to innovate. Your work will directly influence how customers understand Notion\u2019s platform, AI capabilities, and potential to transform how their organizations work. This role reports to the Global Head of Acquisition and partners closely with Sales, Forward Deployed Engineering (FDE), Enablement, and PMM. This role can be based in either San Francisco or New York City. We work from our offices on Mondays, Tuesdays and Thursdays (our Anchor Days) because we do our best thinking and building together in person. We\u2019re looking for someone who\u2019s excited to work alongside the team during those days. What You'll Achieve: Build the global demo engine that brings Notion\u2019s most important customer stories to life Partner with Enablement and PMM to define the core narratives, scripts, environments, and assets for each demo Create a durable release and versioning process so demos stay current as the product evolves Automate repeatable setup and maintenance wherever possible so the system can scale globally Turn Notion\u2019s strongest customer and internal solutions into reusable GTM assets Identify high-impact use cases and transform them into repeatable, field-ready demos Partner with FDE to package customer solutions, implementation guidance, and technical patterns into demos the field can confidently deliver Work with GTM Systems to translate demos into workspaces that can be deployed in customer environments Set the global standard for demo quality and help the field deliver it Define what great looks like for each demo moment, from the first customer con",
-   "ats": "ashby",
-   "salary": null,
-   "score": 61,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "demo engineer"
-   ],
-   "matched_skills": [
-    "saas",
-    "salesforce",
-    "enterprise",
-    "partner",
-    "ai",
-    "automation",
-    "discovery",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "cacfc700064a83a6"
-  },
-  {
-   "source": "ashby",
-   "company": "ashby",
-   "title": "Manager of Implementations, High Touch - EMEA",
-   "location": "Remote - European Union (Remote)",
-   "url": "https://jobs.ashbyhq.com/ashby/35a01a05-8efd-4bc3-a4bf-0a31d902102d",
-   "posted": "2026-10-08T20:01:05.025000+00:00",
-   "description": "Manager of Implementations, High Touch - EMEA Hi, I\u2019m John and I\u2019m the Head of Professional Services at Ashby. One of my favorite aspects of Ashby is our operating principle of Continuous Improvement . Coupled with our principle of caring deeply about our customers, we often find ourselves wondering \u2018what is a better way to accomplish this\u2019. That\u2019s why I am thrilled to be hiring an EMEA Manager of High Touch Implementations! As a leader on our growing Professional Services team (within Ashby\u2019s Customer Success organization), you\u2019ll have the opportunity to play a key role early in our customers\u2019 journey, ultimately upleveling the overall customer experience. About this role: As our Manager of High Touch Implementations in EMEA, you will play a key role in ensuring high-quality experiences for customers beginning their Ashby journey. You will lead an EMEA-based team of Implementation Specialists aligned to our High Touch (mid-market) customers, reporting into our EMEA Manager of Implementations. You will oversee the delivery of segment-aligned implementation experiences, and will partner cross-functionally to support scoping and planning for prospective customers. Role requirements: Implementation & Project Management: You have extensive experience managing and executing implementation and onboarding projects (defining the work, aligning with stakeholders, communicating the project plan, and ultimately delivering results in accordance with the agreed upon expectations). You keep the team on track to ensure milestones are met. You work effectively in a remote-first setting, with the ability to travel <10% as needed for strategic customer engagements. Team Leadership: You build and scale high-performing teams, empowering them to achieve outcomes that meet or exceed the high standards set by our team and company. Customer Centricity: You are adept at understanding customer needs and tailoring implementations to meet their specific requirements. You build strong customer relationships by maintaining high levels of engagement and communication; you\u2019re the customer\u2019s proactive guide and advocate throughout the implementation period. Bias for Action: You move work forward, translating ambiguity into clear paths, driving toward outcomes, and ensuring follow-through. Regional Focus: You leverage your understanding of the EMEA market to define and evolve how implementations are delivered, ensuring our approach optimizes for regional considerations and scales without compromising quality. Fluency with Enterprise Motions: You are comfortable operating in complex enterprise environments with multiple stakeholders, competing priorities, and evolving requirements. You are experienced in navigating change management processes at scale and helping customers adapt to new systems and a refreshed approach. Technical Proficiency: You have a solid understanding of a complex product (ideally Ashby) and its technical intricacies; you are technically curious and creative. ",
-   "ats": "ashby",
-   "salary": "\u20ac108,750 \u2013 \u20ac142,375 \u2022 Offers Equity \u2022 Multiple Ranges",
-   "score": 61,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "implementation"
-   ],
-   "matched_skills": [
-    "enterprise",
-    "mid-market",
-    "channel",
-    "partner",
-    "ai",
-    "emea",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "2fe13068c8de60e5"
-  },
-  {
-   "source": "greenhouse",
-   "company": "samsara",
-   "title": "Strategic Implementation Consultant",
-   "location": "Remote - US",
-   "url": "https://www.samsara.com/company/careers/roles/8039126?gh_jid=8039126",
-   "posted": "2026-10-08T12:33:29-04:00",
-   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>About the role:</strong></span></p> <p><span style=\"font-family: arial, helvetica, sans-serif;\">Samsara\u2019s Strategic Customer Success team advises and guides our largest customers, ensuring they adopt Samsara and continuously gain business value from our products. We are the trusted point of contact for Samsara\u2019s strategic customers throughout their lifecycle: onboarding, adoption, advocacy, and renewal.&nbsp;</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif;\">In this role, you will be part of our Implementation team, responsible for helping Enterprise customers deploy and adopt our IoT solutions for their fleet and industrial assets. Picking up where our sales teams leave off, you will own the customer relationship and ensure a successful deployment of Samsara's solution. Your customers span the entire range of businesses that power our economy, including trucking and transportation, food and beverage, passenger transit, utilities, school buses, and many others. All the while building relationships with the customer, helping them learn our system, and overall ensuring a successful customer relationship.</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif;\">Your role will be cross-functional in nature, working alongside and connecting Sales, Support, Sales Engineering and Product, enabling you to experience multiple aspects of a fast growing company from within.&nbsp;</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif;\">This role requires exceptional customer-facing communication skills, the ability to quickly unders",
-   "ats": "greenhouse",
-   "score": 60,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "implementation"
-   ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "enterprise",
-    "partner",
-    "ai",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "99a81b1b4f09fe07"
-  },
-  {
-   "source": "greenhouse",
-   "company": "toast",
-   "title": "Customer Success Manager II, SMB -Account Strategy",
-   "location": "Remote ",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8265595",
-   "posted": "2026-10-09T11:15:21-04:00",
-   "description": "<p>Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.</p> <p><strong>A day in the life</strong></p> <p>The Customer Success Manager (CSM) II, SMB \u2013 Account Strategy role sits at the heart of&nbsp; Toast's customer retention strategy. This team engages directly with customers in real-time to understand their needs, demonstrate the value of the Toast platform, and ensure every customer has the opportunity to thrive with Toast.</p> <p>In this highly visible role, you will lead consultative retention conversations, navigate contract and pricing discussions, and leverage Toast's product suite to help restaurants find every reason to continue growing with Toast. This is a high-volume, inbound and outbound engagement position that requires strict adherence to service levels, a strong phone presence, and the ability to handle complex conversations with confidence and empathy.</p> <p>Account Strategy CSMs partner closely with cross-functional teams and senior leadership, operating in a focused, data-driven motion with clear success metrics tied to retention, customer outcomes, and long-term growth on Toast.</p> <p><strong><em>What you'll do </em>(Responsibilities)</strong></p> <ul> <li>Staff a dedicated high-volume Account Strategy phone and chat line with adherence to service levels and schedule, engaging customers in real-time to understand their needs and ensure they are set up for long-term success on Toast</li> <li>Lead consultative, value-based retention conversations tailored to each customer's unique business and tech stack, helping them realize the full potential of the Toast platform</li> <li>Navigate complex customer conversations with professionalism, empathy, and confidence \u2014 including objection handling, competitive discussions, and contract and pricing negotiations</li> <li>Diagnose customer needs quickly and identify the best path forward to help each customer continue to grow and succeed with Toast</li> <li>Accurately document interactions, outcomes, and customer feedback with strong attention to data hygiene, case management, and reporting</li> <li>Leverage data, account insights, and internal tools to inform retention strategies and real-time decision-making</li> <li>Act as the voice of the customer, surfacing insights and competitive trends to internal partners and leadership to continuously improve the customer experience</li> <li>Operate in a focused, repeatable motion designed to work at scale while delivering exceptional, personalized customer experiences</li> <li>Collaborate cross-functionally with Sales, Support, Product, and Finance to drive customer outcomes and support escalation paths</li> </ul> <p><strong><em>What you'll need to thrive </em>(Requirements)</strong></p> <ul> <li>2+ years of Account Management, Customer Success, or retention-focused experience with a track record of driving pos",
-   "ats": "greenhouse",
-   "score": 59,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "customer success manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "salesforce",
-    "smb",
-    "partner",
-    "ai",
-    "outbound",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "2d335c9fd0743696"
-  },
-  {
-   "source": "workday",
-   "company": "NVIDIA",
-   "title": "Senior Solutions Architect, Retail",
-   "location": "US, CA, Remote",
-   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Remote/Senior-Solutions-Architect--Retail_JR2016694",
-   "posted": "2026-10-06T17:25:38.642453+00:00",
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Sr. GenAI Specialist Solutions Architect, SLG/EDU Specialist SA",
+   "location": "Arlington, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-genai-specialist-solutions-architect-slg-edu-specialist-sa-at-amazon-web-services-aws-4460546198",
+   "posted": "2026-10-11T00:00:00+00:00",
    "description": "",
-   "ats": "workday",
-   "score": 58,
+   "ats": "linkedin",
+   "score": 64,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
@@ -314,312 +733,131 @@
    ],
    "matched_skills": [],
    "resume": "generic",
-   "id": "cae0ec37c5303410"
+   "id": "27a6c9869d5676e0"
   },
   {
-   "source": "greenhouse",
-   "company": "stripe",
-   "title": "Partner Development Manager, Alliances and Channels",
-   "location": "US-Remote",
-   "url": "https://stripe.com/jobs/search?gh_jid=8165267",
-   "posted": "2026-10-07T19:02:27-04:00",
-   "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world\u2019s largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone\u2019s reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Worldwide Alliances and Channels team is responsible for developing and managing a global community of partners that helps ambitious businesses with industry-leading payments and financial infrastructure solutions and services. These partnerships help Stripe unlock market opportunities and accelerate user growth across segments, from startups to enterprise companies.</p> <h2><strong>What you\u2019ll do</strong></h2> <p>We are looking for an enthusiastic Partner Development Manager (PDM) to join the Americas Alliances &amp; Channels team. This is a partner relationship and revenue-generating role, reporting to Americas Alliances &amp; Channels leadership. <br><br>You\u2019ll cultivate and maintain relationships with executives and sales teams at Stripe and partner organizations. You\u2019ll secure new business, negotiate and close strategic partnerships, and help accelerate Stripe\u2019s business across the region with systems integrators, consulting firms, and development agencies. You\u2019ll also execute Stripe\u2019s global partner programs, marketing, enablement, and co-selling initiatives across the region, driving partner participation and engagement.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Build deep relationships across sales, and marketing, and partner leadership teams.</li> <li>Develop a revenue-generating joint go-to-market plan for assigned partners, including joint activities such as events and webinars, engagement with partner account executives through enablement and co-selling plans, and solution development.&nbsp;</li> <li>Develop and execute Stripe\u2019s partner strategy with assigned partners, aligned with Stripe\u2019s regional business and global partner strategy</li> <li>Advocate for partners and identify partnership growth opportunities</li> <li>Report weekly, monthly, and quarterly to key stakeholders, using a strong analytical approach and clear communication</li> <li>Work with program, marketing, and sales teams to execute partner programs, events, and sales engagement</li> <li>Build playbooks and collateral that help partners sell effectively</li> </ul> <h2><strong>Who you are</strong></h2> <p>We\u2019re looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.</p> <h3><strong>Minimum ",
-   "ats": "greenhouse",
-   "score": 57,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "alliances"
-   ],
-   "matched_skills": [
-    "enterprise",
-    "b2b",
-    "channel",
-    "partner",
-    "ai",
-    "pipeline"
-   ],
-   "resume": "generic",
-   "id": "640646677ce8e640"
-  },
-  {
-   "source": "greenhouse",
-   "company": "stripe",
-   "title": "Partner Development Manager, Global Strategic Alliances",
-   "location": "US-SF",
-   "url": "https://stripe.com/jobs/search?gh_jid=7461966",
-   "posted": "2026-10-07T19:02:27-04:00",
-   "description": "<h2><strong>About Stripe</strong></h2> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>The Global Alliances and Channels team drives growth by building and scaling go-to-market (GTM) partnerships with world-class professional services firms, including global systems integrators (GSIs) and consultancies, alongside strategic technology leaders like AWS, Salesforce, and Adobe. Our mission is to provide users with a comprehensive ecosystem of technology and industry expertise, ensuring Stripe and our partners build high-growth, mutually beneficial businesses. We bridge the gap between Stripe\u2019s platform and the specialized solutions our users need to scale globally.</p> <h3><strong>What you\u2019ll do</strong></h3> <p>As the Global Lead for Deloitte and PwC, you will drive the success of Stripe\u2019s global alliance with these GSI\u2019s by setting global strategy and enabling strong local execution of joint go-to-market and co-sell motions across all active regions. You will own the business plan, driving mutual revenue growth and strategic alignment across the GSI\u2019s Payments, Industry, and AI practices.</p> <p>You will partner with Partner Development Managers and Partner Sales Managers globally to generate net-new demand, expand the partnership, and support Partner Development Manager activities across priority GEO\u2019s. In this highly visible, fast-paced role, you will advance our strategic relationship through joint sales execution, solution development, and delivery alignment while maintaining a global view of partner performance and accelerating partner-driven revenue across Stripe\u2019s sales segments.</p> <p>You will collaborate cross-functionally with Partner Sales leadership, Partner Development, Account Executives, and other Stripe teams to identify high-impact opportunities, support complex deals, and maintain strong operational rigor. Success requires deep knowledge of the Stripe partner ecosystem, strong stakeholder leadership, and a partner-first mindset that drives measurable customer value and shared growth for both the GSI\u2019s and Stripe.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Build, enable, and operate the global PwC and Deloitte strategy and business, owning the global business plan and associated KPIs</li> <li>Set partnership objectives, goals, and strategic direction while acting as the senior counterpart to PwC and Deloitte executive sponsors</li> <li>Collaborate on joint GTM strategy, including strategic priorities, target markets, and ind",
-   "ats": "greenhouse",
-   "score": 57,
-   "remote": false,
-   "portland": false,
-   "remote_in_listing": false,
-   "matched_title": [
-    "alliances"
-   ],
-   "matched_skills": [
-    "msp",
-    "cloud",
-    "salesforce",
-    "enterprise",
-    "channel",
-    "partner",
-    "ai",
-    "pipeline"
-   ],
-   "resume": "generic",
-   "id": "fe901562b7653c6d"
-  },
-  {
-   "source": "ashby",
-   "company": "elevenlabs",
-   "title": "Account Manager - Corporate",
-   "location": "United States (Remote)",
-   "url": "https://jobs.ashbyhq.com/elevenlabs/4e544a96-ed24-42c0-ba70-7f0bab6ffbb2",
-   "posted": "2026-10-07T17:53:22.675000+00:00",
-   "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. About the role You will own the full commercial relationship and customer\u2019s success across a book of 100 to 200 corporate accounts - the builders, founders, and product teams at companies up to 250 employees who are defining what AI-native experiences look, feel, and sound like. Your job is to make sure every one of them is getting real value, expanding into new products, and renewing with conviction. Thi",
-   "ats": "ashby",
-   "salary": null,
-   "score": 57,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "account manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "enterprise",
-    "b2b",
-    "partner",
-    "ai",
-    "quota"
-   ],
-   "resume": "generic",
-   "id": "264a008b672939e8"
-  },
-  {
-   "source": "ashby",
-   "company": "ashby",
-   "title": "Implementation Consultant - Americas",
-   "location": "Remote - US (Remote)",
-   "url": "https://jobs.ashbyhq.com/ashby/1e6bf4c7-6452-418b-9277-a28eb8a6f218",
-   "posted": "2026-10-06T21:00:55.318000+00:00",
-   "description": "Implementation Consultant - Americas Hi! I\u2019m Morgan, the Manager of Strategic Implementations here at Ashby. Our customers are at the center of everything we do, and that\u2019s especially true during implementation. We take pride in being responsive, collaborative partners who focus not just on delivery, but on thoughtful execution. I\u2019m thrilled to be expanding our implementation motion by hiring an Implementation Consultant. As part of our growing Professional Services team within Ashby\u2019s Customer Success organization, you\u2019ll play a critical part in helping customers bridge the gap between potential and actual value. About this role: As our Implementation Consultant, you will own execution of the technical configuration for a defined set of new Ashby customers. During these implementations, you will partner closely with an Implementation Specialist to confirm customer requirements before leading the tailored configuration of native platform functionality. As initial configuration concludes, you will define and carry out a testing plan ahead of go-live. You will also document final configuration choices made to ensure visibility and allow for ongoing optimization post-launch. As we scale, we\u2019re investing in more specialized implementation roles to ensure customers get to value quickly. This role is ideal for someone earlier in their implementation or customer-facing career who is excited to learn, grow, and develop deep expertise in a complex product. You\u2019ll work with increasing independence over time with support from more senior Implementation Specialists and cross-functional partners. This role is designed as a pathway into the more senior Implementation Specialist role over time. Role requirements: Complex SaaS Implementation & Project Management: You have deep experience contributing to or owning implementation projects for complex SaaS products (actioning a defined project plan, communicating and aligning with stakeholders on progress, and ultimately delivering results in accordance with the agreed upon expectations). You feel comfortable independently owning your domain, as well as keeping customers accountable to theirs. You work effectively in a remote-first setting, with the ability to travel as needed (<5%) for strategic customer engagements. Customer Centricity: You are adept at understanding enterprise customer needs and tailoring implementation configurations to meet their specific requirements. You build strong customer relationships by maintaining high levels of engagement and communication. You serve as the customer\u2019s proactive guide and advocate related to technical configuration, balancing empathy and practicality throughout the implementation. Bonus points if you have prior familiarity with Talent Acquisition teams and processes. Technical Proficiency: You have a solid understanding of a complex product (ideally Ashby) and its technical intricacies. You are technically curious and creative. Critical Thinking & Solutions Orientatio",
-   "ats": "ashby",
-   "salary": "$90K \u2013 $129K \u2022 Offers Equity \u2022 Multiple Ranges",
-   "score": 57,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "implementation"
-   ],
-   "matched_skills": [
-    "saas",
-    "enterprise",
-    "partner",
-    "ai",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "ee09958bc4966e0b"
-  },
-  {
-   "source": "lever",
-   "company": "veeva",
-   "title": "Customer Success Manager - Commercial Content",
-   "location": "Massachusetts - Boston, Full-Time (remote)",
-   "url": "https://jobs.lever.co/veeva/183bf848-398b-4459-934e-2f2ca5793114",
-   "posted": "2026-10-08T21:56:11.202000+00:00",
-   "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company \u2013 we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment. Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities. The Role As a Customer Success Manager, you will be responsible for ensuring our customers\u2019 success with Veeva\u2019s Commercial Content and Medical Vault applications. You will serve as a liaison between Veeva and key customer stakeholders to foster collaboration, highlight value using our applications through proactive engagement and triage escalations. You will partner with global customers to understand their business goals, ways of working and challenges and then determine how they can further leverage their existing investments to meet those needs.",
-   "ats": "lever",
-   "score": 53,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "customer success manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "partner",
-    "ai"
-   ],
-   "resume": "generic",
-   "id": "17ed23f81fd1ee1a"
-  },
-  {
-   "source": "lever",
-   "company": "veeva",
-   "title": "Customer Success Manager - Commercial Content",
-   "location": "Pennsylvania - Philadelphia, Full-Time (remote)",
-   "url": "https://jobs.lever.co/veeva/49a25b69-56f9-49c4-918b-6e70ab180c94",
-   "posted": "2026-10-08T21:55:32.839000+00:00",
-   "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company \u2013 we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment. Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities. The Role As a Customer Success Manager, you will be responsible for ensuring our customers\u2019 success with Veeva\u2019s Commercial Content and Medical Vault applications. You will serve as a liaison between Veeva and key customer stakeholders to foster collaboration, highlight value using our applications through proactive engagement and triage escalations. You will partner with global customers to understand their business goals, ways of working and challenges and then determine how they can further leverage their existing investments to meet those needs.",
-   "ats": "lever",
-   "score": 53,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "customer success manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "partner",
-    "ai"
-   ],
-   "resume": "generic",
-   "id": "4ce0be99cb3325b2"
-  },
-  {
-   "source": "lever",
-   "company": "veeva",
-   "title": "Customer Success Manager - Commercial Content",
-   "location": "Illinois - Chicago, Full-Time (remote)",
-   "url": "https://jobs.lever.co/veeva/95cfeb57-342a-4921-bab0-0f75adc43042",
-   "posted": "2026-10-08T21:54:33.995000+00:00",
-   "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company \u2013 we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment. Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities. The Role As a Customer Success Manager, you will be responsible for ensuring our customers\u2019 success with Veeva\u2019s Commercial Content and Medical Vault applications. You will serve as a liaison between Veeva and key customer stakeholders to foster collaboration, highlight value using our applications through proactive engagement and triage escalations. You will partner with global customers to understand their business goals, ways of working and challenges and then determine how they can further leverage their existing investments to meet those needs.",
-   "ats": "lever",
-   "score": 53,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "customer success manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "partner",
-    "ai"
-   ],
-   "resume": "generic",
-   "id": "0a5de4968f7aabcb"
-  },
-  {
-   "source": "lever",
-   "company": "veeva",
-   "title": "Customer Success Manager - Quality",
-   "location": "Illinois - Chicago, Full-Time (remote)",
-   "url": "https://jobs.lever.co/veeva/579e0618-1cf5-46d7-a6cd-3360c66103f9",
-   "posted": "2026-10-08T19:46:27.636000+00:00",
-   "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company \u2013 we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment. Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities. The Role As a Customer Success Manager, you will be responsible for ensuring our customers\u2019 success with Veeva\u2019s Quality applications. You will serve as a liaison between Veeva and key customer stakeholders to foster collaboration, highlight value using our applications through proactive engagement and triage escalations. You will partner with global customers to understand their business goals, ways of working and challenges and then determine how they can further leverage their existing investments to meet those needs.",
-   "ats": "lever",
-   "score": 53,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "customer success manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "partner",
-    "ai"
-   ],
-   "resume": "generic",
-   "id": "83f50e85cd667246"
-  },
-  {
-   "source": "lever",
-   "company": "veeva",
-   "title": "Customer Success Manager - Quality",
-   "location": "Pennsylvania - Philadelphia, Full-Time (remote)",
-   "url": "https://jobs.lever.co/veeva/bf77c839-0073-4fe8-957b-1572f746a6ab",
-   "posted": "2026-10-08T19:48:19.518000+00:00",
-   "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company \u2013 we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment. Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities. The Role As a Customer Success Manager, you will be responsible for ensuring our customers\u2019 success with Veeva\u2019s Quality applications. You will serve as a liaison between Veeva and key customer stakeholders to foster collaboration, highlight value using our applications through proactive engagement and triage escalations. You will partner with global customers to understand their business goals, ways of working and challenges and then determine how they can further leverage their existing investments to meet those needs.",
-   "ats": "lever",
-   "score": 53,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "customer success manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "partner",
-    "ai"
-   ],
-   "resume": "generic",
-   "id": "59f0302b885fa091"
-  },
-  {
-   "source": "lever",
-   "company": "veeva",
-   "title": "Customer Success Manager - Quality",
-   "location": "Massachusetts - Boston, Full-Time (remote)",
-   "url": "https://jobs.lever.co/veeva/d0cc2938-21fa-43dd-9d55-12dddad5a10e",
-   "posted": "2026-10-08T21:23:06.794000+00:00",
-   "description": "Veeva Systems is a mission-driven organization and pioneer in industry cloud, helping life sciences companies bring therapies to patients faster. As one of the fastest-growing SaaS companies in history, we surpassed $3B in revenue in our last fiscal year with extensive growth potential ahead. At the heart of Veeva are our values: Do the Right Thing, Customer Success, Employee Success, and Speed. We're not just any public company \u2013 we made history in 2021 by becoming a public benefit corporation (PBC), legally bound to balancing the interests of customers, employees, society, and investors. As a Work Anywhere company, we support your flexibility to work from home or in the office, so you can thrive in your ideal environment. Join us in transforming the life sciences industry, committed to making a positive impact on its customers, employees, and communities. The Role As a Customer Success Manager, you will be responsible for ensuring our customers\u2019 success with Veeva\u2019s Quality applications. You will serve as a liaison between Veeva and key customer stakeholders to foster collaboration, highlight value using our applications through proactive engagement and triage escalations. You will partner with global customers to understand their business goals, ways of working and challenges and then determine how they can further leverage their existing investments to meet those needs.",
-   "ats": "lever",
-   "score": 53,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "customer success manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "partner",
-    "ai"
-   ],
-   "resume": "generic",
-   "id": "3b5b276d9aaf0ac8"
-  },
-  {
-   "source": "greenhouse",
-   "company": "tripactions",
-   "title": "Associate Account Manager",
-   "location": "Remote (USA)",
-   "url": "https://navan.com/careers/openings?gh_jid=8160538",
-   "posted": "2026-10-05T08:32:28-04:00",
-   "description": "<p>The Associate Account Manager role is a new and developing function at Navan within the wider Account Management department. Associate Account Managers work alongside Account Managers to provide support to our Travel and Expense customers, specifically to program administrators.&nbsp;</p> <p>As an Associate Account Manager, you will be working with a team of account managers across different market segments and be responsible for delivering an outstanding customer experience. Your role will be to assist customers with product related configuration queries, troubleshooting and resolving issues. You will partner closely with our global Product, Finance, Operations and Travel Experience teams to ensure we are delighting our customers and helping them achieve their goals.</p> <p>We are looking for individuals who have a passion for customer success and account management, embody a \u201cgo- getter\u201d attitude, can communicate effectively and thrive in a fast-paced environment. You can expect world-class training and enablement and a fast track towards a revenue driving Account Manager role.</p> <p><strong>What You\u2019ll Do:</strong></p> <ul> <li>Effectively partner with your assigned team of Account Managers to support their customers, ensuring excellent customer experience through timely, accurate communications.</li> <li>Develop and maintain a deep understanding of our travel and expense product offering to enable programme administrators on the Navan\u2019s product functionality.</li> <li>Monitor and respond to email inquiries from Travel and Expense Administrators related to product integrations and platform settings, travel and expense policy configuration, payment and integration issues troubleshooting and product bugs and feature requests, etc. .</li> <li>Drive satisfaction, adoption, retention, and reduce customer churn risk by providing quick and knowledgeable advice based on customer\u2019s desired outcomes.</li> <li>Handle customer escalations and work across teams to resolve issues.</li> <li>Act as the \u2018voice of the customer\u2019 and provide internal feedback on how we can better serve them to maximize customer value and retention.</li> <li>Run playbooks and program ideas to drive adoption and satisfaction and track results based on defined KPIs.</li> <li>Document processes to support the team efficiently and at scale.</li> </ul> <p><strong>What We\u2019re Looking For:&nbsp;</strong></p> <ul> <li>Bachelor\u2019s degree or similar working experience.</li> <li>1+ year of prior experience in customer success, account management, sales or related customer-facing position within a rapidly growing SaaS company.</li> <li>Passion for customer experience and technology with the ability to deeply understand a product.</li> <li>Superior written and verbal communication skills with the ability to clearly articulate complex concepts and technologies to diverse audiences including C-level executives.</li> <li>Detail-oriented and ability to stay organized and prioritize tasks and ini",
-   "ats": "greenhouse",
-   "score": 46,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "account manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "partner",
-    "ai"
-   ],
-   "resume": "generic",
-   "id": "60c560eac1b5acb1"
-  },
-  {
-   "source": "workday",
-   "company": "KLA",
-   "title": "West Coast PCB Senior Field Supervisor - West Covina",
-   "location": "Virtual/Remote USA",
-   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/VirtualRemote-USA/West-Coast-PCB-Senior-Field-Supervisor_2639938-1",
-   "posted": "2026-10-09T17:25:38.642453+00:00",
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Sr. GenAI Specialist Solutions Architect, SLG/EDU Specialist SA",
+   "location": "Dallas, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-genai-specialist-solutions-architect-slg-edu-specialist-sa-at-amazon-web-services-aws-4460548036",
+   "posted": "2026-10-11T00:00:00+00:00",
    "description": "",
-   "ats": "workday",
-   "score": 38,
+   "ats": "linkedin",
+   "score": 64,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "kla"
+    "solutions architect"
    ],
    "matched_skills": [],
-   "resume": "semiconductor",
-   "id": "bd8c99a8a952431f"
+   "resume": "generic",
+   "id": "e81ccb81d2785adb"
+  },
+  {
+   "source": "linkedin",
+   "company": "Honeywell Technologies",
+   "title": "Senior Healthcare Solutions Consultant",
+   "location": "Atlanta, GA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-healthcare-solutions-consultant-at-honeywell-technologies-4450739455",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "2cb920ba51575c00"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
+   "location": "Arlington, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/technical-account-manager-aws-enterprise-support-strategic-industries-at-amazon-web-services-aws-4460343308",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "a9110e1184be2e05"
+  },
+  {
+   "source": "linkedin",
+   "company": "Akamai Technologies",
+   "title": "Senior Technical Account Manager, Microsegmentation",
+   "location": "Cambridge, MA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-technical-account-manager-microsegmentation-at-akamai-technologies-4460552860",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "a763e2541306294b"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Bilingual/ Mandarin Technical Account Manager, ES - CN-AWS, ES - CN, AWS Enterprise Support",
+   "location": "Seattle, WA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/bilingual-mandarin-technical-account-manager-es-cn-aws-es-cn-aws-enterprise-support-at-amazon-web-services-aws-4468842842",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "3d1ebe9dd70795e9"
+  },
+  {
+   "source": "linkedin",
+   "company": "Ping Identity",
+   "title": "Senior Technical Account Manager",
+   "location": "United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-technical-account-manager-at-ping-identity-4469227381",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "eefd9d7aaee3de2a"
   }
  ]
 }

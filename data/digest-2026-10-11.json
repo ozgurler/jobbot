@@ -1,0 +1,863 @@
+{
+ "generated_at": "2026-10-11T17:44:53.427376+00:00",
+ "counts": {
+  "fetched": 16013,
+  "fresh_matches": 105,
+  "in_digest": 40,
+  "boards_ok": 127,
+  "boards_failed": 2
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 90,
+  "title not relevant": 2051,
+  "onsite outside Portland": 406,
+  "rejected title": 1499,
+  "non-US location": 768
+ },
+ "jobs": [
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Senior Customer Engineer, East China",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190",
+   "posted": "2026-10-11T10:21:55-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><p><strong>Available Location: Beijing, China&nbsp;</strong></p> <p><strong>About the Role</strong></p> <p>At Cloudflare, we are on a mission to help build a better Internet. As the architectural complexity of enterprise solutions scales, we are evolving how we partner with our customers. The Customer Engineer (CE) represents the core driver of our technical go-to-market strategy: a trusted advisor who owns the technical relationship from the initial discovery phase through to long-term adoption and ongoing account expansion.</p> <p>Sitting within the GTM organization and reporting to the Regional Customer Engineering Leader, you will not hand off your customers once an initial agreement is reached. Instead, you will operate as a quota-carrying technologist, utilizing AI-augmented workflows to eliminate administrative toil so you can focus on high-value architectural design and driving measurable business outcomes across the entire customer journey.</p> <p><strong>Key Responsibilities</strong></p> <ul> <li><strong>Technical Validation:</strong> Partner closely with Account Executives to lead technical discovery, build bespoke architectures, and deliver compelling product demonstrations and Proof of Concepts (PoCs) across Cloudflare\u2019s portfolio (Security, Networking, Zero Trust and Developer Platforms).</li> <li><strong>Trusted Advisory:</strong> Act as a trusted technical advisor",
+   "ats": "greenhouse",
+   "score": 88,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "customer engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "rfp",
+    "enterprise",
+    "smb",
+    "partner",
+    "ai",
+    "llm",
+    "automation",
+    "quota",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "0b552762f08be8ec"
+  },
+  {
+   "source": "himalayas",
+   "company": "Apollo",
+   "title": "Enterprise Account Executive (Founding Team)",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/apollo/jobs/enterprise-account-executive-founding-team",
+   "posted": "2026-10-11T14:46:33+00:00",
+   "description": "Apollo .io is the leading go-to-market solution for revenue teams, trusted by over 500,000 companies and millions of users globally, from rapidly growing startups to some of the world's largest enterprises. Founded in 2015, the company is one of the fastest growing companies in SaaS, raising approximately $250 million to date and valued at $1.6 billion. Apollo .io provides sales and marketing teams with easy access to verified contact data for over 210 million B2B contacts and 35 million companies worldwide, along with tools to engage and convert these contacts in one unified platform. By helping revenue professionals find the most accurate contact information and automating the outreach process, Apollo .io turns prospects into customers. Apollo raised a series D in 2023 and is backed by top-tier investors, including Sequoia Capital, Bain Capital Ventures, and more, and counts the former President and COO of Hubspot, JD Sherman, among its board members. Join Apollo as an Enterprise Account Executive (Founding Team). In this role, you\u2019ll play a critical part in driving growth and guiding sales leaders and operations professionals through their evaluation of Apollo \u2019s powerful, all-in-one sales platform. Role Summary: Apollo .io is building its foundational team of sellers responsible for taking the company into the enterprise segment. In this full-cycle land, expand, and renew role, you will drive our growth into organizations with 1,000+ employees by acquiring new logos, retaining and renewing existing customers, and expanding accounts across your book of business. As a founding member of this new segment, you\u2019ll shape our motion, influence strategy, and set the standard for how Apollo wins in larger, more complex environments. This role is ideal for a high-performing seller who wants meaningful ownership, greenfield opportunity, and the ability to directly impact Apollo \u2019s next phase of growth. What You\u2019ll Do: New Logo Acquisition Own a defined set of enterprise accounts (1,000+ employees) as part of Apollo \u2019s first team dedicated to this segment. Proactively engage Director, VP, and C-suite leaders across Sales, Marketing and RevOps to build qualified pipeline and close new logos. Partner with the Outbound BDR team to drive incremental pipeline. Build a repeatable motion for engaging enterprise prospects as Apollo scales upmarket. Achieve 3X pipeline coverage and exceed new business acquisition targets. Account Expansion Mature your understanding of your customers\u2019 business goals to identify cross-sell and upsell opportunities. Build account plans that maximize adoption and generate multi-year growth across your accounts.Partner with Customer Success, Product, and RevOps to ensure customers receive high-impact value that drives expansion revenue.Influence Apollo \u2019s upmarket playbook by identifying expansion patterns and informing product and GTM strategy. Revenue Retention & Renewals Own renewals across your book of business with strong prepara",
+   "ats": "external",
+   "salary": "$250000-280000",
+   "score": 82,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "apollo",
+    "hubspot",
+    "enterprise",
+    "b2b",
+    "partner",
+    "ai",
+    "automation",
+    "quota",
+    "pipeline",
+    "outbound"
+   ],
+   "resume": "generic",
+   "id": "011ee59b6c854333"
+  },
+  {
+   "source": "linkedin",
+   "company": "CyberCoders",
+   "title": "Sales Engineer - Boilers, Industrial Equipment",
+   "location": "San Diego, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sales-engineer-boilers-industrial-equipment-at-cybercoders-4475642108",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "equipment"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "55e1b727098b27eb"
+  },
+  {
+   "source": "linkedin",
+   "company": "Samsung Semiconductor",
+   "title": "Sr. Manager, Foundry Sales Business Development",
+   "location": "San Jose, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-manager-foundry-sales-business-development-at-samsung-semiconductor-4448727295",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 69,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "business development",
+    "semiconductor"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "1fb38fca64e406ae"
+  },
+  {
+   "source": "linkedin",
+   "company": "KLA",
+   "title": "Customer Engagement Applications Engineer",
+   "location": "Phoenix, AZ (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/customer-engagement-applications-engineer-at-kla-4433033469",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 66,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "applications engineer",
+    "kla"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "863119bb93ece4ad"
+  },
+  {
+   "source": "linkedin",
+   "company": "Zscaler",
+   "title": "Senior Sales Engineer - Majors, Florida",
+   "location": "Florida, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-majors-florida-at-zscaler-4450767508",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5a206906945e9bc0"
+  },
+  {
+   "source": "linkedin",
+   "company": "Zscaler",
+   "title": "Senior Sales Engineer - Majors, Georgia",
+   "location": "Georgia, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-majors-georgia-at-zscaler-4450760706",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "64bab667e6b2448e"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cisco",
+   "title": "Solutions Engineer-Enterprise Sales, Nashville",
+   "location": "Nashville, TN (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-engineer-enterprise-sales-nashville-at-cisco-4450552622",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e6ceba03aae6033c"
+  },
+  {
+   "source": "linkedin",
+   "company": "Axon",
+   "title": "Senior Sales Engineer, Enterprise",
+   "location": "Los Angeles, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-enterprise-at-axon-4422149268",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f651e383b1e3f95f"
+  },
+  {
+   "source": "linkedin",
+   "company": "MongoDB",
+   "title": "Senior Solutions Architect (Pre-Sales)",
+   "location": "Cincinnati, OH (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-architect-pre-sales-at-mongodb-4469261967",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "pre-sales",
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "3169ffef6ef78ace"
+  },
+  {
+   "source": "linkedin",
+   "company": "Motorola Solutions",
+   "title": "Senior Presales Engineer",
+   "location": "Allen, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-presales-engineer-at-motorola-solutions-4441920002",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "9457f9b44df21303"
+  },
+  {
+   "source": "linkedin",
+   "company": "MongoDB",
+   "title": "Senior Solutions Architect (Pre-Sales)",
+   "location": "Cleveland, OH (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-architect-pre-sales-at-mongodb-4469275366",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "pre-sales",
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "8995707620fe2427"
+  },
+  {
+   "source": "linkedin",
+   "company": "FYUL",
+   "title": "Solutions Architect/Sales Engineer - Enterprise",
+   "location": "Ohio, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-architect-sales-engineer-enterprise-at-fyul-4460385270",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "630f18426d74e6a7"
+  },
+  {
+   "source": "linkedin",
+   "company": "T-Mobile",
+   "title": "Sr Solutions Engineer - Connected Car IoT Specialist",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-solutions-engineer-connected-car-iot-specialist-at-t-mobile-4478088870",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b8575ae33e08f679"
+  },
+  {
+   "source": "linkedin",
+   "company": "T-Mobile",
+   "title": "Sr Solutions Engineer - Connected Car IoT Specialist",
+   "location": "Parsippany, NJ (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-solutions-engineer-connected-car-iot-specialist-at-t-mobile-4478300257",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "9e1c6e2eaa1c13c9"
+  },
+  {
+   "source": "linkedin",
+   "company": "IBM",
+   "title": "Senior Solution Sales Engineer - Confluent",
+   "location": "Research Park, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solution-sales-engineer-confluent-at-ibm-4449226642",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "0c726c5e21dcb392"
+  },
+  {
+   "source": "linkedin",
+   "company": "IBM",
+   "title": "Senior Solution Sales Engineer - Confluent",
+   "location": "Charlotte, NC (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solution-sales-engineer-confluent-at-ibm-4449234146",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "c52d40ff6b7df164"
+  },
+  {
+   "source": "linkedin",
+   "company": "Ramp",
+   "title": "Solutions Consultant, Enterprise",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-consultant-enterprise-at-ramp-4433516031",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "38b3cc19287edb23"
+  },
+  {
+   "source": "linkedin",
+   "company": "Ramp",
+   "title": "Solutions Consultant, Enterprise",
+   "location": "Miami, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-consultant-enterprise-at-ramp-4433397911",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5b0de25fecc92f3d"
+  },
+  {
+   "source": "linkedin",
+   "company": "Parloa",
+   "title": "Sr Partner Solution Engineer",
+   "location": "Chicago, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-partner-solution-engineer-at-parloa-4424731954",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solution engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "78b776c123c9d059"
+  },
+  {
+   "source": "linkedin",
+   "company": "Jobot",
+   "title": "Senior Sales Engineer",
+   "location": "Pleasanton, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-jobot-4466970394",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "0277edb037f995f4"
+  },
+  {
+   "source": "linkedin",
+   "company": "Checkr, Inc.",
+   "title": "Enterprise Account Executive, Upper Mid-Market",
+   "location": "Dallas, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-upper-mid-market-at-checkr-inc-4441248721",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "89766cb6deae861e"
+  },
+  {
+   "source": "linkedin",
+   "company": "Tailscale",
+   "title": "Senior New Business Account Executive",
+   "location": "Denver, CO (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-new-business-account-executive-at-tailscale-4449221084",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "c2a164752ad0c26a"
+  },
+  {
+   "source": "linkedin",
+   "company": "Snowflake",
+   "title": "Enterprise Account Executive, Observe",
+   "location": "Georgia, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-observe-at-snowflake-4460542637",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f4e4192fc17e63fb"
+  },
+  {
+   "source": "linkedin",
+   "company": "Docusign",
+   "title": "Account Executive, Strategic Enterprise",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/account-executive-strategic-enterprise-at-docusign-4459435521",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "c0437953706203f8"
+  },
+  {
+   "source": "linkedin",
+   "company": "Datadog",
+   "title": "Strategic Account Executive",
+   "location": "Florida, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/strategic-account-executive-at-datadog-4460543038",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "166a4a87b5479cd7"
+  },
+  {
+   "source": "linkedin",
+   "company": "MongoDB",
+   "title": "Senior Enterprise Account Executive, Pub Sector",
+   "location": "Tysons Corner, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-enterprise-account-executive-pub-sector-at-mongodb-4469276296",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "1073dc4061f613c9"
+  },
+  {
+   "source": "linkedin",
+   "company": "Workwize",
+   "title": "Senior Account Executive  (SaaS)",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-saas-at-workwize-4393932622",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "c3aed5773975b883"
+  },
+  {
+   "source": "linkedin",
+   "company": "Gotransverse",
+   "title": "Senior Enterprise Account Executive",
+   "location": "Austin, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-enterprise-account-executive-at-gotransverse-4478071763",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "92bbb2a07ad7d734"
+  },
+  {
+   "source": "linkedin",
+   "company": "Sectigo",
+   "title": "Enterprise Sales Strategic Account Executive (Ohio or Pennsylvania)",
+   "location": "Philadelphia, PA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-sales-strategic-account-executive-ohio-or-pennsylvania-at-sectigo-4433395387",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "61880d801570f438"
+  },
+  {
+   "source": "linkedin",
+   "company": "Forter",
+   "title": "Enterprise Account Executive, West",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-west-at-forter-4433597789",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "729e4a1d8ae0d420"
+  },
+  {
+   "source": "linkedin",
+   "company": "Vertice",
+   "title": "Senior AI Solutions Consultant - Pre Sales",
+   "location": "New York City Metropolitan Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-ai-solutions-consultant-pre-sales-at-vertice-4423249993",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "7fe03eab018ffe2d"
+  },
+  {
+   "source": "linkedin",
+   "company": "Stripe",
+   "title": "Solutions Architect, Enterprise Hunter (Presales)",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-architect-enterprise-hunter-presales-at-stripe-4465848785",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "presales",
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5f40872992c1a239"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Sr. GenAI Specialist Solutions Architect, SLG/EDU Specialist SA",
+   "location": "Arlington, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-genai-specialist-solutions-architect-slg-edu-specialist-sa-at-amazon-web-services-aws-4460546198",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "27a6c9869d5676e0"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Sr. GenAI Specialist Solutions Architect, SLG/EDU Specialist SA",
+   "location": "Dallas, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-genai-specialist-solutions-architect-slg-edu-specialist-sa-at-amazon-web-services-aws-4460548036",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e81ccb81d2785adb"
+  },
+  {
+   "source": "linkedin",
+   "company": "Honeywell Technologies",
+   "title": "Senior Healthcare Solutions Consultant",
+   "location": "Atlanta, GA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-healthcare-solutions-consultant-at-honeywell-technologies-4450739455",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "2cb920ba51575c00"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
+   "location": "Arlington, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/technical-account-manager-aws-enterprise-support-strategic-industries-at-amazon-web-services-aws-4460343308",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "a9110e1184be2e05"
+  },
+  {
+   "source": "linkedin",
+   "company": "Akamai Technologies",
+   "title": "Senior Technical Account Manager, Microsegmentation",
+   "location": "Cambridge, MA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-technical-account-manager-microsegmentation-at-akamai-technologies-4460552860",
+   "posted": "2026-10-11T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "a763e2541306294b"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Bilingual/ Mandarin Technical Account Manager, ES - CN-AWS, ES - CN, AWS Enterprise Support",
+   "location": "Seattle, WA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/bilingual-mandarin-technical-account-manager-es-cn-aws-es-cn-aws-enterprise-support-at-amazon-web-services-aws-4468842842",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "3d1ebe9dd70795e9"
+  },
+  {
+   "source": "linkedin",
+   "company": "Ping Identity",
+   "title": "Senior Technical Account Manager",
+   "location": "United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-technical-account-manager-at-ping-identity-4469227381",
+   "posted": "2026-10-10T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "eefd9d7aaee3de2a"
+  }
+ ]
+}
