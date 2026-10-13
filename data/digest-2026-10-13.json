@@ -1,0 +1,367 @@
+{
+ "generated_at": "2026-10-13T19:27:26.024542+00:00",
+ "counts": {
+  "fetched": 15766,
+  "fresh_matches": 12,
+  "in_digest": 12,
+  "boards_ok": 126,
+  "boards_failed": 3
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 72,
+  "onsite outside Portland": 327,
+  "title not relevant": 1887,
+  "rejected title": 1278,
+  "non-US location": 574
+ },
+ "jobs": [
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Senior Specialist Solutions Engineer, Cloudflare One",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8264043?gh_jid=8264043",
+   "posted": "2026-10-13T10:11:10-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><h3><strong>Available Location: London, Munich, Amsterdam, Paris, Lisbon</strong></h3> <h3><strong>About the Department</strong></h3> <p>The Specialist Solutions Engineering team at Cloudflare is a group of trusted technical advisors who partner with our customers to solve their most complex security and performance challenges. We work hand-in-hand with the sales organization to navigate the entire customer journey, from initial discovery and solution design to proof-of-concept and implementation. We are passionate about technology and dedicated to helping our customers understand and leverage the full power of Cloudflare's global network to achieve their business critical objectives.</p> <h3><strong>About the Role</strong></h3> <p>As a Senior Solutions Engineer Specialist, you will be a pivotal technical expert and strategic advisor, focusing on the Cloudflare One product suite. You will partner with our sales team and engage directly with our customers to architect and demonstrate how our SASE platform can solve their unique security, performance, and reliability needs. Your expertise will be crucial in guiding prospects through complex technical evaluations, ensuring they have the confidence to adopt Cloudflare as a core component of their IT and security infrastructure.</p> <p>This role requires a blend of deep technical curiosity, strong communication skills, and a genuine p",
+   "ats": "greenhouse",
+   "score": 87,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "cybersecurity",
+    "cloud",
+    "azure",
+    "enterprise",
+    "smb",
+    "partner",
+    "ai",
+    "agentic",
+    "automation",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "a323e65b47af1145"
+  },
+  {
+   "source": "greenhouse",
+   "company": "tanium",
+   "title": "Senior Solution Engineer- SLED Northeast",
+   "location": "Remote, US",
+   "url": "https://job-boards.greenhouse.io/tanium/jobs/8275552",
+   "posted": "2026-10-13T13:44:21-04:00",
+   "description": "<p><strong>The Basics:</strong></p> <p>We are changing the way state and local governments and higher education institutions run and secure their most critical operations. Want to help state agencies, cities, counties, K\u201312 districts, and colleges and universities achieve unprecedented visibility and control over the most complex, mission-essential environments in the public sector?<br><br>Do you have an uncanny ability to understand the unique needs of SLED customers and deliver solutions? Do you have deep technical skills along with the ability to translate them to any audience \u2014 from a state CIO or CISO to a district IT director to a campus security operations analyst? At Tanium, our SLED Solution Engineering team works closely with our SLED Sales and Customer Success (CS) teams to engage current and prospective public sector customers. We drive and lead the technology evaluation stage of the sales cycle, demo the platform, and deliver comprehensive Proof of Value (POV) engagements tailored to SLED mission requirements, compliance frameworks, and funding realities.<br><br>You will be engaged in interactive pre-sales discovery meetings, analysis of customers' current technology and architecture, operational and business needs; and the development and presentation of appropriate Tanium solutions. You will lead deep-dive technical discussions with the customer to position Tanium's transformative enterprise operations and security platform to the relevant stakeholders across state, local, and higher education organizations \u2014 from elected leadership and cabinet-level CIOs and CISOs to the technology users on the front line.</p> <p><strong>What You'll Do:</strong></p> <ul> <li>Work directly with our SLED sales team from initial discovery to deal close to shorten sales cycles and improve closing rates within state, local government, and higher education accounts</li> <li>Oversee and participate in initial discovery meetings with SLED customers, providing platform demos and highly technical Proof of Value engagements for both existing customers and new sales opportunities</li> <li>Be the direct conduit translating public sector business and mission challenges into technical solutions, positioning Tanium to effectively solve them within SLED operating, budgetary, and regulatory constraints</li> <li>Function as a technical expert throughout SLED sales engagements, ensuring that tactical motions in the pre-sales and POV processes line up with strategic account goals and the customer's multi-year modernization roadmap</li> <li>Partner with field engineering teams to ensure maximum technical effectiveness and consistent customer experience throughout the POV process</li> <li>Consistently and cogently address our customers' needs through astute verbal, written, and presentation skills \u2014 including formats familiar to SLED buyers such as technical response to RFP/RFI, cooperative purchasing vehicles, and public-sector conference and user-group settings</li> <",
+   "ats": "greenhouse",
+   "score": 85,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solution engineer"
+   ],
+   "matched_skills": [
+    "cybersecurity",
+    "cloud",
+    "rfp",
+    "rfi",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "agentic",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "7c7e9e02ed33f414"
+  },
+  {
+   "source": "greenhouse",
+   "company": "grafanalabs",
+   "title": " Enterprise Account Executive, Acquisition | DMV | Remote",
+   "location": "United States (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6220802004",
+   "posted": "2026-10-13T09:51:16-04:00",
+   "description": "<div class=\"content-intro\"><p>Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at <u><span><a href=\"http://grafana.com\" target=\"_blank\">grafana.com</a></span></u> and follow us on <u><span><a href=\"https://www.linkedin.com/company/grafana-labs/\" target=\"_blank\">LinkedIn</a></span></u> and <u><span><a href=\"https://twitter.com/grafana\" target=\"_blank\">X</a></span></u><u>.</u></p> <p>We\u2019re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.</p> <p>You may not meet every requirement, and that\u2019s okay. If this role excites you, we\u2019d love you to raise your hand for what could be a truly career-defining opportunity.</p></div><div class=\"section page-centered\"> <div class=\"section page-centered\">Grafana Labs is looking for a<strong>&nbsp;Enterprise Account Executive, Acquisition</strong> who will be responsible for prospecting and closing new business across the <strong>DC, Virginia, &amp; Maryland</strong>&nbsp;region. You will identify, nurture and close opportunities with new customers, manage forecasts and track customer data. We're strong proponents of a consultative sales approach - learn about the customer's needs first before talking products. Your expertise will be critical in helping articulate the value of our products, work with the customer during the trial phase and hand off a strong relationship to our Growth team. Ideally, you come from a technical background and have sold technical products before.</div> <div class=\"section page-centered\"> <h3><strong>Responsibilities</strong></h3> <ul> <li>Meet and exceed individual quarterly and annual sales goals</li> <li>Outbound prospecting into net-new customers</li> <li>Manage all aspects of the sales process (prospecting, sales meetings, product demos, proofs of concept, proposals, and negotiations)</li> <li>Cultivate sales through outbound prospecting and inbound leads</li> <li>Be able to understand and convey the value of both Grafana Cloud and Grafana Enterprise</li> <li>Becom",
+   "ats": "greenhouse",
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "outbound",
+    "demo",
+    "technical background"
+   ],
+   "resume": "generic",
+   "id": "f278e09f410c8832"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Strategic Core Account Executive - CPG",
+   "location": "Remote - Georgia",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8871488002",
+   "posted": "2026-10-13T09:48:53-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\"><strong>SLSQ427R800</strong></p> <p>As a Strategic Enterprise Account Executive at Databricks, you are a sales professional experienced in leading go-to-market campaigns in Fortune 500 accounts. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating value to Customers and System Integrators.</p> <p>Databricks operates at the leading edge of the Unified Data Analytics and AI space. Our customers turn to us to lead the accelerated innovation that their businesses need to gain first mover advantage in today\u2019s ultra-competitive landscape. As we continue our rapid expansion, we are looking for a creative, execution-oriented Strat Enterprise Account Executive - CPG vertical to join the Databricks team and maximize the phenomenal market opportunity that exists for Databricks.</p> <p>Reporting to our Director, Enterprise you will map to a strategic customer. &nbsp;You will come with an informed point of view on Big Data, Advanced Analytics and AI which will help to guide your successful execution strategy and allow you to provide genuine value to the client</p> <p><strong>The impact you will have:&nbsp;</strong></p> <ul> <li>Build relationships with CIOs, IT executives, LOB executives, Program Managers, and other important partners.</li> <li>Drive value-based growth within the accounts&nbsp;</li> <li>Expand the Databricks footprint into new business units and use cases.</li> <li>Exceed activity, pipeline, and revenue targets.</li> <li>Track all customer details including use case, purchase time frames, next steps, and forecasting in Salesforce.</li> <li>Use a solution-based approach to selling and creating value for customers.</li> <li>Promote Databricks' Data Intelligence Platform powered by Apache Spark\u2122 and Delta Lake</li> <li>Enable orgs to democratize insights from their data through AI-powered business intelligence, natively integrated into the Databricks Platform.</li> <li>Prioritize opportunities and leverage appropriate resources.</li> <li>Build a plan for success internally at Databricks and externally with your account</li> </ul> <p><strong>What we look for:&nbsp;</strong></p> <ul> <li>You have previously excelled in an early-stage company -- you know how to navigate and be successful with limited oversight</li> <li>Previous field sales experience within AI/BI, big data, Cloud, SaaS, and a consumption selling motion</li> <li>Prior customer relationships with CIOs, program managers, and essential decision makers at local accounts</li> <li>The ability to simplify a technical capability into a value-based benefit</li> <li>7+ years of Enterprise Sales experience exceeding quotas in larger accounts</li> <li>Bachelor's Degree</li> </ul> <p>&nbsp;</p> <p>&nbsp;</p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>&nbsp;</p> <p><s",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "407d7061a685df2a"
+  },
+  {
+   "source": "greenhouse",
+   "company": "zscaler",
+   "title": "Senior Sales Engineer, Majors - Colorado",
+   "location": "Remote - Colorado, USA",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5254625007",
+   "posted": "2026-10-12T22:50:33-04:00",
+   "description": "<div class=\"content-intro\"><p data-pm-slice=\"1 1 []\">Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform.</p> <p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p></div><p>We are looking for a Senior Sales Engineer to join our Majors West team. This is a remote role, reporting to the Manager of Sales Engineering. The Zscaler Sales and Go-to-Market team is a global group of professionals who are passionate about delighting our customers, nurturing trusted partnerships, and sharing their expertise to drive a secure, cloud-enabled digital future and further cement our position as the world leader in cloud security. Sales, Customer Success, Sales Enablement, Solution Architects, Business Development, Transformation, and Technology Partnerships all work together to demonstrate the power and agility of Zscaler cloud transformation to the world.&nbsp;</p> <p data-path-to-node=\"1\"><strong data-path-to-node=\"1\" data-index-in-node=\"0\">What you\u2019ll do (Role Expectations)</strong></p> <ul> <li data-path-to-node=\"2,0,0\">Create and deliver technical product presentations to prospective customers</li> <li data-path-to-node=\"2,1,0\">Gather customer technical requirements to ensure proposed solutions will meet customer goals and needs</li> <li data-path-to-node=\"2,2,0\">Lead product evaluations and custom product configurations</li> <li data-path-to-node=\"2,3,0\">Design evaluation test plans with customers and guide the process to successful outcomes</li> </ul> <h3><strong>Who You Are (Success Profile)</strong></h3> <ul> <li>You thrive in ambiguity and are comfortable building the path as you walk it, seeing ambiguity not as a hindrance but as the raw material to build something meaningful.</li> <li>You act like an owner and your passion for the mission fuels your bias for action, allowing you to navigate seamlessly between high-level strategy and hands-on execution.</li> <li>You are a problem-solver who seeks out challenges because you are energized by finding solutions, knowing that solving the hard problems delivers the",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "cybersecurity",
+    "cloud",
+    "enterprise",
+    "partner",
+    "ai",
+    "llm",
+    "automation",
+    "demo",
+    "technical background"
+   ],
+   "resume": "generic",
+   "id": "9336946d72a40789"
+  },
+  {
+   "source": "ashby",
+   "company": "ramp",
+   "title": "Manager, Account Executive | Enterprise",
+   "location": "New York, NY (HQ) (Remote)",
+   "url": "https://jobs.ashbyhq.com/ramp/0775bf66-8524-412b-906b-6e51695d8fdb",
+   "posted": "2026-10-07T17:35:49.374000+00:00",
+   "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role You will be a front-line manager to a group of Account Executives (AEs) who will be hunting, pitching, and closing new business for Ramp. You will be responsible for 1:1 coaching, mentoring, and strategy development, working closely with leaders across Sales, Marketing, Product, and the executive team to drive positive outcomes for this segment. As a key member of the sales leadership team, you will have the opportunity to help build and refine Ramp\u2019s sales development motion. What You'll Do Manage, develop and execute career development and leadership plan for a group of Account Executives and provide daily 1:1 mentoring and coaching Set and maintain a high-performing culture and morale by overseeing the daily activities and quota performance management of individual AEs to ensure key performance metrics are met Hire and train new AEs on Ramp\u2019s product, buyer personas, competition, and tools through various methods (ie. role-plays) Strategize with sales and marketing counterparts on pipeline and prospecting initiatives to meet company objectives Build dashboards and report on customer and team performance and forecast to senior leadership Improve team output and efficiency over time by optimizing systems and processes Build and execute on pipeline with new clients and partners to run the end-to-end sales process Establish a library of playbook resources for the AE team Partner with Ops to create and polish existing metrics that evaluate the individual and team\u2019s performance Represent the AE team cross-functionally with leaders of other departments What You\u2019ll Need Minimum 5 years of quota carrying sales experience as an individual contributor Minimum 3 years of experience building and leading successful, high-performing sales teams Demonstrated success in fast-paced, results-oriented GTM environments, ideally at SaaS companies, and history of consistently performing above quota in an outbound sales environment Passion and excitement for hiring, with a thoughtful approach to team planning and development Experience",
+   "ats": "ashby",
+   "salary": "$377K \u2013 $450K \u2022 Offers Equity \u2022 45/55 split",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "partner",
+    "ai",
+    "automation",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "98f0fc2f13bfb8ab"
+  },
+  {
+   "source": "greenhouse",
+   "company": "samsara",
+   "title": "Enterprise Sales Engineer - US Southeast",
+   "location": "Remote - US",
+   "url": "https://www.samsara.com/company/careers/roles/8244432?gh_jid=8244432",
+   "posted": "2026-10-13T10:28:47-04:00",
+   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>As a Field Sales Engineer at Samsara, you\u2019d be an integral part of a diverse team working to help modernize essential industries through the application of cutting-edge IoT solutions.&nbsp; Your work would directly contribute to a cleaner, more efficient, and productive supply chain by creating safer roadways, reducing fuel consumption and emissions, and providing a consolidated platform for connecting operations.&nbsp; Our daily customer engagements include conversations around how IoT can positively impact logistics management, workplace safety programs, fleet maintenance strategies, global asset management, and regulatory compliance.&nbsp; This means a successful SE at Samsara will develop a thorough understanding of the application of IoT hardware and sensors, hands-on hardware installation strategies, managing data collection over carrier networks, presenting a robust cloud infrastructure, and building third-party system integrations (via our open API) to ensure the best technical solution is presented to Samsara customers.</p> <p><strong>This is a remote position open to candidates residing in the Southeast region of the United States except for San Francisco Bay Metros, New York City Metro and Washington DC Metro . This position requires travel up to 50% of the time and proximity to an international airport is preferred.</strong></p> <p><strong>You should apply if:&nbsp;</strong></p> <ul> <li><strong>You want to impact the industries that run our world: </strong>Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "ai",
+    "automation",
+    "electronics",
+    "demo",
+    "proof of concept"
+   ],
+   "resume": "generic",
+   "id": "cfe942d8e39a6988"
+  },
+  {
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Partner Solutions Architect",
+   "location": "Remote, Any, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8008322003",
+   "posted": "2026-10-13T13:16:54-04:00",
+   "description": "<div class=\"content-intro\"><p>From Fivetran\u2019s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We\u2019re proud that more organizations continue to leverage our technology every day to become truly data-driven.</p></div><p><span style=\"font-size: 10pt;\"><strong>About Us</strong></span></p> <p><span style=\"font-size: 10pt;\">Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we\u2019re delivering the data infrastructure layer that helps organizations move, transform, and trust their data \u2014 from the moment data moves, through every transformation, to the context teams and AI systems rely on. Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.</span><br><br><span style=\"font-size: 10pt;\">As we bring our teams and technology together, we\u2019re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It\u2019s an exciting time to join us: we\u2019re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.&nbsp;During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.</span></p> <p><span style=\"font-size: 10pt;\"><strong>About the Role</strong></span></p> <p><span style=\"font-size: 10pt;\">We're looking for a Partner Solutions Architect to own the global technical relationship with Snowflake and Databricks.</span></p> <p><span style=\"font-size: 10pt;\">Snowflake and Databricks are two of Fivetran + dbt Labs\u2019 largest platform alliances. This is a global role scoped to those two partners. For each, you will own the technical alliance plan worldwide, the joint technical narrative, and our joint integration and roadmap priorities with each partner to drive cosell revenue. You will also own our technical presence at major milestones such as Snowflake Summit and Databricks Data + AI Summit, our two largest partner events.</span></p> <p><span style=\"font-size: 10pt;\">Functionally, the role sits at the intersection of field engineering, product management, partnerships, and partner marketing. Your closest counterparts are the global alliance managers for Snowflake and Databricks, the regional partner sales managers who run the Snowflake and Databricks motions in AMER, EMEA and APJ, the geo partner solutio",
+   "ats": "greenhouse",
+   "score": 70,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "partner",
+    "ai",
+    "emea",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "c62a6a3b44611a4c"
+  },
+  {
+   "source": "greenhouse",
+   "company": "twilio",
+   "title": "Sales Operations Planning Analyst",
+   "location": "Remote - US",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8266068",
+   "posted": "2026-10-13T14:44:47-04:00",
+   "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp;<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><h3><strong>See yourself at Twilio</strong></h3> <p>Join the team as Twilio\u2019s next Sales Operations, Planning Analyst</p> <h3><strong>About the Job</strong></h3> <p>Twilio is seeking a data-driven, strategically minded individual to join our <strong>Strategic Operations</strong> pillar within Sales, Operations, and Enablement. Reporting directly into the <strong>Strategic Operations</strong> team, this role sits at the intersection of business strategy, sales planning, and advanced analytics.</p> <p>You will lead our <strong>target-setting process</strong> and align customer segmentation with broader GTM organizational objectives. This role goes beyond standard schedule management; you will define our operational \"North Star\"\u2014ensuring targets are ambitious, achievable, and backed by robust analytical modeling, forecasting, and data infrastructure.</p> <h3><strong>Responsibilities</strong></h3> <p>In this role, you\u2019ll:</p> <ul> <li>Lead the annual and semi-annual target-setting cycles for the global sales organization</li> <li>&nbsp;Present target proposals, growth opportunities, and complex data insights to senior leadership using clear, data-backed narratives.</li> <li>Develop and refine the sales customer segmentation model</li> <li>Extract actionable insights from large, complex datasets using advanced analytical and statistical methods to optimize revenue efficiency.</li> <li>Work closely with Sales, Finance, Product, Sys",
+   "ats": "greenhouse",
+   "score": 66,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales operations"
+   ],
+   "matched_skills": [
+    "ai",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "e19a89475e7af0b9"
+  },
+  {
+   "source": "ashby",
+   "company": "ramp",
+   "title": "Manager, Account Manager | Growth",
+   "location": "New York, NY (HQ) (Remote)",
+   "url": "https://jobs.ashbyhq.com/ramp/190c265a-ca4f-48b7-b2a4-13412299249d",
+   "posted": "2026-10-13T15:07:59.917000+00:00",
+   "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About The Role The next chapter of Ramp's growth runs straight through the customers we already have: 80,000+ finance teams who adopted us for one thing and haven't yet seen what the rest of the platform can do for them. Account Management owns that opportunity - and this role owns the team building the motion to capture it. You'll lead a group of 5-8 Account Managers, each carrying a book of ~3,000 emerging and SMB customers with real latitude over how they grow it. This is a build role, not a maintain role: the playbooks, coaching systems, and performance bar you set are the ones this team runs on next year. Your ceiling is set by how well you turn individual AM judgment into a repeatable, scalable motion that grows the segment. What You\u2019ll Do Build and run a high-performing team of 5-8 Account Managers - setting the bar for culture, morale, and daily execution. Understand where to prioritize your teams time. Engage directly with AMs to identify and break into top accounts, especially where trust is being built or repaired. Own the number. Manage quota performance and pipeline generation across your team to hit spend activation, product activation, retention, and expansion goals. Forecast your business to senior leadership on a weekly cadence. Hire and develop the next generation of AMs - training on product, buyer personas, competition, and tooling through role-plays, game film, and real deal work. Coach relentlessly. Run daily 1:1s, dissect call feedback, lead enablement sessions, and build career paths for every rep on your team. Turn what works into a system. Continuously refine team processes and tooling to improve output and efficiency as the segment scales. Represent Account Management cross-functionally, partnering with Sales, CX, CSM, Risk, and Product to remove blockers and drive outcomes. What You\u2019ll Need Minimum 2+ years of quota-carrying sales or account management experience as an individual contributor, with a proven, consistent track record of exceeding goals (new business or cross-sell/upsell experience mandato",
+   "ats": "ashby",
+   "salary": "$180K \u2013 $247K \u2022 Offers Equity \u2022 Offers Commission",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "smb",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "dfae9b82274651dc"
+  },
+  {
+   "source": "greenhouse",
+   "company": "pagerduty",
+   "title": "Strategic Alliances Senior Manager",
+   "location": "Remote (USA)",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6209023004",
+   "posted": "2026-10-13T09:56:42-04:00",
+   "description": "<div class=\"content-intro\"><p>PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform.</p> <p>&nbsp;</p></div><p>&nbsp;</p> <p><strong>Job Overview</strong></p> <p>We are seeking a dynamic and experienced partnership professional to lead our partner initiatives in enterprise business and public sector. This role involves developing and managing strategic alliances with key partners, driving joint go-to-market strategies, and ensuring the success of our enterprise business and public sector engagements.</p> <p>&nbsp;</p> <p><strong>Key Responsibilities</strong></p> <ul> <li><strong><em>Partnership Strategy:</em></strong><strong> </strong>&nbsp;Work with sales leadership to develop and execute PagerDuty\u2019s enterprise business and public sector partner strategy.<br><br></li> <li><strong><em>Partner Development:</em></strong> Identify, establish, and nurture strategic partnerships with public sector partners including distributors like Carahsoft, contractors and system integrators.<br><br></li> <li><strong><em>Go-to-Market Strategy &amp; Execution:</em></strong> Collaborate with internal teams and partners to develop and execute joint go-to-market strategies, driving awareness, adoption, and revenue growth in target accounts.<br><br></li> <li><strong><em>Relationship Management:</em></strong> Build and maintain strong relationships with key stakeholders within partner organizations, ensuring alignment of objectives and mutual success.<br><br></li> <li><strong><em>Sales Enablement:</em></strong><strong> </strong>Work closely with the sales team to develop and deliver training, tools, and resources to support the public sector sales efforts.<br><br></li> <li><strong><em>Market Intelligence:</em></strong><strong> </strong>Stay informed about public sector trends, regulatory changes, and competitive landscape to identify opportunities and risks.&nbsp; <br><br></li> <li><strong><em>Performance Metrics: </em></strong>Track and report on the performance of strategic alliances, providing insights and recommendations for continuous improvement.&nbsp; <br><br></li> <li><strong><em>Event Participation:</em></strong> Represent PagerDuty at public sector and industry events, conferences, and industry forums to promote our solutions and expand our network.</li> </ul> <p><br><br><br></p> <p><strong>Basic Qual",
+   "ats": "greenhouse",
+   "score": 58,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "alliances"
+   ],
+   "matched_skills": [
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai"
+   ],
+   "resume": "generic",
+   "id": "4ac1f3667e102e72"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Manager, Field Engineering (Specialist) - HCLS",
+   "location": "Northeast - United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8614656002",
+   "posted": "2026-10-12T19:53:53-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">FEQ327R502</p> <p>The Manager, Specialist Solutions Architect will lead a team of Specialist Solution Architects and leaders in the Life Science vertical, who provide Specialist coverage for both our Solutions Architect (SA) teams and Delivery Solutions Architect (DSA) team. Your experience when partnering with the pre-sales technical team and leaders will help drive technical wins and accelerate Databricks DBU consumption. You will be responsible for guiding and empowering your team to communicate complex, outcome-based results that drive consumption and help our customers achieve their desired outcomes.&nbsp;</p> <p>The impact you will have:</p> <ul> <li>Hiring and building the Specialist Solutions Architect team, scaling the designated field engineering segment organization without sacrificing quality</li> <li>Build a collaborative culture within a hyper-growth team to embody and ensure Databricks' company values</li> <li>Drive Databricks product adoption and accelerate use cases to production within the Life Sciences vertical.</li> <li>Collaborate closely with cross-functional teams, including Sales, Marketing, Support, Product Development, Operations, and other FE teams, to strategize and align efforts towards achieving HLS vertical's incremental consumption target and commit target.&nbsp;</li> </ul> <p>What we look for:</p> <ul> <li>2+ years leadership experience building and guiding teams&nbsp;</li> <li>Demonstrated expertise in designing and implementing complex, large-scale solutions within the healthcare and life science industries, with a solid understanding of the specific challenges and data requirements in the HLS vertical.</li> <li>Strong knowledge of HLS-specific regulations, such as HIPAA, GDPR, and industry standards like HL7, FHIR, and DICOM.</li> <li>Familiarity with life science-related use cases and topics, including genomics, bioinformatics, clinical trials, drug discovery, real-world evidence, and precision medicine.</li> <li>In-depth understanding of healthcare-related use cases and topics, such as electronic health records (EHR), telemedicine, medical imaging, and price transparency.</li> <li>Experience in senior pre-sales or post-sales roles, that have assisted in the development or building of a successful team in Big Data, Cloud, or SaaS professionals</li> <li>Player/Coach capability, comfortable both leading or contributing to work on projects, with production-level quality</li> <li>Have experience scaling and mentoring field or technical teams from scratch at hyper-growth speed</li> <li>Knowledgeable in and passionate about data-driven decisions, AI, and Cloud software models</li> <li>Great at instituting processes for technical field members to promote efficiency</li> <li>Bachelor's Degree in STEM subject or MSc desirable</li> <li>Technical background either in Data Engineering / Database technologies or Data Science</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><d",
+   "ats": "greenhouse",
+   "score": 52,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "field engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "partner",
+    "ai",
+    "discovery",
+    "demo",
+    "technical background"
+   ],
+   "resume": "generic",
+   "id": "3f2405550cca4357"
+  }
+ ]
+}

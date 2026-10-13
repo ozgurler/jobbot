@@ -1,11 +1,11 @@
 {
  "greenhouse:cloudflare": {
   "ok": true,
-  "count": 435
+  "count": 436
  },
  "greenhouse:datadog": {
   "ok": true,
-  "count": 433
+  "count": 439
  },
  "greenhouse:twilio": {
   "ok": true,
@@ -13,23 +13,23 @@
  },
  "greenhouse:gitlab": {
   "ok": true,
-  "count": 221
+  "count": 217
  },
  "greenhouse:samsara": {
   "ok": true,
-  "count": 236
+  "count": 239
  },
  "greenhouse:okta": {
   "ok": true,
-  "count": 377
+  "count": 379
  },
  "greenhouse:mongodb": {
   "ok": true,
-  "count": 395
+  "count": 393
  },
  "greenhouse:elastic": {
   "ok": true,
-  "count": 403
+  "count": 381
  },
  "greenhouse:airtable": {
   "ok": true,
@@ -37,7 +37,7 @@
  },
  "greenhouse:figma": {
   "ok": true,
-  "count": 151
+  "count": 143
  },
  "greenhouse:vercel": {
   "ok": true,
@@ -45,15 +45,15 @@
  },
  "greenhouse:pagerduty": {
   "ok": true,
-  "count": 51
+  "count": 54
  },
  "greenhouse:cockroachlabs": {
   "ok": true,
-  "count": 19
+  "count": 18
  },
  "greenhouse:grafanalabs": {
   "ok": true,
-  "count": 104
+  "count": 108
  },
  "greenhouse:fivetran": {
   "ok": true,
@@ -69,15 +69,15 @@
  },
  "greenhouse:brex": {
   "ok": true,
-  "count": 273
+  "count": 268
  },
  "greenhouse:databricks": {
   "ok": true,
-  "count": 896
+  "count": 894
  },
  "greenhouse:lattice": {
   "ok": true,
-  "count": 13
+  "count": 11
  },
  "greenhouse:webflow": {
   "ok": true,
@@ -85,11 +85,11 @@
  },
  "greenhouse:checkr": {
   "ok": true,
-  "count": 45
+  "count": 44
  },
  "greenhouse:flexport": {
   "ok": true,
-  "count": 208
+  "count": 205
  },
  "greenhouse:gusto": {
   "ok": true,
@@ -97,7 +97,7 @@
  },
  "greenhouse:scaleai": {
   "ok": true,
-  "count": 184
+  "count": 183
  },
  "greenhouse:stripe": {
   "ok": true,
@@ -105,15 +105,15 @@
  },
  "greenhouse:planetscale": {
   "ok": true,
-  "count": 12
+  "count": 11
  },
  "greenhouse:launchdarkly": {
   "ok": true,
-  "count": 57
+  "count": 56
  },
  "greenhouse:asana": {
   "ok": true,
-  "count": 102
+  "count": 103
  },
  "greenhouse:calendly": {
   "ok": true,
@@ -121,19 +121,19 @@
  },
  "greenhouse:coinbase": {
   "ok": true,
-  "count": 223
+  "count": 227
  },
  "greenhouse:dropbox": {
   "ok": true,
-  "count": 32
+  "count": 30
  },
  "greenhouse:intercom": {
   "ok": true,
-  "count": 105
+  "count": 108
  },
  "greenhouse:newrelic": {
   "ok": true,
-  "count": 54
+  "count": 55
  },
  "greenhouse:remotecom": {
   "ok": true,
@@ -145,11 +145,11 @@
  },
  "greenhouse:tanium": {
   "ok": true,
-  "count": 60
+  "count": 65
  },
  "greenhouse:toast": {
   "ok": true,
-  "count": 318
+  "count": 311
  },
  "greenhouse:upwork": {
   "ok": true,
@@ -157,7 +157,7 @@
  },
  "greenhouse:zscaler": {
   "ok": true,
-  "count": 378
+  "count": 366
  },
  "greenhouse:zoominfo": {
   "ok": true,
@@ -165,11 +165,11 @@
  },
  "greenhouse:tripactions": {
   "ok": true,
-  "count": 203
+  "count": 206
  },
  "greenhouse:cribl": {
   "ok": true,
-  "count": 69
+  "count": 67
  },
  "greenhouse:abnormalsecurity": {
   "ok": true,
@@ -181,11 +181,11 @@
  },
  "greenhouse:wizinc": {
   "ok": true,
-  "count": 126
+  "count": 122
  },
  "greenhouse:rubrik": {
   "ok": true,
-  "count": 131
+  "count": 137
  },
  "greenhouse:druva": {
   "ok": true,
@@ -197,15 +197,15 @@
  },
  "greenhouse:workato": {
   "ok": true,
-  "count": 70
+  "count": 67
  },
  "greenhouse:celonis": {
   "ok": true,
-  "count": 212
+  "count": 216
  },
  "greenhouse:smartsheet": {
   "ok": true,
-  "count": 95
+  "count": 98
  },
  "greenhouse:amplitude": {
   "ok": false,
@@ -213,7 +213,7 @@
  },
  "greenhouse:mixpanel": {
   "ok": true,
-  "count": 55
+  "count": 53
  },
  "greenhouse:pendo": {
   "ok": true,
@@ -221,7 +221,7 @@
  },
  "greenhouse:braze": {
   "ok": true,
-  "count": 329
+  "count": 327
  },
  "greenhouse:iterable": {
   "ok": true,
@@ -233,7 +233,7 @@
  },
  "greenhouse:attentive": {
   "ok": true,
-  "count": 27
+  "count": 28
  },
  "greenhouse:yotpo": {
   "ok": true,
@@ -241,11 +241,11 @@
  },
  "greenhouse:algolia": {
   "ok": true,
-  "count": 37
+  "count": 36
  },
  "greenhouse:contentful": {
   "ok": true,
-  "count": 19
+  "count": 21
  },
  "greenhouse:netlify": {
   "ok": true,
@@ -261,15 +261,15 @@
  },
  "greenhouse:commvault": {
   "ok": true,
-  "count": 54
+  "count": 53
  },
  "greenhouse:kaseya": {
   "ok": true,
-  "count": 95
+  "count": 94
  },
  "greenhouse:connectwise": {
   "ok": true,
-  "count": 44
+  "count": 47
  },
  "greenhouse:threatlocker": {
   "ok": true,
@@ -277,31 +277,31 @@
  },
  "greenhouse:knowbe4": {
   "ok": true,
-  "count": 68
+  "count": 66
  },
  "greenhouse:netskope": {
   "ok": true,
-  "count": 142
+  "count": 138
  },
  "lever:palantir": {
   "ok": true,
-  "count": 309
+  "count": 312
  },
  "lever:nium": {
   "ok": true,
-  "count": 17
+  "count": 18
  },
  "lever:veeva": {
   "ok": true,
-  "count": 937
+  "count": 941
  },
  "lever:outreach": {
   "ok": true,
-  "count": 25
+  "count": 24
  },
  "lever:mindtickle": {
   "ok": true,
-  "count": 20
+  "count": 21
  },
  "lever:people-ai": {
   "ok": true,
@@ -313,7 +313,7 @@
  },
  "ashby:ramp": {
   "ok": true,
-  "count": 164
+  "count": 163
  },
  "ashby:linear": {
   "ok": true,
@@ -325,7 +325,7 @@
  },
  "ashby:openai": {
   "ok": true,
-  "count": 809
+  "count": 801
  },
  "ashby:notion": {
   "ok": true,
@@ -341,51 +341,51 @@
  },
  "ashby:perplexity": {
   "ok": true,
-  "count": 134
+  "count": 132
  },
  "ashby:elevenlabs": {
   "ok": true,
-  "count": 132
+  "count": 144
  },
  "ashby:cohere": {
   "ok": true,
-  "count": 119
+  "count": 118
  },
  "ashby:modal": {
   "ok": true,
-  "count": 41
+  "count": 40
  },
  "ashby:hex": {
   "ok": true,
-  "count": 38
+  "count": 41
  },
  "ashby:ashby": {
   "ok": true,
-  "count": 67
+  "count": 65
  },
  "ashby:zip": {
   "ok": true,
-  "count": 121
+  "count": 120
  },
  "ashby:harvey": {
   "ok": true,
-  "count": 351
+  "count": 348
  },
  "ashby:sierra": {
   "ok": true,
-  "count": 192
+  "count": 187
  },
  "ashby:decagon": {
   "ok": true,
-  "count": 145
+  "count": 140
  },
  "ashby:writer": {
   "ok": true,
-  "count": 50
+  "count": 49
  },
  "ashby:synthesia": {
   "ok": true,
-  "count": 46
+  "count": 47
  },
  "ashby:vapi": {
   "ok": true,
@@ -401,7 +401,7 @@
  },
  "ashby:deepgram": {
   "ok": true,
-  "count": 93
+  "count": 90
  },
  "ashby:rev": {
   "ok": true,
@@ -429,7 +429,7 @@
  },
  "ashby:drata": {
   "ok": true,
-  "count": 33
+  "count": 32
  },
  "ashby:secureframe": {
   "ok": true,
@@ -449,11 +449,11 @@
  },
  "ashby:cognition": {
   "ok": true,
-  "count": 102
+  "count": 103
  },
  "ashby:factory": {
   "ok": true,
-  "count": 55
+  "count": 54
  },
  "ashby:warp": {
   "ok": true,
@@ -465,27 +465,27 @@
  },
  "workday:Applied Materials": {
   "ok": true,
-  "count": 111
+  "count": 112
  },
  "workday:KLA": {
   "ok": true,
-  "count": 95
+  "count": 96
  },
  "workday:NVIDIA": {
   "ok": true,
-  "count": 112
+  "count": 111
  },
  "workday:Intel": {
   "ok": true,
-  "count": 97
+  "count": 96
  },
  "workday:Micron": {
   "ok": true,
-  "count": 99
+  "count": 101
  },
  "workday:Salesforce": {
   "ok": true,
-  "count": 59
+  "count": 60
  },
  "workday:Autodesk": {
   "ok": true,
@@ -493,7 +493,7 @@
  },
  "workday:Adobe": {
   "ok": true,
-  "count": 82
+  "count": 79
  },
  "linkedin:guest-search": {
   "ok": false,
@@ -501,11 +501,11 @@
  },
  "agg:remotive": {
   "ok": true,
-  "count": 15
+  "count": 16
  },
  "agg:remotive_all": {
   "ok": true,
-  "count": 15
+  "count": 16
  },
  "agg:remoteok": {
   "ok": true,
