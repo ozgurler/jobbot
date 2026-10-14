@@ -1,0 +1,1040 @@
+{
+ "generated_at": "2026-10-14T17:28:42.369619+00:00",
+ "counts": {
+  "fetched": 15925,
+  "fresh_matches": 138,
+  "in_digest": 40,
+  "boards_ok": 127,
+  "boards_failed": 2
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 203,
+  "title not relevant": 2079,
+  "rejected title": 1445,
+  "onsite outside Portland": 319,
+  "non-US location": 571
+ },
+ "jobs": [
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Senior Account Executive, Startups (Southeast)",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8275432?gh_jid=8275432",
+   "posted": "2026-10-13T20:57:01-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><h2>Available Locations</h2> <ul> <li>Charlotte OR Raleigh NC</li> </ul> <h2>About the Role</h2> <p>Account Executives, Channel Account Managers, Business Development Representatives, Solution Engineers, Customer Success, and Sales Operations - all working together help our customers adopt Cloudflare and create great Internet-enabled experiences. The sales team at Cloudflare helps customers solve real, technical problems while creating the revenue streams that help the company provide free service to millions in our community.</p> <p>Digital Native AEs at Cloudflare sell into the most innovative companies in North America. In targeting high-growth, technologically advanced, and venture-backed companies, AEs are positioned to drive in-depth product discussions while communicating and demonstrating value quickly to customers.&nbsp; This role within the digital native segment focuses on both the acquisition of prospective Digital Native accounts, as well as the expansion of existing customer accounts.&nbsp; The ideal candidate will have both a sales and technical background that enables them to drive customer engagement from technical professionals through to senior executive levels, and across Security, Network, Development and Infrastructure teams.</p> <h2>Responsibilities</h2> <ul> <li>Develop, execute, and maintain your territory plan to exceed quarterly sales targets and annual",
+   "ats": "greenhouse",
+   "score": 88,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "enterprise",
+    "smb",
+    "b2b",
+    "channel",
+    "partner",
+    "ai",
+    "north america",
+    "quota",
+    "pipeline",
+    "outbound"
+   ],
+   "resume": "generic",
+   "id": "6c06d4b44c222771"
+  },
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Senior Account Executive, Startups (Southeast)",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8275434?gh_jid=8275434",
+   "posted": "2026-10-13T20:57:01-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><h2>Available Locations</h2> <ul> <li>Charlotte OR Raleigh, NC</li> </ul> <h2>About the Role</h2> <p>Account Executives, Channel Account Managers, Business Development Representatives, Solution Engineers, Customer Success, and Sales Operations - all working together help our customers adopt Cloudflare and create great Internet-enabled experiences. The sales team at Cloudflare helps customers solve real, technical problems while creating the revenue streams that help the company provide free service to millions in our community.</p> <p>Senior AEs at Cloudflare sell into the most innovative companies in North America. In targeting high-growth, technologically advanced, and venture-backed companies, AEs are positioned to drive in-depth product discussions while communicating and demonstrating value quickly to customers.&nbsp; This role within teh Territory focuses on both the acquisition of prospective Mid Market accounts, as well as the expansion of existing customer accounts.&nbsp; The ideal candidate will have both a sales and technical background that enables them to drive customer engagement from technical professionals through to senior executive levels, and across Security, Network, Development and Infrastructure teams.</p> <h2>Responsibilities</h2> <ul> <li>Develop, execute, and maintain your territory plan to exceed quarterly sales targets and annual quota assignment.</li> ",
+   "ats": "greenhouse",
+   "score": 88,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "enterprise",
+    "smb",
+    "b2b",
+    "channel",
+    "partner",
+    "ai",
+    "north america",
+    "quota",
+    "pipeline",
+    "outbound"
+   ],
+   "resume": "generic",
+   "id": "a0641b06b696ba06"
+  },
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Senior Customer Engineer (Pre-sales), East China",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190",
+   "posted": "2026-10-14T09:35:37-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><p><strong>Available Location: Beijing, China&nbsp;</strong></p> <p><strong>About the Role</strong></p> <p>At Cloudflare, we are on a mission to help build a better Internet. As the architectural complexity of enterprise solutions scales, we are evolving how we partner with our customers. The Customer Engineer (CE) represents the core driver of our technical go-to-market strategy: a trusted advisor who owns the technical relationship from the initial discovery phase through to long-term adoption and ongoing account expansion.</p> <p>Sitting within the GTM organization and reporting to the Regional Customer Engineering Leader, you will not hand off your customers once an initial agreement is reached. Instead, you will operate as a quota-carrying technologist, utilizing AI-augmented workflows to eliminate administrative toil so you can focus on high-value architectural design and driving measurable business outcomes across the entire customer journey.</p> <p><strong>Key Responsibilities</strong></p> <ul> <li><strong>Technical Validation:</strong> Partner closely with Account Executives to lead technical discovery, build bespoke architectures, and deliver compelling product demonstrations and Proof of Concepts (PoCs) across Cloudflare\u2019s portfolio (Security, Networking, Zero Trust and Developer Platforms).</li> <li><strong>Trusted Advisory:</strong> Act as a trusted technical advisor",
+   "ats": "greenhouse",
+   "score": 88,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "pre-sales",
+    "customer engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "rfp",
+    "enterprise",
+    "smb",
+    "partner",
+    "ai",
+    "llm",
+    "automation",
+    "quota",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "ad6d152d62851a9a"
+  },
+  {
+   "source": "greenhouse",
+   "company": "abnormalsecurity",
+   "title": "Account Executive, SLED (Sacramento only)",
+   "location": "Remote - USA",
+   "url": "https://abnormal.ai/careers/jobs/8017129003?gh_jid=8017129003",
+   "posted": "2026-10-14T09:45:58-04:00",
+   "description": "<h2>About the Role</h2> <p>Cybercrime doesn't wait for anyone to catch up to it, and neither do we. Abnormal AI is looking for an Enterprise Account Executive to join our SLED team, selling behavioral AI security solutions into large, complex State, Local, and Education agencies within a defined territory.</p> <p>We didn't bolt AI onto old security tools. We built our platform from AI up, to catch the human-targeted attacks that legacy tools miss, and public sector organizations need that protection as much as anyone.</p> <p>The ideal candidate is local to the <strong>Sacramento area</strong> and brings experience selling <strong>cybersecurity solutions</strong> into <strong>large public sector environments</strong>, particularly Enterprise-level SLED organizations, along with:</p> <ul> <li>Proven hunter focused on selling to large state and local government agencies, with a disciplined approach to early pipeline development and prospecting.</li> <li>Skilled at leveraging all five demand generation pillars: AE prospecting, SDRs, marketing, channel partnerships, and customer referrals.</li> <li>Strong qualifier with the ability to uncover public sector pain points and map them to compelling, value-driven solutions.</li> <li>Effective presenter who tailors demos and messaging to resonate with government stakeholders and address their specific challenges.</li> <li>Process-oriented with a consistent sales methodology and strong time management skills to manage multiple deals efficiently.</li> <li>Data-disciplined, maintaining accurate and up-to-date account and opportunity data across systems.</li> <li>Experienced in building business cases that quantify ROI and value for diverse public sector audiences, including IT, procurement, and leadership.</li> <li>Knowledge sharer who captures and organizes customer insights and lessons learned to support team learning.</li> <li>Skilled at guiding public sector customers through complex internal buying processes, including procurement and RFP cycles.</li> <li>Resilient and resourceful, with a strong track record of success in early-stage environments.</li> <li>Effective at leveraging internal teams such as Sales Engineering, Marketing, BDRs, Product, and Customer Success to drive results in the SLED space.</li> </ul> <h2>What You Will Do</h2> <ul> <li>Sell Abnormal AI solutions to large Enterprise SLED agencies with a mandate to overachieve new annual recurring revenue quota, not just hit it.</li> <li>Run the full deal cycle in your accounts: first conversation, technical evaluation, contract signature, and the upsell conversations that follow once they're a customer.</li> <li>Prospect and build new business opportunities to keep your pipeline ahead of target.</li> <li>Sell a platform that's actively expanding underneath you: what started as email security now covers identity, AI security, and insider threat, giving you more surface area to bring value to every agency.</li> <li>Partner with Customer Success t",
+   "ats": "greenhouse",
+   "score": 84,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cybersecurity",
+    "cloud",
+    "salesforce",
+    "rfp",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "0855f67c6531f2d4"
+  },
+  {
+   "source": "ashby",
+   "company": "elevenlabs",
+   "title": "Account Executive - Enterprise - Financial Services",
+   "location": "Remote (Remote)",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/98f8ca46-95d1-40ad-8b41-f6d9c6860840",
+   "posted": "2026-10-14T12:38:55.219000+00:00",
+   "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We\u2019re looking for an experienced, motivated Enterprise Account Executive to drive ElevenLabs\u2019 growth across Financial Services: the banks, credit unions, insurers, lenders, and wealth managers people trust with their money, their families, and their futures. These institutions win or lose on trust and service at massive scale, under some of the most demanding regulatory standards anywhere. ",
+   "ats": "ashby",
+   "salary": null,
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "enterprise",
+    "partner",
+    "ai",
+    "llm",
+    "automation",
+    "quota",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "b92bcd2f8dc8eb2e"
+  },
+  {
+   "source": "ashby",
+   "company": "elevenlabs",
+   "title": "Account Executive - Enterprise - Healthcare",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/c90159fa-8577-4213-b5b3-356051742c67",
+   "posted": "2026-10-14T12:47:22.313000+00:00",
+   "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We\u2019re looking for an experienced, motivated Enterprise Account Executive to drive ElevenLabs\u2019 growth across Healthcare: the health systems, hospitals, clinics, health plans, and life sciences companies people trust with their health and their families\u2019 care. These organizations win or lose on trust and access at massive scale, under some of the most demanding regulatory standards anywhere. ",
+   "ats": "ashby",
+   "salary": null,
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "enterprise",
+    "partner",
+    "ai",
+    "llm",
+    "automation",
+    "quota",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "6a34b810594a1a7f"
+  },
+  {
+   "source": "ashby",
+   "company": "elevenlabs",
+   "title": "Account Executive - Enterprise - Insurance",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/b178d5b8-2edf-44e9-bcd8-9a2be5b7f188",
+   "posted": "2026-10-14T12:47:58.570000+00:00",
+   "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We\u2019re looking for an experienced, motivated Enterprise Account Executive to drive ElevenLabs\u2019 growth across Insurance: the carriers, MGAs, and brokers people rely on when life gets expensive and complicated. These organizations win or lose on trust and service at massive scale, under some of the most demanding regulatory standards anywhere. Our ideal candidate learns fast, closes well from ",
+   "ats": "ashby",
+   "salary": null,
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "enterprise",
+    "partner",
+    "ai",
+    "llm",
+    "automation",
+    "quota",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "4f9dcb7d970ef7ba"
+  },
+  {
+   "source": "greenhouse",
+   "company": "zscaler",
+   "title": "Senior Sales Engineer, Majors - West",
+   "location": "Remote - California, USA",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5262887007",
+   "posted": "2026-10-13T21:36:13-04:00",
+   "description": "<div class=\"content-intro\"><p data-pm-slice=\"1 1 []\">Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform.</p> <p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p></div><p>We are looking for a Senior Sales Engineer to join our Majors West team. This is a remote role, reporting to the Manager of Sales Engineering. The Zscaler Sales and Go-to-Market team is a global group of professionals who are passionate about delighting our customers, nurturing trusted partnerships, and sharing their expertise to drive a secure, cloud-enabled digital future and further cement our position as the world leader in cloud security. Sales, Customer Success, Sales Enablement, Solution Architects, Business Development, Transformation, and Technology Partnerships all work together to demonstrate the power and agility of Zscaler cloud transformation to the world.&nbsp;</p> <p data-path-to-node=\"1\"><strong data-path-to-node=\"1\" data-index-in-node=\"0\">What you\u2019ll do (Role Expectations)</strong></p> <ul> <li data-path-to-node=\"2,0,0\">Create and deliver technical product presentations to prospective customers</li> <li data-path-to-node=\"2,1,0\">Gather customer technical requirements to ensure proposed solutions will meet customer goals and needs</li> <li data-path-to-node=\"2,2,0\">Lead product evaluations and custom product configurations</li> <li data-path-to-node=\"2,3,0\">Design evaluation test plans with customers and guide the process to successful outcomes</li> </ul> <h3><strong>Who You Are (Success Profile)</strong></h3> <ul> <li>You thrive in ambiguity and are comfortable building the path as you walk it, seeing ambiguity not as a hindrance but as the raw material to build something meaningful.</li> <li>You act like an owner and your passion for the mission fuels your bias for action, allowing you to navigate seamlessly between high-level strategy and hands-on execution.</li> <li>You are a problem-solver who seeks out challenges because you are energized by finding solutions, knowing that solving the hard problems delivers the",
+   "ats": "greenhouse",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "cybersecurity",
+    "cloud",
+    "enterprise",
+    "partner",
+    "ai",
+    "llm",
+    "automation",
+    "demo",
+    "technical background"
+   ],
+   "resume": "generic",
+   "id": "a4276596817320a4"
+  },
+  {
+   "source": "greenhouse",
+   "company": "datadog",
+   "title": "Senior Sales Engineer - AI Accounts",
+   "location": "California, USA, Remote; Illinois, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
+   "url": "https://careers.datadoghq.com/detail/8238455/?gh_jid=8238455",
+   "posted": "2026-10-14T09:33:08-04:00",
+   "description": "<p>As a Senior Sales Engineer on Datadog's AI Accounts team, you'll serve as the technical lead for a small portfolio of the world's leading AI labs \u2014 accounts that today represent a meaningful share of Datadog's revenue and are growing faster than any cohort in our business. You'll own the technical relationship end to end, work shoulder-to-shoulder with customer engineering teams in production, and help define how Datadog shows up for a cohort whose buying behavior looks nothing like traditional enterprise.</p> <p>This team was piloted earlier this year and is now being formalized. You'll be joining early enough to shape the playbook rather than inherit one.</p> <p><strong>What You'll Do</strong></p> <ul> <li>Own the technical relationship across a small portfolio of AI labs, go deep on how each customer trains, serves, and scales their models (and/or the downstream products and platforms), and become the person their engineers call first</li> <li>Partner with your AE to drive expansion inside accounts that grow unpredictably and fast: identify new workloads and teams as they spin up, and get in front of them before a need becomes a ticket</li> <li>Lead discovery inside flat, engineering-led organizations where influence sits with individual contributors rather than titles, and where there are no formal scoping calls to rely on</li> <li>Run full-scale POVs in production rather than controlled pilots: instrument real workloads at real scale, prove value against the customer's own success criteria, and work through the operational realities of doing that safely</li> <li>Act as an extension of the customer\u2019s engineering/observability team rather than an external operator - this requires judgment about which standard gates serve the customer and which to break</li> <li>Work Slack-native and asynchronously as the default, with the responsiveness and proactive posture these accounts expect: flag new features, bugs, and incidents before they ask</li> <li>Bring product and engineering in early and often, and close the loop fast \u2014 leadership needs near-real-time signal from this cohort, and you'll be a primary source of it</li> <li>Deliver technical narratives that land with engineers who pay for capability first and rationalize cost second - savings is a downstream conversation, not an opener</li> <li>Build reusable assets and patterns from each engagement so the next lab onboards faster than the last</li> <li>Keep activity, deal progress, and customer context documented and current</li> </ul> <p>&nbsp;</p> <p><strong>Who You Are</strong></p> <ul> <li>7+ years in Sales Engineering, Solutions Engineering, or a comparable technical customer-facing role; equivalent depth gained inside an AI lab, AI infrastructure company, or ML platform team is equally welcome</li> <li>Hands-on depth in the AI/ML infrastructure stack: GPU fleet management, distributed training, inference serving, model and agent evaluation, and the observability challenges specific to eac",
+   "ats": "greenhouse",
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "partner",
+    "ai",
+    "agentic",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "1c6db62d84773c06"
+  },
+  {
+   "source": "greenhouse",
+   "company": "twilio",
+   "title": "Senior Presales Engineer",
+   "location": "Remote - US",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8241356",
+   "posted": "2026-10-14T13:12:53-04:00",
+   "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp;<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join us as our next Senior Solutions Engineer on Twilio\u2019s Regulated Verticals Communications team!</p> <p><strong>About the job</strong></p> <p>At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a href=\"https://customers.twilio.com/\"> hundreds of thousands of businesses </a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a href=\"https://www.twilio.com/en-us/blog/open-work\">remote-first work</a>, and strong culture of connection and global inclusion mean that no matter your location, you\u2019re part of a vibrant, diverse team making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.</p> <p><strong>Responsibilities</strong></p> <p>In this role, you\u2019ll:</p> <ul> <li>Partner with Account Executives to execute pre-sales activities including opportunity qualification, demonstrations, Proof-of-Concept, RFP, design documentation, technical presentations and enablement sessions.</li> <li>Help customers achieve success by leading the technical and product sale, recommending best-practice solutions, and guiding them on how to use Twilio\u2019s APIs.</li> <li>Establish yourself as a trusted advisor to our cust",
+   "ats": "greenhouse",
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "presales"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "rfp",
+    "partner",
+    "ai",
+    "telecom",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "5c1538e5938cbdab"
+  },
+  {
+   "source": "greenhouse",
+   "company": "grafanalabs",
+   "title": "Senior Partner Solutions Engineer | East Coast | Remote ",
+   "location": "United States (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6222975004",
+   "posted": "2026-10-14T10:08:46-04:00",
+   "description": "<div class=\"content-intro\"><p>Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at <u><span><a href=\"http://grafana.com\" target=\"_blank\">grafana.com</a></span></u> and follow us on <u><span><a href=\"https://www.linkedin.com/company/grafana-labs/\" target=\"_blank\">LinkedIn</a></span></u> and <u><span><a href=\"https://twitter.com/grafana\" target=\"_blank\">X</a></span></u><u>.</u></p> <p>We\u2019re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.</p> <p>You may not meet every requirement, and that\u2019s okay. If this role excites you, we\u2019d love you to raise your hand for what could be a truly career-defining opportunity.</p></div><div class=\"section page-centered\"> <p><strong>The Opportunity:</strong></p> <p>Grafana Labs is seeking a Senior Partner Solutions Engineer to join its high growth startup environment and help scale cloud partnerships, with a dedicated focus on joint go to market activities with Cloud Service Providers (CSP) including Amazon Web Services (AWS) and Google Cloud (GCP). The successful candidate will be instrumental in enabling partner success through education, enablement, direct engagement, support of events, and build content that helps our CSP\u2019s position and demonstrate Grafana capabilities.</p> <p><strong>What You\u2019ll Be Doing:</strong></p> <ul> <li>Partnering with Channel Sales and Field Sales to convey Grafana\u2019s vision, value, and technical strategy to cloud partners</li> <li>Leading technical engagement with partners to drive deal progression and close opportunities</li> <li>Delivering product demos, technical presentations, and hands-on enablement sessions</li> <li>Develop and deliver training, onboarding, and ongoing education for solutions architects, and technical teams</li> <li>Represent Grafana Labs through technical presentations, live demos, webinars, conference sessions, and regional partner events</li> <li>Create reference architectures, demo environments, solution guides, and presentations that explain",
+   "ats": "greenhouse",
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "617d1b9374b701d3"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Enterprise Account Executive, Federal Health",
+   "location": "Remote - Washington D.C.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870724002",
+   "posted": "2026-10-14T12:46:23-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">SLSQ128R10</p> <p data-renderer-start-pos=\"1648\">While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.</p> <p>As an Enterprise Account Executive at Databricks, you are a seasoned sales professional experienced in selling into Federal Health accounts within the Federal Civilian space. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new opportunities, you will be asked to maintain and grow accounts. Along with the chance to close an exciting deal, we also offer accelerators above 100% quota attainment.</p> <p>Databricks operates at the leading edge of the Unified Data Analytics and AI space. Our customers turn to us to lead the accelerated innovation that their businesses need to gain first mover advantage in today\u2019s ultra-competitive landscape. As we continue our rapid expansion, we are looking for a creative, execution-oriented Enterprise Account Executive to join the Databricks team and maximize the phenomenal market opportunity that exists for Databricks.</p> <p>Reporting to our Sr. Director of Enterprise Sales, you will map to a dedicated enterprise client under the Federal Health umbrella.&nbsp; You will come with an informed point of view on Big Data, Advanced Analytics, and AI, which will help to guide your successful execution strategy and allow you to provide genuine value to the client</p> <p><strong>The impact you will have:</strong></p> <ul> <li>Meet with the CIO, IT executives, LOB executives, Program Managers, and other important partners</li> <li>Identify and close quick, small wins while managing longer, complex sales cycles</li> <li>Exceed activity, pipeline, and revenue targets</li> <li>Track all customer details including use case, purchase time frames, next steps, and forecasting in Salesforce</li> <li>Use a solution-based approach to selling and creating value for your customer</li> <li>Promote Databricks' enterprise cloud data platform powered by Apache Spark\u2122</li> <li>Ensure 100% satisfaction among your customer</li> <li>Prioritize opportunities and apply appropriate resources</li> <li>Build a plan for success internally at Databricks and externally with your accounts</li> </ul> <p><strong>What we look for:</strong></p> <ul> <li>You have previously worked in an early-stage company, and you know how to navigate and be successful</li> <li>Field sales experience within big data, Cloud, or SaaS sales</li> <li>Experience managing large, complex Federal Health accounts is preferred.&nbsp;</li> <li>Prior customer relationships with CIOs, program managers, and essential decision makers</li> <li>Simply articulate intricate cloud technologies</li> <li>5+ years of experience exceeding sales quotas</li> <li>Success",
+   "ats": "greenhouse",
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "7ba96603f67f3a14"
+  },
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Territory Account Executive, Toronto",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8279346?gh_jid=8279346",
+   "posted": "2026-10-13T20:57:01-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><p><strong>Available Locations: Toronto, Ontatio</strong></p> <p><strong>About the Department</strong></p> <p><span style=\"font-weight: 400;\">The sales team at Cloudflare helps customers solve real, technical problems while creating the revenue streams that help the company provide free service to millions in our community.&nbsp; Account Executives, Channel Account Managers, Business Development Representatives, Solution Engineers, Customer Success, and Sales Operations - all working together help our customers adopt Cloudflare and create great Internet-enabled experiences.&nbsp;</span></p> <p><strong>What you'll do</strong></p> <p><span style=\"font-weight: 400;\">You'll drive new business by identifying and qualifying target commercial accounts in Ontario for Cloudflare\u2019s Enterprise service plan. This is a great opportunity for a Sales Professional to help build the business in Central Canada. You will have both a sales and technical background that enables them to drive customer engagement from technical professionals through to senior executive levels, and across Security, Network, Development and Infrastructure teams.&nbsp;&nbsp;</span></p> <p><strong>Responsibilities</strong></p> <ul> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Develop and execute against a comprehensive account/territory plan</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weigh",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "enterprise",
+    "smb",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "technical background"
+   ],
+   "resume": "generic",
+   "id": "3bc9badf26f8af53"
+  },
+  {
+   "source": "himalayas",
+   "company": "SHI International Corp.",
+   "title": "Presales Solutions Architect - Enterprise Networking",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/shi-international-corp/jobs/presales-solutions-architect-enterprise-networking",
+   "posted": "2026-10-14T16:11:44+00:00",
+   "description": "About Us Since 1989, SHI International Corp. has helped organizations change the world through technology. We\u2019ve grown every year since, and today we\u2019re proud to be a $16 billion global provider of IT solutions and services. Over 17,000 organizations worldwide rely on SHI\u2019s concierge approach to help them solve what\u2019s next. But the heartbeat of SHI is our employees \u2013 all 7,000 of them. If you join our team, you\u2019ll enjoy: Our commitment to diversity, as the largest minority- and woman-owned enterprise in the U.S. Continuous professional growth and leadership opportunities. Health, wellness, and financial benefits to offer peace of mind to you and your family. World-class facilities and the technology you need to thrive \u2013 in our offices or yours. Job Summary The Presales Solutions Architect \u2013 Enterprise Networking at SHI International is responsible for being SHI's Subject Matter Expert across the enterprise networking domain. The foundation of this role is core networking \u2013 routing and switching, campus LAN architecture, and WAN and SD-WAN design \u2013 with working breadth across enterprise wireless, network access control and segmentation, network management and observability, and network automation. We are looking for depth in core networking first. Candidates who bring strong routing, switching, and WAN architecture experience and can speak credibly to the adjacent domains are encouraged to apply, even if their hands-on depth is uneven across every area listed below. In this role, you will split your time between presales client engagements and internal practice development. On the presales side, you'll take a consultative approach, leading technical discovery sessions with clients to assess their network infrastructure maturity, designing target-state enterprise network architectures, and delivering compelling demos, POCs, and technical presentations. On the internal side, you'll build reusable collateral such as reference architectures, battle cards, and enablement content; evaluate and qualify new vendor partnerships; and conduct training sessions that keep our engineering and sales teams current on emerging network technologies, platform capabilities, and best practices. Your credibility and technical depth will make you a trusted advisor to both SHI's most strategic customers and our internal stakeholders, driving meaningful network outcomes and revenue growth across the Networking practice. This position is a remote position with Home Office setup as determined by SHI management. Role Description Design and deliver product demonstrations, proof-of-concepts (POCs), and technical presentations focused on enterprise networking solutions including campus routing and switching, enterprise wireless, SD-WAN and WAN edge, and network management and automation platforms Lead technical discovery sessions to assess clients' network infrastructure maturity across campus, branch, wireless, WAN, and network operations capabilities Translate complex network",
+   "ats": "external",
+   "salary": "$180000-250000",
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "presales",
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "partner",
+    "ai",
+    "automation",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "55bfb05cd5cf5656"
+  },
+  {
+   "source": "greenhouse",
+   "company": "netskope",
+   "title": "VP, Sales Engineering NAM",
+   "location": "North America",
+   "url": "https://www.netskope.com/company/careers/open-positions/?gh_jid=8239449",
+   "posted": "2026-10-13T17:44:03-04:00",
+   "description": "<div class=\"content-intro\"><h2>Join the Future of Security at Netskope</h2> <p>Netskope (NASDAQ: NTSK) is a leader in modern security and networking for the cloud and AI era. We secure and accelerate cloud, data, and AI in real time, everywhere. Thousands of customers, including more than 30 of the Fortune 100, trust the Netskope One platform, its Zero Trust Engine, and the powerful NewEdge network to gain full visibility and control without performance trade-offs.</p> <p>At Netskope, our technology is driven by our greatest strength: our people. We believe that belonging powers innovation, and success is both personal and organizational. We embrace differences in gender, ethnicity, beliefs, ability, and identity, creating an environment where every voice is heard and respected. We empower our employees to bring their authentic selves to work, grow their careers through continuous education and mentorship, and lead with transparency and curiosity. Join a team where you belong, where you are encouraged to be an entrepreneur, and where together, we continue to redefine the landscape of security.</p> <p>Visit <a href=\"https://www.netskope.com/company/careers\" target=\"_blank\">Careers at Netskope</a> to learn more. Follow us on&nbsp;<a href=\"https://www.linkedin.com/company/netskope\" target=\"_blank\">LinkedIn</a> and&nbsp;<a href=\"https://www.instagram.com/netskope/\" target=\"_blank\">Instagram</a>.</p></div><div class=\"gmail_default\"> <div class=\"gmail_default\">&nbsp;</div> </div> <h3><strong>About the position:</strong></h3> <p>Netskope is seeking an accomplished, strategic, and transformational leader to serve as Vice President, Solutions Engineering for<strong> North America</strong>. Reporting directly to the WW Head of Solutions Engineering, this executive will lead and scale a high-performing Solutions Engineering organization across a diverse, multi-country region.</p> <p>The VP, Solutions Engineering will be accountable for building an organization that consistently translates customer requirements and business objectives into compelling technical outcomes, technical wins and revenue. This leader will work closely with regional and WW Sales leadership, Product Management, Engineering, Marketing, and other cross-functional teams to shape go-to-market strategy, improve technical win rates, accelerate sales cycles, and strengthen Netskope\u2019s competitive position.</p> <p>This is a leadership role centered on scaling people, leaders, methodology, technology, and execution. Individual technical delivery is secondary to building an organization capable of delivering consistent, high-quality technical outcomes at scale. The successful candidate will bring a strong combination of organizational leadership, commercial acumen, technical credibility, and executive presence.</p> <p>The ideal candidate is a builder and change leader who has successfully transformed and scaled Solutions Engineering organizations in high-growth technology environments. They unde",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cybersecurity",
+    "cloud",
+    "enterprise",
+    "b2b",
+    "partner",
+    "ai",
+    "automation",
+    "north america",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "1e6ed19342e2e6fc"
+  },
+  {
+   "source": "greenhouse",
+   "company": "pagerduty",
+   "title": "Sales Development Representative",
+   "location": "Remote (USA)",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6217534004",
+   "posted": "2026-10-13T17:48:58-04:00",
+   "description": "<div class=\"content-intro\"><p>PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform.</p> <p>&nbsp;</p></div><p><strong>About the job</strong></p> <p>PagerDuty is seeking a <strong>Sales Development Representative</strong> to join our diverse, customer-focused team. In this role, you will report to our Manager, Commercial Sales Development. Your focus will be on generating new business opportunities through inbound and outbound motions among a group of accounts that fit our ideal customer profile. Daily responsibilities include researching, prospecting, qualifying leads, and initiating conversations to help build a pipeline for our Account Executives.</p> <p>Do you have a proven track record of success working with new logo accounts? Are you skilled in prospecting, organizing, and enjoy achieving victories? This is an exceptional opportunity for someone who is passionate about technology, has experience in lead generation for complex solutions, and can provide consultative guidance in early sales conversations. If you possess excellent time management skills, understand how to qualify opportunities effectively, and are energized by building pipeline, we would love to talk to you!</p> <h3><strong>Key Responsibilities</strong></h3> <p><strong>Value Selling</strong> \u2013 Focus on highlighting the unique PD value and benefit our products and services can provide to a customer. It goes beyond just features and price, emphasizing the impact and solutions that address the customer's specific needs or challenges.</p> <ul> <li>Understanding the problems and focus areas of your stakeholders and effectively communicating how PagerDuty will support and address those company priorities</li> <li>Aligning use cases with the appropriate service offering</li> <li>Quickly adapting to the Command of the Message (COM) selling model and employing solution selling/customer-centric sales method</li> </ul> <p><strong>Sales Effectiveness</strong> \u2013 Establishing, overseeing, and maintaining genuine connections with prospects</p> <ul> <li>Develops a proactive point of view on solutions based on customer's biggest pain points</li> <li>Encourages positive conversations between new or potentially new customers and sales teams, leading to solutions aligned with the customer's strategic vision</li> <li>Ensuring complete cu",
+   "ats": "greenhouse",
+   "score": 74,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales development representative"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "ai",
+    "pipeline",
+    "outbound"
+   ],
+   "resume": "generic",
+   "id": "b11e7c2c95c705d3"
+  },
+  {
+   "source": "greenhouse",
+   "company": "stripe",
+   "title": "Solutions Architect, Metronome (Startups)",
+   "location": "SF, NYC, Chicago, US-Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8072257",
+   "posted": "2026-10-13T17:52:03-04:00",
+   "description": "<h2><strong>Who we are&nbsp;</strong></h2> <h3>About Stripe / Metronome&nbsp;</h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world's largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <p>Metronome is the leading usage-based billing platform built for modern software companies. With Metronome, now a Stripe product, companies can launch products faster, offer any pricing model, and streamline finance workflows without writing code.</p> <p>Our platform computes hundreds of millions of invoices per billing period and continues to scale rapidly to accommodate new customers. We save them days of development time and manual invoicing, enabling them to use their billing data to better serve their customers. Our customers love our product and approach, and we\u2019re humbled to work with amazing companies like OpenAI, Hubspot, NVIDIA, Confluent, Anthropic, and many others.</p> <p>You'll be joining an experienced team that includes founders who have successfully built and sold startups, alongside Stripes with direct experience scaling teams through hypergrowth at companies like Dropbox, Palantir, and MongoDB. You'll be joining Stripe and be part of the holistic Stripe platform approaching monetization.</p> <h3>About the team</h3> <p>The Solutions Engineering team at Metronome is a technical group that sits at the intersection of everything Metronome does: sales, account management, product, R&amp;D, and operations. Bottom line, we own the technical side of the customer lifecycle from the very first discovery call through demos, POC, technical scoping, and handover to our post-sales groups. We act like a producer to get the show running with Metronome. This role will train you to grow across these vectors.</p> <h2><strong>What you\u2019ll do</strong></h2> <p>As a member of the Solutions Engineering team, your first month will be:</p> <ul> <li>Learning to tell a clear value story about how and where Metronome solves challenges and creates opportunities in a modern monetization stack.</li> <li>Assisting in planning, building, and running customized demos of Metronome for buyers with many different personas (engineering, product management, operations, finance, etc).</li> </ul> <p>In your first 3 months, you can expect to:</p> <ul> <li>Become proficient in what discovery is and using it to understand what challenges our prospects face</li> <li>Travel to meet prospects in the field. Workshops, conferences, on-sites \u2014 we believe in meeting our customers in-person whenever possible. Anywhere in the world.</li> <li>Land deals for some of the most exciting names in software, from ",
+   "ats": "greenhouse",
+   "score": 74,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "hubspot",
+    "enterprise",
+    "ai",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "6c9130593362e264"
+  },
+  {
+   "source": "greenhouse",
+   "company": "stripe",
+   "title": "Specialist Solutions Architecture, Link",
+   "location": "US-Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8279202",
+   "posted": "2026-10-13T16:35:09-04:00",
+   "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3><strong>About the team</strong></h3> <p>Specialist Solutions Architects (SSA) are domain experts aligned to specific Stripe solutions and customer buying centers. We have in-depth knowledge of specific solution offerings and a deep understanding of customer challenges. We align with specialist product sellers on deals, advise the broader pre-sales team on complex opportunities, support pipeline development and revenue attainment, serve as an advisor on go-to-market sales plays, and provide critical insights to our product and engineering teams.</p> <h2>What You'll Do</h2> <p>You will collaborate closely with sales and pre-sales teams to drive pipeline and revenue targets, while also educating the product and engineering teams on market trends and strongly influencing the product roadmap. You will develop deep relationships with senior customer business leaders and grow Stripe's solution offerings with new and existing customers. As a subject matter expert, you will scale the broader organization by creating reusable assets and coaching others on complex, high-value opportunities.</p> <p>The team is looking for an online payments specialist with a proven track record of designing checkout experiences and payment flows for B2C and B2B enterprises. You will engage with Stripe's customers as a thought leader in the conversion optimization space, helping them understand how Stripe Link\u2014Stripe's one-click checkout network\u2014can reduce cart abandonment, improve returning customer conversion, and create a more seamless payments experience at scale.</p> <h3>Responsibilities</h3> <ul> <li>Act as a subject matter expert on Stripe Link to accelerate opportunities globally</li> <li>Demonstrate a deep understanding of checkout optimization, network-based authentication, and the business impact of saved payment methods on conversion</li> <li>Develop expertise with Stripe's Link integration patterns\u2014including embedded checkout, Stripe.js, and direct API flows\u2014and guide customers through key implementation decisions</li> <li>Advise customers on how Link interacts with the broader Stripe platform (Radar, Billing, Connect) to deliver compounding value across their payment stack</li> <li>Define, share, and learn best practices and reusable assets with the broader GTM organization to enhance the quality and efficiency of the team</li> <li>Create referenc",
+   "ats": "greenhouse",
+   "score": 72,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "enterprise",
+    "b2b",
+    "partner",
+    "ai",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "cb7a1662ccdd2992"
+  },
+  {
+   "source": "greenhouse",
+   "company": "coinbase",
+   "title": "Forward Deployed Engineer, Compliance [Office of the CTO]",
+   "location": "Remote - USA",
+   "url": "https://www.coinbase.com/careers/positions/8099099?gh_jid=8099099",
+   "posted": "2026-10-13T19:45:11-04:00",
+   "description": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At&nbsp;<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d&nbsp;<a href=\"https://www.coinbase.com/careers\">learn more about working at Coinbase</a>.</p></div><p>Coinbase's Compliance organization manages regulatory obligations across products, operations, and growth \u2014 spanning transaction monitoring, sanctions screening, regulatory change management, and exam readiness across 60+ global entities. This role sits directly inside the Office of the CTO, embedded as a founding engineer within Compliance. You'll identify high-value workflow opportunities, rapidly prototype solutions using Coinbase's existing AI platform, and drive measurable adoption of AI tooling across the Compliance org. You'll be the connective tissue between Compliance stakeholders and the engineering teams who maintain Coinbase's AI platform, acting as advocate, translator, and builder in one.</p> <p><strong>What you'll do:</strong></p> <ul> <li>Embed with Compliance leadership and frontline teams to surface the automation opportunities with the greatest business leverage \u2014 developing ground-level understanding of workflows like transaction monitoring, sanctions screening, regulatory change management, and exam preparation.</li> <li>Prototype quickly and pragmatically using Coinbase's existing AI platform as the default foundation before recommending net-new builds.</li> <li>Own the Compliance automation roadmap in partnership with the Chief Compliance Officer and Compliance leadership, translating complex regulatory workflows \u2014 case resolution, trade surveillance, risk assessment, policy management \u2014 into engineering requirements and engineering constraints back to stakeholders clearly.</li> <li>Define the build-vs-buy strategy for Compliance tooling, evaluating what Coinbase should build internally, adopt from partner teams, procure from vendors, or retire.</li> <li>Ensure every automated compliance output is traceable, reviewable, and defensible to regulators \u2014 with auditability, approval gates, evidence retention, and human-in-the-loop controls as first-class design concerns, not afterthoughts.</li> <li>Drive adoption through brown-bags, prototype walkthroughs, and feedback loops that bring Compliance teams along on the journey and ensure tools actually get used.</li> </ul> <p><strong>Required Skills and Experience:</strong></p> <ul> <li>5+ year",
+   "ats": "greenhouse",
+   "score": 70,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "forward deployed engineer"
+   ],
+   "matched_skills": [
+    "partner",
+    "ai",
+    "llm",
+    "automation",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "197a3dbea7a07848"
+  },
+  {
+   "source": "greenhouse",
+   "company": "rubrik",
+   "title": "Senior GSI Partner Account Manager - Cognizant / TCS",
+   "location": "Remote - New Jersey",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8132457?gh_jid=8132457",
+   "posted": "2026-10-14T09:35:04-04:00",
+   "description": "<div class=\"p-rich_text_section\"> <div class=\"container\"> <div id=\"model-response-message-contentr_94cc2b54076ac6c6\" class=\"markdown markdown-main-panel enable-luminous-fast-follows enable-updated-hr-color tutor-markdown-rendering\"></div> </div> <p>Rubrik has partnered with the world's leading Global Systems Integrators (GSIs) to build successful, profitable outcomes for our joint customers and both companies. The GSI Account Executive will own and scale Rubrik's partnership with two named GSI partners \u2014 Cognizant and TCS \u2014 driving pipeline, bookings, and co-sell motion across their respective practices in the <strong>Americas</strong>. This is a senior, quota-influencing role for someone with a proven track record managing Global GSI partnerships, spanning business development, partner enablement, cost/commercial models, financial selling, and executive-level negotiation. This person leads from the front, communicates with transparency, and sets the tone for a positive, collaborative field-and-partner working relationship.</p> <h2><strong>Partner Ownership:</strong></h2> <ul> <li>Serve as the primary Rubrik owner of the Cognizant relationship, aligning to their Cloud, Infrastructure Services, Cybersecurity and AI &amp; Digital Engineering Practices</li> <li>Serve as the primary Rubrik owner of Cognizant and TCS GTM working closely with the Global Account Manager,</li> <li>Execute the vision of the Global business plan with a Geo lens with each partner covering GTM priorities, enablement milestones, marketing commitments, and bookings targets, refreshed quarterly.</li> <li>Map and maintain executive relationship coverage across both partners \u2014 alliance leads, practice GMs, and delivery leadership \u2014 and Rubrik's aligned sales, SE, and executive sponsors.</li> </ul> <h2><strong>Key Responsibilities:</strong></h2> <ul> <li>Establish and run senior GSI meetings with key Cognizant and TCS business executives from day one, including QBRs and executive briefings.</li> <li>Act as the main conduit between the Rubrik field and both GSI partners for new logo generation, pipeline creation, and joint business development.</li> <li>Drive partner-sourced and partner-influenced pipeline through structured co-sell motions, campaign execution, and account mapping with each partner's sales organization.</li> <li>Accelerate Cognizant's and TCS's technical and commercial adoption of Rubrik's product portfolio, tracking practice certifications, demo capability, and delivery readiness.</li> <li>Represent and present Rubrik's and each partner's joint value proposition to customers, partner sellers, and partner leadership.</li> <li>Identify each partner's top/strategic customer accounts and execute interlock with the Rubrik sales organization for opportunity registration, deal support, and account planning.</li> <li>Define and validate each partner's sales process and path to contract closure (procurement, legal, partner commercial approvals) to support accurate joint fo",
+   "ats": "greenhouse",
+   "score": 68,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account manager"
+   ],
+   "matched_skills": [
+    "cybersecurity",
+    "cloud",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "agentic",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "bff28b1f61c1a0d6"
+  },
+  {
+   "source": "greenhouse",
+   "company": "huntress",
+   "title": "Sales Engineer II",
+   "location": "United States of America",
+   "url": "https://job-boards.greenhouse.io/huntress/jobs/7974374003",
+   "posted": "2026-10-14T11:49:19-04:00",
+   "description": "<div class=\"content-intro\"><p></p> <p><strong>What We Do:</strong></p> <p>Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact.</p> <p>Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That\u2019s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it, ensuring our customers' protection.</p> <p>Huntress now secures more than 5M endpoints and 16M identities worldwide. Those numbers keep growing because more businesses rely on us to help carry the load and operate with more confidence. Every day, you can see that commitment in how we stand with our customers and how we show up for each other.</p> <p></p></div><p><strong>Reports to: Manager, Sales Engineering</strong></p> <p><strong>Location: Remote US</strong></p> <p><strong>Compensation Range: $165,000 to $175,000 OTE (base and bonus) plus equity</strong></p> <p>&nbsp;</p> <p><strong>What We Do:</strong></p> <p>Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact.</p> <p>Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That\u2019s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it, ensuring our customers' protection.</p> <p>Huntress now secures more than 5M endpoints and 14M identities worldwide. Those numbers keep growing because more businesses rely on us to help carry the load and operate with more confidence. Every day, you can see that commitment in how we stand with our customers and how we show up for each other.</p> <p><strong>What You\u2019ll Do:&nbsp;</strong></p> <p>We\u2019re looking to add an experienced Sales Engineer to our growing team. You\u2019ll join a group of highly collaborative individuals who enjoy supporting our sales team by providing technical product expertise to potential customers. As a Sales Engineer at Huntress, you will be responsible for providing technical first impressions of our product platform by delving i",
+   "ats": "greenhouse",
+   "score": 67,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "msp",
+    "cybersecurity",
+    "cloud",
+    "azure",
+    "enterprise",
+    "partner",
+    "ai"
+   ],
+   "resume": "generic",
+   "id": "f075b3442b184e3a"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cohesity",
+   "title": "Senior Sales Engineer (Enterprise Accounts)",
+   "location": "Greater Cleveland (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-enterprise-accounts-at-cohesity-4479230785",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "d7bfb9972ec4e32a"
+  },
+  {
+   "source": "linkedin",
+   "company": "HPE Aruba Networking",
+   "title": "HPE Networking Senior Presales Systems Engineer \u2013 Federal Systems Integrators (FSI)",
+   "location": "Miami-Fort Lauderdale Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/hpe-networking-senior-presales-systems-engineer-%E2%80%93-federal-systems-integrators-fsi-at-hpe-aruba-networking-4479209819",
+   "posted": "2026-10-13T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "8f40270ea240cfa4"
+  },
+  {
+   "source": "linkedin",
+   "company": "IFS",
+   "title": "Senior Solutions Consultant ( Pre Sales) | Copperleaf | US",
+   "location": "Itasca, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-consultant-pre-sales-copperleaf-us-at-ifs-4479557873",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "d772588035096a97"
+  },
+  {
+   "source": "linkedin",
+   "company": "Zscaler",
+   "title": "Senior Sales Engineer, Majors - West",
+   "location": "California, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-majors-west-at-zscaler-4479263019",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "800c97ceb20a5d31"
+  },
+  {
+   "source": "linkedin",
+   "company": "Freshworks",
+   "title": "Lead - Solutions Engineer (Verticals)",
+   "location": "Miami, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/lead-solutions-engineer-verticals-at-freshworks-4457366399",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b985c1125bdd50f4"
+  },
+  {
+   "source": "linkedin",
+   "company": "Saviynt",
+   "title": "Senior Sales Engineer - Great Lakes",
+   "location": "Minneapolis, MN (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-great-lakes-at-saviynt-4470629025",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "3b251136c00b1c85"
+  },
+  {
+   "source": "linkedin",
+   "company": "Okta",
+   "title": "Solutions Engineer, Okta (Enterprise)",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-engineer-okta-enterprise-at-okta-4468900229",
+   "posted": "2026-10-13T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "48f7dc8fc9faead7"
+  },
+  {
+   "source": "linkedin",
+   "company": "AHEAD",
+   "title": "Senior Client Solutions Engineer",
+   "location": "Chicago, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-client-solutions-engineer-at-ahead-4478174440",
+   "posted": "2026-10-13T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "4359d93f130466fb"
+  },
+  {
+   "source": "linkedin",
+   "company": "Talkdesk",
+   "title": "Senior Solutions Engineer - Healthcare & Life Sciences (Central & East)",
+   "location": "Chicago, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-healthcare-life-sciences-central-east-at-talkdesk-4468115789",
+   "posted": "2026-10-13T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "8ef05785f74f5905"
+  },
+  {
+   "source": "linkedin",
+   "company": "Atlassian",
+   "title": "Senior Solutions Engineer | DX",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-dx-at-atlassian-4462050999",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "7fbe2db59db3c9a1"
+  },
+  {
+   "source": "linkedin",
+   "company": "Freshworks",
+   "title": "Lead - Solutions Engineer (Verticals)",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/lead-solutions-engineer-verticals-at-freshworks-4457373358",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "44610796716e6ef8"
+  },
+  {
+   "source": "linkedin",
+   "company": "NinjaOne",
+   "title": "Enterprise Solutions Engineer, Channel",
+   "location": "Texas, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-channel-at-ninjaone-4452605109",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "43ce4aafc4306643"
+  },
+  {
+   "source": "linkedin",
+   "company": "Hex",
+   "title": "Sales Engineer, Enterprise",
+   "location": "San Francisco Bay Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sales-engineer-enterprise-at-hex-4446422851",
+   "posted": "2026-10-13T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e89d588a4e002bb3"
+  },
+  {
+   "source": "linkedin",
+   "company": "Google",
+   "title": "Google Workspace Customer Engineer, Mid-Market Enterprise, Google Cloud",
+   "location": "Atlanta, GA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/google-workspace-customer-engineer-mid-market-enterprise-google-cloud-at-google-4478157120",
+   "posted": "2026-10-13T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "customer engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "12b39613e034e457"
+  },
+  {
+   "source": "linkedin",
+   "company": "Google",
+   "title": "Google Workspace Customer Engineer, Mid-Market Enterprise, Google Cloud",
+   "location": "Chicago, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/google-workspace-customer-engineer-mid-market-enterprise-google-cloud-at-google-4478138945",
+   "posted": "2026-10-13T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "customer engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b73555b1291eed16"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cloudflare",
+   "title": "Senior Customer Engineer AI/ Start Up's",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-customer-engineer-ai-start-up-s-at-cloudflare-4476489998",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "customer engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "17a5c7c7087bc0b9"
+  },
+  {
+   "source": "linkedin",
+   "company": "Esri",
+   "title": "Sr. GIS Solution Engineer - Geo Experience Center",
+   "location": "Redlands, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-gis-solution-engineer-geo-experience-center-at-esri-4470209128",
+   "posted": "2026-10-13T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solution engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b414ddb8d128d8e0"
+  },
+  {
+   "source": "linkedin",
+   "company": "Snowflake",
+   "title": "Enterprise Account Executive, Observe",
+   "location": "Little Rock, AR (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-observe-at-snowflake-4461516181",
+   "posted": "2026-10-14T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "41040c33805d7224"
+  },
+  {
+   "source": "linkedin",
+   "company": "Rippling",
+   "title": "Account Executive, Enterprise, Global",
+   "location": "Austin, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/account-executive-enterprise-global-at-rippling-4479227357",
+   "posted": "2026-10-13T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "fad259278f49933d"
+  }
+ ]
+}
