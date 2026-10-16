@@ -1,37 +1,36 @@
 {
- "generated_at": "2026-10-15T17:15:58.768202+00:00",
+ "generated_at": "2026-10-16T16:51:51.044573+00:00",
  "counts": {
-  "fetched": 15729,
-  "fresh_matches": 28,
-  "in_digest": 28,
+  "fetched": 15751,
+  "fresh_matches": 24,
+  "in_digest": 24,
   "boards_ok": 125,
   "boards_failed": 4
  },
  "rejected_reasons": {
-  "location unclear/onsite elsewhere": 193,
-  "title not relevant": 1772,
-  "rejected title": 1281,
-  "onsite outside Portland": 279,
-  "non-US location": 498
+  "location unclear/onsite elsewhere": 194,
+  "title not relevant": 1836,
+  "rejected title": 1325,
+  "onsite outside Portland": 295,
+  "non-US location": 545
  },
  "jobs": [
   {
    "source": "ashby",
    "company": "secureframe",
-   "title": "Enterprise Account Executive, Defense AI",
+   "title": "SMB Account Executive, Defense AI & GRC",
    "location": "New York, NY (Remote)",
-   "url": "https://jobs.ashbyhq.com/secureframe/e60c6794-dafb-49bc-8858-150a5a60beac",
-   "posted": "2026-10-15T17:07:50.717000+00:00",
-   "description": "At Secureframe , we\u2019re building the next generation of cybersecurity and compliance software. Thousands of organizations use our platform to strengthen security, automate compliance, and earn trust. We\u2019re backed by leading investors including Kleiner Perkins, Accomplice, Gradient Ventures, BoxGroup, and Village Global. Secureframe\u2019s Defense business is experiencing record growth. We recently launched Secureframe Defense , an AI-powered platform that helps Defense Industrial Base organizations move from secure-environment deployment through documentation, continuous monitoring, and assessment readiness. Our Defense AI product line combines modern software, secure infrastructure, Microsoft and cloud ecosystems, expert guidance, and services to solve a high-stakes problem for organizations protecting national defense information. About the role We\u2019re hiring an Enterprise Account Executive to become one of the founding enterprise sellers for our Defense AI product line. You\u2019ll help define how Secureframe wins complex, high-value opportunities across the Defense Industrial Base and adjacent public-sector markets\u2014and help turn an emerging product category into a durable enterprise business. You\u2019ll own a target sales motion of approximately 90 days, with typical contract values ranging from $50K to $500K. These opportunities can span complex IT environments, multiple business units, security and compliance programs, Microsoft licensing, cloud and on-premises infrastructure, secure enclaves, implementation services, and executive-level transformation priorities. This is a builder role for a strategic seller. You\u2019ll create account plans, develop champions, multi-thread technical and executive stakeholders, coordinate experts, shape business cases, navigate procurement, and close. Just as importantly, you\u2019ll bring the voice of the market back to Product and GTM leaders as we build the future of Secureframe\u2019s Defense business. What you\u2019ll do Own the full enterprise sales cycle from targeted prospecting and executive discovery through solution design, validation, commercial negotiation, procurement, close, and implementation handoff. Build and execute account strategies for complex Defense Industrial Base, government-contractor, and public-sector opportunities. Manage a target 90-day sales cycle while preserving the rigor required for $50K\u2013$500K contracts and multi-stakeholder decisions. Lead discovery across business units, IT, security, compliance, finance, legal, procurement, operations, and executive leadership. Translate complex environments\u2014including Microsoft 365 GCC High, Azure and Azure Government, Azure Virtual Desktop, secure enclaves, endpoint management, hybrid cloud, on-premises systems, and services dependencies\u2014into a clear commercial plan. Position Secureframe Defense AI across secure infrastructure, AI-guided CMMC workflows, automated documentation, continuous monitoring, readiness insights, and expert-supported delivery. Coordinate Sales E",
+   "url": "https://jobs.ashbyhq.com/secureframe/08ecd3a4-abc3-4ab4-8462-88f9dc520e9c",
+   "posted": "2026-10-15T18:22:43.104000+00:00",
+   "description": "At Secureframe , we\u2019re building the next generation of cybersecurity and compliance software. Thousands of organizations use our platform to strengthen security, automate compliance, and earn trust. We\u2019re backed by leading investors including Kleiner Perkins, Accomplice, Gradient Ventures, BoxGroup, and Village Global. Our Defense AI business is experiencing record growth as organizations across the Defense Industrial Base look for a faster, more practical way to meet CMMC requirements. Secureframe Defense AI combines secure infrastructure, AI-guided CMMC workflows, automated documentation, continuous control monitoring, real-time readiness insights, and expert support in one platform. It gives sellers a differentiated story: help customers secure CUI, accelerate CMMC readiness, and reduce the cost and complexity of operating a compliant environment. Alongside Defense AI, our GRC products help companies achieve and maintain frameworks such as SOC 2, ISO 27001, HIPAA, PCI DSS, and more. About the role As an SMB Account Executive for Defense AI & GRC, you\u2019ll own a fast-moving, full-cycle sales motion across small-business customers. You\u2019ll lead with one of Secureframe\u2019s most strategic product stories\u2014using AI, automation, and secure infrastructure to help defense contractors protect CUI and get CMMC ready\u2014while also selling our broader GRC platform. You\u2019ll connect customer needs to the right solution and move from discovery to a clear decision with urgency and care. This is a velocity role. You\u2019ll build the operating rhythm to close approximately 30\u201350 deals per quarter across repeatable Defense AI and GRC motions, while also recognizing and developing larger opportunities that can grow into six-figure contracts. Success requires disciplined prospecting, excellent discovery, concise product storytelling, and clean execution across a large number of active opportunities. You do not need to arrive as a CMMC or Microsoft cloud expert. Experience selling to defense contractors, government suppliers, or public-sector organizations is valuable, but it is not required. We are equally interested in strong sellers from cybersecurity, GRC, cloud, managed services, hardware, software, and IT-services backgrounds who can learn quickly, sell a technical AI-powered outcome, and earn credibility with technical and business buyers. What you\u2019ll do Own the full sales cycle\u2014from prospecting and qualification through discovery, demo, commercial alignment, close, and clean handoff. Close approximately 30\u201350 transactions per quarter by balancing speed, responsiveness, qualification discipline, and customer value. Sell Secureframe Defense AI and GRC products, matching the right solution to each customer\u2019s business, security, compliance, and IT goals. Run practical discovery around business drivers, contract requirements, IT environments, CUI scope, current tools, buying process, urgency, and budget. Explain how Microsoft Azure, Microsoft 365 GCC High licensing, secure en",
    "ats": "ashby",
-   "salary": "$220K \u2013 $350K",
-   "score": 90,
+   "salary": "$150K \u2013 $200K",
+   "score": 87,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "account executive",
-    "enterprise account executive"
+    "account executive"
    ],
    "matched_skills": [
     "msp",
@@ -40,25 +39,119 @@
     "azure",
     "microsoft 365",
     "salesforce",
+    "crm",
     "enterprise",
     "mid-market",
+    "smb",
     "b2b",
-    "partner",
-    "ai",
-    "quota"
+    "partner"
    ],
    "resume": "generic",
-   "id": "fec2266a7398b6c1"
+   "id": "5c7530ed3f454a56"
+  },
+  {
+   "source": "ashby",
+   "company": "vanta",
+   "title": "Sales Development Representative, Enterprise",
+   "location": "New York, NY (Remote)",
+   "url": "https://jobs.ashbyhq.com/vanta/ed31b882-0d92-4bcd-a0e7-bed3a7d04ec4",
+   "posted": "2026-10-15T20:33:38.810000+00:00",
+   "description": "At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it. At Vanta, being an Enterprise SDR is first about hitting targets and driving revenue. It also means joining a community that\u2019s committed to your success and career growth. We believe the future of our sales organization lies with our SDRs, so we invest heavily in enablement and career advancement. You\u2019ll get the training, support and mentorship you need to excel, with a clear path to an Account Executive role. As an Enterprise SDR, you\u2019ll partner with Account Executives, Solutions Engineers, Marketing and channel partners to create pipeline at large organizations (2,000+ employees). You\u2019ll engage senior security, risk and compliance leaders who are under growing pressure from audits, security reviews, third-party risk and AI governance. You don\u2019t need SaaS or cybersecurity experience to be great at this job. We\u2019ll teach you the product, the tools and the process. What we can\u2019t teach is drive, curiosity and coachability, and that\u2019s what we\u2019re hiring for. Great SDRs come from everywhere: commission- or tip-based roles, hospitality, retail, call centers, fundraising, recruiting, real estate, political campaigns, competitive athletics, or something they started on their own. Vanta is growing quickly and is profitable. We keep beating our growth targets while maintaining very strong NPS scores, so it\u2019s an exciting time to join. If you\u2019re hungry to learn and ready to work hard, we\u2019d love to hear from you. What you\u2019ll do as a Sales Development Representative at Vanta: Learn Vanta\u2019s value proposition and Trust Management Platform, including compliance automation, continuous monitoring, Trust Center, questionnaire automation, vendor risk management and AI governance. Explain them clearly and confidently to enterprise buyers. Own a named book of enterprise accounts. Build account plans and run multi-threaded outreach by phone, email and LinkedIn, using tools you\u2019ll be trained on: Salesforce, ZoomInfo, Nooks, Outreach, LinkedIn Sales Nav, 6Sense and Gong. Prospect into senior leaders such as CISOs, CIOs, CTOs, VPs and Directors of Security, Heads of GRC, Compliance Managers, and IT Risk and Internal Audit leaders. Research accounts to find why-now triggers, such as new frameworks (SOC 2, ISO 27001, HIPAA, FedRAMP, ISO 42001), new security leadership, M&A, funding, audit findings or vendor risk initiatives. Qualify opportunities against Vanta\u2019s criteria: pain, champion, compelling event and a scheduled next step. Book qualified meetings on your AE\u2019s calendar and log your activity in Salesforce. Handle objections, including incumbent GRC tools and \u201cwe built it in-house,\u201d and keep conversations going after a first \u201cno.\u201d H",
+   "ats": "ashby",
+   "salary": "$110K \u2022 Offers Equity \u2022 This role is also eligible for medical benefits, 401(k) plan, and other company perk programs.",
+   "score": 85,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales development representative"
+   ],
+   "matched_skills": [
+    "saas",
+    "cybersecurity",
+    "salesforce",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "automation",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "98e61bf57c7bf2a8"
   },
   {
    "source": "greenhouse",
-   "company": "cloudflare",
-   "title": "Senior Account Executive, SLED (PacNW)",
-   "location": "Distributed",
-   "url": "https://boards.greenhouse.io/cloudflare/jobs/8279967?gh_jid=8279967",
-   "posted": "2026-10-14T17:36:40-04:00",
-   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><h2>Available Locations</h2> <ul> <li>Seattle</li> </ul> <h2>About the Role</h2> <p>Account Executives, Channel Account Managers, Business Development Representatives, Solution Engineers, Customer Success, and Sales Operations - all working together help our customers adopt Cloudflare and create great Internet-enabled experiences. The sales team at Cloudflare helps customers solve real, technical problems while creating the revenue streams that help the company provide free service to millions in our community.</p> <h2>Responsibilities</h2> <ul> <li>We are looking for a seasoned sales professional to help us build a Public Sector Sales team to help cover the State and Local market for the territory. The ideal candidate will possess both a sales and technical background that enables them to drive engagement at all levels with technical and non-technical buyers.</li> <li>As an Senior SLED Account Executive, you'll be responsible for developing and executing against a comprehensive account/territory plan as well as driving sales in a defined territory and/or account list to achieve revenue targets. The person in this role will also assist in creating and articulating compelling value propositions for Cloudflare services.</li> <li>Manage contract negotiations</li> <li>Maintain a robust sales pipeline</li> <li>Develop long-term strategic relationships with key accounts.</li> </ul> <h2",
+   "company": "abnormalsecurity",
+   "title": "Enterprise Account Executive - Southeast Florida",
+   "location": "Remote - USA",
+   "url": "https://abnormal.ai/careers/jobs/7788905003?gh_jid=7788905003",
+   "posted": "2026-10-16T10:17:08-04:00",
+   "description": "<h2>About the Role</h2> <p>Abnormal AI is looking for an Enterprise Account Executive to join the Southeast team. This team sells our security solutions to Enterprise level accounts within a defined territory.</p> <p>The ideal candidate for the role will be local to Southeast Florida (Miami, Fort Lauderdale, Palm Beach area) and have the following skillset:&nbsp;</p> <ul> <li>Proven hunter with a disciplined approach to early pipeline development and prospecting into enterprise accounts. Skilled at leveraging all five demand gen pillars: AE prospecting, SDRs, marketing, channel, and customer referrals.</li> <li>Strong qualifier with a knack for uncovering customer pain points and connecting them to compelling, value-driven solutions.</li> <li>Effective presenter able to tailor demos and messaging to resonate with stakeholders based on specific business challenges.</li> <li>Process-oriented with a consistent, repeatable sales methodology and strong time management skills \u2014 capable of managing multiple deals without sacrificing quality.</li> <li>Data-disciplined, maintaining accurate and consistent account and opportunity data at all times.</li> <li>Business case builder, experienced in quantifying ROI across multiple dimensions for diverse stakeholder groups.</li> <li>Knowledge sharer, able to extract, organize, and document customer insights and deal lessons to enable broader team learning.</li> <li>Internal guide, adept at navigating and supporting internal buying processes.</li> <li>Resilient and resourceful, with the grit to thrive in early-stage environments and a strong understanding of how to leverage cross-functional teams including SEs, marketing, BDRs, product, and CS.</li> </ul> <h2>What you will do&nbsp;</h2> <ul> <li>Sell Abnormal security solutions to your defined territory with the goal to overachieve new annual recurring revenue quota</li> <li>Work enterprise accounts (&gt;3k mailbox organizations) from initial conversations through signing a contract and up-selling once they\u2019re a customer.</li> <li>Prospect and generate new business opportunities with enterprise accounts (&gt;3k mailbox organizations) to supply enough pipeline for them to hit sales targets.</li> <li>Work with Customer success to ensure a timely renewal and expansion sale opportunities</li> <li>Continually document results and maintain accurate data across all sales systems (Salesforce, Highspot, Close Plan)</li> <li>Be a voice for the customer/prospect with internal teams including Sales Engineering/POV team, Product and Marketing to ensure appropriate prioritization to close more revenue.</li> </ul> <h2>Must Haves&nbsp;</h2> <ul> <li>Enterprise Account Hunter with 3+ years of direct (not overlay) experience selling into enterprise-sized organizations (3k+ employee count), including prospecting, winning new logos, and expanding major accounts in competitive, incumbent-heavy environments.</li> <li>Skill in negotiating with large organizations and closing complex sa",
    "ats": "greenhouse",
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "7aa4616fa3877456"
+  },
+  {
+   "source": "greenhouse",
+   "company": "grafanalabs",
+   "title": "Senior Solutions Engineer, Partner | US | Remote ",
+   "location": "United States (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6222975004",
+   "posted": "2026-10-16T11:18:41-04:00",
+   "description": "<div class=\"content-intro\"><p>Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at <u><span><a href=\"http://grafana.com\" target=\"_blank\">grafana.com</a></span></u> and follow us on <u><span><a href=\"https://www.linkedin.com/company/grafana-labs/\" target=\"_blank\">LinkedIn</a></span></u> and <u><span><a href=\"https://twitter.com/grafana\" target=\"_blank\">X</a></span></u><u>.</u></p> <p>We\u2019re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.</p> <p>You may not meet every requirement, and that\u2019s okay. If this role excites you, we\u2019d love you to raise your hand for what could be a truly career-defining opportunity.</p></div><div class=\"section page-centered\"> <p><strong>The Opportunity:</strong></p> <p>Grafana Labs is seeking a Senior Partner Solutions Engineer to join its high growth startup environment and help scale cloud partnerships, with a dedicated focus on joint go to market activities with Cloud Service Providers (CSP) including Amazon Web Services (AWS) and Google Cloud (GCP). The successful candidate will be instrumental in enabling partner success through education, enablement, direct engagement, support of events, and build content that helps our CSP\u2019s position and demonstrate Grafana capabilities.</p> <p><strong>What You\u2019ll Be Doing:</strong></p> <ul> <li>Partnering with Channel Sales and Field Sales to convey Grafana\u2019s vision, value, and technical strategy to cloud partners</li> <li>Leading technical engagement with partners to drive deal progression and close opportunities</li> <li>Delivering product demos, technical presentations, and hands-on enablement sessions</li> <li>Develop and deliver training, onboarding, and ongoing education for solutions architects, and technical teams</li> <li>Represent Grafana Labs through technical presentations, live demos, webinars, conference sessions, and regional partner events</li> <li>Create reference architectures, demo environments, solution guides, and presentations that explain",
+   "ats": "greenhouse",
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "21c2da0068212890"
+  },
+  {
+   "source": "ashby",
+   "company": "elevenlabs",
+   "title": "Account Executive - Digital Natives - Strategic",
+   "location": "United States (Remote)",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/b89ff518-824e-4736-a4c7-c68ea3b6b62f",
+   "posted": "2026-10-16T02:19:04.851000+00:00",
+   "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. About the Role We\u2019re launching dedicated Digital Natives coverage in North America, a new team built to serve companies whose products and business models are built around technology. These are cloud-first, developer-led organizations that build fast, scale fast, and evaluate vendors the way engineers do. This is a named account role with a focused portfolio of the most strategic digital native companies ",
+   "ats": "ashby",
+   "salary": null,
    "score": 79,
    "remote": true,
    "portland": false,
@@ -69,169 +162,203 @@
    "matched_skills": [
     "cloud",
     "enterprise",
-    "smb",
-    "channel",
     "partner",
     "ai",
+    "north america",
+    "quota",
     "pipeline",
-    "technical background"
+    "outbound"
    ],
    "resume": "generic",
-   "id": "c57711cc825f5b6e"
+   "id": "7df2578e73718634"
   },
   {
    "source": "greenhouse",
-   "company": "datadog",
-   "title": "Strategic Account Executive",
-   "location": "California, USA, Remote",
-   "url": "https://careers.datadoghq.com/detail/7155024/?gh_jid=7155024",
-   "posted": "2026-10-15T12:33:30-04:00",
-   "description": "<p>Our Strategic Account Executives target and close new business with Datadog\u2019s largest, most strategic customers and prospects. In this role you\u2019ll be focused on uncovering the pain points organizations face as they operate in or migrate to a cloud environment at scale as well as delivering the appropriate Datadog solution.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You\u2019ll Do:</strong></p> <ul> <li>Prospect into large Fortune 1000 companies while running an efficient sales process</li> <li>Maintain, build and own specific relationship maps for your territory including existing relationships and aspirational contacts</li> <li>Develop a deep comprehension of customer's business</li> <li>Negotiate favorable pricing and business terms with large commercial enterprises by selling value and ROI</li> <li>Handle existing customer expectations while expanding reach and depth into assigned territory</li> <li>Demonstrate resourcefulness when faced with challenges that defy easy solution</li> <li>Have intuitive sense of necessary steps to close business and gain customer validation</li> <li>Identify robust set of business drivers behind all opportunities</li> <li>Ensure high forecasting accuracy and consistency</li> </ul> <p><strong>Who You Are:&nbsp;</strong></p> <ul> <li>Someone with 5+ years closing experience (mix of field selling within mid-market and enterprise)</li> <li>Driven and have met/exceeded direct sales goals of 1M+ and operated with an average deal size of $100k+</li> <li>Able to demonstrate methodology to prospect and build pipeline on your own</li> <li>Experienced in working for an innovative tech company (SaaS, IT infrastructure or similar preferred)</li> <li>Experienced in selling into large Fortune 1000 companies with the ability to win new logos</li> <li>Role requires regular travel to client sites, within your area and other regions, using various modes of transportation (car, train, air), depending on business needs</li> </ul> <p><em>Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you\u2019re passionate about technology and want to grow your skills, we encourage you to apply.</em></p> <p><strong>Benefits and Growth:&nbsp;</strong></p> <ul> <li>High income earning opportunities based on self performance</li> <li>New hire stock equity (RSU) and employee stock purchase plan (ESPP)</li> <li>Continuous professional development, product training, and career pathing&nbsp;</li> <li>Sales training in MEDDIC and Command of the Message&nbsp;</li> <li>Intra-departmental mentor and buddy program for in-house networking&nbsp;</li> <li>An inclusive company culture, opportunity to join our Community Guilds</li> <li>Generous an",
+   "company": "pagerduty",
+   "title": "Forward Deployed Engineer (SDEV)",
+   "location": "Remote (USA - New York City, NY)",
+   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/6216870004",
+   "posted": "2026-10-16T11:37:27-04:00",
+   "description": "<div class=\"content-intro\"><p>PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform.</p> <p>&nbsp;</p></div><p><span style=\"font-size: 10pt;\">PagerDuty is seeking a <strong>Forward Deployed Engineer (SRE Agent)</strong> to join our customer-focused SRE Agent team! As a <strong>Forward Deployed Engineer</strong>, you will work inside PagerDuty\u2019s largest customer accounts, connecting the SRE Agent to their production environments (observability tools, infrastructure as code, GitOps tooling, and CI/CD pipelines) and guiding their teams from AI-assisted incident response to supervised and autonomous actions with safety guardrails. You will also contribute code directly back to the core SRE Agent product, building reusable tools, connectors, and skills derived from real customer needs.</span></p> <p><span style=\"font-size: 10pt;\">This is an exciting opportunity to join the product engineering team as the Staff Engineer and directly shape how agentic AI operates within the most strategic customers. The ideal candidate brings a strong background as a software engineer, hands-on experience shipping LLM/agentic systems to production, and the customer-facing skills to bridge technical execution with business strategy.</span></p> <h4><span style=\"font-size: 10pt;\"><strong>KEY RESPONSIBILITIES&nbsp;</strong></span></h4> <ul> <li style=\"font-size: 10pt;\"><span style=\"font-size: 10pt;\"><strong>Embed and drive SRE Agent adoption:</strong> Work onsite and in regular contact with 2\u20134 strategic customer teams to deploy the SRE Agent, configure tools and connectors, and embed AI actions across their incident management lifecycle to drive adoption and value&nbsp;</span></li> <li style=\"font-size: 10pt;\"><span style=\"font-size: 10pt;\"><strong>Build and contribute core agent capabilities:</strong> Scope, design, and build reusable agent tools, connectors, and skills on the agent\u2019s extensibility surfaces, shipping them through the product team's repos, review process, and evaluation gates.</span></li> <li style=\"font-size: 10pt;\"><span style=\"font-size: 10pt;\"><strong>Run pilots and unblock customer adoption:</strong> Stand up new agentic capabilities with strategic accounts first, gather eval data, identify technical blockers (permissions, telemetry, missing connectors), and build production fixes directly in",
    "ats": "greenhouse",
-   "score": 77,
+   "score": 78,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "account executive"
+    "forward deployed engineer"
+   ],
+   "matched_skills": [
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "ai",
+    "llm",
+    "agentic",
+    "automation",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "40036960ff13d0f0"
+  },
+  {
+   "source": "greenhouse",
+   "company": "toast",
+   "title": "Mid-Market Retail Solutions Engineer",
+   "location": "Remote",
+   "url": "https://careers.toasttab.com/jobs?gh_jid=8257129",
+   "posted": "2026-10-15T15:05:34-04:00",
+   "description": "<p><strong>Mid-Market Retail Solutions Engineer</strong></p> <p>Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.</p> <p>After spending years building the best POS platform for restaurateurs, Toast has recently expanded its offerings into retail concepts. This role requires a founder\u2019s mindset as we build the Retail Solutions Engineering team to support Toast\u2019s growth in this new vertical. The ideal candidate thrives in ambiguity, enjoys building processes alongside evolving products, and is energized by helping shape a new business line from the ground up.</p> <p>We are looking for a product and application expert who will serve as the technical lead within the mid-market sales process, with the objective of driving revenue. Mid-market retail deals are multi-location, multi-stakeholder, and technically complex, spanning integrations, data migration, network and hardware architecture, and enterprise-grade security review. This role works cross-functionally with Sales, Product Management, Partnerships, and Implementation to ensure solutions are technically sound, scalable, and aligned to customer needs.</p> <p>As a Mid-Market Retail Solutions Engineer, you will be part of the founding team helping to revolutionize the way the retail industry does business by pairing technology with an unrivaled commitment to customer success. You will help multi-unit retail operators streamline operations, increase revenue, and deliver amazing customer experiences through our platform that combines retail point of sale, customer-facing technology, and award-winning customer support. In this role, you will be challenged to take on meaningful projects that will help shape the future of the company. Join us as we empower the retail community to delight customers, do what they love, and thrive.</p> <p>&nbsp;</p> <p><strong>A day in the life (Responsibilities)&nbsp;</strong></p> <ul> <li>Serve as the technical lead on mid-market retail opportunities, partnering with Account Executives from discovery through close</li> <li>Run structured technical discovery with multi-stakeholder buying groups (operations, IT, finance, merchandising, and executive sponsors) to uncover business challenges and technical requirements</li> <li>Build and deliver tailored demonstrations and demo environments that map Toast\u2019s retail platform to a prospect\u2019s specific workflows, rather than standard product walkthroughs</li> <li>Design end-to-end solutions for multi-location retailers, including integration architecture, API and data flows, catalog and data migration, hardware configuration, and network requirements</li> <li>Scope and position the Toast partner ecosystem where native functionality doesn\u2019t fully meet a requirement, and clearly frame trade-offs and effort</li> <li>Lead pilots and proofs of concept: define success criteria, manage technical valida",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
    ],
    "matched_skills": [
     "saas",
-    "cloud",
+    "rfp",
+    "rfi",
     "enterprise",
     "mid-market",
+    "partner",
     "ai",
-    "pipeline",
+    "discovery",
     "demo"
    ],
    "resume": "generic",
-   "id": "2d9ff3077c8bddc0"
+   "id": "ab4c2c4be2fe837e"
   },
   {
    "source": "greenhouse",
-   "company": "samsara",
-   "title": "Core Enterprise Account Executive EST/CST - Remote",
-   "location": "Remote - US",
-   "url": "https://www.samsara.com/company/careers/roles/7612608?gh_jid=7612608",
-   "posted": "2026-10-15T09:27:37-04:00",
-   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>As a Core AE, you will be helping our largest and most strategic enterprise sized customers consolidate outdated technologies, digitize workflows, and unlock game-changing data insights that will transform their businesses. We are helping the companies that literally keep our lights on, put food on our tables, and build our communities to become safer, more efficient, and more sustainable. Typical sales will be $100k to $500k, and typically involve POCs, multiple stakeholders, managing trials, multi-faceted pricing negotiations, and selling to executives and CXOs.</p> <p><strong><span data-sheets-root=\"1\">This is a remote position open to candidates residing in the US and requires working in EST and CST timezone.</span></strong></p> <p><strong>You should apply if:&nbsp;</strong></p> <ul> <li><strong>You want to impact the industries that run our world: </strong>Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.</li> <li><strong>Your mantra is #alwaysbeprospecting:</strong> The world of operations is vast. Your customers are often out in the field and the best way to catch them is live on the phone. Samsara\u2019s top reps do constant research to find companies and contacts to expand their pipeline.</li> <li><strong>You have innate curiosity in how businesses work:</strong> One day you\u2019ll meet with someone in waste management and the next you may be learning about the inner workings of a food distribution center. Our top sales team members seek to learn the ins and outs of the businesses t",
+   "company": "zscaler",
+   "title": "Sales Development Representative",
+   "location": "Boston, Massachusetts, USA; Dallas, Texas, USA; Remote - North Carolina, USA",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267165007",
+   "posted": "2026-10-16T11:04:13-04:00",
+   "description": "<div class=\"content-intro\"><p data-pm-slice=\"1 1 []\">Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform.</p> <p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p></div><p><strong>Role</strong></p> <p>We are looking for a Sales Development Representative to join our team. This is a Hybrid role, reporting to the Manager of Sales Development in the Sales Development department. You will have the opportunity to be a key contributor to Zscaler\u2019s sales pipeline and revenue growth through lead qualification.</p> <p><strong>This is a hybrid onsite role that requires 2 days a week in the office (Plano, TX/Raleigh, NC/or Boston, MA)</strong>.&nbsp;</p> <p><strong>What you\u2019ll do (Role Expectations)</strong></p> <ul> <li>Researching and prospecting into organizations by emailing, calling, networking and other creative means to lead early stage pipelines</li> <li>Qualifying and scheduling well qualified appointments with main decision makers within global 2000 or \"targeted\" companies through inbound and outbound leads</li> <li>Utilizing the CRM to maintain accurate activity, contact, and account information of all customers and prospects</li> </ul> <p><strong>Who You Are (Success Profile)</strong></p> <ul> <li>You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. You adapt to what\u2019s needed, navigating seamlessly between high-level strategy and hands-on execution.</li> <li>You are a high-trust collaborator. You are ambitious for the team, not just yourself. You embrace our challenge culture by giving and receiving ongoing feedback\u2014knowing that candor delivered with clarity and respect is the truest form of teamwork and the fastest way to earn trust.</li> <li>You are a learner. You have a true growth mindset and never stop developing yourself, actively seeking feedback to become a better partner and a stronger teammate. You love what you do and you do it with purpose.</li> <li>You are a positive force. You approach har",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales development representative"
+   ],
+   "matched_skills": [
+    "cloud",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "partner",
+    "ai",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "21342db31ebe488a"
+  },
+  {
+   "source": "greenhouse",
+   "company": "wizinc",
+   "title": "Solutions Engineer, Growth - East",
+   "location": "Remote - USA",
+   "url": "https://www.wiz.io/careers/job/4722439006/:title?gh_jid=4722439006",
+   "posted": "2026-10-15T18:10:12-04:00",
+   "description": "<div class=\"content-intro\"><p>Come join the organization that is redefining security for the AI era. As one of the<a href=\"https://www.wiz.io/blog/100m-arr-in-18-months-wiz-becomes-the-fastest-growing-software-company-ever\"> fastest-growing startups ever,</a> we enable teams to secure cloud and AI applications by connecting code, cloud, and runtime into a single shared context. Trusted by security teams all over the world, we have a proven<a href=\"https://www.g2.com/products/wiz-wiz/reviews\"> track record of success</a> and a culture that values world-class talent. Not to mention, we're now<a href=\"https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-wiz\"> powered by Google</a>, meaning we offer our customers an AI-powered platform that harnesses Google\u2019s Threat Intelligence and Security Operations to better detect, prevent, and respond to threats across all environments, allowing for further innovation.</p> <p>Our Wizards from all over the globe work together to protect the infrastructure of our customers, including over 65% of the Fortune 100, who trust us to scan and secure over 230 billion files daily. We\u2019re honored to be a leading player in a massive and growing market, and we continue to look for exceptional Wizards who are eager to make a significant impact on our team. At Wiz, you\u2019ll have the freedom to think creatively, dream big, and use your full range of skills to contribute to our momentous growth. Come join our team and help us create secure cloud environments that allow even the best companies to move faster, all while having some fun!</p></div><p><strong><span data-markdown-start-index=\"307\">Minimum qualifications:</span></strong></p> <ul> <li><span data-markdown-start-index=\"331\">3-4 years of pre-sales experience.</span></li> <li><span data-markdown-start-index=\"367\">Must be based in the Eastern Standard Time (EST) time zone.</span></li> <li><span data-markdown-start-index=\"428\">Ability to deliver world-class demonstrations and training experiences to potential customers.</span></li> <li><span data-markdown-start-index=\"524\">Confidence in a high-velocity technical sale.</span></li> <li><span data-markdown-start-index=\"571\">Familiarity with one or more Cloud technologies.</span></li> <li><span data-markdown-start-index=\"621\">Knowledge of cybersecurity architecture and tooling.</span></li> <li><span data-markdown-start-index=\"675\">Exceptional written and verbal communication skills, with an emphasis on communicating complex technical issues to technical and non-technical audiences.</span></li> <li><span data-markdown-start-index=\"830\">Willingness to continuously learn.</span></li> <li><span data-markdown-start-index=\"866\">Critical, customer-first thinking.</span></li> <li><span data-markdown-start-index=\"902\">Familiarity with customer relationship management software, such as Salesforce.</span></li> </ul> <p><strong><span data-markdown-start-index=\"985\">Preferred qualifications:</span></strong></",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cybersecurity",
+    "cloud",
+    "azure",
+    "salesforce",
+    "smb",
+    "partner",
+    "ai",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "4298a0b9933a9ad5"
+  },
+  {
+   "source": "greenhouse",
+   "company": "gitlab",
+   "title": "Senior Partner Solutions Architect, Strategic Partnerships",
+   "location": "Remote, Canada; Remote, United States",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8863314002",
+   "posted": "2026-10-15T15:52:29-04:00",
+   "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h4><strong>An overview of this role</strong></h4> <p>As a Senior Partner Solutions Architect, Strategic Partnerships, you'll own the technical strategy and validation of joint work with GitLab's strategic partners: hyperscalers, artificial intelligence (AI) labs, AI-native companies, and development, security, and operations (DevSecOps) vendors. You'll work with partners, Product, and Research and Development (R&amp;D) to turn partner and customer needs into integrations, influence product design, and build the business case for each joint effort, from the first architecture review to a shipped integration. In this role you will also own the AI model evaluation process with our model partners, working closely with our R&amp;D teams to assess new models ahead of release and ensure GitLab is built on the best-performing models for our customers. Unlike a customer-facing Solutions Architect role focused on adoption, you'll work with partners to make GitLab better. This role has no sales quota or variable pay.</p> <p>At GitLab, our mission is simple: to enable everyone to contribute to and co-create the software that powers our world. Our platform doesn't just bring people together-it unites teams and organizations, breaking down barriers and redefining what's possible in software development.</p> <p><strong>What You\u2019ll Do</strong>&nbsp;&nbsp;</p> <ul> <li>Own the end-to-end technical strategy for assigned strategic partners, connecting technical requirements with joint business objectives.</li> ",
    "ats": "greenhouse",
    "score": 77,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "account executive",
-    "enterprise account executive"
+    "solutions architect"
    ],
    "matched_skills": [
     "cloud",
-    "enterprise",
+    "azure",
+    "partner",
     "ai",
-    "quota",
-    "pipeline",
-    "outbound",
-    "demo"
+    "llm",
+    "emea",
+    "quota"
    ],
    "resume": "generic",
-   "id": "d69b35dc3afdc7ea"
+   "id": "da8239776d08bbea"
   },
   {
    "source": "greenhouse",
-   "company": "samsara",
-   "title": "Core Enterprise Account Executive Midwest",
-   "location": "Remote - US",
-   "url": "https://www.samsara.com/company/careers/roles/8099250?gh_jid=8099250",
-   "posted": "2026-10-15T09:27:02-04:00",
-   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>As a Core AE, you will be helping our largest and most strategic enterprise sized customers consolidate outdated technologies, digitize workflows, and unlock game-changing data insights that will transform their businesses. We are helping the companies that literally keep our lights on, put food on our tables, and build our communities to become safer, more efficient, and more sustainable. Typical sales will be $100k to $500k, and typically involve POCs, multiple stakeholders, managing trials, multi-faceted pricing negotiations, and selling to executives and CXOs.</p> <p><strong><span data-sheets-root=\"1\">This is a remote position open to candidates residing in the US in the following states: Illinois, Indiana, Iowa, Kansas, Michigan, Minnesota, Missouri, Nebraska, North Dakota, Ohio, South Dakota, and Wisconsin.</span></strong></p> <p><strong>You should apply if:&nbsp;</strong></p> <ul> <li><strong>You want to impact the industries that run our world: </strong>Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.</li> <li><strong>Your mantra is #alwaysbeprospecting:</strong> The world of operations is vast. Your customers are often out in the field and the best way to catch them is live on the phone. Samsara\u2019s top reps do constant research to find companies and contacts to expand their pipeline.</li> <li><strong>You have innate curiosity in how businesses work:</strong> One day you\u2019ll meet with someone in waste management and the next you may be learning about the inner workings of a f",
+   "company": "gitlab",
+   "title": "Staff Solutions Architect, AI Subject Matter Expert",
+   "location": "Remote, United States",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886426002",
+   "posted": "2026-10-16T11:58:55-04:00",
+   "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><strong>An overview of this role</strong></h2> <p>As a Subject Matter Expert (SME), you'll be the deepest technical voice in the field for one product group, helping customers make technical decisions on GitLab's most important opportunities, roughly the top 10% by size or complexity.</p> <p>Account Solutions Architects (Account SAs) will bring you into prioritized opportunities. The Account SA owns the opportunity; you own your product group's success within it. You'll work directly with Product and Engineering, bringing customer needs and field insights into roadmap discussions. You'll also help the wider Solutions Architecture team build expertise through reusable assets, enablement, and coaching.</p> <p>You'll specialize in one product group, not all four. In Security &amp; Compliance, you'll focus on GitLab Ultimate, application security, Dependency Firewall, software supply chain security, compliance, and artificial intelligence (AI) governance. In Platform, you'll focus on GitLab Dedicated, self-managed deployments, bring your own model, and cloud and hybrid architecture. In Core DevSecOps, you'll focus on GitLab Premium, continuous integration and continuous delivery (CI/CD), source code management, Orbit, Artifact Central, and migrations. DevSecOps brings development, security, and operations together across software delivery. In AI &amp; Competitive, you'll focus on GitLab Duo Agent Platform, agentic workflows, AI-native development, competitive displacement including GitHub, and",
    "ats": "greenhouse",
-   "score": 77,
+   "score": 76,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "account executive",
-    "enterprise account executive"
+    "solutions architect"
    ],
    "matched_skills": [
     "cloud",
     "enterprise",
+    "partner",
     "ai",
-    "quota",
-    "pipeline",
-    "outbound",
-    "demo"
+    "agentic",
+    "discovery",
+    "demo",
+    "proof of concept"
    ],
    "resume": "generic",
-   "id": "6d246500ac242ff8"
+   "id": "0d35241d959e6ce5"
   },
   {
-   "source": "greenhouse",
-   "company": "samsara",
-   "title": "Core Enterprise Account Executive MST/PST - Remote",
-   "location": "Remote - US",
-   "url": "https://www.samsara.com/company/careers/roles/7612676?gh_jid=7612676",
-   "posted": "2026-10-15T09:28:43-04:00",
-   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>As a Core AE, you will be helping our largest and most strategic enterprise sized customers consolidate outdated technologies, digitize workflows, and unlock game-changing data insights that will transform their businesses. We are helping the companies that literally keep our lights on, put food on our tables, and build our communities to become safer, more efficient, and more sustainable. Typical sales will be $100k to $500k, and typically involve POCs, multiple stakeholders, managing trials, multi-faceted pricing negotiations, and selling to executives and CXOs.</p> <p><strong><span data-sheets-root=\"1\">This is a remote position open to candidates residing in the US and requires working in PST or MST timezone.</span></strong></p> <p><strong>You should apply if:&nbsp;</strong></p> <ul> <li><strong>You want to impact the industries that run our world: </strong>Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.</li> <li><strong>Your mantra is #alwaysbeprospecting:</strong> The world of operations is vast. Your customers are often out in the field and the best way to catch them is live on the phone. Samsara\u2019s top reps do constant research to find companies and contacts to expand their pipeline.</li> <li><strong>You have innate curiosity in how businesses work:</strong> One day you\u2019ll meet with someone in waste management and the next you may be learning about the inner workings of a food distribution center. Our top sales team members seek to learn the ins and outs of the businesses th",
-   "ats": "greenhouse",
-   "score": 77,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "account executive",
-    "enterprise account executive"
-   ],
-   "matched_skills": [
-    "cloud",
-    "enterprise",
-    "ai",
-    "quota",
-    "pipeline",
-    "outbound",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "f9875dbe0b59017f"
-  },
-  {
-   "source": "greenhouse",
-   "company": "samsara",
-   "title": "Core Enterprise Account Executive South East",
-   "location": "Remote - US",
-   "url": "https://www.samsara.com/company/careers/roles/7679100?gh_jid=7679100",
-   "posted": "2026-10-15T09:28:00-04:00",
-   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>As a Core AE, you will be helping our largest and most strategic enterprise sized customers consolidate outdated technologies, digitize workflows, and unlock game-changing data insights that will transform their businesses. We are helping the companies that literally keep our lights on, put food on our tables, and build our communities to become safer, more efficient, and more sustainable. Typical sales will be $100k to $500k, and typically involve POCs, multiple stakeholders, managing trials, multi-faceted pricing negotiations, and selling to executives and CXOs.</p> <p><strong><span data-sheets-root=\"1\">This is a remote position open to candidates residing in the US in the following states: Alabama, Arkansas, Florida, Georgia, Kentucky, Louisiana, Mississippi, North Carolina, South Carolina, Tennessee, Virginia, and West Virginia.</span></strong></p> <p><strong>You should apply if:&nbsp;</strong></p> <ul> <li><strong>You want to impact the industries that run our world: </strong>Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.</li> <li><strong>Your mantra is #alwaysbeprospecting:</strong> The world of operations is vast. Your customers are often out in the field and the best way to catch them is live on the phone. Samsara\u2019s top reps do constant research to find companies and contacts to expand their pipeline.</li> <li><strong>You have innate curiosity in how businesses work:</strong> One day you\u2019ll meet with someone in waste management and the next you may be learning about the i",
-   "ats": "greenhouse",
-   "score": 77,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "account executive",
-    "enterprise account executive"
-   ],
-   "matched_skills": [
-    "cloud",
-    "enterprise",
-    "ai",
-    "quota",
-    "pipeline",
-    "outbound",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "01c75e5e2d83b8b8"
-  },
-  {
-   "source": "greenhouse",
-   "company": "smartsheet",
-   "title": "Account Executive - Government Accounts",
-   "location": " -REMOTE, AU-",
-   "url": "https://job-boards.greenhouse.io/smartsheet/jobs/5118912",
-   "posted": "2026-10-14T19:51:13-04:00",
-   "description": "<div class=\"content-intro\"><p>For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it\u2019s what we show up for every day.</p></div><p>Smartsheet is entering a new phase of growth in the ANZ region after five highly successful years on the ground in Australia. To accelerate our momentum, we are seeking an accomplished Account Executive to focus on acquiring new government customers across Australian and New Zealand government organisations.</p> <p>As a key contributor to our ANZ team, you will leverage your expertise to help government organisations streamline their processes, drive operational efficiency, and achieve their strategic goals using Smartsheet\u2019s powerful platform. Reporting to the Regional Director, you will have a pivotal role in delivering transformative outcomes to public sector agencies.</p> <p><strong><br>You Will:</strong></p> <ul> <li>Sell Smartsheet solutions to government decision-makers, developing a deep understanding of public sector challenges, compliance needs, and technology trends.</li> <li>Become an expert in Smartsheet\u2019s features, benefits, and applications, tailoring them to meet government requirements, including those related to procurement and digital transformation initiatives.</li> <li>Confidently present to senior executives across state and federal agencies, aligning Smartsheet solutions with their objectives to improve transparency, collaboration, and service delivery.</li> <li>Run end-to-end persona-based new business sales campaigns targeting appropriate organisations, across all levels of government.</li> <li>Qualify inbound leads and proactively engage in outbound outreach aligned to MEDDICC methodology, ensuring robust discovery and qualification of government opportunities.</li> <li>Develop and execute a go-to-market strategy for our government business, not only creating detailed account &amp; territory plans that address agency-specific needs, but assisting in building out the overall government GTM.</li> <li>Drive complex, value-based sales processes, aligning Smartsheet\u2019s platform with government strategic goals and ensuring compliance with procurement frameworks.</li> <li>Build strong relationships with procurement teams, responding effectively to RFPs and creating compelling multi-year licensing proposals for agency-wide agreements.</li> <li>Maintain accurate and up-to-date records via Salesforce, running structured campaigns in Outreach.</li> <li>Exceed quarterly sales targets and meet outbound KPIs.</li> <li>Attend industry events and government-specific workshops to build relationships and strengthen Smartsheet\u2019s presence in the public se",
-   "ats": "greenhouse",
+   "source": "ashby",
+   "company": "factory",
+   "title": "Account Executive, Fed Civilian ",
+   "location": "United States (Remote)",
+   "url": "https://jobs.ashbyhq.com/factory/b62ddcc2-d29e-4ab3-a21a-f1cb81bdd763",
+   "posted": "2026-10-15T18:27:00.357000+00:00",
+   "description": "About Factory Our mission is to create a world where software builds and improves itself. We build the platform for self-improving software development, helping the world's largest enterprise engineering teams turn their organizations into autonomous software factories. Customers including Nvidia, Blackstone, Royal Bank of Canada (RBC), Palo Alto Networks, Adobe, and T-Mobile run Factory to ship code, review PRs, run tests, and deploy continuously - getting smarter with every cycle. In 2026, we raised $200M at a $5B valuation, bringing our total funding to over $400M. We are backed by world-class investors and operators including Khosla Ventures, Sequoia, Blackstone, Ali Ghodsi (CEO of Databricks), and Frank Slootman (Former CEO of Snowflake). About the Role Factory is on the hunt for a Federal Account Executive with deep knowledge of developer tools, AI, and the Federal Civilian market to drive adoption of Factory's agentic engineering platform across U.S. Federal Civilian agencies \u2014 turning government engineering organizations into autonomous development systems. You will own a named set of agencies, run strategic multi-stakeholder deals through federal procurement, and help build Factory's federal civilian practice from the field alongside our CEO, VP of Sales, product, and engineering teams. What you will do and achieve Own a named set of Federal Civilian agency accounts and lead enterprise sales cycles end-to-end: build pipeline, manage evaluations and pilots, navigate procurement, close multi-stakeholder deals through vehicles like GSA Schedule, agency BPAs/IDIQs, and reseller partners. Serve as the expert in conversations with CIOs, CTOs, chief AI officers, engineering leaders, program offices, and contracting officers, demonstrating deep understanding of Factory's platform and its value to each agency's mission. Run strategic, consultative selling motions: map agency missions and IT-modernization priorities to the platform, build multi-year account plans aligned to federal buying cycles, and maintain accurate forecasts, pipeline tracking, and sales plans. Lead technically credible conversations spanning infrastructure and the SDLC \u2014 CI/CD, DevSecOps, code review, testing, and release pipelines \u2014 and guide agencies on integrating Factory's Droids into their existing workflows, including enterprise IT deployments across cloud, on-prem, and air-gapped enclaves. Work directly with the Sales leadership, and closely with product, engineering, and security teams to customize solutions for each agency's requirements, clearing FedRAMP, ATO, and data-governance requirements along the way. Develop the federal channel: cultivate relationships with prime systems integrators and delivery partners so they embed Factory into their own contract vehicles, solutions, and service offerings. Educate and guide agencies through the technical and practical adoption of AI-driven development tools \u2014 addressing risk, security, and compliance concerns while showcasi",
+   "ats": "ashby",
+   "salary": null,
    "score": 76,
    "remote": true,
    "portland": false,
@@ -240,83 +367,117 @@
     "account executive"
    ],
    "matched_skills": [
-    "saas",
-    "salesforce",
-    "rfp",
-    "rfi",
+    "cloud",
     "enterprise",
+    "channel",
+    "partner",
     "ai",
-    "outbound",
-    "discovery"
+    "agentic",
+    "pipeline",
+    "demo"
    ],
    "resume": "generic",
-   "id": "d004abfc8ccb0a15"
+   "id": "a5e4d3d0a99309ff"
   },
   {
-   "source": "greenhouse",
-   "company": "grafanalabs",
-   "title": "Senior Solutions Engineer | Canada | Remote",
+   "source": "ashby",
+   "company": "factory",
+   "title": "Account Executive, Department of War",
    "location": "United States (Remote)",
-   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6199317004",
-   "posted": "2026-10-15T10:20:06-04:00",
-   "description": "<div class=\"content-intro\"><p>Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at <u><span><a href=\"http://grafana.com\" target=\"_blank\">grafana.com</a></span></u> and follow us on <u><span><a href=\"https://www.linkedin.com/company/grafana-labs/\" target=\"_blank\">LinkedIn</a></span></u> and <u><span><a href=\"https://twitter.com/grafana\" target=\"_blank\">X</a></span></u><u>.</u></p> <p>We\u2019re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.</p> <p>You may not meet every requirement, and that\u2019s okay. If this role excites you, we\u2019d love you to raise your hand for what could be a truly career-defining opportunity.</p></div><div class=\"section page-centered\"> <h4><strong>The Opportunity:</strong></h4> <h4><strong>Make a difference.</strong></h4> <p><span style=\"font-weight: 400;\">Are you looking for something new in your career? Enjoy a challenge? Love to innovate and learn? This is an exciting opportunity to join a technology startup in a high growth phase. Our Enterprise Solutions Engineering team are our in-house, customer-facing product experts.&nbsp; The Enterprise SE team enables Grafana Labs worldwide growth by educating potential and existing customers to ensure they are happy and successful.&nbsp; We share our technical and product expertise with customers through demos, hands-on enablement, presentations, technical evaluations and ongoing interaction. We also partner closely with our Sales team to help qualify and close opportunities. The Enterprise SE team is also one of the primary routes of communication from our customers through into the Product Management and Engineering teams.</span></p> <p><strong>What You\u2019ll Be Doing:</strong></p> <ul> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Join as an early member of a high growth team working together to solve technical and customer problems the right way</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Partner with our Sales team to a",
-   "ats": "greenhouse",
+   "url": "https://jobs.ashbyhq.com/factory/092e07b8-e377-4ab3-847f-d9e5b297c7fc",
+   "posted": "2026-10-15T18:25:17.608000+00:00",
+   "description": "About Factory Our mission is to create a world where software builds and improves itself. We build the platform for self-improving software development, helping the world's largest enterprise engineering teams turn their organizations into autonomous software factories. Customers including Nvidia, Blackstone, Royal Bank of Canada (RBC), Palo Alto Networks, Adobe, and T-Mobile run Factory to ship code, review PRs, run tests, and deploy continuously - getting smarter with every cycle. In 2026, we raised $200M at a $5B valuation, bringing our total funding to over $400M. We are backed by world-class investors and operators including Khosla Ventures, Sequoia, Blackstone, Ali Ghodsi (CEO of Databricks), and Frank Slootman (Former CEO of Snowflake). About the Role Factory is on the hunt for a Federal Account Executive with deep knowledge of developer tools, AI, and the national security market to drive adoption of Factory's agentic engineering platform across the Department of War and the Intelligence Community \u2014 turning mission-driven engineering organizations into autonomous development systems. You will own a named set of accounts, run strategic multi-stakeholder deals through defense and intelligence procurement, and help build Factory's national security practice from the field alongside our CEO, VP of Sales, product, and engineering teams. What you will do and achieve Own a named set of national security accounts across the Department of War to lead enterprise sales cycles end-to-end: build pipeline, manage evaluations and pilots, navigate procurement, close multi-stakeholder deals through GWACs, OTAs, defense and intelligence IDIQs, marketplaces and reseller partners. Serve as the expert in conversations with CIOs, CTOs, chief AI officers, engineering leaders, program and mission owners, and contracting officers, demonstrating deep understanding of Factory's platform and its value to each customer's mission. Run strategic, consultative selling motions: map mission and IT-modernization priorities to the platform, build multi-year account plans aligned to federal buying cycles, and maintain accurate forecasts, pipeline tracking, and sales plans. Lead technically credible conversations spanning infrastructure, technology modernization and the SDLC \u2014 CI/CD, DevSecOps, code review, testing, and release pipelines \u2014 and guide defense and intelligence engineering teams on integrating Factory's Droids into their existing workflows, including enterprise IT deployments across cloud, on-prem, and air-gapped enclaves. Work directly with the Sales leadership, and closely with product, engineering, and security teams to customize solutions for each customer's requirements. Be an expert in on prem, cloud, and edge deployments. Develop the national security channel: cultivate relationships with prime systems integrators and delivery partners so they embed Factory into their own contract vehicles, solutions, and service offerings. Educate and guide customers thro",
+   "ats": "ashby",
+   "salary": null,
+   "score": 76,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "agentic",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "f6fa8a2219ea94cc"
+  },
+  {
+   "source": "ashby",
+   "company": "factory",
+   "title": "Account Executive, Intelligence Community",
+   "location": "United States (Remote)",
+   "url": "https://jobs.ashbyhq.com/factory/d44c5a35-ffb6-495c-b4a4-347eeb82fcc2",
+   "posted": "2026-10-15T18:22:23.349000+00:00",
+   "description": "About Factory Our mission is to create a world where software builds and improves itself. We build the platform for self-improving software development, helping the world's largest enterprise engineering teams turn their organizations into autonomous software factories. Customers including Nvidia, Blackstone, Royal Bank of Canada (RBC), Palo Alto Networks, Adobe, and T-Mobile run Factory to ship code, review PRs, run tests, and deploy continuously - getting smarter with every cycle. In 2026, we raised $200M at a $5B valuation, bringing our total funding to over $400M. We are backed by world-class investors and operators including Khosla Ventures, Sequoia, Blackstone, Ali Ghodsi (CEO of Databricks), and Frank Slootman (Former CEO of Snowflake). About the Role Factory is on the hunt for a Federal Account Executive with deep knowledge of developer tools, AI, and the national security market to drive adoption of Factory's agentic engineering platform across the Department of War and the Intelligence Community \u2014 turning mission-driven engineering organizations into autonomous development systems. You will own a named set of accounts, run strategic multi-stakeholder deals through defense and intelligence procurement, and help build Factory's national security practice from the field alongside our CEO, VP of Sales, product, and engineering teams. What you will do and achieve Own a named set of Intelligence Community accounts to lead enterprise sales cycles end-to-end: build pipeline, manage evaluations and pilots, navigate procurement, close multi-stakeholder deals through OTAs, IDIQs, SI programs, marketplaces and reseller partners. Serve as the expert in conversations with CIOs, CTOs, chief AI officers, engineering leaders, program and mission owners, and contracting officers, demonstrating deep understanding of Factory's platform and its value to each customer's mission. Run strategic, consultative selling motions: map mission and IT-modernization priorities to the platform, build multi-year account plans aligned to federal buying cycles, and maintain accurate forecasts, pipeline tracking, and sales plans. Lead technically credible conversations spanning infrastructure, technology modernization and the SDLC \u2014 CI/CD, DevSecOps, code review, testing, and release pipelines \u2014 and guide defense and intelligence engineering teams on integrating Factory's Droids into their existing workflows, including enterprise IT deployments across cloud, on-prem, and air-gapped enclaves. Work directly with the Sales leadership, and closely with product, engineering, and security teams to customize solutions for each customer's requirements. Be an expert in on prem, cloud, and edge deployments. Develop the national security channel: cultivate relationships with prime systems integrators and delivery partners so they embed Factory into their own contract vehicles, solutions, and service offerings. Educate and guide customers through the technical and practical adoption of",
+   "ats": "ashby",
+   "salary": null,
+   "score": 76,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "agentic",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "0bbbf079fa8f6dce"
+  },
+  {
+   "source": "ashby",
+   "company": "elevenlabs",
+   "title": "Account Executive - Enterprise - Sports Specialist",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/2cc33afb-4c90-4590-8f5b-8f9fd7769800",
+   "posted": "2026-10-15T22:50:12.885000+00:00",
+   "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. About The Role ElevenLabs is looking for our first Sports Specialist to lead the commercial adoption of our AI audio products across the sports industry. This highly strategic, customer-facing role sits at the intersection of product, sales, and sports. We\u2019re looking for someone who combines deep expertise in the sports ecosystem with a strong enterprise sales background. You will become the go-to expert ",
+   "ats": "ashby",
+   "salary": null,
    "score": 75,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "solutions engineer"
+    "account executive"
    ],
    "matched_skills": [
-    "cloud",
-    "salesforce",
     "enterprise",
     "partner",
     "ai",
+    "quota",
+    "discovery",
     "demo"
    ],
    "resume": "generic",
-   "id": "43ad7b5057fc24bc"
-  },
-  {
-   "source": "greenhouse",
-   "company": "toast",
-   "title": "GTM Engineer, Web",
-   "location": "Remote",
-   "url": "https://careers.toasttab.com/jobs?gh_jid=8261282",
-   "posted": "2026-10-14T18:34:45-04:00",
-   "description": "<p>Toast creates technology to help restaurants and local businesses succeed in a digital world, helping business owners operate, increase sales, engage customers, and keep employees happy.<br><br>Toast\u2019s Marketing Operations AI team is the central team responsible for improving marketing performance, quality and efficiency with AI. As the team\u2019s AI Solutions Specialist for Web, you\u2019ll build the AI workflows and experiences that speed up web production and increase website conversion. You\u2019ll also help drive AI adoption and fluency across the broader marketing org. You\u2019ll be a part of the Marketing Operations AI Team, with a dotted line to Web &amp; eCommerce, and work with Web Platform, CRO, PMM, SEO, Legal and Brand.</p> <p><strong>A day in the life (Responsibilities) </strong><strong><br></strong><strong><br></strong><strong>In your first 6 months:</strong> you\u2019ll measurably cut web production cycle time and lift visit-to-opportunity conversion through AI-powered site experiences.</p> <p><strong><em>&nbsp;</em></strong><strong>Web production responsibilities&nbsp;</strong></p> <ul> <li>Map the page and copy the production process, including the SEO, PMM, Legal and Brand checkpoints, and build AI workflows that cut cycle time and rework.</li> <li>Standardize requirements intake with templates, intake agents and automated briefs.</li> <li>Build efficiencies in Contentful, its plug-ins and connected tools with Web Platform engineering.</li> <li>Find and fix bottlenecks in the web scrum process, from prioritization through deployment.</li> </ul> <p><strong>Website experience responsibilities</strong></p> <ul> <li>Assist in building AI-powered experiences that improve visit-to-opportunity conversion.</li> <li>Build first-party AI tools for use on the Web, including prompts and evals.</li> <li>Configure and improve third-party tools: on-site chat, data enrichment, voice AI and personalization.</li> <li>Set guardrails for AI on the public website with Legal, Brand and Privacy.</li> <li>Define success metrics, run experiments to prove impact, and monitor live tools.</li> </ul> <p><strong>Scale responsibilities</strong></p> <ul> <li>Build reusable systems, and document playbooks so teams can run tools on their own.</li> <li>Share what works beyond the Web through demos, training and office hours, and help shape marketing\u2019s AI standards and tools.</li> <li>Advise on build vs. buy decisions.</li> </ul> <p><strong>What you'll need to thrive (Requirements)</strong></p> <ul> <li>5+ years in web operations, web production, CRO/growth, marketing technology or solutions engineering, with recent hands-on AI building.</li> <li>Shipped AI agents or automated workflows that teams use every day.</li> <li>Experience running or redesigning a website production process (CMS, intake, review, release). Contentful preferred.</li> <li>Experience designing experiments and tying website changes to pipeline.</li> <li>Experience with evals, monitoring and guardrails for custom",
-   "ats": "greenhouse",
-   "score": 72,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "gtm engineer"
-   ],
-   "matched_skills": [
-    "crm",
-    "ai",
-    "llm",
-    "automation",
-    "pipeline",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "0a9260bdea5a25fa"
+   "id": "ca24f838312d4da3"
   },
   {
    "source": "ashby",
-   "company": "ramp",
-   "title": "Account Executive | SLED",
-   "location": "San Francisco, CA (Remote)",
-   "url": "https://jobs.ashbyhq.com/ramp/a808d519-404a-4aee-9189-2b1ad62d0330",
-   "posted": "2026-10-13T03:26:10.759000+00:00",
-   "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role As an Account Executive | SLED at Ramp, you are a proven hunter & sales closer with track record of quota attainment and overachievement. We believe strongly in our value proposition of aligning incentives with our customers and you will bring it to life through the sales process with C-Level executives and key decision makers. As an early member of the team, you will also have the opportunity to help build the sales engine and define the sales strategy that fuels the growth of the company! This is a highly impactful individual contributor role. You\u2019ll combine your knowledge of higher education and state and local government procurement with a deep understanding of Ramp\u2019s value proposition to grow Ramp\u2019s presence and product usage within the SLED space. What You\u2019ll Do Drive revenue for Ramp, owning the entire sales cycle through close Develop strategies for closing opportunities within your assigned territory Develop winning sales strategies that focus on compelling value propositions. Liaise with, influence, and indirectly lead cross-functional partners to align on strategy and execution Leverage sales methodologies to uncover prospect needs and pain points Own sales activity and monthly revenue forecasting in Salesforce and Gong Collaborate with product, design, and engineering teams to incorporate customer feedback Routinely represent Ramp at industry conferences nationally and regionally What You Need 5+ years of quota-carrying sales experience, with a consistent record of exceeding goals Proven experience in sales with a track record of closing deals within the SLED space Strategic thinker with a systems mindset; able to synthesize market insights, assess competition, and design scalable strategies for new verticals Experience in a fast-paced SaaS or GTM environment is a plus Strong data-driven decision-making skills and ability to create scalable sales systems Excellent communication, presentation, and influencing skills; capable of articulating technical, contractual, and financial value to senior stakeholde",
+   "company": "factory",
+   "title": "Account Executive, Aerospace and Defense",
+   "location": "United States (Remote)",
+   "url": "https://jobs.ashbyhq.com/factory/82d3a1a9-c0dc-43be-8a09-909bf752c591",
+   "posted": "2026-10-15T18:28:18.112000+00:00",
+   "description": "About Factory Our mission is to create a world where software builds and improves itself. We build the platform for self-improving software development, helping the world's largest enterprise engineering teams turn their organizations into autonomous software factories. Customers including Nvidia, Blackstone, Royal Bank of Canada (RBC), Palo Alto Networks, Adobe, and T-Mobile run Factory to ship code, review PRs, run tests, and deploy continuously - getting smarter with every cycle. In 2026, we raised $200M at a $5B valuation, bringing our total funding to over $400M. We are backed by world-class investors and operators including Khosla Ventures, Sequoia, Blackstone, Ali Ghodsi (CEO of Databricks), and Frank Slootman (Former CEO of Snowflake). About the Role Factory is on the hunt for an Account Executive with deep knowledge of developer tools, AI, and the Aerospace and Defense industry to drive adoption of Factory's agentic engineering platform across defense primes, defense technology companies, and the broader defense industrial base \u2014 turning mission-driven engineering organizations into autonomous development systems. You will own a named set of accounts, run strategic multi-stakeholder deals through commercial and government procurement motions, and help build Factory's A&D practice from the field alongside our CEO, VP of Sales, product, and engineering teams. What you will do and achieve Own a named set of Aerospace and Defense accounts \u2014 defense primes, defense technology companies, and strategic suppliers \u2014 to lead enterprise sales cycles end-to-end: build pipeline, manage evaluations and pilots, navigate procurement, and close multi-stakeholder deals Serve as the expert in conversations with CIOs, CTOs, chief AI officers, engineering leaders, chief engineers, program managers, and business development and capture teams, demonstrating deep understanding of Factory's platform and its value to each customer's mission. Run strategic, consultative selling motions: map business value and IT-modernization priorities to the platform, build multi-year account plans aligned to federal buying cycles, and maintain accurate forecasts, pipeline tracking, and sales plans. Lead technically credible conversations spanning infrastructure, technology modernization and the SDLC \u2014 CI/CD, DevSecOps, code review, testing, and release pipelines \u2014 and guide A&D engineering teams on integrating Factory's Droids into their existing workflows, including enterprise IT deployments across cloud, on-prem, and air-gapped enclaves. Work directly with the Sales leadership, and closely with product, engineering, and security teams to customize solutions for each customer's requirements. Be an expert in on prem, cloud, and edge deployments. Develop the A&D ecosystem: cultivate relationships with systems integrators, cloud providers, and delivery partners so they embed Factory into their own solutions and service offerings. Educate and guide customers through the technical ",
    "ats": "ashby",
-   "salary": "$243K \u2013 $371K \u2022 Offers Equity \u2022 Multiple Ranges",
-   "score": 72,
+   "salary": null,
+   "score": 74,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
@@ -324,471 +485,231 @@
     "account executive"
    ],
    "matched_skills": [
-    "saas",
-    "salesforce",
-    "partner",
-    "ai",
-    "quota"
-   ],
-   "resume": "generic",
-   "id": "09e19b8b1d9fe82a"
-  },
-  {
-   "source": "greenhouse",
-   "company": "databricks",
-   "title": "Enterprise Account Executive - Sports (CMEG Vertical)",
-   "location": "United States",
-   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8780748002",
-   "posted": "2026-10-14T14:47:47-04:00",
-   "description": "<p data-pm-slice=\"1 1 []\"><strong>SLSQ427R461</strong></p> <p data-renderer-start-pos=\"1648\">While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.</p> <ul> <li data-renderer-start-pos=\"1648\">Remote - East Coast</li> </ul> <p>As a Enterprise Account Executive in the Sports segment at Databricks, you are passionate about selling Data &amp; AI to sports teams and organizations. You know how to compress decision cycles by penetrating accounts fast and demonstrating the value to the customer. You love understanding a product in-depth and are passionate about communicating its value to Customers. You will map to enterprise accounts, and will be responsible for closing new customers and growing consumption. Along with the chance to close exciting deals, we also offer accelerators above 100% quota accomplishment.&nbsp;</p> <p>Databricks operates at the leading edge of the Unified Data Analytics and AI space. Our customers turn to us to lead the accelerated innovation that their businesses need to gain first mover advantage in today\u2019s ultra-competitive landscape. As we continue our rapid expansion, we are looking for a creative, execution-oriented Enterprise Account Executive to join the Databricks team and maximize the phenomenal market opportunity that exists for Databricks.</p> <p><strong>The impact you will have:</strong></p> <ul> <li>You will have a direct influence on the data strategy of the most innovative sports companies today</li> <li>You will communicate account strategy to Databricks Senior Leadership on a regular basis</li> <li>You will allocate Databricks resources to break into new accounts</li> <li>Meet with C-Level Executives to Practitioner level to understand how Databricks can make an impact on business outcomes</li> <li>Exceed activity, pipeline, and revenue targets</li> <li>You will use a creative, fail-fast approach to selling and creating value for customers</li> <li>You will build a plan for success internally at Databricks and externally with your accounts</li> </ul> <p><strong>What we look for:</strong></p> <ul> <li>Passion for selling a highly technical product in the cloud</li> <li>4+ years of experience with Open Source Technologies and build vs buy decision-making</li> <li>4 - 6 years of experience with Value Selling Methodologies</li> <li>A creative salesperson with a well-defined prospecting motion</li> <li>Sales experience within big data, Cloud, SaaS, and a consumption selling motion</li> <li>Proven years of experience exceeding sales quotas</li> <li>Success closing new accounts&nbsp;</li> <li>Bachelors Degree</li> </ul><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>&nbsp;</p> <p><strong>Pay Range Transparency</strong></p> <p><span style=\"font-weight: 400; font-size: 14px;\">Databricks is committed to fair and equitable compensation practices. The pay range(s) for this role is listed below and represents the exp",
-   "ats": "greenhouse",
-   "score": 70,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": false,
-   "matched_title": [
-    "account executive",
-    "enterprise account executive"
-   ],
-   "matched_skills": [
-    "saas",
     "cloud",
     "enterprise",
+    "partner",
+    "ai",
+    "agentic",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "3f4f4c421a71d2aa"
+  },
+  {
+   "source": "himalayas",
+   "company": "Converge Technology Solutions",
+   "title": "Account Executive",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/converge-technology-solutions/jobs/account-executive",
+   "posted": "2026-10-16T15:47:51+00:00",
+   "description": "Position Title: Account Executive Location: Tennessee, Kentucky, West Virginia, Virginia Job Summary: The Account Executive develops and maintains client relationships, understands client\u2019s business environment, strategy and identifies customer business objectives or problems that can be solved with technology. The AE develops a plan to sell technology solutions to the client/prospect and leverages and coordinates all resources for successful sales execution, with assistance from sales leadership. The AE is expected to cross-sell the array of hardware, software, cloud, and professional services our organization offers. This role also requires the necessary sales administrative activities including use of SFDC, forecasts, deal registrations, presentations, proposals/quotes etc. As well as, maintaining professional and technical knowledge by attending educational workshops/training and establishing personal networks in professional societies. Essential Functions: Responsible for all sales activities in assigned accounts and achieves established sales targets annually. Solution selling of technology-based solutions to solve business and/or solution segment problems. Promotes and sells Converge\u2019 s value proposition and solution offerings (Digital Infrastructure, Digital Workplace, Cybersecurity, Cloud, Advanced Analytics, Application Modernization, Managed and Professional service etc.) to clients and prospects. Drives client engagements proactively with Solutions Practices and Services teams. Ability to manage and drive a multi-month sales cycle and multi-million-dollar transactions. Develops a list of prospective clients for use as sales leads, based on information from own professional network, OEM partners, trade shows, social media websites, business directories, and other sources. Develops robust ongoing pipeline of business opportunities at a quantifiable three times level of quota expectation. Establishes and maintains current client and potential client relationships. Responsible for Client Satisfaction. Identifies and resolves client concerns. Works with OEM partners to develop a plan to approach prospective clients. Gains clear understanding of client business requirements. Educates Clients of full portfolio of solutions. Prepares presentations, proposals, and sales contracts. Ability to present solutions to clients, influencers, decision makers and executives. Provide forecast updates on current opportunities and update CRM on a weekly basis. Build a territory plan to meet monthly and annual gross profit targets. Maintain a working knowledge of applicable Federal, State, and Local laws and regulations as well as Converge Compliance Policies to ensure adherence in a manner that reflects honest, ethical, and professional behaviors. The assigned Inside Sales team will assist in preparing quotes to your end users and the processing of resulting orders. Main activities include vendor follow up, tracking, delivery and expediting through invoici",
+   "ats": "external",
+   "salary": "$100000-300000",
+   "score": 73,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "cybersecurity",
+    "cloud",
+    "crm",
+    "partner",
     "ai",
     "quota",
     "pipeline",
     "demo"
    ],
    "resume": "generic",
-   "id": "f719c1e3356f3940"
+   "id": "c7c97969dd14bb7a"
   },
   {
-   "source": "himalayas",
-   "company": "TRAC Recruiting",
-   "title": "Travel Business Development Manager (Nebraska/Iowa-REMOTE)\ufeff",
-   "location": "United States (Remote)",
-   "url": "https://himalayas.app/companies/trac-recruiting/jobs/travel-business-development-manager-nebraska-iowa-remote",
-   "posted": "2026-10-15T15:14:19+00:00",
-   "description": "We are seeking a Travel Business Development Manager (Nebraska/Iowa-REMOTE) for a full time and direct hire role for one of our amazing partners in the travel & tour industry. This role is remote, but you MUST be living in the United States and specifically in the state you are working in. You MUST be a US Citizen or Green Card Holder. This role does NOT offer sponsorship, it's NOT a consulting role, and we do NOT work with 3rd parties! Overview: Outside Sales | Business Development | Travel & Group Experiences We are partnering with a growing company in the travel industry to identify a Business Development Manager who will be responsible for growing an assigned territory through new account development, relationship building, and repeat business. This is a hands-on, field-based sales role for a self-motivated hunter who enjoys building a territory from the ground up. You'll identify and develop new business opportunities, establish relationships with organizational decision-makers and group leaders, present travel programs to prospective travelers, and ultimately grow revenue through new and repeat group bookings. You should be comfortable generating your own opportunities through cold calling, email outreach, referrals, networking, scheduled appointments, and in-person prospecting. You'll need to be equally comfortable having a one-on-one conversation with a decision-maker and presenting to a room full of potential travelers. This is an excellent opportunity for an experienced outside sales professional who enjoys travel, relationship development, and owning the results of their territory. A proactive, relationship-driven outside sales professional who enjoys finding their own opportunities, getting in front of customers, and building a territory over time. You should be comfortable hearing no, making the next call, walking into a new organization, giving a presentation, and continuing to build relationships until the right opportunity develops. A genuine interest in travel and working with people is a plus, but proven sales ability, persistence, organization, and ownership are the most important qualities. Responsibilities: New Business Development Develop and maintain a strong pipeline of prospective accounts within an assigned territory Identify organizations and groups with the potential to generate recurring travel business Prospect through cold calling, email, referrals, networking, online research, scheduled appointments, and in-person visits Develop relationships with decision-makers, group leaders, community organizations, travel professionals, and other potential referral sources Create and maintain a consistent prospecting and field-visit schedule Qualify prospects based on audience, travel interest, timing, budget, and potential for long-term business Sales & Business Development Manage the sales process from initial prospecting through proposal, booking, and confirmation Understand each prospect's goals and recommend travel progra",
-   "ats": "external",
-   "salary": "$65000-75000",
+   "source": "greenhouse",
+   "company": "launchdarkly",
+   "title": "Senior Program Manager, Revenue Operations",
+   "location": "Remote - US East",
+   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8035031003",
+   "posted": "2026-10-15T19:29:01-04:00",
+   "description": "<h4><strong>About the Job:</strong></h4> <p>LaunchDarkly is looking for a Senior Program Manager to help the Revenue Operations team scale efficiently. This role drives cross-functional programs, streamlines processes, and delivers data-driven solutions that accelerate predictable SaaS revenue growth. You'll be the person who turns strategic priorities into structured plans, keeps cross-functional teams aligned, and makes sure risks and blockers get surfaced and resolved before they slow the business down.</p> <p>The mission of the Senior Program Manager is to enable the Revenue Operations team to scale efficiently by driving cross-functional programs, streamlining processes, and delivering data-driven solutions that accelerate predictable SaaS revenue growth.</p> <h4>Responsibilities:</h4> <ul> <li><strong>Drive Strategic RevOps Initiatives</strong> <ul> <li>Translate strategic priorities into structured program plans</li> <li>Define milestones, owners, and deliverables</li> <li>Track progress and outcomes against plan</li> <li>Manage dependencies and escalate blockers as needed</li> </ul> </li> <li><strong>Establish Program Governance &amp; Cadences</strong> <ul> <li>Establish operating rhythms for cross-functional programs</li> <li>Run status and steering meetings</li> <li>Maintain decision and action logs</li> <li>Standardize reporting across programs</li> </ul> </li> <li><strong>Manage Cross-Functional Alignment</strong> <ul> <li>Coordinate across RevOps and Field (Sales, CS, Marketing) teams</li> <li>Clarify roles and responsibilities across program stakeholders</li> <li>Align teams on priorities and timelines</li> <li>Facilitate decisions and communicate updates to stakeholders and leadership</li> </ul> </li> <li><strong>Manage Risks, Issues &amp; Dependencies</strong> <ul> <li>Identify risks early and maintain risk logs</li> <li>Develop mitigation plans</li> <li>Resolve cross-functional dependencies</li> <li>Escalate decisions requiring leadership input</li> </ul> </li> </ul> <h4>Qualifications:</h4> <ul> <li>10+ years of experience in program management, project management, or operations, ideally supporting a Revenue Operations, Sales Operations, or GTM function</li> <li>Strong track record running cross-functional programs with multiple stakeholders and competing priorities</li> <li>Experience establishing program governance \u2014 operating rhythms, status reporting, decision logs \u2014 from scratch</li> <li>Comfortable managing risk logs, mitigation plans, and escalation processes</li> <li>Excellent communication and facilitation skills; able to align stakeholders across Sales, CS, Marketing, and RevOps</li> <li>Data-driven mindset; comfortable defining and tracking success metrics for programs</li> <li>Experience with Project Management tools (Jira, Asana, Monday)</li> <li>PMP, Agile/Scrum certification, or equivalent experience a plus</li> <li>GTM tool implementation a plus</li> <li>Project Management tool experience a plus</li> <li>Experien",
+   "ats": "greenhouse",
    "score": 69,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "business development manager",
-    "business development"
+    "revenue operations"
    ],
    "matched_skills": [
-    "crm",
-    "partner",
-    "ai",
-    "llm",
-    "pipeline",
-    "demo"
+    "saas",
+    "b2b",
+    "ai"
    ],
    "resume": "generic",
-   "id": "8b723ad52b38a396"
+   "id": "deb88a78367674bc"
   },
   {
    "source": "himalayas",
-   "company": "Ampro ADLINK Technology, Inc.",
-   "title": "Technical Sales Engineer",
+   "company": "The Redesign Group",
+   "title": "Principal Solutions Architect, VMware Cloud Foundation",
    "location": "United States (Remote)",
-   "url": "https://himalayas.app/companies/ampro-adlink-technology-inc/jobs/technical-sales-engineer",
-   "posted": "2026-10-15T15:09:48+00:00",
-   "description": "Job Title: Technical Sales Engineer FLSA Class: Exempt Learn more about our company and how we support you: The surgical robot that assists a surgeon. The autonomous vehicle that navigates a warehouse floor. The train control system that keeps thousands of commuters on schedule. Somewhere inside that technology is an ADLINK product. Ampro ADLINK Technology designs and manufactures embedded computing hardware for industries where failure is not an option. Industrial automation, robotics, autonomous vehicles, healthcare, and intelligent transportation are just some of the markets we serve. Our products sit at the edge of these systems, processing data and providing real-time control where it happens, when it happens, not in a distant cloud. Founded in 1995 and headquartered in Taiwan, we operate across the US, UK, Singapore, China, Japan, Korea, and Germany with products deployed in more than 40 countries. Our San Jose office drives our business across the Americas and works closely with technology partners, including Intel, NVIDIA, AMD, Qualcomm, and NXP. If you want to work on hardware or software that ships into real-world applications \u2014 not prototypes, not demos \u2014 and grow alongside a team that has been leading-edge computing for three decades, we want to hear from you. Whether you are a seasoned engineer or early in your career, what you build here will end up in the real world. How will you make an impact: Work closely with the ADLINK sales team on new opportunities and drive solutions to meet customers\u2019 needs which may include carrier designs, semi-custom based ADLINK standard products, and full custom system level solutions. Provide architectural ideas and solutions to meet customers\u2019 requirements. Learn the customers pain points. Lead engineering teams responsible for the design of these products from concept through to production launch. This role also requires strong technical program management skills. The types of designs will vary based on customer, market and company needs but in general can include leading edge next generation x86 processor, ARM based tablets, COM Express, SMARC, and NVIDIA Jetson, carriers, products, or systems. The Technical Sales Engineer position is remote. What will you do: Manage new opportunities that require Technical Sales Engineer support through the use of SalesForce. Work with the ADLINK sales team to win custom system level design opportunities which will include travel for onsite customer meetings. Create customer facing presentations and documentation materials specific to technical content. Do not let the Sales team create this content, this is the responsibility of the Technical Sales Engineer. Work with PSM team, when necessary, to support new opportunities that require detailed technical support. Create and provide detailed, customer facing, technical content which will be used in Proposals and Statement of Work (SOW). Strong communication skills including presenting to the customer. Strong Techni",
+   "url": "https://himalayas.app/companies/the-redesign-group/jobs/principal-solutions-architect-vmware-cloud-foundation",
+   "posted": "2026-10-16T15:47:00+00:00",
+   "description": "About Redesign Group The Redesign Group is a global technology and cybersecurity Solution Provider leveraging design thinking, interdependent subject matter expertise, and emerging technology solutions to help organizations achieve meaningful transformation. Our globally diverse team members, partnerships with strategic technology manufacturers, and cybersecurity services position us to be a business partner that\u2019s ready for what\u2019s next. We live by our core values of operating in the service of others, being problem solvers, and focusing on long term partnerships. You\u2019ll excel at Redesign if you thrive in a rewarding environment that moves quickly, challenges you to grow and fosters collaboration. We seek candidates with a hands-on customer-first approach, robust interpersonal and communication skills, strong work ethic and excellent time management. While teamwork is expected, the ability to work independently in a fast-paced environment is crucial. Job Description We are seeking a Principal Solutions Architect, VMware Cloud Foundation to deliver VMware Cloud Foundation implementations based on architect-provided design documentation. This role focuses on deploying, configuring, validating, and operationalizing VCF environments while maintaining close collaboration with architects, project managers, and customer technical teams. The VCF Private Cloud Engineer plays a critical role in ensuring that design intent is accurately realized in production, while providing practical feedback to improve designs, tooling, and delivery outcomes. Success in this role requires strong hands-on expertise, attention to detail, and the ability to interpret and execute complex architectures. Key Responsibilities Implement VMware Cloud Foundation environments in alignment with approved HLD and LLD documentation Execute Day 0 and Day 1 activities, including host commissioning, domain deployment, and baseline configuration Deploy and configure vSphere, vSAN, NSX, and VCF lifecycle components Validate deployed platforms against architectural, operational, and performance expectations Troubleshoot deployment and integration challenges in collaboration with architects and senior engineers Document implementation outcomes, environmental findings, and operational considerations Participate in customer readiness, validation, and knowledge-transfer activities Provide feedback to architects on design assumptions, execution considerations, and lifecycle Role Ownership: Accurate and repeatable execution of VCF Consultant Technical validation of deployed environments Continuous improvement feedback into design and delivery Qualifications Current VMware VCP 9.x certification required; candidates must be actively certified and up to date within the latest certification track/release cycle Hands-on experience deploying and operating VMware-based infrastructure Pre-Sales/Solution Architecture experience required Working knowledge of vSphere, vSAN, NSX, and VMware Cloud Foundation S",
    "ats": "external",
-   "salary": "$150000-180000",
-   "score": 69,
+   "salary": "$150000-225000",
+   "score": 67,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "sales engineer",
-    "technical sales"
+    "solutions architect"
    ],
    "matched_skills": [
+    "cybersecurity",
     "cloud",
-    "salesforce",
     "partner",
     "ai",
-    "automation",
-    "demo"
+    "automation"
    ],
    "resume": "generic",
-   "id": "6ddb31099879c334"
+   "id": "56ebae6bf1ea1e56"
   },
   {
    "source": "ashby",
    "company": "ramp",
-   "title": "Brand Partnerships Manager",
+   "title": " Senior Manager, Account Manager, Enterprise",
    "location": "New York, NY (HQ) (Remote)",
-   "url": "https://jobs.ashbyhq.com/ramp/83e5a0bb-c7c4-4118-9526-0215f260bfc2",
-   "posted": "2026-10-15T13:23:59.449000+00:00",
-   "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role Ramp is hiring a Brand Partnerships Manager to shape and accelerate our growth through strategic partnerships and collaborations. You\u2019ll build our brand partnerships strategy from the ground up: sourcing high-potential partners, developing relationships, structuring creative collaborations, and turning them into campaigns that drive awareness, engagement, and business growth. Success in this role looks like building real, high-impact partnerships with tangible value for Ramp, our partners, and the audiences we reach together. The ideal candidate is a marketer who can also run a deal: you come up with the partnership, you know why it matters for the business, and you execute relentlessly to get it out the door. You should have an instinct for great ideas, a strong creative point of view, and a close read on what\u2019s happening across media, sports, and culture. Most importantly, you\u2019ve turned those ideas into campaigns that break through culture, get attention, and drive business outcomes. Ramp is a place for people who move fast, take ownership, and are looking to do the best work of their careers. We want someone who can build this function out, bet on partners that matter, and create collaborations that move the needle and are unmistakably Ramp. What You'll Do Own Ramp\u2019s brand partnerships program end to end: partner strategy, sourcing, negotiation, and execution. Find high-value partners across finance, sports, business, and media who can put Ramp in front of new audiences. Build a system for spotting and tracking emerging talent so we can place smart bets early. We sponsored Neal Shipley while he was still an amateur golfer, and TBPN in the very early days. We like spotting emerging brands and talent before everyone else does. Develop bold partnership concepts that tie into Ramp\u2019s brand, product priorities, launches, and broader marketing campaigns. Lead deal strategy and negotiation, including pricing, asset packages, usage rights, exclusivity, deliverables, timelines, and contract terms. Work with teams across R",
+   "url": "https://jobs.ashbyhq.com/ramp/96250bac-465c-4524-bc7c-ba0f0b05310f",
+   "posted": "2026-10-15T21:33:08.330000+00:00",
+   "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $200B in annualized spend flows in and out of 70,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role In this role, you will be a front-line manager to a group of Account Managers who are responsible for hunting, pitching, and expanding the existing customer base at Ramp. You'll lead a group of 6-8 Account Managers, each carrying a book of 60-70 Enterprise customers with real latitude over how they grow it. This is a build role, not a maintain role: the playbooks, coaching systems, and performance bar you set are the ones this team runs on next year. Your ceiling is set by how well you turn individual AM judgment into a repeatable, scalable motion that grows the segment. What You'll Do Build and run a high-performing team of 6-8 Account Managers - setting the bar for culture, morale, and daily execution. Get embedded in the relationships that matter. Engage directly with key customers and top accounts alongside your team, building trust and long-term partnership. Own the number. Manage quota performance and pipeline generation across your team to hit spend activation, product activation, retention, and expansion goals. Forecast and report team performance to senior leadership with clear-eyed visibility into what's working and what isn't. Hire and develop the next generation of AMs - training on product, buyer personas, competition, and tooling through role-plays, game film, and real deal work. Coach relentlessly. Run daily 1:1s, dissect call feedback, lead enablement sessions, and build career paths for every rep on your team. Turn what works into a system. Continuously refine team processes and tooling to improve output and efficiency as the segment scales. Represent Account Management cross-functionally, partnering with Sales, CX, CSM, Risk, and Product to remove blockers and drive outcomes. What You Need Minimum 5 years of quota-carrying sales or account management experience as an individual contributor, with a proven, consistent track record of exceeding goals (new business or cross-sell/upsell experience mandatory) Minimum 5 years building and leading account management or sales teams, with a track record of ",
    "ats": "ashby",
-   "salary": "$151K \u2013 $231K \u2022 Offers Equity \u2022 Multiple Ranges",
-   "score": 68,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "partnerships manager"
-   ],
-   "matched_skills": [
-    "channel",
-    "partner",
-    "ai"
-   ],
-   "resume": "generic",
-   "id": "25a0d15b505b1b2f"
-  },
-  {
-   "source": "ashby",
-   "company": "ashby",
-   "title": "Senior Strategic Implementation Specialist - Americas",
-   "location": "Remote - US (Remote)",
-   "url": "https://jobs.ashbyhq.com/ashby/fe44e5a8-1b61-4330-a02d-7f7b66f5ade2",
-   "posted": "2026-10-15T14:00:34.334000+00:00",
-   "description": "Senior Strategic Implementation Specialist, Americas Hi! I\u2019m Morgan, the Manager of Strategic Implementations here at Ashby. Our customers are at the center of everything we do, and that\u2019s especially true during implementation. We take pride in being responsive, collaborative partners who focus not just on delivery, but on doing things thoughtfully. This role plays a critical part in ensuring our new customers start off with a strong foundation and a clear path forward. I\u2019m thrilled to be hiring our next Implementation Specialist. As part of our growing Professional Services team within Ashby\u2019s Customer Success organization, you\u2019ll play a key role early in the customer journey\u2014ultimately helping to elevate the entire customer experience. About this role: As our Implementation Specialist, you will be responsible for managing and executing the end-to-end implementation of Ashby\u2019s solution for many of our new customers. You will work directly with customers in our Strategic (predominantly Enterprise) segment, developing and executing implementation plans to ensure a positive customer experience and expedited time to value. Your goal is to support our customers, helping them get up and running swiftly with Ashby so they can achieve their desired outcomes. Role requirements: Implementation & Project Management: You have extensive experience managing and executing several complex implementation and onboarding projects concurrently in a high-growth B2B SaaS org (defining the work, aligning with stakeholders, communicating the project plan, and ultimately delivering results in accordance with the agreed-upon expectations). You keep the team on track to ensure milestones are met. You work effectively in a remote-first setting, with the ability to travel <10% as needed for strategic customer engagements. Technical Proficiency: You have a strong understanding of complex, configurable B2B SaaS products and their technical intricacies. By \"complex\", we mean platforms with multi-step workflows, supporting several core workflows, and integrations with other systems. You're technically curious and creative. Ashby or ATS experience is a plus, not required. Customer Centricity: You deeply understand customer needs and tailor implementations to meet their specific requirements. You build strong customer relationships by maintaining high levels of engagement and communication; you\u2019re the customer\u2019s proactive guide and advocate throughout the implementation period. Change Management: You are experienced in navigating change management processes and helping customers adapt to new systems and a refreshed approach. Best Practices & Recommendations: You take pride in advising customers on best practices specific to their usage of software to ensure optimal value. Critical Thinking & Solutions Orientation: You proactively address thematic customer opportunities and improve our processes accordingly. You don\u2019t rely on \u2018I\u2019ve seen this done,\u2019 but instead think critically to ",
-   "ats": "ashby",
-   "salary": "$150K \u2013 $200K \u2022 Offers Equity \u2022 Multiple Ranges",
+   "salary": "$315K \u2013 $415K \u2022 Offers Equity",
    "score": 64,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "implementation"
+    "account manager"
    ],
    "matched_skills": [
     "saas",
+    "salesforce",
     "enterprise",
-    "b2b",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "9f0374d6cdac59a1"
+  },
+  {
+   "source": "himalayas",
+   "company": "TeamViewer",
+   "title": "Enterprise Account Manager - (Remote in WEST TIME ZONE, USA)",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/teamviewer/jobs/enterprise-account-manager-remote-in-west-time-zone-usa",
+   "posted": "2026-10-16T15:47:28+00:00",
+   "description": "TeamViewer provides a leading Digital Workplace platform that connects people with technology\u2014enabling, improving and automating digital processes to make work work better. Our software solutions harness the power of AI and shape the future of digitalization. We believe that our diverse teams and strong company culture are key to the success of our products and technologies, that hundreds of millions of users around the world and around 645,000 customers across all industries rely on. With more than 1,900 employees worldwide, we celebrate the unique perspectives and talents that each individual brings to the table and foster a dynamic work environment where new ideas thrive. Are you ready to join our team and make an impact? You will own a defined book of TeamViewer 's existing enterprise customers \u2014 accounts spending $10K or more in annual recurring revenue \u2014 and be accountable for retaining and growing every one of them. You are the sole owner of your accounts: the strategic relationship, the renewal, and the expansion plan sit with you, and you forecast all of it weekly. This is a farming role. New-logo acquisition sits with our Account Executive team, and renewals under $10K are worked by the Enterprise Account Specialist desk, so your time goes where it matters most: deepening and expanding the accounts we already have. Own a book of up to 40 enterprise accounts at $10K+ ARR as the sole account owner, with full accountability for gross retention, net revenue retention, and expansion. Build and maintain account plans for your key accounts: stakeholder maps, renewal timelines, adoption status, expansion hypotheses, and risk. Run every renewal in your book proactively, engaging well ahead of term end with a clear value narrative, and negotiate commercial terms including multi-year agreements. Identify, qualify, and close expansion opportunities \u2014 additional seats, products, and use cases \u2014 through a consultative, solutions-focused approach with IT and business stakeholders. Forecast weekly with accuracy: renewals and expansion by stage and category, with next steps and close dates current in Salesforce. Take receipt of qualified opportunities handed up from the Enterprise Account Specialist desk when an account you own grows past $10K, and pass sub-$10K upsells inside your accounts down to the desk to book. Partner with Enterprise Solution Engineers on technical validation and solution design, and with Customer Success and Support to resolve issues that put retention at risk. Work with partners, distributors, and resellers on opportunities procured through the channel. Bring customer and market insight back to Product, Marketing, and leadership; contribute to references, case studies, and customer events. What success looks like: Gross and net revenue retention at or above target across your book. Expansion quota attained, with a healthy, accurately forecast pipeline. Every account with a current plan and a known renewal path; no surprises at t",
+   "ats": "external",
+   "salary": "$80000-100000",
+   "score": 63,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "crm",
+    "enterprise",
     "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "c4e8e23be819cdf1"
+  },
+  {
+   "source": "himalayas",
+   "company": "Short Elliott Hendrickson, Inc",
+   "title": "Business Development Leader",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/short-elliott-hendrickson-inc/jobs/business-development-leader",
+   "posted": "2026-10-16T15:47:09+00:00",
+   "description": "Imagine being an employee-owner of a company guided by engaged and empowered team members like yourself. Where a culture of respect, flexibility, and accountability aren't just ideals - they're our foundation, and diverse backgrounds and perspectives are valued as drivers of innovation and growth. Join us, as together, we are Building a Better World for All of Us\u00ae. You belong at SEH SEH is currenting searching for a Business Development Leader to join our talented Sales team! Why our employee-owners love SEH: \"I was on vacation last week and had zero concerns that my colleagues would help out with anything that came into my inbox!\" \u2013 GIS Analyst \"What company has a CEO who cares enough to seek out one-on-one conversations ranging from 'How are you?' to 'What do you think would help the company?' SEH, that's who. \" \u2013 Civil Engineering Technician \"Having the feeling that my voice matters and believing that SEH truly cares about the employees is so satisfying!\" \u2013 Sr Financial Analyst \"It feels good having colleagues and supervisors that provide support and resources for growth and learning!\" \u2013 Civil Engineer \"This is the first company I've worked for with a true entrepreneurial spirit.\" \u2013 Sr Mechanical Engineer Why you\u2019ll love SEH: Collaborate on amazing projects of varying size and complexity that positively impact communities Being 100% employee-owned means we all share in the company\u2019s success Career development through continued education, licensure/certification, skills, and technical training Work arrangements that promote work/life balance Flexible holidays enable individuals to tailor their festivities Paid Family Leave provides time to care for loved ones, whether family by birth or family by choice Position Summary SEH is seeking a highly experienced Business Development Leader to drive strategic growth and strengthen client relationships across key markets and service areas. This opportunity is designed for a proven relationship builder who understands how consulting services are positioned, how long-term client partnerships are developed, and how to connect client needs with multidisciplinary solutions. The successful candidate will bring a strong track record of business development, strategic account growth, and client relationship management within the architecture, engineering, environmental, or professional services industry. This is a senior-level role for someone who can identify opportunities, build trusted relationships, expand SEH's market presence, and contribute to long-term revenue growth. This Opportunit y: Lead strategic business development initiatives that support SEH's growth objectives and market priorities. Develop and maintain strong relationships with existing and prospective clients, industry partners, community leaders, and key stakeholders. Identify, qualify, and pursue opportunities that align with SEH's strategic goals and client-focused approach. Collaborate with client service managers, market leaders, and te",
+   "ats": "external",
+   "salary": "$155000-175000",
+   "score": 51,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "business development"
+   ],
+   "matched_skills": [
     "partner",
     "ai",
     "demo"
    ],
    "resume": "generic",
-   "id": "92cd2395084062a8"
+   "id": "838bbdf2d9da239e"
   },
   {
-   "source": "greenhouse",
-   "company": "stripe",
-   "title": "Account Executive, Product Sales, Billing (Grower)",
-   "location": "US-SF-HQ, US-SEA, US-CHI, US-NYC",
-   "url": "https://stripe.com/jobs/search?gh_jid=8215758",
-   "posted": "2026-10-14T13:20:20-04:00",
-   "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies\u2014from the world's largest enterprises to the most ambitious startups\u2014use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe\u2019s portfolio. Revenue suite Product Sales is tasked with attacking a $100B market opportunity for back office finance automation across billing, tax, revenue reporting, and data.</p> <h2><strong>What you\u2019ll do</strong></h2> <p>As a Billing Account Executive at Stripe, you'll use your sales and product expertise to help drive growth through existing Stripe customers. You'll collaborate with the core sales, marketing, product marketing, and product teams to develop deep product and industry knowledge and drive strategic deals. You'll lead in-depth product discussions with existing customers and build and execute against our go-to-market strategy.</p> <h3><strong>Responsibilities</strong></h3> <ul> <li>Drive revenue to achieve and overperform on targets</li> <li>Lead upsell conversations of Stripe for existing customers</li> <li>Drive strategic thought leadership within assigned territory to ensure user success and revenue growth</li> <li>Understand the sales process and competitors for Stripe, including software, hardware, and payments</li> <li>Serve as both an internal and customer-facing expert on Stripe, especially for your specialized products</li> <li>Synthesize and relay customer feedback and our findings to inform Stripe's product roadmap</li> <li>Engage with Product, Marketing, and User Operations teams to help amplify our growth trajectory</li> </ul> <h2><strong>Who you are</strong></h2> <p><span style=\"font-weight: 400;\"><em>We're looking for someone who meets the minimum requirements to be considered for the role. If you meet these requirements, you are encouraged to apply. The preferred qualifications are a bonus, not a requirement.<br></em></span><span style=\"font-weight: 400;\"><br>You're an adept salesperson, capable of engaging in business-level and technical conversations at multiple levels of the organization, including CEO, CFO, and CTO. You're used to building value in competitive situations and enjoy working on products that require deep product understanding, combined with technical knowledge. You're as comfortable working with clients as with internal stakeholders (including executives). You're excited to become an expert and to share your knowledge. You're an orga",
-   "ats": "greenhouse",
-   "score": 63,
-   "remote": false,
+   "source": "remoteok",
+   "company": "Akicita Federal, LLC",
+   "title": "Federal Account Manager Client Relationships",
+   "location": "Remote (Remote)",
+   "url": "https://remoteOK.com/remote-jobs/remote-federal-account-manager-client-relationships-akicita-federal-llc-1137521",
+   "posted": "2026-10-15T00:00:05+00:00",
+   "description": "\\n \\n $100,000 - $120,000 a year Akicita Federal, LLC is a growing 8(a) small business serving federal agencies. We're looking for someone who has been the go-to contact for a federal client: the person the agency calls first, who knows the program, the people, and what's coming next. What you'll do Own relationships with agency program offices, contracting officers, and prime contractors Spot upcoming requirements, recompetes, and expansion opportunities early Bring warm opportunities into our pipeline and help shape our responses Serve as the main point of contact on awarded contracts, keeping clients happy and performance strong Partner with our proposal and recruiting teams to win and staff new work What you bring 5+ years as a program manager, account manager, contracts manager, or similar client-facing role on federal contracts Established, good-standing relationships with one or more federal agencies. Tell us which ones. Experience with 8(a) or small business contracting Mid-career and ready to build something bigger at a smaller, faster company Comfortable using AI tools to work efficiently \\n Please mention the word **SUCCES** and tag RNTIuMjQyLjI0NS4xMjg= when applying to show you read the job post completely (#RNTIuMjQyLjI0NS4xMjg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "ats": "external",
+   "salary": "",
+   "score": 41,
+   "remote": true,
    "portland": false,
-   "remote_in_listing": false,
+   "remote_in_listing": true,
    "matched_title": [
-    "account executive"
+    "account manager"
    ],
    "matched_skills": [
-    "enterprise",
-    "partner",
-    "ai",
-    "automation",
-    "quota"
-   ],
-   "resume": "generic",
-   "id": "5258e8f3915d65ac"
-  },
-  {
-   "source": "greenhouse",
-   "company": "elastic",
-   "title": "Inside Account Executive (Hunter)",
-   "location": "United States",
-   "url": "https://jobs.elastic.co/jobs?gh_jid=8011781&gh_jid=8011781",
-   "posted": "2026-10-13T15:42:12-04:00",
-   "description": "<div class=\"content-intro\"><p>Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.</p></div><p><strong>What Is The Role</strong><strong><br></strong>As a Hunter Inside Sales Representative, you will be a pivotal part of Elastic\u2019s growth focusing on selling, managing, and growing net new accounts within our Commercial segment. Our Hunter Virtual Sales Reps are individual contributors, focused on building new business, within a set of net-new accounts. Within this role you will have the opportunity to engage and partner with large Commercial accounts solving critical business needs for those customers while positioning our suite of products across (Search, Observability, and Search). Are you someone who is a go-getter that has to drive to excel in a fast-growing segment of new accounts? If so, we\u2019d love to hear from you!</p> <p><em><strong>(1) Ideal candidates will be based near San Francisco, CA or New York, NY and able to work from the office as needed.<br>(2) This role is an overlay Account Executive position through the end of FY26, supporting the business alongside the core account team</strong></em></p> <p><strong>What You Will Be Doing</strong></p> <ul> <li>Develop and build a territory plan for accounts (primarily focused on AI native accounts) that you will actively own, call, and manage in a defined territory</li> <li>Focusing primarily on Whitespace Accounts&nbsp;</li> <li>Create a strategic prospecting strategy that you will execute daily to gain introductions, solve business challenges, and effectively position our technology</li> <li>Identify and qualify new opportunities leveraging your own creativity, inbound lead flow, personal prospecting efforts, contacts, existing accounts and partners</li> <li>Work cross-functionally with our sales development, marketing, partner, product and customer service teams to deliver outstanding results</li> <li>Negotiate pricing and contractual terms as required to close the sale</li> <li>Accurately forecast profitable and predictable territory performance and required resources through adherence of our sales process</li> </ul> <p><strong>What You Bring</strong></p> <ul> <li>2+ years of experience in sales roles, that are defined as hunting or creating new accounts</li> <li>Strong ability to plan and execute strategies related to driving pipeline in whitespace accounts</li> <li>A collaborative and inventive approach to problem-solvin",
-   "ats": "greenhouse",
-   "score": 61,
-   "remote": false,
-   "portland": false,
-   "remote_in_listing": false,
-   "matched_title": [
-    "account executive"
-   ],
-   "matched_skills": [
-    "cloud",
     "partner",
     "ai",
     "pipeline"
    ],
    "resume": "generic",
-   "id": "8a8693782ca33031"
+   "id": "75f9f62a73c9149e"
   },
   {
-   "source": "greenhouse",
-   "company": "datadog",
-   "title": "Enterprise Security Sales Specialist",
-   "location": "California, USA, Remote",
-   "url": "https://careers.datadoghq.com/detail/8256245/?gh_jid=8256245",
-   "posted": "2026-10-14T09:34:46-04:00",
-   "description": "<p>As a Security Sales Specialist, you'll partner with Enterprise Account Executives to drive adoption of Datadog\u2019s Security platform across key accounts. This is a high-impact role focused on positioning our Security solutions (Cloud SIEM, Cloud Workload Security, CSPM, and more) into new and existing customers\u2014expanding our footprint and helping customers modernize their security stack in the cloud.</p> <p><em>At Datadog, we place value in our office culture - the relationships and collaboration it builds and the creativity it brings to the table. We operate as a hybrid workplace to ensure our Datadogs can create a work-life harmony that best fits them.</em></p> <p><strong>What You\u2019ll Do:</strong></p> <ul> <li>Act as the subject matter expert (SME) for Datadog Security products across a targeted account patch</li> <li>Collaborate closely with Enterprise AEs to support net new logo acquisition and expansion in strategic accounts</li> <li>Own and drive the security sales cycle from discovery to technical close, working closely with Sales Engineers</li> <li>Evangelize Datadog\u2019s security story to security leaders (CISO, Security Architects, SecOps)</li> <li>Work cross-functionally with Datadog's partner, channel, and alliance teams to drive joint go-to-market motions</li> <li>Co-sell effectively with AEs and partners, contributing to deal strategy, solution alignment, and stakeholder engagement</li> <li>Stay informed on security trends and competitive offerings to differentiate Datadog</li> </ul> <p><strong>Who You Are:</strong></p> <ul> <li>Proven success selling into security buyers (CISO, SecOps, GRC, etc.)</li> <li>Experience co-selling in a matrixed environment, supporting or partnering with AEs and cross-functional teams</li> <li>Strong understanding of the partner/channel sales model, including how to navigate and influence joint selling motions</li> <li>Familiarity with modern security solutions such as SIEM, CSPM, CWPP, container/Kubernetes security</li> <li>Ability to build strong relationships with internal stakeholders, partners, and customer technical teams</li> </ul> <p><em>Datadog values people from all walks of life. We understand not everyone will meet all the above qualifications on day one. That's okay. If you\u2019re passionate about technology and want to grow your skills, we encourage you to apply.</em></p> <p><strong>Benefits and Growth:</strong></p> <ul> <li>High income earning opportunities based on self performance</li> <li>New hire stock equity (RSU) and employee stock purchase plan (ESPP)</li> <li>Continuous professional development, product training, and career pathing&nbsp;</li> <li>Sales training in MEDDIC and Command of the Message&nbsp;</li> <li>Intra-departmental mentor and buddy program for in-house networking&nbsp;</li> <li>An inclusive company culture, opportunity to join our Community Guilds</li> <li>Generous and competitive medical benefits package</li> <li>Retirement savings match</li> <li>Pet adoption and insuran",
-   "ats": "greenhouse",
-   "score": 60,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "sales specialist"
-   ],
-   "matched_skills": [
-    "cloud",
-    "enterprise",
-    "channel",
-    "partner",
-    "ai",
-    "discovery"
-   ],
-   "resume": "generic",
-   "id": "790b02daac588e66"
-  },
-  {
-   "source": "ashby",
-   "company": "zip",
-   "title": "Senior Account Manager",
-   "location": "San Francisco (Remote)",
-   "url": "https://jobs.ashbyhq.com/zip/e4d5417a-19e4-4228-bf48-c351cdbac9c3",
-   "posted": "2026-10-14T15:43:16.554000+00:00",
-   "description": "About Zip Zip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA. Backed by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups. Your Role You are a trusted advisor, product consultant, and a closer \u2013 you\u2019re working with customers to deliver immense ROI in an efficient, value-based renewal and upsell cycle for Partner with the Customer Success team to monitor health scorecards, identify customer needs, and demonstrate account management capabilities to guide deal closure. You\u2019re a product evangelist \u2013 you\u2019ll solution Zip to meet the pain points today, but also with an eye toward our product of the future You\u2019re a builder \u2013 at a startup, you\u2019re not just a team member, but you help build the team culture and bring your best practices to the org Negotiate all facets of renewal contracts. Develop win/win negotiation strategies that maximize contract value while enhancing the customer relationship and the value they are realizing from Zip. Engage the broader Zip team to provide regular and accurate updates on renewal status to management and escalate when needed. Manage current customers on multi-year contracts to ensure customer value realization. You Will Become a product expert \u2013 learning the Zip platform through and through, so that you\u2019re demo ready Become a procurement expert \u2013 learning the ins and outs of the procurement market, which is deeply ready for change and new solutions Use cutting-edge sales intelligence and engagement solutions to prospect, manage deal cycles, and ultimately bring on new customers Be adaptable and flexible \u2013 as part of an early-stage hyper-growth company, we are rapidly growing out our process but we want to you to help shape our sales process Qualifications 4+ years of technology SaaS experience Experience selling to procurement, finance, legal Experience driving customer retention and adoption of a SaaS product for enterprise accounts Customer management skills; including sales, Account management, and customer service Self-driven \u2013 you don\u2019t need someone to motivate you to put in your best every day You\u2019d describe yourself as organized, efficient with your time, and an excellent communicator Experience using tools like Salesfor",
-   "ats": "ashby",
-   "salary": null,
-   "score": 60,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "account manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "salesforce",
-    "enterprise",
-    "partner",
-    "ai",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "be2dd244728f0db1"
-  },
-  {
-   "source": "greenhouse",
-   "company": "samsara",
-   "title": "Customer Success Manager",
-   "location": "Remote - US",
-   "url": "https://www.samsara.com/company/careers/roles/8226209?gh_jid=8226209",
-   "posted": "2026-10-14T12:45:19-04:00",
-   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p style=\"font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;\"><span style=\"color: #00263e; background-color: transparent;\"><strong>About the role:</strong></span></p> <p>Samsara\u2019s Scaled Customer Success team ensures customers adopt our platform, realize measurable business value, and renew and expand with confidence. Scaled Customer Success Managers pick up where our Implementation team leaves off, working closely with top customers to understand their fleet and unique challenges, advising on how to customize Samsara for their needs, and becoming their long-term partner.&nbsp;</p> <p>Your role will be cross-functional in nature, working alongside and connecting Sales, Support, Finance, Renewals, Sales Engineering, Customer Education and Product, enabling you to experience multiple aspects of a hyper-growth company from within.&nbsp;</p> <p>This position will take on a more technical approach to account management than a typical CSM, a successful candidate will be able to learn, understand, and convey the value of Samsara\u2019s most complex products and features to our largest Mid-Market customers.</p> <p style=\"font-family: Helvetica, Arial, sans-serif; font-style: normal; font-weight: 400; color: rgb(0, 0, 0); margin: 0px !important; padding: 0px !important;\"><strong>This is a remote position open to candidates residing in the US </strong><strong><u>except&nbsp;</u></strong><strong>Alaska, Austin Metro, Boulder Metro, California, Chicago Metro, Connecticut, Dallas Metro, Denver Metro, Houston Metro, Maryland, Massachusetts, New Jersey, New ",
-   "ats": "greenhouse",
-   "score": 59,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "customer success manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "enterprise",
-    "mid-market",
-    "partner",
-    "ai",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "95abcaf47c17b339"
-  },
-  {
-   "source": "greenhouse",
-   "company": "pagerduty",
-   "title": "Account Manager- DC",
-   "location": "Remote (USA)",
-   "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5819455004",
-   "posted": "2026-10-15T09:21:45-04:00",
-   "description": "<div class=\"content-intro\"><p>PagerDuty, Inc. (NYSE: PD) is the global leader in AI-first digital operations. By automatically detecting, diagnosing, and remediating issues, the PagerDuty Platform orchestrates AI agents and automated workflows with context from over 750 integrations. Trusted by approximately two-thirds of the Fortune 100 and nearly half of the Fortune 500, PagerDuty is the industry standard for organizations scaling resilient, autonomous operations. Notable customers include Chipotle, Cloudflare, Docusign, Fox, Nvidia, Salesforce, Spotify, Zoom and more. We are growing rapidly and hiring top talent with leading AI skills across engineering, sales, product, marketing, and beyond as we build the leading digital operations platform.</p> <p>&nbsp;</p></div><p>PagerDuty is seeking an Account Manager to join our diverse, customer-focused team! As an Account Manager, you will serve as the primary point of contact for a portfolio of existing SaaS customers, partnering closely with cross-functional teams to deliver exceptional customer outcomes. You will maintain and grow customer relationships, drive product adoption, manage renewals, and identify strategic expansion opportunities that deliver measurable business value. This is an exciting opportunity to blend customer success and sales expertise to help customers realize the full potential of PagerDuty\u2019s platform while driving revenue growth.</p> <p>The ideal candidate is a proactive relationship builder with strong commercial acumen, a passion for data-driven customer management, and experience with SaaS products and AI-driven insights.</p> <h3><strong>KEY RESPONSIBILITIES</strong></h3> <ul> <li>Own a portfolio of existing customers to ensure adoption, value realization, and retention.</li> <li>Develop and execute account plans that drive renewals, mitigate churn risk, and uncover expansion opportunities.</li> <li>Present and negotiate renewal proposals, structure multi-year options, and manage contract value through strategic account management.</li> <li>Monitor customer health using usage analytics, telemetry, and business insights to identify and address risks early.</li> <li>Collaborate cross-functionally with Legal, Sales Operations, and Renewals teams to ensure smooth contracting, forecasting, and reporting processes.</li> <li>Maintain strong product knowledge and deliver consultative guidance to drive configuration optimization and feature adoption.</li> </ul> <h3><strong>BASIC QUALIFICATIONS</strong></h3> <ul> <li>7+ years of combined customer-facing experience, including Account Management, Customer Success, or Renewals.</li> <li>4+ years of proven success managing renewals and growth within a SaaS environment.</li> <li>Experience using Salesforce (SFDC) and analytics tools such as Gainsight, Tableau, or Looker.</li> <li>Bachelor\u2019s degree or equivalent experience.</li> </ul> <h3><strong>PREFERRED QUALIFICATIONS</strong></h3> <ul> <li>Demonstrated ability to leverage data analy",
-   "ats": "greenhouse",
-   "score": 59,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "account manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "cloud",
-    "salesforce",
-    "enterprise",
-    "partner",
-    "ai",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "0fbc7f63b59cacf2"
-  },
-  {
-   "source": "ashby",
-   "company": "zip",
-   "title": "Account Manager",
-   "location": "San Francisco (Remote)",
-   "url": "https://jobs.ashbyhq.com/zip/1bbcaf79-2f1b-460e-a1e2-001734012f1a",
-   "posted": "2026-10-14T15:43:30.240000+00:00",
-   "description": "About Zip Zip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA. Backed by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups. Your Role You are a trusted advisor, product consultant, and a closer \u2013 you\u2019re working with customers to deliver immense ROI in an efficient, value-based renewal and upsell cycle for Partner with the Customer Success team to monitor health scorecards, identify customer needs, and demonstrate account management capabilities to guide deal closure. You\u2019re a product evangelist \u2013 you\u2019ll solution Zip to meet the pain points today, but also with an eye toward our product of the future You\u2019re a builder \u2013 at a startup, you\u2019re not just a team member, but you help build the team culture and bring your best practices to the org Negotiate all facets of renewal contracts. Develop win/win negotiation strategies that maximize contract value while enhancing the customer relationship and the value they are realizing from Zip. Engage the broader Zip team to provide regular and accurate updates on renewal status to management and escalate when needed. Manage current customers on multi-year contracts to ensure customer value realization. You Will Become a product expert \u2013 learning the Zip platform through and through, so that you\u2019re demo ready Become a procurement expert \u2013 learning the ins and outs of the procurement market, which is deeply ready for change and new solutions Use cutting-edge sales intelligence and engagement solutions to prospect, manage deal cycles, and ultimately bring on new customers Be adaptable and flexible \u2013 as part of an early-stage hyper-growth company, we are rapidly growing out our process but we want to you to help shape our sales process Qualifications 2+ years of technology SaaS experience Experience selling to procurement, finance, legal Experience driving customer retention and adoption of a SaaS product for enterprise accounts Customer management skills; including sales, Account management, and customer service Self-driven \u2013 you don\u2019t need someone to motivate you to put in your best every day You\u2019d describe yourself as organized, efficient with your time, and an excellent communicator Experience using tools like Salesfor",
-   "ats": "ashby",
-   "salary": null,
-   "score": 57,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "account manager"
-   ],
-   "matched_skills": [
-    "saas",
-    "salesforce",
-    "enterprise",
-    "partner",
-    "ai",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "7c3c5054446bc880"
-  },
-  {
-   "source": "greenhouse",
-   "company": "launchdarkly",
-   "title": "Strategic Customer Success Manager",
-   "location": "Remote - US",
-   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/8034251003",
-   "posted": "2026-10-15T11:28:44-04:00",
-   "description": "<h4><strong>About the Job:</strong></h4> <p>The Customer Success Manager reports directly into the regional CS leader and represents LaunchDarkly as the direct point-of-contact with our customers post-sales. They are LaunchDarkly subject-matter experts guiding our new and expanding customers towards implementation and adoption and helping them achieve their desired use-cases and realize value. The best candidate for this role will be passionate about customer success with a keen interest in software development and DevOps, balanced with a strong sales acumen. In LaunchDarkly GTM, we are all customer-obsessed and striving for massive year-over-year growth.</p> <h4>Responsibilities:</h4> <ul> <li><strong>Customer Onboarding: </strong>You will shepherd in new customers from the sales handoff through successful activation in the product. This includes building out success plans to get customers up to speed in the platform, project management through onboarding, helping customers leverage the most appropriate enablement paths and assessing customer\u2019s adoption on an ongoing basis.</li> <li><strong>Risk Identification and Mitigation:</strong> You\u2019ll work to proactively identify and diagnose risk-inhibiting adoption or that may cause churn and contraction. You\u2019ll own building a risk mitigation strategy and coordinating across the account team to effectively steer the customer to success.</li> <li><strong>Technical Guidance:</strong> You\u2019ll maintain a deep level of LaunchDarkly product knowledge and be expected to provide customers with direction on implementation and adoption best practices.</li> <li><strong>Prescriptively Sell:</strong> You will maintain a pulse on how our customers are tracking against their key goals and outcomes, identifying opportunities for customers to purchase additional products, services, and adopt new features needed for them to maximize the value of our solution.</li> <li><strong>Trusted Advisor:</strong> You understand your customers like no other and have built enough trust to act as an extension of their team. You provide prescriptive guidance to customers to help them get the most out of their LaunchDarkly purchase.</li> <li><strong>Build Champions &amp; Executive Relationships:</strong> You are an expert champion builder. You consistently work to identify &amp; support key advocates within your customers\u2019 organization who actively promote the value of LaunchDarkly. In partnership with your Champion, you\u2019re able to leverage success metrics &amp; value driven insights to gain sponsorship at an Executive level.<br><strong>Renewal and Expansion focused: </strong>You are comfortable owning a number and forecasting on a weekly basis. You will work directly with customers, sales and deal desk to execute renewal agreements on time and to identify expansion opportunities within your accounts</li> </ul> <h4>Qualifications:</h4> <ul> <li>5+ years in a customer facing role, ideally in account management, customer/partner success or ",
-   "ats": "greenhouse",
-   "score": 56,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "customer success manager"
-   ],
-   "matched_skills": [
-    "partner",
-    "ai",
-    "quota",
-    "discovery"
-   ],
-   "resume": "generic",
-   "id": "98e98af52a11a942"
-  },
-  {
-   "source": "ashby",
-   "company": "openai",
-   "title": "B2B Ecosystem Lead, Business Development",
-   "location": "San Francisco (Remote)",
-   "url": "https://jobs.ashbyhq.com/openai/c717b98e-5394-4ad1-ae3f-e036717ad9b5",
-   "posted": "2026-10-14T23:40:39.302000+00:00",
-   "description": "About the Team: We are a small and fast-moving B2B partnerships team that shapes and executes OpenAI\u2019s most important collaborations. We develop strategic and product partnerships across the B2B ecosystem, bringing together OpenAI\u2019s capabilities and partners\u2019 technology, expertise, data, workflows, and customer relationships. Working closely with Product, Engineering, and Sales, we turn these opportunities into useful offerings and new ways for businesses to adopt and benefit from OpenAI. About the Role: As a B2B Ecosystem Lead, you will identify, develop, and execute strategic and product partnerships across B2B segments. This is a hands-on individual contributor role spanning opportunity assessment, partnership design, commercial negotiation, and execution. You will own the partner work behind product initiatives, from defining partner needs through launch and sustained adoption at scale. These may include Sign in with ChatGPT and industry-specific offerings. You bring a generalist\u2019s ability to connect product priorities with partner capabilities, build a business case, and align teams around a practical path forward. You will remain accountable after signing and launch, including for selected high-touch strategic partnerships. Key Responsibilities: Identify strategic and product partnership opportunities across B2B segments; translate product priorities and customer needs into partner plans, joint value propositions, and a focused set of prospective partners. Own the partner work stream for assigned product initiatives, aligning requirements, commitments, milestones, and ongoing responsibilities with Product, Engineering, and partner teams. Develop business cases and negotiate product and commercial partnerships with Legal, Finance, and Product, including selected high-touch strategic deals in coordination with other partnership owners. Take partner initiatives from pilot through launch and scale, defining readiness criteria, coordinating integrations, and expanding successful offerings to more partners and business customers. Work with Sales and partner teams on target accounts, referrals, joint selling, and customer introductions, with clear responsibilities for follow-up and opportunity tracking. Coordinate Product, Engineering, Sales, Marketing, Legal, Finance, Security, Policy, and Operations to resolve launch and adoption barriers, with clear ownership and handoffs into ongoing partner programs. Maintain partner relationships after launch and bring customer feedback, integration gaps, and adoption barriers back to Product and Engineering; help turn early implementations into repeatable offerings. Define success measures with product and go-to-market teams, track activation, sustained usage, customer outcomes, and commercial impact, and drive follow-up when an initiative falls short. Qualifications: 8+ years of experience in business development, strategic or product partnerships, or related roles developing commercial opportunities in te",
-   "ats": "ashby",
-   "salary": "$333K \u2013 $445K \u2022 Offers Equity",
-   "score": 56,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "business development"
-   ],
-   "matched_skills": [
-    "b2b",
-    "partner",
-    "ai"
-   ],
-   "resume": "generic",
-   "id": "288e911f131c7990"
-  },
-  {
-   "source": "greenhouse",
-   "company": "zoominfo",
-   "title": "Account Manager, SMB ",
-   "location": "Bethesda, Maryland, United States; Waltham, Massachusetts, United States",
-   "url": "https://www.zoominfo.com/careers?gh_jid=8888394002",
-   "posted": "2026-10-14T11:54:45-04:00",
-   "description": "<div class=\"content-intro\"><p>ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You\u2019ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won\u2019t just contribute. You\u2019ll make things happen\u2013fast.</p></div><p>&nbsp;</p> <p>Are you ready to elevate your career as an&nbsp;<strong>SMB </strong>(small and medium business)<strong> Account Manager</strong> with ZoomInfo? We\u2019re looking for a passionate individual to join our team and take on the thrilling role of upselling and retaining a portfolio of SMB accounts (under 100 employee headcount companies). If you're energized by the prospect of driving business growth, exceeding goals, and being an integral part of a high-performing team, this is the opportunity you've been waiting for!</p> <p><strong>What You Will Do:</strong></p> <ul> <li>Manage a book of ~250 existing customer accounts with a focus on account retention and growth.</li> <li>Harness the power of referrals and existing relationships to unearth new business opportunities within our valued clients.</li> <li>Showcase your expertise through engaging online product demos that captivate and convert potential clients.</li> <li>Craft accurate forecasts and pipelines within Salesforce.</li> <li>Collaborate within a dynamic team environment to propel and close deals over the phone.</li> <li>Target the right people within existing clients by understanding what clients we work within key vertical markets and how we are getting their peers quick ROI</li> <li>Be the epitome of preparation in all client meetings \u2013 well-researched, knowledgeable, professional, and kind.</li> </ul> <p><strong>What You Bring:</strong></p> <ul> <li>2+ year of successful Account Management experience&nbsp; with consistent quota attainment.</li> <li>The ability to deliver a compelling message that resonates across all levels.</li> <li>Experience in transactional and solution selling, showcasing your confidence throughout the entire sales cycle.</li> <li>Outstanding interpersonal and verbal communication skills, coupled with strong organizational abilities.</li> <li>High energy and a 'can do' attitude, with the ability to balance multiple tasks effortlessly.</li> <li>Quick qualification skills and relationship-building prowess.</li> <li>Independence and motivation to thrive in a dynamic work environment.</li> <li>Working knowledge of CRM or Salesforce.com, experience with Zoominfo products or similar solutions is a plus.</li> </ul> <p><strong>What\u2019s In It For You:</strong></p> <ul> <li>Top notch tech stack</li> <li>Market leading product offering (check out our long list of G2 awards)</li> <li>ERG (Employee Resource Groups) to foster a diverse, inclusive workplace</li> <li>Benefits to Help You Thrive -&nbsp;</li> <ul> <li>Comprehensive Medical, Dental, Vision</li> <li>Eligibility for Future Equity Awar",
-   "ats": "greenhouse",
-   "score": 54,
-   "remote": false,
-   "portland": false,
-   "remote_in_listing": false,
-   "matched_title": [
-    "account manager"
-   ],
-   "matched_skills": [
-    "salesforce",
-    "crm",
-    "smb",
-    "ai",
-    "automation",
-    "quota",
-    "pipeline",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "5a868a2cacb9582a"
-  },
-  {
-   "source": "greenhouse",
-   "company": "coinbase",
-   "title": "Senior Associate, Business Development",
-   "location": "Remote - USA",
-   "url": "https://www.coinbase.com/careers/positions/8070386?gh_jid=8070386",
-   "posted": "2026-10-13T19:43:45-04:00",
-   "description": "<div class=\"content-intro\"><p>Ready to do the most impactful work of your career? At&nbsp;<a href=\"https://www.coinbase.com/?utm_campaign=mt_o_m_w_m_m__coi_0_jd-onchain&amp;utm_source=coinbase\">Coinbase</a>, we are uncompromising on our mission to increase economic freedom. The bar is high, the environment is intense, and we like it that way. This isn't a place for complacency, it\u2019s a place to be pushed past your perceived limits. If you're ready to build the future of finance alongside people who refuse to settle for \"good enough,\" you belong here. Coinbase is a remote-first, but not remote-only company. Expect to get together quarterly for intense in-person working sessions called \u201csurges.\u201d&nbsp;<a href=\"https://www.coinbase.com/careers\">learn more about working at Coinbase</a>.</p></div><p>We're hiring a Senior Associate to join the Business Development team. This team is responsible for sourcing, executing, and scaling critical partnerships across Coinbase's core products, business lines, and global ecosystem. You'll autonomously own a portfolio of high-impact partner relationships, lead complex deal execution from first conversation through launch, and work directly with product and business leaders to bring new partnerships to life as company priorities and market opportunities evolve.</p> <p>What you'll do:</p> <ul> <li>Own and manage a portfolio of partnerships end-to-end, driving execution against commitments, resolving blockers, and ensuring partners deliver on agreed milestones and KPIs.</li> <li>Shape partnership strategy by identifying where new relationships can unlock growth, co-creating commercial frameworks alongside Product, Engineering, and Business leaders.</li> <li>Source, structure, and negotiate complex commercial agreements, independently managing the full deal lifecycle from initial outreach through close.</li> <li>Track partnership performance metrics, flag risks to senior stakeholders, and drive cross-functional resolution across legal, compliance, product, marketing, and finance.</li> <li>Lead partnership launches by coordinating cross-functional workflows and ensuring operational readiness from contract signing through go-live.</li> </ul> <p>Required Skills and Experience:</p> <ul> <li>5+ years in strategic, deal-oriented roles such as business development, corporate development, investment banking, consulting, or strategy with demonstrated experience closing complex commercial agreements.</li> <li>Proven track record of independently identifying partnership opportunities, building commercial frameworks, evaluating deal economics, and driving initiatives from concept through close.</li> <li>Demonstrated ability to use data to assess partnership performance, model economics, and develop recommendations that influence senior decision-making.</li> <li>Experience coordinating across cross-functional teams (legal, product, finance) to drive project execution from sourcing through launch in fast-moving environments with lim",
-   "ats": "greenhouse",
-   "score": 49,
-   "remote": true,
-   "portland": false,
-   "remote_in_listing": true,
-   "matched_title": [
-    "business development"
-   ],
-   "matched_skills": [
-    "partner",
-    "ai",
-    "demo"
-   ],
-   "resume": "generic",
-   "id": "e4d8d83556da7dd1"
-  },
-  {
-   "source": "himalayas",
-   "company": "Mashreq",
-   "title": "Business Development Officer.MGN Pak - DBC PL Fulfillment.Retail Banking Group-P",
-   "location": "Pakistan (Remote)",
-   "url": "https://himalayas.app/companies/mashreq/jobs/business-development-officer-mgn-pak-dbc-pl-fulfillment-retail-banking-group-p",
-   "posted": "2026-10-15T15:17:53+00:00",
-   "description": "To achieve monthly targets assigned. To ensure that all telesales activities are directed to meeting sales targets. To develop and implement telesales strategies and objectives as well as set challenging sales target and ensure that these target are achieved. To achieve service standards and monitor, evaluate and measure performances to achieve top productivity and efficiency from systems as well as the product campaigns. To drive cross sell effort. Originally posted on Himalayas",
+   "source": "remoteok",
+   "company": "Allego",
+   "title": "Account Manager Mid Market",
+   "location": "Waltham (Remote)",
+   "url": "https://remoteOK.com/remote-jobs/remote-account-manager-mid-market-allego-1137528",
+   "posted": "2026-10-15T16:00:21+00:00",
+   "description": "Allego is a rapidly growing SaaS technology company in the Boston area and creator of the market-leading Revenue Enablement Platform. Our technology helps Go-To-Market teams build the skills and access the knowledge they need to succeed in every selling situation. Allego is the only revenue enablement platform to be named a Leader in both the Forrester Wave\u00e2\u0084\u00a2 and the inaugural Gartner\u00c2\u00ae Magic Quadrant\u00e2\u0084\u00a2 for Revenue Enablement Platforms. Not only are we growing quickly, but we\u00e2\u0080\u0099ve also been recognized as a top place to work by The Boston Business Journal, The Boston Globe, and Inc. Magazine. In addition, Selling Power named Allego one of the 50 Best Companies to Sell For in both 2025 and 2026. What You'll Do at Allego: Allego is seeking an experienced Account Manager who will support and grow key customer relationships across a range of industries and sizes. As an Account Manager at Allego, you\u00e2\u0080\u0099ll define, develop and implement customer strategies and management plans that expand the customer\u00e2\u0080\u0099s usage of the Allego platform and create customer evangelists of Allego among their Sales, Marketing, Enablement and Operational leadership. Through your partnership with our customers, you\u00e2\u0080\u0099ll help transform the way ideas are shared, learning happens, and sales are brokered. By acting as a trusted advisor, you will provide consultation, expertise, thought leadership, and responsiveness that creates a differentiated buying experience for Allego prospects and customers. Your contributions will help drive business and revenue growth and accelerate customer expansion. The compensation package include Please mention the word **VIRTUOUS** and tag RNTIuMjQyLjI0NS4xMjg= when applying to show you read the job post completely (#RNTIuMjQyLjI0NS4xMjg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
    "ats": "external",
    "salary": "",
-   "score": 42,
+   "score": 39,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "business development"
+    "account manager"
    ],
    "matched_skills": [
-    "ai"
+    "saas",
+    "partner"
    ],
    "resume": "generic",
-   "id": "77a0f9746fd7bdca"
+   "id": "e4d0abed70057124"
   }
  ]
 }
