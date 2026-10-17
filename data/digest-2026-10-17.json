@@ -1,0 +1,309 @@
+{
+ "generated_at": "2026-10-17T15:49:18.052009+00:00",
+ "counts": {
+  "fetched": 15793,
+  "fresh_matches": 10,
+  "in_digest": 10,
+  "boards_ok": 125,
+  "boards_failed": 4
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 191,
+  "title not relevant": 1881,
+  "rejected title": 1359,
+  "onsite outside Portland": 323,
+  "non-US location": 544
+ },
+ "jobs": [
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Senior Named Account Executive,  (MN )",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8201404?gh_jid=8201404",
+   "posted": "2026-10-16T15:15:48-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><h2>Available Locations</h2> <ul> <li>Minnesota or Wisconsin</li> </ul> <h2>About the Role</h2> <p>We are seeking a highly accomplished and strategic Account Executive to join our Enterprise/Field Sales team. In this advanced role, you will be pivotal in driving significant growth by leading comprehensive sales cycles within a portfolio of assigned enterprise-level clients, and strategically acquiring new logos. The ideal candidate possesses a deep blend of advanced sales acumen and sophisticated technical understanding, enabling them to lead engagements at all levels, from the C-suite to technical leaders (e.g., Head of/VP of Networking or Security).</p> <p>As an Account Executive, you will consistently demonstrate advanced proficiency in all sales activities, ensuring highly accurate forecasting, proactive and strategic pipeline management, and consistently exceeding attainment targets. You will be a subject matter expert, speaking fluently about Cloudflare's products, features, benefits, and use cases across diverse customer segments. This role demands the ability to deeply understand complex customer IT Architectures, match them with relevant Cloudflare Reference Architectures, and orchestrate successful, large-scale platform sales. You will be a key driver of digital transformation for our customers, understanding their broader market trends and how Cloudflare uniquely enabl",
+   "ats": "greenhouse",
+   "score": 87,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "smb",
+    "b2b",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "discovery",
+    "demo",
+    "technical background"
+   ],
+   "resume": "generic",
+   "id": "1080b869f2770caa"
+  },
+  {
+   "source": "greenhouse",
+   "company": "tailscale",
+   "title": "Strategic Enterprise Account Executive",
+   "location": "Remote (United States)",
+   "url": "https://job-boards.greenhouse.io/tailscale/jobs/4744879005",
+   "posted": "2026-10-16T23:00:41-04:00",
+   "description": "<div class=\"content-intro\"><p>Thank you for considering Tailscale. If this job description resonates with you, please apply.&nbsp;<em data-stringify-type=\"italic\">Frequently cited statistics show that people who identify with historically marginalized groups are likely to apply to jobs only if they meet 100% of the qualifications. </em><em data-stringify-type=\"italic\">We encourage you to help us break that statistic!</em></p> <p><strong>About Tailscale&nbsp;</strong></p> <p>Tailscale is making safe connection effortless by delivering software that makes it easy to securely interconnect people and their devices, no matter where they are. From hobbyists to multinational corporations, teams of every size use Tailscale each day to protect their networks, share access to internal tools, and more. We're building a future for the Internet that's easy, sensible, and safe, like it used to be. Founded in 2019 and fully distributed, we're backed by Accel, CRV, Insight, Heavybit, and Uncork Capital.</p></div><h3><span style=\"font-size: 12pt;\">About the Role</span></h3> <p>Tailscale makes it simple for organizations to securely connect people, devices, and workloads anywhere in the world. As adoption grows within the world\u2019s largest enterprises, we\u2019re launching a Strategic Sales team to support our next stage of growth.</p> <p>As a founding Strategic Account Executive, you\u2019ll own a focused portfolio of organizations with 10,000+ employees, including Fortune 1000 and Global 2000 companies. You\u2019ll lead complex opportunities from initial engagement through close and expansion, building executive relationships and connecting customer priorities with Tailscale\u2019s capabilities.</p> <p>You\u2019ll help define how we win in this market - developing outbound strategies, testing new approaches, and creating a playbook for future growth. Reporting to the Director of Strategic Sales, you\u2019ll join a small, highly collaborative team and partner closely with executive leadership and teams across the business.</p> <h3><span style=\"font-size: 12pt;\">Key Responsibilities</span></h3> <ul> <li>Own account strategy: Build account plans that connect customer priorities with opportunities across business units, geographies, and use cases</li> <li>Create pipeline: Drive personalized outbound prospecting, partnering with SDRs and Marketing on coordinated account-based campaigns</li> <li>Lead complex deals: Manage opportunities through negotiation and close, navigating long sales cycles, competitive pursuits, and complex buying processes</li> <li>Build executive relationships: Earn trust with CIOs, CISOs, CTOs, and senior technical and business leaders while developing champions across the organization</li> <li>Bring the right team together: Partner with Customer Engineering, GTM Engineering, Customer Success, Product, Engineering, executive leadership, Legal, and Finance to win and grow strategic accounts</li> <li>Shape the playbook: Test approaches, share what works, and bring customer fee",
+   "ats": "greenhouse",
+   "score": 85,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cybersecurity",
+    "cloud",
+    "crm",
+    "enterprise",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "adb7e5a8053bf631"
+  },
+  {
+   "source": "himalayas",
+   "company": "Axonius",
+   "title": "Enterprise Account Executive, Florida",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/axonius/jobs/enterprise-account-executive-florida",
+   "posted": "2026-10-17T15:00:55+00:00",
+   "description": "Enterprise Account Executive: Florida We are seeking a high-performing Enterprise Account Executive to lead enterprise sales efforts across the state of Florida, targeting large enterprise organizations above 2,000 employees. This is a pivotal role requiring a strong work ethic, relentless drive, and purposeful daily activity to build and maintain a robust pipeline and exceed revenue targets. The ideal candidate thrives in a fast-paced, high-output environment, demonstrates ownership of their territory, and executes with precision and urgency. This individual will collaborate closely with senior sales leadership, channel partners, and cross-functional teams to drive value-based sales engagements that solve complex IT and security challenges for major customers. Key Responsibilities Develop and execute a comprehensive regional strategy designed to deliver a 4x pipeline relative to quota. Operate with a bias for action and a focus on measurable outcomes, holding yourself accountable to activity goals and performance benchmarks. Build and nurture strong channel and security/IT vendor partnerships, leveraging their reach and influence to accelerate growth. Qualify and advance opportunities using value-based selling methodologies and frameworks such as MEDDPIC, ensuring clear business value alignment with customer needs. Maintain high-quality hygiene in Salesforce and Clari, including: Consistent and insightful Chatter posts Clear, strategic next steps for all active opportunities Up-to-date MEDDPIC criteria Accurate and timely forecasting with realistic close dates Minimum Qualifications 7+ years of success in a closing role selling to Enterprise accounts, with a proven hunter mentality and consistent quota attainment. Experience managing and closing complex, multi-stakeholder sales cycles within large organizations. Demonstrated ability to build and execute a regional go-to-market strategy, coordinating effectively with channel partners, tech alliances, BDRs, SEs, Marketing, and Product. Strong working knowledge of enterprise IT and security environments, including solutions like endpoint protection, vulnerability management, SIEM, CMDB, Active Directory, firewalls, cloud platforms, and SaaS offerings. Preferred Qualifications Strong negotiation skills with a history of driving value-based deals and minimizing discounting. Highly self-motivated and proactive, with the ability to work independently and efficiently in a remote, field-based environment. A disciplined operator who understands the importance of CRM hygiene, structured deal execution, and precision in forecasting. Demonstrates a strong work ethic, integrity, and a commitment to excellence in every customer interaction. Competitive spirit and a deep drive to win, not just against quota, but in delivering transformational outcomes for customers. Strategic thinker with resourcefulness and the ability to adapt and thrive in dynamic, fast-evolving conditions. This is more than a sales job, thi",
+   "ats": "external",
+   "salary": "$290000-305000",
+   "score": 84,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cybersecurity",
+    "cloud",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "8bfebd0e6924ad31"
+  },
+  {
+   "source": "greenhouse",
+   "company": "gitlab",
+   "title": "Sr. Manager, Solutions Architect SME",
+   "location": "Remote, United States",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8886648002",
+   "posted": "2026-10-16T20:06:59-04:00",
+   "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><strong>Senior Manager, SME Solutions Architecture</strong></h2> <h3><strong>An overview of this role</strong></h3> <p>You'll build and lead the regional team of product Subject Matter Experts who win GitLab's most complex opportunities. Your team covers four product groups: Security &amp; Compliance, Platform, Core DevSecOps, and AI &amp; Competitive. You'll partner with regional sales leadership to decide where SMEs go, coach your team to technical wins, and make sure every engagement leaves the Account team stronger. This is a player-coach role. You'll stay close to the technology and step into critical deals yourself.</p> <h3><strong>What you'll do</strong></h3> <ul> <li>Hire, develop and retain a regional team of SMEs across four product groups, with a clear growth path for each person.</li> <li>Run the regional engagement model with Account SA and Post-Sales leaders. Keep triage fast, coverage focused on the top opportunities, and the line between Account SA and SME ownership clear.</li> <li>Partner with regional sales leaders and AVPs on deal strategy, forecast calls and product-category plans.</li> <li>Review SME coverage weekly against the regional pipeline. Move capacity to where product-category commit and consumption are at risk.</li> <li>Step into strategic deals as an executive technical sponsor when the opportunity calls for it.</li> <li>Coach SMEs on PoV design, executive storytelling and competitive positioning. Hold a high bar for technical quality.</li> <li>Keep engageme",
+   "ats": "greenhouse",
+   "score": 75,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "fe67ef568dcb0f01"
+  },
+  {
+   "source": "himalayas",
+   "company": "ClearGov",
+   "title": "Sales Development Representative",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/cleargov/jobs/sales-development-representative",
+   "posted": "2026-10-17T15:03:40+00:00",
+   "description": "About ClearGov ClearGov is building the modern financial operating layer for the public sector. We help US local governments and school districts plan, budget, report, and communicate their finances with clarity and confidence. From long-term planning to financial reporting, compliance, and transparency, our platform connects the work finance teams are already doing and makes it easier to deliver for their communities. Today, more than 2,000 public sector organizations use ClearGov , and we continue to expand our platform and reach as we grow. Our Core Values Be Clear & Credible We are authentic in our interactions, communicating with clarity, speaking with honesty, and following through with consistency. We turn transparency into our greatest competitive advantage. Be Human We are human partners to our colleagues and customers and lead with consideration and kindness - making space for others to do the same. We turn empathy into a shared strength. Be Better Together We are committed to building an inclusive community where everyone thrives. We share successes, support each other through challenges, and show up for our teammates the way we show up for our customers. We turn togetherness into our greatest advantage and collaboration into our greatest multiplier. Be Honourable/Honorable We are responsible to our colleagues and customers. We bring our full selves to every conversation, every project, every decision, and every relationship. We act with intention, deliver on our commitments, and lead with integrity - even when no one is watching. We turn honour into the foundation that powers everything we do. Be Connected We are culture builders where people are seen, welcomed, and celebrated. We show up in every interaction - the laughs, the wins, the hard days. We turn connection into opportunities for people to feel they belong. What Makes You a Great Fit You take ownership and follow through You communicate clearly and effectively You're comfortable solving problems and figuring things out You learn quickly and adapt as things change You care about the team, not just your own work You bring a sense of humor and perspective to what you do About the Opportunity We\u2019re looking for a Sales Development Representative (SDR) with a zeal to win, a kind heart, an unwavering team spirit, a positive attitude, and a great sense of humor to join our rapidly growing team. The SDR will be charged with building the sales pipeline to support our rapidly growing business. As an SDR, you will coordinate closely with our Account Executives to support research and prospecting activities for new accounts to secure a steady flow of new qualified opportunities. Often, the SDR has the first (and therefore the most important) opportunity to make a positive impression on a prospect, so you will be responsible for starting an experience that will set the stage for effective sales follow-up. The successful candidate will be a self-starter with high energy, positive phone pres",
+   "ats": "external",
+   "salary": "$60000-60000",
+   "score": 71,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales development representative"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "crm",
+    "partner",
+    "ai",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "1f1021993ea19471"
+  },
+  {
+   "source": "greenhouse",
+   "company": "stripe",
+   "title": "Account Executive, Product - Link: Bank Payments & Open Banking",
+   "location": "SF, SEA, CHI, NYC, remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8289847",
+   "posted": "2026-10-16T14:45:19-04:00",
+   "description": "<h2><strong>Who we are</strong></h2> <h3><strong>About Stripe</strong></h3> <p>Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</p> <h3><strong>About the team</strong></h3> <p>Product Sales is a team of deep functional and technical specialists who both lead and advise on deals for the most strategically important products in Stripe\u2019s portfolio.&nbsp;</p> <p>Stripe is expanding its Link Product Sales team, and this role is focused exclusively on bank payments. As an Account Executive, you will help businesses give their customers a fast, trusted way to pay from a bank account using Stripe\u2019s full stack of payments solutions while accelerating the growth of the Link network. Few roles offer such a direct opportunity to shape and grow one of Stripe\u2019s top company priorities.&nbsp;</p> <h2><strong>What you\u2019ll do</strong></h2> <p>As a founding Account Executive for Bank Payments, you will play a central role in shaping and executing Stripe\u2019s go-to-market strategy for this growing product area. You will partner closely with Product, Engineering, Marketing, and other GTM teams to build deep product and industry expertise, lead complex deals, and guide in-depth conversations with existing and prospective customers. You will bring customer and market insights back to Stripe, helping influence both the product roadmap and how we take bank payments to market.</p> <p>Bank payments and account connectivity are also an important part of Link\u2019s broader vision for the future of commerce. Where the opportunity intersects with adjacent Link priorities\u2014such as agentic commerce\u2014you will help explore emerging customer use cases and shape how Stripe brings new experiences to market. This gives you the opportunity to build a focused bank payments business while contributing to some of Stripe\u2019s most forward-looking initiatives.</p> <p>You are an adept sales professional who can lead business and technical conversations at every level of an organization. You know how to establish value in competitive situations and are energized by products that require deep industry expertise and technical fluency. You are equally comfortable working with customers and internal partners, eager to develop and share expertise, and motivated by the opportunity to build in a fast-moving environment. You are an entrepreneurial self-starter, an exceptional communicator, and an analytical thinker with a record of top performance and making the teams around you better.</p> <h3>Responsibilities</h3> <ul> <li>Drive revenue, adoption, and new customer acqu",
+   "ats": "greenhouse",
+   "score": 70,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "enterprise",
+    "partner",
+    "agentic",
+    "pipeline",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "906a9621455f66b3"
+  },
+  {
+   "source": "greenhouse",
+   "company": "stripe",
+   "title": "Solutions Engineer, AI Build Team ",
+   "location": "US-SF, US-NYC, US-Remote",
+   "url": "https://stripe.com/jobs/search?gh_jid=8198323",
+   "posted": "2026-10-16T15:37:50-04:00",
+   "description": "<h2><strong>Who we are </strong></h2> <h3><strong>About Stripe</strong></h3> <p><span style=\"font-weight: 400;\">Stripe is a financial infrastructure platform for businesses. Millions of companies - from the world\u2019s largest enterprises to the most ambitious startups - use Stripe to accept payments, grow their revenue, and accelerate new business opportunities. Our mission is to increase the GDP of the internet, and we have a staggering amount of work ahead. That means you have an unprecedented opportunity to put the global economy within everyone's reach while doing the most important work of your career.</span></p> <h3>About the team</h3> <p>The AI Build team is a new, industry-focused team dedicated to building with the world\u2019s leading and fastest-scaling AI companies. We work alongside Stripe\u2019s AI Solutions Architecture and GTM teams, and across Stripe\u2019s product suite to help customers adopt emerging products, close interoperability and 0\u21921 solution gaps, and bring field learning directly into Stripe\u2019s product roadmap. The team owns strategic proof-of-concept engagements across the pre- and post-sales lifecycle, complementing Stripe\u2019s AI account teams and the product depth of Stripe\u2019s specialist teams.</p> <h2><strong>What you'll do&nbsp;</strong></h2> <p>As a Solutions Engineer on the AI Build team, you\u2019ll work directly with frontier AI companies on the payments, billing, and monetization infrastructure underlying their core businesses. You\u2019ll own complex proof-of-concept engagements on Stripe\u2019s frontier products, from initial scoping through activation and handoff, combining customer discovery, solution design, rapid prototyping, and cross-functional leadership. You won\u2019t simply implement a finished product: you\u2019ll build with customers, identify where Stripe\u2019s products or integrations need to evolve, and help customers feel as though they are inside our product roadmap.</p> <h3><strong>Responsibilities</strong><span style=\"font-weight: 400;\">&nbsp;</span></h3> <ul> <li><strong>Own strategic POCs end to end: </strong>Sell, scope, and lead proof-of-concept engagements from initial customer commitment through activation.</li> <li><strong>Build with customers: </strong>Work deeply with users\u2019 engineers and technical leaders to understand their workflows, rapidly prototype solutions, and establish credible paths to production.</li> <li><strong>Design across Stripe: </strong>Create solutions that span multiple Stripe products and determine whether blockers require configuration, integration work, custom development, or a core product change.</li> <li><strong>Close 0\u21921 gaps: </strong>Navigate incomplete products, evolving requirements, and interoperability gaps while balancing immediate customer outcomes with reusable solutions.</li> <li><strong>Influence the roadmap: </strong>Translate customer needs and deployment friction into clear product requirements, and partner with product and engineering teams to shape how Stripe\u2019s frontier products are bu",
+   "ats": "greenhouse",
+   "score": 70,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "enterprise",
+    "partner",
+    "ai",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "1ab16198623836b1"
+  },
+  {
+   "source": "lever",
+   "company": "outreach",
+   "title": "Senior Sales Operations Manager",
+   "location": "Seattle, WA, Full-Time (remote)",
+   "url": "https://jobs.lever.co/outreach/800285d4-e0d9-4e42-927a-789df5ffa0bc",
+   "posted": "2026-10-16T20:41:14.597000+00:00",
+   "description": "About Outreach Outreach, founded in 2014, is the only complete agentic AI platform for revenue teams. Outreach infuses agentic AI, conversation intelligence, and assistive AI to power hundreds of use cases across revenue motions. From new logo prospecting to expansions, deal acceleration, driving retention, and forecasting, Outreach AI automates workflows and frees sellers to focus on more strategic conversations and actions. Revenue leaders benefit from connected account visibility, performance insights, and higher forecasting accuracy across every GTM team. World leading enterprise organizations use Outreach to power their revenue teams, including Databricks, SAP, Siemens, and Verizon to name a few.",
+   "ats": "lever",
+   "score": 69,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales operations"
+   ],
+   "matched_skills": [
+    "enterprise",
+    "ai",
+    "agentic"
+   ],
+   "resume": "generic",
+   "id": "3bc50e68598014fd"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Manager, Delivery Solutions Architects - Healthcare & Life Sciences (HLS)",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8896139002",
+   "posted": "2026-10-16T19:02:23-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\"><span style=\"font-size: 14pt;\">CSQ427R265</span></p> <h1><span style=\"font-size: 14pt;\"><strong>Manager, </strong><strong>Delivery Solutions Architect&nbsp; \u2013 Healthcare &amp; Life Sciences (HLS)</strong></span></h1> <p><span style=\"font-size: 14pt;\"><strong>United States \u2013 Apply Now</strong></span></p> <p><span style=\"font-size: 14pt;\">As a Delivery Solutions Architect (DSA) Manager supporting our Healthcare &amp; Life Sciences (HLS) segment, you will lead a team of DSAs responsible for accelerating production-grade Data and AI workloads across some of the most regulated, mission-critical environments in the world. Your organization will be the technical engine behind how payers, providers, med-tech, and biopharma customers modernize clinical intelligence, streamline R&amp;D operations, and operationalize secure AI at scale on the Databricks Data Intelligence Platform.</span></p> <p><span style=\"font-size: 14pt;\">You will define strategy, set the execution rhythm, and coach a team capable of navigating long implementation cycles, strict compliance requirements, and multi-stakeholder enterprise programs\u2014all while ensuring customers achieve clear, measurable outcomes. You will report to the Director of Delivery Solutions Architecture for the HLS Business Unit.</span></p> <h1><span style=\"font-size: 14pt;\"><strong>The Impact You Will Have:</strong></span></h1> <h3><span style=\"font-size: 14pt;\"><strong>Build and Lead a High-Performing HLS Delivery Team</strong></span></h3> <p><span style=\"font-size: 14pt;\">Hire, develop, and inspire DSAs who can navigate clinical, scientific, and operational workloads. Establish a performance culture grounded in accuracy, velocity, and architectural excellence.</span></p> <h3><span style=\"font-size: 14pt;\"><strong>Accelerate Production in Highly Regulated Environments</strong></span></h3> <p><span style=\"font-size: 14pt;\">Guide your team to minimize onboarding friction, remove blockers, and bring critical HLS use cases\u2014clinical analytics, real-world evidence, supply-chain intelligence, quality systems, AI/ML\u2014into production quickly and safely.</span></p> <h3><span style=\"font-size: 14pt;\"><strong>Drive Compliance-Aware Technical Excellence</strong></span></h3> <p><span style=\"font-size: 14pt;\">Ensure your team maintains deep expertise in the Data Intelligence Platform alongside core HLS requirements such as PHI-compliant architectures, HIPAA/GxP controls, auditability, lineage, and secure ML/AI operations.</span></p> <h3><span style=\"font-size: 14pt;\"><strong>Partner for Growth With Sales and Field Teams</strong></span></h3> <p><span style=\"font-size: 14pt;\">Collaborate tightly with Sales, SAs, Support, Emerging Technologies, and Professional Services to drive adoption, increase MAU/WAU, enable mature operational patterns, and ensure customers realize tangible business value from Databricks.</span></p> <h3><span style=\"font-size: 14pt;\"><strong>Operationalize Rigor at Scale</strong></span>",
+   "ats": "greenhouse",
+   "score": 65,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "partner",
+    "ai",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "e1f92e5bda62ab22"
+  },
+  {
+   "source": "ashby",
+   "company": "harvey",
+   "title": "Mid-Market Customer Success Manager (LATAM - Portuguese Speaking)",
+   "location": "New York (Remote)",
+   "url": "https://jobs.ashbyhq.com/harvey/5c95d264-44d9-40cd-86be-2257266f47be",
+   "posted": "2026-10-16T18:26:34.233000+00:00",
+   "description": "Why Harvey At Harvey, we\u2019re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we\u2019re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We\u2019re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth \u2014 personal, professional, and financial \u2014 is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission \u2014 operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today \u2014 and we\u2019re just getting started. Role Overview As a Customer Success Manager you\u2019ll play a critical role in guiding our clients through their journey with Harvey, and help define the future of work at both law firms and in-house teams. This position is pivotal in ensuring our clients not only adopt but also derive maximum value from our technology. You'll act as a trusted advisor, deeply integrating Harvey into their business processes and workflows. This individual will also have a chance to design and deploy scalable 1:many solutions that will impact how we serve our broad mid-market customer base in a highly efficient manner at scale. What You'll Do Strategic Implementation: Lead the integration of Harvey into client workflows, ensuring seamless adoption and optimal use of our AI solutions. Training & Enablement: Evangelize the power of LLMs as you meet with and enable end users to adopt Harvey on a daily-basis as it becomes a \u201cmust have\u201d product. Client Relationship Management: Serve as the primary contact for 40+ mid-market clients with a prescriptive and consultative approach and delivering a superior customer experience. Process Creation: Drive scalability in the way we operate through documentation, designing playbooks, self-help materials, email cadences, and automation to ensure we drive efficiency in our long term mid-market strategy. Success Metrics Management: Utilize adoption rates, benchmarks, and other key metrics to drive strategies ensuring client satisfaction and high ROI. Advocacy and Engagement: Encourage user and stakeholder engagement, transforming them into Harvey advocates within their organizations. Customer Health Monitoring: Use analytics and feedback to maintain customer satisfaction, ensuring readiness for renewal and expansion opportunities. Feedback Loop: Relay cl",
+   "ats": "ashby",
+   "salary": "$125K \u2013 $145K \u2022 OTE",
+   "score": 63,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "customer success manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "enterprise",
+    "mid-market",
+    "ai",
+    "llm",
+    "agentic",
+    "automation"
+   ],
+   "resume": "generic",
+   "id": "8d4e62da45010b8b"
+  }
+ ]
+}
