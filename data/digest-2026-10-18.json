@@ -1,0 +1,69 @@
+{
+ "generated_at": "2026-10-18T16:03:53.345169+00:00",
+ "counts": {
+  "fetched": 15802,
+  "fresh_matches": 2,
+  "in_digest": 2,
+  "boards_ok": 125,
+  "boards_failed": 4
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 192,
+  "title not relevant": 1876,
+  "rejected title": 1370,
+  "onsite outside Portland": 323,
+  "non-US location": 547
+ },
+ "jobs": [
+  {
+   "source": "himalayas",
+   "company": "Dataminr",
+   "title": "Account Executive, SLED (West)",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/dataminr/jobs/account-executive-sled-west",
+   "posted": "2026-10-18T15:40:06+00:00",
+   "description": "See yourself at Dataminr Dataminr is seeking a Senior Account Executive to sell our Cyber Defense solutions to high-profile US SLED accounts and ensure that Dataminr \u2019s real-time information alerts get into the right hands at the right time. You'll deliver unique and impactful solutions to your SLED clients while exceeding quotas and establishing strong customer relationships. This is a US-based remote role preferred locations are TX, CO or western US with travel across the western US. AI Innovation at Dataminr Working at Dataminr you\u2019ll have the opportunity to tackle the most exciting trends in AI on a daily basis to power a revolutionary product that uncovers critical events around the world as they unfold. Regenerative AI: our AI technology, ReGenAI, is a new form of generative AI that automatically regenerates real-time Live Event Briefs as events unfold. Learn more here. Agentic AI: we recently launched our Agentic AI capability, what we\u2019re calling our Intel Agents, that autonomously generates critical context for our clients on real-time events, threats, and risks allowing them to see the clearest, most accurate view of what\u2019s happening on the ground. Learn more here Multimodal AI: our platform detects events from many different types of data (images, video, sensor data, audio, and text in over 150 languages). Learn more here. The opportunity Meet sales quota and drive success: Conduct and execute detailed sales campaigns, achieving quarterly and annual sales targets with a robust, measurable sales process Build a pipeline, leverage partners and network: Build a strong pipeline through proactive prospecting, strategic networking, and leveraging our growing list of partners Cultivate strong client relationships: Cultivate and sustain valuable client relationships whilst skilfully navigating and closing complex enterprise deals Develop deep customer insights: Develop comprehensive insights into customer use cases, internal decision-making processes, budget cycles, and other critical information Master competitive analysis: Analyze the competitive landscape and understand customer needs in order to position Dataminr \u2019s portfolio of solutions effectively to meet customer needs and stand out from the competition Provide product feedback: Provide valuable feedback to cross-functional teams (Product, Engineering) to drive the continuous enhancement, updates and improvements of our products What you bring At Dataminr , we value you for who you are. We encourage you to apply for this role, even if you don't meet every qualification. Our candidates are reviewed on the basis of their skill and potential to succeed. Minimum 8 years full sales cycle experience selling enterprise cyber security technology solutions to a SLED client base across the Western US Expertise in prospecting via a multi-channel approach including cold calling, channel partner relationships, LinkedIn outreach and networking You have built relationships with senior cyber buyers and",
+   "ats": "external",
+   "salary": "$231200-340000",
+   "score": 71,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "agentic",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "53a8ca8fcdfa0688"
+  },
+  {
+   "source": "remoteok",
+   "company": "Apryse",
+   "title": "Commercial Account Manager LATAM",
+   "location": "Remote (Remote)",
+   "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
+   "posted": "2026-10-17T08:00:25+00:00",
+   "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMjkuMzcuMTYw when applying to show you read the job post completely (#RMjAuMjkuMzcuMTYw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+   "ats": "external",
+   "salary": "",
+   "score": 35,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "39add027d0fca02f"
+  }
+ ]
+}

@@ -1,7 +1,7 @@
 {
  "greenhouse:cloudflare": {
   "ok": true,
-  "count": 435
+  "count": 434
  },
  "greenhouse:datadog": {
   "ok": true,
@@ -17,7 +17,7 @@
  },
  "greenhouse:samsara": {
   "ok": true,
-  "count": 259
+  "count": 263
  },
  "greenhouse:okta": {
   "ok": true,
@@ -53,7 +53,7 @@
  },
  "greenhouse:grafanalabs": {
   "ok": true,
-  "count": 106
+  "count": 114
  },
  "greenhouse:fivetran": {
   "ok": true,
@@ -65,7 +65,7 @@
  },
  "greenhouse:anthropic": {
   "ok": true,
-  "count": 655
+  "count": 656
  },
  "greenhouse:brex": {
   "ok": true,
@@ -101,7 +101,7 @@
  },
  "greenhouse:stripe": {
   "ok": true,
-  "count": 732
+  "count": 731
  },
  "greenhouse:planetscale": {
   "ok": true,
@@ -109,7 +109,7 @@
  },
  "greenhouse:launchdarkly": {
   "ok": true,
-  "count": 51
+  "count": 52
  },
  "greenhouse:asana": {
   "ok": true,
@@ -125,7 +125,7 @@
  },
  "greenhouse:dropbox": {
   "ok": true,
-  "count": 20
+  "count": 18
  },
  "greenhouse:intercom": {
   "ok": true,
@@ -149,7 +149,7 @@
  },
  "greenhouse:toast": {
   "ok": true,
-  "count": 318
+  "count": 317
  },
  "greenhouse:upwork": {
   "ok": true,
@@ -269,7 +269,7 @@
  },
  "greenhouse:connectwise": {
   "ok": true,
-  "count": 46
+  "count": 45
  },
  "greenhouse:threatlocker": {
   "ok": true,
@@ -325,7 +325,7 @@
  },
  "ashby:openai": {
   "ok": true,
-  "count": 814
+  "count": 813
  },
  "ashby:notion": {
   "ok": true,
@@ -485,7 +485,7 @@
  },
  "workday:Salesforce": {
   "ok": true,
-  "count": 61
+  "count": 66
  },
  "workday:Autodesk": {
   "ok": true,
@@ -493,7 +493,7 @@
  },
  "workday:Adobe": {
   "ok": true,
-  "count": 76
+  "count": 75
  },
  "linkedin:guest-search": {
   "ok": false,
@@ -501,11 +501,11 @@
  },
  "agg:remotive": {
   "ok": true,
-  "count": 13
+  "count": 12
  },
  "agg:remotive_all": {
   "ok": true,
-  "count": 13
+  "count": 12
  },
  "agg:remoteok": {
   "ok": true,
