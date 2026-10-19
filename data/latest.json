@@ -1,31 +1,63 @@
 {
- "generated_at": "2026-10-18T16:03:53.345169+00:00",
+ "generated_at": "2026-10-19T18:48:03.089210+00:00",
  "counts": {
-  "fetched": 15802,
-  "fresh_matches": 2,
-  "in_digest": 2,
-  "boards_ok": 125,
-  "boards_failed": 4
+  "fetched": 15720,
+  "fresh_matches": 19,
+  "in_digest": 19,
+  "boards_ok": 124,
+  "boards_failed": 5
  },
  "rejected_reasons": {
-  "location unclear/onsite elsewhere": 192,
-  "title not relevant": 1876,
-  "rejected title": 1370,
-  "onsite outside Portland": 323,
-  "non-US location": 547
+  "location unclear/onsite elsewhere": 186,
+  "title not relevant": 1915,
+  "rejected title": 1429,
+  "onsite outside Portland": 328,
+  "non-US location": 589
  },
  "jobs": [
   {
-   "source": "himalayas",
-   "company": "Dataminr",
-   "title": "Account Executive, SLED (West)",
-   "location": "United States (Remote)",
-   "url": "https://himalayas.app/companies/dataminr/jobs/account-executive-sled-west",
-   "posted": "2026-10-18T15:40:06+00:00",
-   "description": "See yourself at Dataminr Dataminr is seeking a Senior Account Executive to sell our Cyber Defense solutions to high-profile US SLED accounts and ensure that Dataminr \u2019s real-time information alerts get into the right hands at the right time. You'll deliver unique and impactful solutions to your SLED clients while exceeding quotas and establishing strong customer relationships. This is a US-based remote role preferred locations are TX, CO or western US with travel across the western US. AI Innovation at Dataminr Working at Dataminr you\u2019ll have the opportunity to tackle the most exciting trends in AI on a daily basis to power a revolutionary product that uncovers critical events around the world as they unfold. Regenerative AI: our AI technology, ReGenAI, is a new form of generative AI that automatically regenerates real-time Live Event Briefs as events unfold. Learn more here. Agentic AI: we recently launched our Agentic AI capability, what we\u2019re calling our Intel Agents, that autonomously generates critical context for our clients on real-time events, threats, and risks allowing them to see the clearest, most accurate view of what\u2019s happening on the ground. Learn more here Multimodal AI: our platform detects events from many different types of data (images, video, sensor data, audio, and text in over 150 languages). Learn more here. The opportunity Meet sales quota and drive success: Conduct and execute detailed sales campaigns, achieving quarterly and annual sales targets with a robust, measurable sales process Build a pipeline, leverage partners and network: Build a strong pipeline through proactive prospecting, strategic networking, and leveraging our growing list of partners Cultivate strong client relationships: Cultivate and sustain valuable client relationships whilst skilfully navigating and closing complex enterprise deals Develop deep customer insights: Develop comprehensive insights into customer use cases, internal decision-making processes, budget cycles, and other critical information Master competitive analysis: Analyze the competitive landscape and understand customer needs in order to position Dataminr \u2019s portfolio of solutions effectively to meet customer needs and stand out from the competition Provide product feedback: Provide valuable feedback to cross-functional teams (Product, Engineering) to drive the continuous enhancement, updates and improvements of our products What you bring At Dataminr , we value you for who you are. We encourage you to apply for this role, even if you don't meet every qualification. Our candidates are reviewed on the basis of their skill and potential to succeed. Minimum 8 years full sales cycle experience selling enterprise cyber security technology solutions to a SLED client base across the Western US Expertise in prospecting via a multi-channel approach including cold calling, channel partner relationships, LinkedIn outreach and networking You have built relationships with senior cyber buyers and",
-   "ats": "external",
-   "salary": "$231200-340000",
-   "score": 71,
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Principal Customer Engineer, Start Up AI",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8185549?gh_jid=8185549",
+   "posted": "2026-10-19T06:44:35-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><h3>Available Locations</h3> <hr> <p>Germany</p> <h3>Responsibilities</h3> <hr> <p>The Customer Engineer (CE) is the core driver of our technical go-to-market strategy: a trusted technical advisor and primary architect of the customer journey. You will bridge the gap between technical strategy and business value. You'll guide startup and AI customers from the first conversation about their AI ambitions through technical validation, production deployment, and long-term adoption and expansion. Sitting within the GTM organization and reporting to a Customer Engineering Leader, you will not hand off your customers once an initial agreement is reached. Instead, you will operate as a quota-carrying technologist, leveraging AI-augmented workflows to eliminate administrative toil so you can focus on high-value architectural design and driving measurable business outcomes across the Startup AI segment.</p> <p><strong>Technical Discovery &amp; Validation:</strong> Partner closely with Account Executives to lead technical deep-dive discovery and uncover what kind of AI problem a customer actually has. It might be building AI products and agents, governing how their people and agents use AI, or protecting internet-facing applications from AI-driven threats and traffic. Turn that into a sequenced plan rather than a feature tour. Capture business requirements and map startup and AI customer in",
+   "ats": "greenhouse",
+   "score": 85,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "customer engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "rfp",
+    "enterprise",
+    "mid-market",
+    "smb",
+    "channel",
+    "partner",
+    "ai",
+    "llm",
+    "agentic",
+    "automation"
+   ],
+   "resume": "generic",
+   "id": "a21e4c7d872ee092"
+  },
+  {
+   "source": "greenhouse",
+   "company": "gitlab",
+   "title": "Strategic Account Executive, Northeast",
+   "location": "Remote, United States",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8858197002",
+   "posted": "2026-10-18T21:32:46-04:00",
+   "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2><span style=\"font-size: 10pt;\"><strong>An overview of this role</strong></span></h2> <p><span style=\"font-size: 10pt;\">As a Strategic Account Executive for the Northeast region, you'll drive GitLab's enterprise growth by helping some of the area's most influential organizations adopt, implement, and expand their use of our AI-powered DevSecOps platform. You'll focus on strategic enterprise accounts, guiding customers through complex digital and DevSecOps transformations and driving pipeline generation that translates into measurable Net ARR and long-term expansion. In this role, you'll act as a key connector between customer stakeholders and GitLab's field organization so GitLab is seen as a trusted, long-term partner across the full sales cycle. In your first year, you'll be expected to build a strong enterprise portfolio across your territory, create repeatable sales motions, and consistently forecast and report on deal progress and account health.</span></p> <h2><span style=\"font-size: 10pt;\"><strong>What you'll do</strong></span></h2> <ul> <li style=\"font-size: 10pt;\"><span style=\"font-size: 10pt;\">Drive strategic growth by leading GitLab's enterprise accounts across the Northeast, serving as a trusted technology advisor to industry leaders in your territory.</span></li> <li style=\"font-size: 10pt;\"><span style=\"font-size: 10pt;\">Orchestrate winning sales strategies by bringing together Solutions Architects, Customer Success experts, Sales Development, Channel &amp; Alliances, and othe",
+   "ats": "greenhouse",
+   "score": 81,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
@@ -33,6 +65,217 @@
     "account executive"
    ],
    "matched_skills": [
+    "saas",
+    "salesforce",
+    "enterprise",
+    "b2b",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "f421219a59241108"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Enterprise Account Executive, Federal Financials",
+   "location": "Remote - Washington D.C.",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870724002",
+   "posted": "2026-10-19T11:43:42-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">SLSQ128R10</p> <p data-renderer-start-pos=\"1648\">While candidates in the listed location(s) are encouraged for this role, candidates in other locations will be considered.</p> <p>As an Enterprise Account Executive at Databricks, you are a seasoned sales professional experienced in selling into Federal Financials accounts within the Federal Civilian space. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new opportunities, you will be asked to maintain and grow accounts. Along with the chance to close an exciting deal, we also offer accelerators above 100% quota attainment.</p> <p>Databricks operates at the leading edge of the Unified Data Analytics and AI space. Our customers turn to us to lead the accelerated innovation that their businesses need to gain first mover advantage in today\u2019s ultra-competitive landscape. As we continue our rapid expansion, we are looking for a creative, execution-oriented Enterprise Account Executive to join the Databricks team and maximize the phenomenal market opportunity that exists for Databricks.</p> <p>Reporting to our Sr. Director of Enterprise Sales, you will map to a dedicated enterprise client under the Federal Financials umbrella.&nbsp; You will come with an informed point of view on Big Data, Advanced Analytics, and AI, which will help to guide your successful execution strategy and allow you to provide genuine value to the client</p> <p><strong>The impact you will have:</strong></p> <ul> <li>Meet with the CIO, IT executives, LOB executives, Program Managers, and other important partners</li> <li>Identify and close quick, small wins while managing longer, complex sales cycles</li> <li>Exceed activity, pipeline, and revenue targets</li> <li>Track all customer details including use case, purchase time frames, next steps, and forecasting in Salesforce</li> <li>Use a solution-based approach to selling and creating value for your customer</li> <li>Promote Databricks' enterprise cloud data platform powered by Apache Spark\u2122</li> <li>Ensure 100% satisfaction among your customer</li> <li>Prioritize opportunities and apply appropriate resources</li> <li>Build a plan for success internally at Databricks and externally with your accounts</li> </ul> <p><strong>What we look for:</strong></p> <ul> <li>You have previously worked in an early-stage company, and you know how to navigate and be successful</li> <li>Field sales experience within big data, Cloud, or SaaS sales</li> <li>Experience managing large, complex Federal Financials accounts is preferred.&nbsp;</li> <li>Prior customer relationships with CIOs, program managers, and essential decision makers</li> <li>Simply articulate intricate cloud technologies</li> <li>5+ years of experience exceeding sales quotas</li>",
+   "ats": "greenhouse",
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "0068515f46a0e174"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Strategic Enterprise Account Executive, Life Sciences",
+   "location": "Remote - Illinois",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8892943002",
+   "posted": "2026-10-19T10:42:31-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">SLSQ427R940</p> <p>As a Strategic Enterprise Account Executive at Databricks, you are a strategic sales professional experienced in selling into Large Medical Device accounts. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new opportunities, you will be asked to maintain and grow a single strategic pharma account. Along with the chance to close an exciting deal, we also offer accelerators above 100% quota attainment.</p> <p>Databricks operates at the leading edge of the Unified Data Analytics and AI space. Our customers turn to us to lead the accelerated innovation that their businesses need to gain first mover advantage in today\u2019s ultra-competitive landscape. As we continue our rapid expansion, we are looking for a creative, execution-oriented Strategic Enterprise Account Executive to join the Databricks team and maximize the phenomenal market opportunity that exists for Databricks.</p> <p>Reporting to our Director of Strategic Life Sciences Sales, you will be assigned to one strategic client within the Life Sciences team (Med Device). &nbsp;You will come with an informed point of view on Big Data, Advanced Analytics, and AI, which will help to guide your successful execution strategy and allow you to provide genuine value to the client</p> <p><strong>The impact you will have:</strong></p> <ul> <li>Meet with the CIO, IT executives, LOB executives, Program Managers, and other important partners</li> <li>Grow a strategic medical device account</li> <li>Identify and close quick, small wins while managing longer, complex sales cycles</li> <li>Exceed activity, pipeline, and revenue targets</li> <li>Track all customer details including use case, purchase time frames, next steps, and forecasting in Salesforce</li> <li>Use a solution-based approach to selling and creating value for your customer</li> <li>Promote Databricks' enterprise cloud data platform powered by Apache Spark\u2122</li> <li>Ensure 100% satisfaction among your customer</li> <li>Prioritize opportunities and apply appropriate resources</li> <li>Build a plan for success internally at Databricks and externally with your accounts</li> </ul> <p><strong>What we look for:</strong></p> <ul> <li>You have previously worked in an early-stage company, and you know how to navigate and be successful</li> <li>Field sales experience within big data, Cloud, or SaaS sales</li> <li>Experience managing large, complex Life Sciences accounts is preferred.&nbsp;</li> <li>Prior customer relationships with CIOs, program managers, and essential decision makers</li> <li>Simply articulate intricate cloud technologies</li> <li>7+ years of experience exceeding sales quotas</li> <li>Success working with and growing existing accounts</li> <li>Understanding of Spark an",
+   "ats": "greenhouse",
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "7b23dc1dbf0dcc62"
+  },
+  {
+   "source": "ashby",
+   "company": "cohere",
+   "title": "Senior Sales Operations Specialist",
+   "location": "New York (Remote)",
+   "url": "https://jobs.ashbyhq.com/cohere/e49063ea-b829-4718-be74-02f36fa3d983",
+   "posted": "2026-10-19T14:23:37.176000+00:00",
+   "description": "Who are we? Cohere is the leading security-first enterprise AI company. We build cutting-edge foundation AI models and end-to-end products that are designed to solve real-world business problems. We\u2019re training and deploying frontier models for enterprises who are building AI systems. We believe that our work is instrumental to the widespread adoption of AI and we are looking for folks that want to be part of that. We obsess over what we build. Each one of us is responsible for contributing to increasing the capabilities of our models and the value they drive for our customers. Cohere is a team of researchers, engineers, designers, and more, who are all passionate about their craft. We are a global technology company headquartered in Toronto with key offices in London, New York City, San Francisco, Montreal, Paris, Berlin and Seoul. Join us! The Sales Ops Specialist role is a strategic leadership role focused on optimizing sales operations, enabling revenue growth, and ensuring alignment between sales execution and company objectives. This exciting career opportunity offers a blend of operational oversight, strategic planning, and cross-functional collaboration. Key Responsibilities Sales Strategy & Execution: Partner with the VP of Sales, Americas to define and implement sales strategies, forecasts, and performance metrics. Operational Excellence: Streamline sales processes, including pipeline management, CRM optimization, and sales enablement tools. Cross-Functional Coordination: Work closely with the ecosystem - inside sales, solution architecture, marketing, product, and customer success teams to ensure cohesive go-to-market execution. Performance Analytics: Monitor sales KPIs, conduct data-driven insights, and recommend adjustments to improve conversion rates and revenue attainment. Team Leadership: Contribute to sales operations, business development, and support functions, fostering a high-performance culture. Stakeholder Management: Serve as a liaison between sales leadership, FLMs, ICs (sellers), and executive teams, ensuring clear communication and strategic alignment. Qualifications Experience: 8+ years in a similar role contributing to sales operations, business development and strategy, preferably in AI, SaaS, or enterprise software. Skills: Strong analytical mindset, proficiency in CRM platforms (e.g., Salesforce), and expertise in sales process optimization. Leadership: Ability to mentor teams, drive accountability, and navigate high-growth environments. Strategic Thinking: Experience translating business goals into actionable sales plans. Communication: Executive level communication skills & experience creating board level presentation decks & customer engagement materials. Full-Time Employees at Cohere enjoy these Perks: A weekly lunch stipend of $75/\u00a375 or equivalent in your local currency for lunch. Full health and dental benefits, including a separate budget for mental health. RRSP matching, 401K, Pension Scheme. 100% Parental",
+   "ats": "ashby",
+   "salary": "$135K \u2013 $215K",
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales operations"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "partner",
+    "ai",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "c3d370da659cdb57"
+  },
+  {
+   "source": "greenhouse",
+   "company": "rubrik",
+   "title": "Account Executive, SaaS Product Line Specialist",
+   "location": "Central  US",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8279681?gh_jid=8279681",
+   "posted": "2026-10-19T14:38:42-04:00",
+   "description": "<h2>About the Team &amp; Role</h2> <p>Rubrik's Product Line Sales organization drives focused growth across Rubrik's specialized workloads, including our SaaS data protection and security portfolio (Microsoft 365, Google Workspace, Salesforce, and other critical SaaS applications). This team partners closely with core Account Executives, Sales Engineers, and Customer Success to bring deep product and technical expertise into every SaaS opportunity \u2014 from first conversation through technical validation to close.</p> <p>We're hiring a SaaS Product Line Sales Specialist to own and accelerate Rubrik's SaaS data protection business within a defined territory. This is a highly technical, quota-carrying overlay role: you'll be the subject-matter expert who can go deep on tenant architecture, identity and access models, backup and recovery mechanics, and the shared responsibility model \u2014 and use that fluency to win deals against SaaS-native point solutions. The ideal candidate has sold in this exact space before, at a company like AvePoint, CoreView, or Keepit, and understands both the buyer and the competitive landscape intimately.</p> <h2>What You\u2019ll Do</h2> <ul> <li><strong>Own the SaaS product line number: </strong>partner with core Account Executives to identify, qualify, and close SaaS data protection and security opportunities across net-new and existing accounts.</li> <li><strong>Lead with technical credibility: </strong>articulate Rubrik\u2019s SaaS architecture, security posture, and the gaps in Microsoft\u2019s and Google\u2019s native shared responsibility model in a way that resonates with both technical and business buyers.</li> <li><strong>Drive technical discovery and validation: </strong>run or co-lead discovery calls, demos, and proof-of-concept engagements for M365, Google Workspace, and Salesforce workloads alongside Sales Engineers.</li> <li><strong>Win competitive deals: </strong>build and defend positioning against SaaS-native vendors (AvePoint, CoreView, Keepit, Veeam, Druva, and similar), translating technical differentiation into business value.</li> <li><strong>Build territory and account plans: </strong>develop a coverage strategy in partnership with core sales, SE, and channel teams to maximize SaaS attach and expansion within the install base.</li> <li><strong>Engage multiple stakeholders: </strong>present to IT administrators, security and compliance teams, and executive economic buyers, tailoring the message to each audience.</li> <li><strong>Forecast with discipline: </strong>maintain accurate pipeline and forecast data in Salesforce and participate in regular business reviews.</li> <li><strong>Stay current: </strong>maintain deep knowledge of Rubrik\u2019s SaaS roadmap, the M365/Google Workspace/Salesforce ecosystems, and the competitive landscape.</li> </ul> <h2>Experience You\u2019ll Need</h2> <ul> <li><strong>SaaS sales experience: </strong>3+ years of quota-carrying sales experience selling SaaS data protection, security, or governance solut",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "azure",
+    "microsoft 365",
+    "salesforce",
+    "enterprise",
+    "mid-market",
+    "channel",
+    "partner",
+    "ai",
+    "agentic",
+    "quota"
+   ],
+   "resume": "generic",
+   "id": "711132e8f3d8fcc3"
+  },
+  {
+   "source": "greenhouse",
+   "company": "zscaler",
+   "title": "Senior Sales Engineer - Majors, Kansas City",
+   "location": "Remote - Kansas, USA; Remote - Missouri, USA",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5267159007",
+   "posted": "2026-10-19T12:04:47-04:00",
+   "description": "<div class=\"content-intro\"><p data-pm-slice=\"1 1 []\">Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform.</p> <p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p></div><p data-path-to-node=\"0\"><strong data-path-to-node=\"0\" data-index-in-node=\"0\">Role</strong></p> <p data-path-to-node=\"0\">We are looking for a Senior Sales Engineer to join our Majors Account team. This is a remote role based in Missouri, reporting to the Sales Engineering Manager in the Americas Field Sales department.</p> <p data-path-to-node=\"0\">You will be responsible for architecting technical solutions that directly address and resolve critical customer pain points.</p> <p data-path-to-node=\"1\"><strong data-path-to-node=\"1\" data-index-in-node=\"0\">What you\u2019ll do (Role Expectations)</strong></p> <ul data-path-to-node=\"2\"> <li> <p data-path-to-node=\"2,0,0\">Overseeing the technical sales process</p> </li> <li> <p data-path-to-node=\"2,1,0\">Running Proof of Value from start to finish, as the technical and industry expert</p> </li> <li> <p data-path-to-node=\"2,2,0\">Collaborating and supporting internal Zscaler teams</p> </li> </ul> <p data-path-to-node=\"3\"><strong data-path-to-node=\"3\" data-index-in-node=\"0\">Who You Are (Success Profile)</strong></p> <ul data-path-to-node=\"4\"> <li> <p data-path-to-node=\"4,0,0\">You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. You adapt to what\u2019s needed, navigating seamlessly between high-level strategy and hands-on execution.</p> </li> <li> <p data-path-to-node=\"4,1,0\">You are a problem-solver. You seek out challenges because you are energized by finding solutions, knowing that solving the hard problems delivers the biggest impact.</p> </li> <li> <p data-path-to-node=\"4,2,0\">You are customer-obsessed. You build deep empathy for the customer\u2014both internal and external\u2014and anchor your decisions in solving their real-world problems. You champion their needs from start to finish, knowing their success is our",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "ai",
+    "llm",
+    "agentic",
+    "automation",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "877bc8d580116e17"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Geo Core Account Executive",
+   "location": "Remote - Illinois; Remote - New York; Remote - Texas",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8893596002",
+   "posted": "2026-10-19T13:10:19-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">SLSQ128R82</p> <p>As an Enterprise Geo Hunter Account Executive at Databricks, you are a seasoned sales professional with experience selling to Financial Services accounts. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new opportunities, you will be asked to hunt after net new logos. Along with the chance to close an exciting deal, we also offer accelerators above 100% quota attainment.</p> <p>The impact you will have:</p> <ul> <li>Meet with CIOs, IT executives, LOB executives, Program Managers, and other important partners</li> <li>Close both new accounts and existing accounts</li> <li>Identify and close quick, small wins while managing longer, complex sales cycles</li> <li>Exceed activity, pipeline, and revenue targets</li> <li>Track all customer details including use case, purchase time frames, next steps, and forecasting in Salesforce</li> <li>Use a solution-based approach to selling and creating value for customers</li> <li>Promote Databricks' enterprise cloud data platform powered by Apache Spark\u2122</li> <li>Ensure 100% satisfaction among all customers</li> <li>Prioritize opportunities and applying appropriate resources</li> <li>Build a plan for success internally at Databricks and externally with your accounts</li> </ul> <p>What we look for:</p> <ul> <li>You have previously worked in an early stage company and you know how to navigate and be successful</li> <li>Field sales experience within big data, Cloud, or SaaS sales</li> <li>Prior customer relationships with CIOs, program managers, and essential decision makers</li> <li>Simply articulate intricate cloud technologies</li> <li>4+ years experience exceeding sales quotas</li> <li>Expertise with financial services institutions preferable</li> <li>Success closing net new business</li> <li>Understanding of Spark and big data preferable</li> <li>Passion for cloud technologies</li> <li>Bachelor's Degree</li> </ul><div class=\"content-conclusion\"><p><strong>About Databricks</strong></p> <p><span style=\"font-family: arial, sans-serif;\">Databricks is the Data and AI company. More than 20,000 organizations worldwide \u2014 including adidas, AT&amp;T, Bayer, Block, Mastercard, Rivian, Unilever, and 70% of the Fortune 500 \u2014 rely on the Databricks Data + AI Platform to build and scale data and AI apps, analytics and agents. Headquartered in San Francisco with 30+ offices around the globe, Databricks offers a unified platform that includes Genie, Lakebase, Agent Bricks, Lakeflow, Lakehouse, and Unity Catalog. To learn more, follow Databricks on <a href=\"https://www.linkedin.com/company/databricks\">LinkedIn</a>, <a href=\"https://x.com/databricks\">X</a>, <a href=\"https://www.youtube.com/@Databricks\">YouTube</a>, and <a href=\"https://www.instagram.com/data",
+   "ats": "greenhouse",
+   "score": 76,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "d4aae73a71ce634a"
+  },
+  {
+   "source": "greenhouse",
+   "company": "rubrik",
+   "title": "Account Executive, NAS Product Specialist",
+   "location": "Remote",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8289572?gh_jid=8289572",
+   "posted": "2026-10-19T13:26:58-04:00",
+   "description": "<p><strong>About Team &amp; About Role:</strong></p> <p>Rubrik\u2019s sales organization is a united group of elite cross-functional sales professionals that help companies &amp; government entities achieve resilience against cyberattacks, malicious insiders, and operational disruptions. We offer continuous professional development through our world class sales enablement program and our One Rubrik selling approach provides all the resources you need to exceed your goals, maximize your earnings potential and take your career to the next level. All this while doing something that truly matters, protecting the world's data.</p> <p>As PLS Account Executive, you will have ownership of all elements of bookings growth in new and existing accounts across the Western United States. We are seeking a relentless self-starter who is hyper-focused on acquiring new logos by discovering and developing new opportunities, managing pipeline and executing account strategies, while also encouraging existing customer expansion. The AE must drive pipeline generation daily while working with Core Account Executives, Sales Engineers, Sales Development, Channel Development and Rubrik Channel Partners to exceed sales quotas.&nbsp;</p> <p>The PLS AE is a technical sales professional characterized by intimate understanding of their specific product, the pain it resolves, the competitors, market, qualification, objections, and value proposition. Through a quantity of focused interactions they become exceedingly specialized and competent in their discipline making great impressions on prospects and core sales team alike. They own the product number, are hungry to overachieve it. Their success is ensured by their expertise, their champion building, and their high level of effective activity. They champion and evangelize their product in the field, internally and externally, and with our resellers. They are the point of contact for PnP, PM, PMM as a consolidated voice of field and customer.&nbsp;&nbsp;</p> <p><strong>What You\u2019ll Do:&nbsp;</strong></p> <ul> <li>Define and execute sales plans for the assigned territory to meet and exceed quota through prospecting, qualifying, managing and closing sales opportunities</li> <li>Develop and manage sales pipeline to move a large number of strategic transactions through the sales process</li> <li>Identify and close opportunities for growth working with a mix of mid-enterprise accounts</li> <li>Present Rubrik, Inc. solutions within complex data center design environments</li> <li>Co-sell and strategize with direct field team, partners, distributors and VAR\u2019s to enable rapid growth</li> <li>Provide Rubrik, Inc. management with feedback about the local market opportunity and identification of new business opportunities and channel partnerships</li> </ul> <p><strong>Preferred Qualifications:</strong></p> <ul> <li><span style=\"font-weight: 400;\">3+ years field tech sales experience, with exposure to Unstructured Data</span></li> <li><span style=",
+   "ats": "greenhouse",
+   "score": 76,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "product specialist"
+   ],
+   "matched_skills": [
+    "cloud",
     "enterprise",
     "channel",
     "partner",
@@ -42,28 +285,263 @@
     "pipeline"
    ],
    "resume": "generic",
-   "id": "53a8ca8fcdfa0688"
+   "id": "37c7342561e0e6d3"
   },
   {
-   "source": "remoteok",
-   "company": "Apryse",
-   "title": "Commercial Account Manager LATAM",
-   "location": "Remote (Remote)",
-   "url": "https://remoteOK.com/remote-jobs/remote-commercial-account-manager-latam-apryse-1137539",
-   "posted": "2026-10-17T08:00:25+00:00",
-   "description": "Apryse - Commercial Account Manager, LATAM (English/Spanish). Location: Remote. Team: Americas - Expand. Apply: https://jobs.lever.co/apryse/622653aa-dcad-41a2-86bf-0bf9950d4eb9/apply Please mention the word **LEVERAGE** and tag RMjAuMjkuMzcuMTYw when applying to show you read the job post completely (#RMjAuMjkuMzcuMTYw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-   "ats": "external",
-   "salary": "",
-   "score": 35,
+   "source": "greenhouse",
+   "company": "zscaler",
+   "title": "Account Executive - Enterprise, North Carolina",
+   "location": "Remote - North Carolina, USA",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5266825007",
+   "posted": "2026-10-19T10:22:09-04:00",
+   "description": "<div class=\"content-intro\"><p data-pm-slice=\"1 1 []\">Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform.</p> <p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p></div><p></p> <p><a style=\"display: block; overflow: hidden; position: relative;\" href=\"https://share.synthesia.io/35a0c2a2-c772-4d2a-b571-808b7462c25f\" target=\"_blank\"><img style=\"width: 100%; display: block; max-width: 100%;\" src=\"https://image.synthesia.io/35a0c2a2-c772-4d2a-b571-808b7462c25f/thumbnail.gif\" alt=\"Inside the Life of a Zscaler Enterprise Account Executive\"> </a></p> <p><strong>About the Role</strong></p> <p>We are looking for an Enterprise Account Executive to join our Sales and Go-to-Market team. This role is based in North Carolina reporting to the Regional Director. You will be part of a global group of professionals passionate about delighting our customers, nurturing trusted partnerships, and sharing expertise to drive a secure, cloud-enabled digital future. By demonstrating the power and agility of cloud transformation, you will help cement our position as the world leader in cloud security.</p> <p><strong>What you\u2019ll do (Role Expectations)</strong></p> <ul> <li>Build relationships with important internal and customer stakeholders, including c-suite decision-makers</li> <li>Create a long-term account strategy aligned with customer goals</li> <li>Collaborate with internal teams to meet customer needs and contribute to comprehensive account planning</li> <li>Act as a trusted advisor by understanding client businesses and aligning technical solutions with their strategic goals</li> </ul> <p><strong>Who You Are (Success Profile)</strong></p> <ul> <li>You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.</li> <li>You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True owners",
+   "ats": "greenhouse",
+   "score": 75,
    "remote": true,
    "portland": false,
    "remote_in_listing": true,
    "matched_title": [
-    "account manager"
+    "account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "bad575e87cbb5b7f"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Solutions Architect - Telco",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880391002",
+   "posted": "2026-10-19T10:34:25-04:00",
+   "description": "<p>FEQ128R27<br><br>As a Solutions Architect, you will lead the technical strategy for your customers \u2014 owning architecture discussions, driving platform adoption, and serving as a trusted advisor to customer technical leads and architects. You combine deep technical expertise with strategic thinking to position Databricks as the foundation of your customers\u2019 data and AI strategy. You are developing a technical specialization (archetype) and are recognized within your team for depth in a specific domain.</p> <p><strong>The Impact You Will Have</strong></p> <ul> <li>Own the end-to-end technical strategy for your accounts, from initial discovery through production deployment and consumption growth</li> <li>Lead complex architecture discussions \u2014 designing scalable, production-grade solutions spanning data engineering, ML/AI, and real-time analytics</li> <li>Serve as a trusted technical advisor to customer architects, engineering leads, and Directors</li> <li>Drive technical wins in competitive scenarios by demonstrating Databricks\u2019 differentiation through custom-built solutions</li> <li>Develop and declare an emerging technical specialization (archetype) \u2014 becoming a go-to resource for your team in that domain</li> <li>Orchestrate cross-functional resources (DSAs, SSAs, Partners) to deliver comprehensive solutions for complex customer needs</li> <li>Influence product direction by providing structured feedback on customer requirements and competitive gaps</li> </ul> <p><strong>What We Look For</strong></p> <ul> <li>6+ years in solutions architecture, data engineering, technical pre-sales, or a senior hands-on technical role</li> <li>Strong coding proficiency in Python and SQL \u2014 you must demonstrate live coding, debugging, and solution-building skills</li> <li>Deep expertise in distributed data systems architecture: designing scalable pipelines, streaming architectures, lakehouse patterns, and cloud-native data platforms</li> <li>Proficient on the Databricks Platform (or demonstrated ability to achieve proficiency rapidly) with a developing technical specialization in one area (e.g., real-time/streaming, ML/AI, data governance, migrations)</li> <li>Proven ability to lead architecture discussions with senior technical stakeholders \u2014 whiteboarding, design reviews, and trade-off analysis</li> <li>Experience with production deployments on public cloud (AWS, Azure, or GCP), including infrastructure, security, and governance considerations</li> <li>Track record of driving platform adoption and consumption growth within accounts</li> <li>Excellent communication skills \u2014 able to translate complex architectures into business value for both technical and executive audiences</li> <li>Bachelor's or Master's degree in Computer Science, Engineering, or a quantitative discipline (or equivalent experience)</li> </ul> <p><strong>Nice to Have:</strong></p> <ul> <li>Databricks certifications (Data Engineer, ML, Platform)</li> <li>Experience with competitive platforms (",
+   "ats": "greenhouse",
+   "score": 67,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "a9c217598ade3cd4"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Delivery Solutions Architect - Public Sector (Defense Industrial Base) ",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899463002",
+   "posted": "2026-10-18T13:39:39-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">CSQ427R323</p> <p data-pm-slice=\"1 1 []\"><span style=\"text-decoration: underline;\"><strong>PLEASE NOTE</strong></span><strong>: <br></strong>Due to federal contract requirements and client site access obligations, <strong>U.S. citizenship is required</strong> to access classified information.&nbsp;</p> <p data-pm-slice=\"1 1 []\">Location: Remote (US-based) with up to 30% Travel</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databricks Platform in your customers. You will also help ensure customer success by increasing focus and technical accountability for our most complex customers who need guidance to accelerate usage of Databricks workloads they have already selected, helping them maximize the value they get from our platform and their return on investment.</p> <p>This is a hybrid technical and commercial role. It is commercial in the sense that you will drive growth in your assigned customers and use cases through leading your customers' stakeholders, building executive relationships, orchestrating other focused/specialized teams within Databricks, and creating and driving plans and strategies for Databricks colleagues to build upon. This is in parallel with being technical, with the expectation that you become the post-sale technical lead across all Databricks products. This requires you to utilize your skills and technical credibility to engage and communicate effectively with all levels of an organization. You will report directly to a DSA Manager within the Field Engineering organization.&nbsp;</p> <p><strong>The impact you will have:</strong></p> <ul> <li>Engage with Solutions Architects to understand the full use case demand plan for prioritized customers</li> <li>Lead the post-technical win technical account strategy and execution plan for the majority of Databricks use cases within our most strategic accounts</li> <li>Be the accountable technical leader assigned to specific use cases and customer(s) across multiple selling teams and internal stakeholders, creating certainty from uncertainty and driving onboarding, enablement, success, go-live, and healthy consumption of the workloads where the customer has made the decision to consume Databricks</li> <li>Be the first contact for any technical issues or questions related to the production/go-live status of agreed-upon use cases within an account, oftentimes services multiple use cases within the largest and most complex organizations</li> <li>Leverage both Shared Services, User Education, Onboarding/Technical Services, and Support resources, along with escalating to expert-level technical experts, to build the right tasks that are beyond your s",
+   "ats": "greenhouse",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "ai",
+    "quota",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "cb82c350e545c8a4"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Delivery Solutions Architect - Public Sector (DOW, DHS, Intelligence Community)",
+   "location": "Northeast - United States; Southwest - United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899462002",
+   "posted": "2026-10-18T13:40:22-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">CSQ427R318</p> <p data-pm-slice=\"1 1 []\"><span style=\"text-decoration: underline;\"><strong>PLEASE NOTE</strong></span><strong>: <br></strong>Due to federal contract requirements and client site access obligations, <strong>U.S. citizenship is required</strong> to access classified information.&nbsp;</p> <p data-pm-slice=\"1 1 []\">Location: Remote (East Coast-based) with up to 30% Travel&nbsp;</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databricks Platform in your customers. You will also help ensure customer success by increasing focus and technical accountability for our most complex customers who need guidance to accelerate usage of Databricks workloads they have already selected, helping them maximize the value they get from our platform and their return on investment.</p> <p>This is a hybrid technical and commercial role. It is commercial in the sense that you will drive growth in your assigned customers and use cases through leading your customers' stakeholders, building executive relationships, orchestrating other focused/specialized teams within Databricks, and creating and driving plans and strategies for Databricks colleagues to build upon. This is in parallel with being technical, with the expectation that you become the post-sale technical lead across all Databricks products. This requires you to utilize your skills and technical credibility to engage and communicate effectively with all levels of an organization. You will report directly to a DSA Manager within the Field Engineering organization.&nbsp;</p> <p><strong>The impact you will have:</strong></p> <ul> <li>Engage with Solutions Architects to understand the full use case demand plan for prioritized customers</li> <li>Lead the post-technical win technical account strategy and execution plan for the majority of Databricks use cases within our most strategic accounts</li> <li>Be the accountable technical leader assigned to specific use cases and customer(s) across multiple selling teams and internal stakeholders, creating certainty from uncertainty and driving onboarding, enablement, success, go-live, and healthy consumption of the workloads where the customer has made the decision to consume Databricks</li> <li>Be the first contact for any technical issues or questions related to the production/go-live status of agreed-upon use cases within an account, oftentimes services multiple use cases within the largest and most complex organizations</li> <li>Leverage both Shared Services, User Education, Onboarding/Technical Services, and Support resources, along with escalating to expert-level technical experts, to build the right tasks that are",
+   "ats": "greenhouse",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "ai",
+    "quota",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "3cb0f44f0149356e"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Delivery Solutions Architect - Public Sector (Federal) ",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899464002",
+   "posted": "2026-10-18T13:40:34-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">CSQ427R324</p> <p data-pm-slice=\"1 1 []\"><span style=\"text-decoration: underline;\"><strong>PLEASE NOTE</strong></span><strong>: <br></strong>Due to federal contract requirements and client site access obligations, <strong>U.S. citizenship is required</strong> to access classified information.&nbsp;<br><br></p> <p data-pm-slice=\"1 1 []\">Location: Remote (US-based) with up to 30% Travel</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databricks Platform in your customers. You will also help ensure customer success by increasing focus and technical accountability for our most complex customers who need guidance to accelerate usage on Databricks workloads that they have already selected, helping them maximize the value they get from our platform and the return on investment.</p> <p>This is a hybrid technical and commercial role. It is commercial in the sense that you will drive growth in your assigned customers and use cases through leading your customers' stakeholders, building executive relationships, orchestrating other focused/specialized teams within Databricks, and creating and driving plans and strategies for Databricks colleagues to build upon. This is in parallel with being technical, with the expectation that you become the post-sale technical lead across all Databricks products. This requires you to utilize your skills and technical credibility to engage and communicate effectively with all levels of an organization. You will report directly to a DSA Manager within the Field Engineering organization.&nbsp;</p> <p><strong>The impact you will have:</strong></p> <ul> <li>Engage with Solutions Architects to understand the full use case demand plan for prioritized customers</li> <li>Lead the post-technical win technical account strategy and execution plan for the majority of Databricks use cases within our most strategic accounts</li> <li>Be the accountable technical leader assigned to specific use cases and customer(s) across multiple selling teams and internal stakeholders, creating certainty from uncertainty and driving onboarding, enablement, success, go-live, and healthy consumption of the workloads where the customer has made the decision to consume Databricks</li> <li>Be the first contact for any technical issues or questions related to the production/go-live status of agreed-upon use cases within an account, oftentimes services multiple use cases within the largest and most complex organizations</li> <li>Leverage both Shared Services, User Education, Onboarding/Technical Services, and Support resources, along with escalating to expert-level technical experts, to build the right tasks that are be",
+   "ats": "greenhouse",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "ai",
+    "quota",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "0489378a9ba821cc"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Delivery Solutions Architect - Public Sector (SLED)",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899465002",
+   "posted": "2026-10-18T13:41:00-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">CSQ427R35</p> <p data-pm-slice=\"1 1 []\"><span style=\"text-decoration: underline;\"><strong>PLEASE NOTE</strong></span><strong>: <br></strong>Due to federal contract requirements and client site access obligations, <strong>U.S. citizenship is required</strong> to access classified information.&nbsp;</p> <p data-pm-slice=\"1 1 []\"><br>Location: Remote (US-based) with up to 30% Travel</p> <p>At Databricks, we are on a mission to empower our customers to solve the world's toughest data problems by utilizing the Databricks Data Intelligence Platform. As a Delivery Solutions Architect (DSA), you will play an important role during this journey. You will collaborate with our sales and field engineering teams to accelerate the adoption and growth of the Databricks Platform among our State, Local, and Education (SLED) customers. You will also help ensure customer success by increasing focus and technical accountability for our most complex customers who need guidance to accelerate usage of Databricks workloads they have already selected, helping them maximize the value they get from our platform and their return on investment.</p> <p>This is a hybrid technical and commercial role.&nbsp; It is commercial in the sense that you will drive growth in your assigned customers and use cases through leading your customers' stakeholders, building executive relationships, orchestrating other focused/specialized teams within Databricks, and creating and driving plans and strategies for Databricks colleagues to build upon. This is in parallel with being technical, with the expectation that you become the post-sale technical lead across all Databricks products. This requires you to utilize your skills and technical credibility to engage and communicate effectively with all levels of an organization. You will report directly to a DSA Manager within the Field Engineering organization.&nbsp;</p> <p><strong>The impact you will have:</strong></p> <ul> <li>Engage with Solutions Architects to understand the full use case demand plan for prioritized customers</li> <li>Lead the post-technical win technical account strategy and execution plan for the majority of Databricks use cases within our most strategic accounts</li> <li>Be the accountable technical leader assigned to specific use cases and customer(s) across multiple selling teams and internal stakeholders, creating certainty from uncertainty and driving onboarding, enablement, success, go-live, and healthy consumption of the workloads where the customer has made the decision to consume Databricks</li> <li>Be the first contact for any technical issues or questions related to the production/go-live status of agreed-upon use cases within an account, oftentimes services multiple use cases within the largest and most complex organizations</li> <li>Leverage both Shared Services, User Education, Onboarding/Technical Services, and Support resources, along with escalating to expert-level technical experts, t",
+   "ats": "greenhouse",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "ai",
+    "quota",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "965e6b386c68838c"
+  },
+  {
+   "source": "greenhouse",
+   "company": "samsara",
+   "title": "Enterprise Customer Success Manager - Public Sector",
+   "location": "Remote - US",
+   "url": "https://www.samsara.com/company/careers/roles/8227725?gh_jid=8227725",
+   "posted": "2026-10-19T08:10:36-04:00",
+   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>Our Enterprise Customer Success Managers pick up where our Implementation team leaves off, working closely with our top customers to understand their fleet and unique challenges, advising on how to customize Samsara for their needs, and becoming their long-term partner.&nbsp;</p> <p>Your role will be cross-functional in nature, working alongside and connecting Sales, Support, Sales Engineering, and Product, enabling you to experience multiple aspects of a hyper-growth company from within.</p> <p data-pm-slice=\"1 1 []\"><strong>This is a remote position open to candidates residing in the US <span style=\"text-decoration: underline;\">except</span> the San Francisco Bay Metro Area, NYC Metro Area, and Washington, D.C. Metro Area. &nbsp; &nbsp;</strong></p> <p><strong>You should apply if:</strong></p> <ul> <li><strong>You want to impact the Public Sector:&nbsp;</strong>You\u2019ll be working with cities, states, school districts, and universities that help run our world. You'll work with them to help them operate more efficiently, safely, and drive citizen value through their services.</li> <li><strong>You thrive the most when solving problems:&nbsp;</strong>Our constantly expanding technology and the complexities faced by our customers provide an exciting range of challenges for our Customer Success teams. With a growth mindset and a desire to learn, you will strategically partner with our customers to find unique solutions to help keep their operations safe, efficient, and sustainable.</li> <li><strong>You are a natural relationship builder:</strong>&nbsp;Whether the relationship is with our customers o",
+   "ats": "greenhouse",
+   "score": 58,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "customer success manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "enterprise",
+    "partner",
+    "ai"
+   ],
+   "resume": "generic",
+   "id": "2429e7d8d076e657"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Sr. Manager, Field Engineering - Telco",
+   "location": "United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8612968002",
+   "posted": "2026-10-19T10:23:30-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">Req ID - FEQ327R499</p> <p>The Databricks Field Engineering team activates and accelerates the value our customers get from their data and AI.&nbsp; Major Enterprises in the U.S. are leveraging the Databricks Data Intelligence Platform to securely deliver AI\u2019s potential to every audience, at scale.&nbsp; Our Field Engineering team is hiring a dynamic Solutions Architecture leader who is not only focused on team culture but also can translate their team vision into a tangible and effective strategy in order to drive our customers\u2019 Data + AI experiences forward.</p> <p>As a Field Engineering Manager, you will manage a team of Solutions Architects (SAs) for the Telecommunications Segment of Databricks\u2019 Field Engineering organization. You will lead a dynamic team of pre-sales professionals focusing on enterprise software, big data/analytics, data engineering, data science, and AI. You will partner with Sales (and other Field Engineering technical segments) to increase revenue and help customers become wildly successful. You'll scale and maintain an outstanding Field Engineering team that is efficient in its operations to help accelerate Databricks\u2019 growth in the market.</p> <p><strong>The impact you will have:</strong></p> <ul> <li>You will hire, train, grow, and manage a bar-raising team of Solutions Architects for a company in high-growth mode.</li> <li>Make your customers extremely successful with Databricks and provide outsized value to their businesses.</li> <li>You will maintain a robust hiring pipeline at all times.</li> <li>Establish relationships across the business to make your customers and team successful.</li> <li>Partner with sales leadership to hit sales and consumption targets while ensuring customer success</li> <li>Keep your team of SAs ahead of the technical curve. You will make sure that your team is continuously learning, maintaining advanced knowledge of the data+AI technology stack, and working to provide our customers with the most comprehensive solutions for their needs</li> </ul> <p><strong>What we look for:</strong></p> <ul> <li>3+ years of experience building and leading technical pre-sales teams - hiring, onboarding, coaching, and enabling pre-sales professionals</li> <li>7+ years of experience in the Data + AI space with a technical product (i.e., data warehousing, big data, data science, machine learning, or AI).</li> <li>A deep technical understanding of the impact that Data + AI can drive within various industry segments</li> <li>Technical competence to earn the trust of Engineering talent and leadership at Databricks.</li> <li>Trusted advisor to technical executives who guide strategic data infrastructure decisions.</li> <li>Lead a team through best practices for technical qualification, proof of concepts, architecture discussions, and product demonstrations.</li> <li>Experience hiring pre-sales professionals, ramping them up to be successful, promoting them into larger roles, identifying an",
+   "ats": "greenhouse",
+   "score": 55,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "field engineer"
+   ],
+   "matched_skills": [
+    "enterprise",
+    "partner",
+    "ai",
+    "telecom",
+    "pipeline",
+    "demo",
+    "proof of concept"
+   ],
+   "resume": "generic",
+   "id": "c21febe9334f25c6"
+  },
+  {
+   "source": "himalayas",
+   "company": "Klasko Immigration Law Partners",
+   "title": "Immigration Paralegal (Experienced | II/III Level)",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/klasko-immigration-law-partners/jobs/immigration-paralegal-experienced-ii-iii-level?utm_source=api",
+   "posted": "2026-10-19T17:11:36+00:00",
+   "description": "Title: Immigration Paralegal (II/III) Classification: Non-Exempt Reports to: Supervisory Paralegal Salary Range: $60,000 - $80,000+ commensurate with experience Location: Open to fully remote or hybrid work based out of our Philadelphia, New York City, or Washington, D.C. offices ABOUT THE ROLE We are seeking a detail-oriented and experienced immigration paralegal to join our growing team. This position will support a wide variety of employment-based immigration matters for multinational companies, universities, hospitals, research organizations, and individuals. You'll work closely with attorneys and client services team members to prepare filings, communicate with clients, and manage the end-to-end case process. This is a great opportunity for someone who enjoys ownership over their work, values collaboration, and thrives in a fast-paced, mission-driven environment. The ideal candidate will bring strong communication and organizational skills, the ability to navigate complex rules and procedures, and a bachelor\u2019s degree with strong academic credentials. KEY RESPONSIBILITIES Prepare high-quality documentation and filing packages Draft routine petitions, applications, and responses to Requests for Evidence (RFEs) Maintain case templates and contribute to the drafting of more complex filings with attorney oversight Communicate with clients regarding routine and case-specific matters Track deadlines, organize documents, and ensure timely filings Conduct legal research and manage client correspondence Mentor junior paralegals REQUIREMENTS 2+ years of employment-based immigration experience (e.g., H-1B, L-1, O-1, PERM) Bachelor\u2019s degree with strong academic credentials Proficiency with Microsoft 365 tools (Word, Excel, Outlook, Planner) Strong legal writing and drafting skills Experience managing multiple case deadlines and working in a document-heavy environment Comfort working both independently and as part of a team Professional and effective communication with clients and attorneys SKILLS Excellent attention to detail and accuracy Familiarity with USCIS and DOL processes for employment-based petitions Experience preparing filings and drafting responses to Requests for Evidence (RFEs) Legal research and document organization Task management using tools like Microsoft Planner Sound judgment, discretion, and problem-solving skills Adaptability in a fast-paced, high-volume legal environment EDUCATION & APPLICATION REQUIREMENTS Bachelor\u2019s degree with strong academic credentials required Must provide a resume, writing sample, and college transcript for consideration Legal writing or RFE drafting experience is a plus WHAT WE OFFER A collaborative, inclusive team that values mentorship and growth Competitive compensation Comprehensive benefits package, including: 401(k) with firm match Medical, dental, and vision insurance Life and AD&D insurance Short- and long-term disability coverage Flexible Spending Account (FSA) Paid vacation and holidays Corporate",
+   "ats": "external",
+   "salary": "$60000-80000",
+   "score": 43,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "kla"
+   ],
+   "matched_skills": [
+    "microsoft 365",
+    "partner",
+    "ai"
+   ],
+   "resume": "semiconductor",
+   "id": "ad4ce733a0a73bcd"
+  },
+  {
+   "source": "workday",
+   "company": "KLA",
+   "title": "Semiconductor Field Service Engineer - New College Grad",
+   "location": "Hillsboro, OR",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Semiconductor-Field-Service-Engineer---New-College-Grad_2642813-1",
+   "posted": "2026-10-19T18:48:03.089210+00:00",
+   "description": "",
+   "ats": "workday",
+   "score": 32,
+   "remote": false,
+   "portland": true,
+   "remote_in_listing": false,
+   "matched_title": [
+    "semiconductor",
+    "kla",
+    "field service engineer"
    ],
    "matched_skills": [],
-   "resume": "generic",
-   "id": "39add027d0fca02f"
+   "resume": "semiconductor",
+   "id": "9ab0fecd237c3f73"
   }
  ]
 }
