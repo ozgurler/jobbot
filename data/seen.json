@@ -7413,5 +7413,205 @@
 "date": "2026-10-22",
 "company": "Deloitte",
 "title": "Senior GCP Technical Account Manager"
+},
+"1111eb7a5cbe32b7": {
+"date": "2026-10-23",
+"company": "vanta",
+"title": "Senior Account Executive"
+},
+"ae84e0fa178f4bb4": {
+"date": "2026-10-23",
+"company": "cloudflare",
+"title": "Principal, GTM Automation, RevOps."
+},
+"7ff013e96ef53052": {
+"date": "2026-10-23",
+"company": "twilio",
+"title": "Account Executive 4"
+},
+"89a7a889214a82e3": {
+"date": "2026-10-23",
+"company": "gitlab",
+"title": "Solutions Architect - SLED (East)"
+},
+"5bf9778a0d0d15e7": {
+"date": "2026-10-23",
+"company": "zscaler",
+"title": "Manager, Sales Engineering - SMB"
+},
+"0757980870d3dac1": {
+"date": "2026-10-23",
+"company": "gitlab",
+"title": "Strategic Account Executive - AI, San Francisco   "
+},
+"ae6513e8bd63edb1": {
+"date": "2026-10-23",
+"company": "writer",
+"title": "Enterprise account executive (West)"
+},
+"ab7fcc0b1ac4d38f": {
+"date": "2026-10-23",
+"company": "writer",
+"title": "Strategic account executive (Central)"
+},
+"a68b063db5191acc": {
+"date": "2026-10-23",
+"company": "writer",
+"title": "Strategic account executive (East)"
+},
+"3bb2c52e583e5edf": {
+"date": "2026-10-23",
+"company": "writer",
+"title": "Strategic account executive (West)"
+},
+"978789525987c9df": {
+"date": "2026-10-23",
+"company": "gitlab",
+"title": "Strategic Account Executive, Financial Services - US East "
+},
+"b9e3edb99e8298e2": {
+"date": "2026-10-23",
+"company": "ramp",
+"title": "GTM Senior Business Systems Analyst, Marketing & Pre-Sales"
+},
+"13433b517ddee72e": {
+"date": "2026-10-23",
+"company": "vapi",
+"title": "Enterprise Account Executive"
+},
+"81a027f47508f7d7": {
+"date": "2026-10-23",
+"company": "vapi",
+"title": "Enterprise Account Executive"
+},
+"dd04208817524ec5": {
+"date": "2026-10-23",
+"company": "fivetran",
+"title": "Enterprise Account Executive"
+},
+"d29667ee90b1e87b": {
+"date": "2026-10-23",
+"company": "fivetran",
+"title": "Senior Partner Manager"
+},
+"336f761656d577f2": {
+"date": "2026-10-23",
+"company": "Infinite Electronics, Inc.",
+"title": "Business Development Manager - Military (Maryland/DC/Virginia)"
+},
+"a668f6a71868aee0": {
+"date": "2026-10-23",
+"company": "gitlab",
+"title": "Major Account Executive, Financial Services - US East "
+},
+"e16b192efe8bdb6d": {
+"date": "2026-10-23",
+"company": "gitlab",
+"title": "Solutions Architect - SLED (West)"
+},
+"35b1b04ed0771116": {
+"date": "2026-10-23",
+"company": "vapi",
+"title": "Solutions Engineer"
+},
+"335eef8cb2e9b35d": {
+"date": "2026-10-23",
+"company": "elastic",
+"title": "Mid Market Account Executive - Bay Area, CA"
+},
+"15e22f23e5fda539": {
+"date": "2026-10-23",
+"company": "elastic",
+"title": "Mid Market Account Executive, Southeast (Expand)"
+},
+"d259b24e65fa48f8": {
+"date": "2026-10-23",
+"company": "elastic",
+"title": "Mid Market Account Executive - West"
+},
+"ca6751e26b2d3361": {
+"date": "2026-10-23",
+"company": "newrelic",
+"title": "Senior Revenue Operations Manager- Order To Cash"
+},
+"e6fbd6478168a1a4": {
+"date": "2026-10-23",
+"company": "connectwise",
+"title": "Sales Specialist - Sponsorships"
+},
+"7f04fa362f8b6a9d": {
+"date": "2026-10-23",
+"company": "ashby",
+"title": "Mid-Market Implementation Specialist - EMEA"
+},
+"9438dd0ae5770acf": {
+"date": "2026-10-23",
+"company": "samsara",
+"title": "Manager, Enterprise Implementation - Core"
+},
+"6e1051db2d628fa8": {
+"date": "2026-10-23",
+"company": "elastic",
+"title": "Inside Account Executive (Hunter)"
+},
+"17fb86a610bedb35": {
+"date": "2026-10-23",
+"company": "sproutsocial",
+"title": "Customer Success Manager, Key Accounts "
+},
+"9eebb128ee497961": {
+"date": "2026-10-23",
+"company": "ramp",
+"title": "Account Manager | Growth"
+},
+"e7fc58869c238e0f": {
+"date": "2026-10-23",
+"company": "lemlist",
+"title": "AI Growth Manager Ads"
+},
+"8a09fa2336bcb4b3": {
+"date": "2026-10-23",
+"company": "Novalink Solutions  LLC",
+"title": "Business Development Manager (Staffing & Product Sales)"
+},
+"f24b6ac663f6b546": {
+"date": "2026-10-23",
+"company": "abnormalsecurity",
+"title": "Sr. Customer Success Manager, Federal"
+},
+"f44f9306c49b0a34": {
+"date": "2026-10-23",
+"company": "abnormalsecurity",
+"title": "Customer Success Manager, Enterprise (Missouri Valley)"
+},
+"7db7a0af835d2036": {
+"date": "2026-10-23",
+"company": "openai",
+"title": "Business Development Lead, Life Sciences"
+},
+"fa3203a24f1ea944": {
+"date": "2026-10-23",
+"company": "Adobe",
+"title": "Enterprise Solutions Engineer"
+},
+"8df4e5d53dbf489f": {
+"date": "2026-10-23",
+"company": "ashby",
+"title": "Demo Engineer "
+},
+"dd2d359cad443a6a": {
+"date": "2026-10-23",
+"company": "launchdarkly",
+"title": "Senior Customer Success Manager - West Coast "
+},
+"6c66e5918ac2b0bc": {
+"date": "2026-10-23",
+"company": "datadog",
+"title": "Major Account Manager"
+},
+"23fd7c14dbb00500": {
+"date": "2026-10-23",
+"company": "databricks",
+"title": "Technical Enablement Specialist  - Field Engineering Onboarding"
 }
 }
