@@ -1,0 +1,932 @@
+{
+ "generated_at": "2026-10-24T16:09:37.252155+00:00",
+ "counts": {
+  "fetched": 15925,
+  "fresh_matches": 124,
+  "in_digest": 40,
+  "boards_ok": 125,
+  "boards_failed": 4
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 202,
+  "title not relevant": 1883,
+  "rejected title": 1472,
+  "onsite outside Portland": 347,
+  "non-US location": 546
+ },
+ "jobs": [
+  {
+   "source": "greenhouse",
+   "company": "rubrik",
+   "title": "Account Executive, NAS Product Specialist",
+   "location": "Remote Central US",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8310713?gh_jid=8310713",
+   "posted": "2026-10-23T18:14:06-04:00",
+   "description": "<p>&nbsp;</p> <p><em>About the Team &amp; Role</em></p> <p>Rubrik's Product Line Sales organization drives focused growth across Rubrik's specialized workloads, including our Unstructured data protection and security portfolio. This team partners closely with core Account Executives, Sales Engineers, and Customer Success to bring deep product and technical expertise into every Unstructured opportunity \u2014 from first conversation through technical validation to close.</p> <p>We're hiring an NCD Product Line Sales Specialist to own and accelerate Rubrik's Unstructured data protection business within a defined territory. This is a highly technical, quota-carrying overlay role: you'll be the subject-matter expert who can go deep on NAS storage architectures, file-generating applications, backup and recovery mechanics, and the security behind protecting these growing assets \u2014 and use that fluency to win deals against competitive point solutions. The ideal candidate has sold in this exact space before, at a company like NetApp, Dell, Qumulo, Vast, EverPure, Komprise, Superna, etc.</p> <p><em>What You\u2019ll Do</em></p> <ul> <li><strong>Own the NCD product line number: </strong>partner with core Account Executives to identify, qualify, and close NCD data protection and security opportunities across net-new and existing accounts.</li> <li><strong>Lead with technical credibility: </strong>articulate Rubrik\u2019s NCD architecture, security posture, and the gaps in storage native shared snapshot protection in a way that resonates with both technical and business buyers.</li> <li><strong>Drive technical discovery and validation: </strong>run or co-lead discovery calls, demos, and proof-of-concept engagements for NCD.</li> <li><strong>Win competitive deals: </strong>build and defend positioning against competition or \"do-nothing\", translating technical differentiation into business value.</li> <li><strong>Build territory and account plans: </strong>develop a coverage strategy in partnership with core sales, SE, and channel teams to maximize NCD attach and expansion within the install base.</li> <li><strong>Engage multiple stakeholders: </strong>present to IT administrators, security and compliance teams, and executive economic buyers, tailoring the message to each audience.</li> <li><strong>Forecast with discipline: </strong>maintain accurate pipeline and forecast data in Salesforce and participate in regular business reviews.</li> <li><strong>Stay current: </strong>maintain deep knowledge of Rubrik\u2019s NCD roadmap, storage ecosystems, and the competitive landscape.</li> </ul> <p><em>Experience You\u2019ll Need</em></p> <ul> <li><strong>Storage sales experience: </strong>3+ years of quota-carrying sales experience selling storage infrastructure (file preferred) with a deep understanding of these technologies.</li> <li><strong>Directly relevant background: </strong>experience at a NAS or file storage vendor such as NetApp, Dell, Qumulo, or VAST (or a comparable company like Ko",
+   "ats": "greenhouse",
+   "score": 85,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "product specialist"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "mid-market",
+    "smb",
+    "channel",
+    "partner",
+    "ai",
+    "agentic",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "e05cdc028a5be032"
+  },
+  {
+   "source": "greenhouse",
+   "company": "twilio",
+   "title": "Senior Strategic Account Executive",
+   "location": "Remote - US",
+   "url": "https://job-boards.greenhouse.io/twilio/jobs/8261708",
+   "posted": "2026-10-23T14:19:00-04:00",
+   "description": "<div class=\"content-intro\"><p><strong>Who we are&nbsp;</strong></p> <p>At Twilio, we\u2019re shaping the future of communications, all from the comfort of our homes. We deliver innovative solutions to<a class=\"c-link\" href=\"https://customers.twilio.com/\" target=\"_blank\" data-stringify-link=\"https://customers.twilio.com/\" data-sk=\"tooltip_parent\">&nbsp;hundreds of thousands of businesses&nbsp;</a>and empower millions of developers worldwide to craft personalized customer experiences.</p> <p>Our dedication to <a class=\"c-link\" href=\"https://www.twilio.com/en-us/blog/open-work\" target=\"_blank\" data-stringify-link=\"https://www.twilio.com/en-us/blog/open-work\" data-sk=\"tooltip_parent\">remote-first work</a>, and strong culture of connection and global inclusion means that no matter your location, you\u2019re part of a vibrant team with diverse experiences making a global impact each day. As we continue to revolutionize how the world interacts, we\u2019re acquiring new skills and experiences that make work feel truly rewarding. Your career at Twilio is in your hands.<br><span style=\"color: rgb(255, 255, 255);\">.</span></p> <p><strong>Hiring and how we work</strong></p> <p>We use Artificial Intelligence (AI) to help make our hiring process efficient. That said, every hiring decision is made by real Twilions!&nbsp;</p> <p>Also, while we are a remote-first company, you may be asked to report in person on an ad-hoc basis for team gatherings, functional off-sites or customer meetings.&nbsp;<br><span style=\"color: rgb(255, 255, 255);\">.</span></p></div><p><strong>See yourself at Twilio</strong></p> <p>Join the team as Twilio\u2019s next Senior Strategic Account Executive on our Regulated Verticals team!</p> <p><strong>About the job</strong></p> <p>This position is needed to&nbsp;lead complex solution selling across Twilio\u2019s Customer Engagement Platform\u2014including Messaging, Voice, Email, Segment CDP, Trust &amp; Identity (Verify, Lookup), and Flex. You will drive revenue growth and build strategic, executive-level partnerships with top enterprise financial services and FinTech organizations. As a trusted advisor, you will navigate domain-specific use cases like fraud prevention and personalized engagement while collaborating across Product, Compliance, Finance, and Engineering.</p> <p><strong>Responsibilities</strong></p> <p>In this role, you\u2019ll:</p> <ul> <li>Manage a book of Named Accounts within the regulated verticals sector, while being assigned a quota for revenue and expansion targets through upsell and cross-sell&nbsp;</li> <li>Own highly analytical and consultative sales cycles to win business in competitive vendor sourcing cycles with Twilio\u2019s messaging (e.g. SMS, MMS, WhatsApp, Facebook Messenger, Google Business Messages, Account Security, etc.), voice and email solutions.</li> <li>Work with customers across assigned verticals to understand their business and technical requirements, and match them to the capabilities of Twilio\u2019s communications API platform, designing a",
+   "ats": "greenhouse",
+   "score": 83,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "partner",
+    "ai",
+    "telecom",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "65511485b47e42d7"
+  },
+  {
+   "source": "linkedin",
+   "company": "Klaviyo",
+   "title": "Principal Partner Manager II",
+   "location": "San Francisco Bay Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/principal-partner-manager-ii-at-klaviyo-4481948420",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "partner manager",
+    "kla"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "aa2e4115f1005eab"
+  },
+  {
+   "source": "greenhouse",
+   "company": "zscaler",
+   "title": "Pipeline Req - Senior Manager, Sales Engineering",
+   "location": "USA - Update Location",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5274394007",
+   "posted": "2026-10-23T16:43:16-04:00",
+   "description": "<div class=\"content-intro\"><p data-pm-slice=\"1 1 []\">Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform.</p> <p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p></div><p data-path-to-node=\"0\">We are looking for to identify interested prospects for future \"Senior Manager, Sales Engineering\" roles based in New York City Metro of the United States, reporting to our Director, Sales Engineering.</p> <p data-path-to-node=\"1\">You will lead and grow the sales engineering organization for the core portfolio, including the Gen AI market, across the Central region in the US. You will align closely with GTM Sales Leaders, Product Management, and Engineering to execute strategic solutions and close deals for customers and partners.</p> <p data-path-to-node=\"2\"><strong data-path-to-node=\"2\" data-index-in-node=\"0\">What you\u2019ll do (Role Expectations)</strong></p> <ul> <li data-path-to-node=\"3,0,0\">Recruit, mentor, and develop the sales engineering team&nbsp;</li> <li data-path-to-node=\"3,1,0\">Refine and scale core sales engineering processes including discovery, technical qualification, and proof-of-concept</li> <li data-path-to-node=\"3,2,0\">Partner with sales leadership and clients to design and present business solutions that drive revenue growth</li> <li data-path-to-node=\"3,3,0\">Work within a matrixed environment to promote and support the Zscaler portfolio through value-based selling</li> </ul> <p data-path-to-node=\"4\"><strong data-path-to-node=\"4\" data-index-in-node=\"0\">Who You Are (Success Profile)</strong></p> <ul> <li data-path-to-node=\"5,0,0\">You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.</li> <li data-path-to-node=\"5,1,0\">You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True ownership involves leveraging dynamic range: the ability to navigate seam",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cybersecurity",
+    "cloud",
+    "enterprise",
+    "partner",
+    "ai",
+    "llm",
+    "agentic",
+    "automation",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "83276afb48a4d714"
+  },
+  {
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Enterprise Account Executive",
+   "location": "Remote, California, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=7790795003",
+   "posted": "2026-10-23T14:22:27-04:00",
+   "description": "<div class=\"content-intro\"><p>From Fivetran\u2019s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We\u2019re proud that more organizations continue to leverage our technology every day to become truly data-driven.</p></div><p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\"><strong>About Us</strong></span></p> <p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data. Together, we\u2019re delivering the data infrastructure layer that helps organizations move, transform, and trust their data \u2014 from the moment data moves, through every transformation, to the context teams and AI systems rely on. Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.</span></p> <p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">As we bring our teams and technology together, we\u2019re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It\u2019s an exciting time to join us: we\u2019re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact. During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.</span></p> <p><span style=\"font-size: 10pt;\"><strong><span style=\"color: #222222;\">About the Role</span></strong></span></p> <p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">The Enterprise Account Executive will drive towards aggressive new customer and partner revenue goals, while growing our footprint in the Enterprise market.</span></p> <p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">This is a full-time, remote position and must be based out of Southern California in the United States. Please note that the compensation listed below does not include commission (uncapped 50/50 split) or RSU value.</span></p> <p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\"><strong>What You'll Do</strong></span></p> <ul> <li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Collaborate cross-functionally with marketing, customer success, alliances, operations, and analytics to drive pipeline generation and exceed revenue goals.</span></li> <li style=\"font-size: 10pt;\"><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">Ac",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "ceed1f66516f5bec"
+  },
+  {
+   "source": "greenhouse",
+   "company": "samsara",
+   "title": "Technical Account Manager",
+   "location": "Remote - US; USA",
+   "url": "https://www.samsara.com/company/careers/roles/8281716?gh_jid=8281716",
+   "posted": "2026-10-23T13:28:56-04:00",
+   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>As a Samsara Technical Account Manager (TAM), you will build a track record of customer success by leveraging your technical expertise, strong business acumen, proficiency in English, and a commitment to living by Samsara's core values and operating principles. Your primary responsibilities will be to build and maintain relationships with customers and account teams, develop a technical understanding of your customers\u2019 Samsara implementations, transform their technical support experience, update our system of engagement, and contribute to team growth. These activities will enable you to proactively set your assigned customers up for success by optimizing their Samsara platform and mitigating risk with particular care during critical peak events.</p> <p>As a TAM, you will occasionally be the point of contact for significant incidents, being responsible for the customer\u2019s expectations and communications through resolving such incidents. Our TAM is the primary technical interface on behalf of our customers and works closely across internal and external stakeholders, as required, to address customer needs.</p> <p><strong><em>This is a remote position&nbsp;open to candidates residing in the US except the San Francisco Bay Metro Area, NYC Metro Area, and Washington, D.C. Metro Area.<br><br></em></strong><strong>You should apply if:</strong></p> <ul> <li><strong>You want to impact the industries that run our world:</strong> Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, reduce emissions, and most importantly, ensure workers return home safely",
+   "ats": "greenhouse",
+   "score": 74,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "ai",
+    "north america",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "cbca6d0349bee776"
+  },
+  {
+   "source": "greenhouse",
+   "company": "samsara",
+   "title": "Account Executive, Mid Market (Midwest)",
+   "location": "Remote - OH",
+   "url": "https://www.samsara.com/company/careers/roles/8319788?gh_jid=8319788",
+   "posted": "2026-10-23T20:41:15-04:00",
+   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>This is a dynamic, high energy role in which you will bring the Internet of Things to mid-sized customers, building Samsara's business and bringing the benefits of sensor data to customers. Typical sales will be $20k to $100k, and involve POCs, multiple stakeholders, managing trials, multi-faceted pricing negotiations, and selling to executives and CXOs.&nbsp;</p> <div id=\"1734455445.916749\" class=\"c-virtual_list__item\" data-qa=\"virtual-list-item\" data-item-key=\"1734455445.916749\"> <div class=\"c-message_kit__background p-message_pane_message__message c-message_kit__message\" data-qa=\"message_container\" data-qa-unprocessed=\"false\" data-qa-placeholder=\"false\"> <div class=\"c-message_kit__hover\" data-qa-hover=\"true\"> <div class=\"c-message_kit__actions c-message_kit__actions--default\"> <div class=\"c-message_kit__gutter\"> <div class=\"c-message_kit__gutter__right\" data-qa=\"message_content\"> <div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__message_blocks c-message__message_blocks--rich_text\" data-qa=\"message-text\"> <div class=\"p-block_kit_renderer\" data-qa=\"block-kit-renderer\"> <div class=\"p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first\"> <div class=\"p-rich_text_block\"> <div class=\"p-rich_text_section\"><strong>This role is open for candidates residing in the following US states: North Dakota,&nbsp;South Dakota,&nbsp;Nebraska,&nbsp;Minnesota,&nbsp;Wisconsin,&nbsp;Michigan,&nbsp;Ohio,&nbsp;Indiana,&nbsp;Illinois,&nbsp;Iowa. <strong data-stringify-type=\"bold\">The role requires travel approximately 25% of the time.</strong></strong></",
+   "ats": "greenhouse",
+   "score": 70,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "ai",
+    "quota",
+    "pipeline",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "00798b3b87c47a6d"
+  },
+  {
+   "source": "remoteok",
+   "company": "Huzzle",
+   "title": "Sales Development Representative B2B",
+   "location": " (Remote)",
+   "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-b2b-huzzle-1137561",
+   "posted": "2026-10-23T16:00:06+00:00",
+   "description": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups and established businesses in SaaS, MarTech, FinTech, and EdTech. Unlike traditional outsourcing, you\u00e2\u0080\u0099ll be placed directly with a client as a core member of their team\u00e2\u0080\u0094giving you real ownership, career progression, and long-term stability. Role Type: Full-time Engagement: Independent Contractor Job Summary We are hiring experienced and results-driven Sales Development Representatives (SDRs) for full-time remote opportunities with growing international companies. As an SDR, you'll be responsible for identifying potential business customers, generating qualified leads, conducting outbound prospecting, and booking meetings for sales teams. The ideal candidate has at least 2 years of proven B2B outbound sales experience, excellent communication skills, and the confidence to engage business decision-makers across international markets. Fluent English and previous B2B sales experience are mandatory requirements for this role. Key Responsibilities Conduct high-volume B2B outbound prospecting through cold calls, emails, and LinkedIn outreach. Research and identify target businesses, key stakeholders, and decision-makers. Generate and qualify B2B leads based on business needs, budget, authority, and buying intent. Schedule qualified meetings and product demonstrations for Account Executives and sales teams. Manage and maintain accurate prospect information in CRM platforms such as HubSpot, Salesforce, or Pipedrive. Execute personalized outreach sequences to improve response rates and conversions. Consistently meet or exceed KPIs related to outreach activity, qualified leads, and meetings booked. Collaborate with sales and marketing teams to refine targeting and outreach strategies. Follow up with prospects professionally and maintain strong relationships throughout the B2B sales pipeline. Minimum 2 years of professional B2B sales experience, preferably in an SDR, BDR, or outbound sales role. Proven B2B outbound prospecting experience is mandatory. Candidates with exclusively B2C sales experience will not be considered. Fluent English (written and spoken) is mandatory, with excellent pronunciation, comprehension, and professional communication skills. Demonstrated success in B2B cold calling, cold emailing, lead generation, and appointment setting. Experience engaging business owners, managers, executives, and other key decision-makers. Proven ability to generate qualified B2B leads and book sales meetings. Experience using CRM systems such as HubSpot, Salesforce, Pipedrive, or similar platforms. Strong objection-handling, negotiation, and relationship-building skills. Confidence communicating with international business clients. Self-motivated, target-driven, and comfortable working independently in a remote environment. Strong organizational skills and the abilit",
+   "ats": "external",
+   "salary": "",
+   "score": 70,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales development representative"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "apollo",
+    "hubspot",
+    "crm",
+    "b2b",
+    "ai",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "1e1e6fc8a6e2c990"
+  },
+  {
+   "source": "himalayas",
+   "company": "Cardinal Education",
+   "title": "Account Executive (Education)",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/cardinal-education/jobs/account-executive-education-926607317?utm_source=api",
+   "posted": "2026-10-24T14:42:00+00:00",
+   "description": "About Us Cardinal Education is a dynamic and collaborative educational consulting company dedicated to providing students and families with superior academic support and admissions expertise. Our rapidly growing enterprise offers Educational Consultants the opportunity to make a significant impact from the start while prioritizing exceptional experiences for families and providing substantial growth opportunities within the company. Culture at Cardinal Education Collaboration is key to our culture at Cardinal Education , where open communication and diverse perspectives are valued and drive success. We foster innovation and learning through a supportive environment that encourages growth. Our team is passionate about education and creating a dynamic and inclusive workplace. The Opportunity We are hiring our first dedicated Educational Sales Consultant to take ownership of our high-volume, inbound pipeline. Historically, our senior Educational Consultants have managed the sales process. As our business scales, we need an experienced sales professional to close inbound leads so our experts can focus entirely on delivering world-class client results. This is not a cold-calling role. The phone rings consistently, and during our peak season (August\u2013December), we generate an overwhelming amount of inbound interest, ensuring a deep, continuous pipeline of warm leads for our team. We need a closer who can build immediate trust, navigate complex family dynamics, and effectively articulate the value of our high-ticket mentoring, test prep, tutoring, and admissions services. What You Will Do Manage Inbound Sales: Own the sales cycle for our primary services (Tutoring, Test Prep, and Private School and College Admissions) with ticket values typically ranging from $4,000 to $50,000+. CRM and Pipeline Management: Execute the current sales process while bringing your expertise to refine and elevate our systems. Utilize Salesforce to mine existing leads and maximize our exceptional lifetime customer value (LTV). Client Advising: Act as the initial guide for families, diagnosing their specific educational needs and recommending the appropriate level of service (from standard tutoring to elite coaching). Cross-Selling & Expansion: Leverage our long-term client relationships to cross-sell multiple services across a family's 7-8 year journey with Cardinal Education . Who You Are An Educational Insider: You have strong experience in education sales, admissions counseling, EdTech, or any adjacent industry. You understand the nuances of the industry and don't need to be trained on the basics of high-stakes academic metrics. A Consultative Closer: You excel at high-ticket sales and know how to build credibility and trust quickly with an affluent, demanding clientele. A Team Player and a Relationship Builder: You are looking for a long-term home to build your career. You understand that in high-stakes education, long-term client success and team collaboration matter far ",
+   "ats": "external",
+   "salary": "$80000-120000",
+   "score": 67,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "salesforce",
+    "crm",
+    "enterprise",
+    "ai",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "dbc7c64e474fd795"
+  },
+  {
+   "source": "greenhouse",
+   "company": "elastic",
+   "title": "Sr. Solutions Architect - Strategic Central/East (Presales)",
+   "location": "United States",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8267984&gh_jid=8267984",
+   "posted": "2026-10-23T14:35:15-04:00",
+   "description": "<div class=\"content-intro\"><p>Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.</p></div><h2>What is The Role</h2> <p>Are you looking to make a real impact and play a meaningful role in the growth of our company?</p> <p>As a Solutions Architect at Elastic you will serve as a technical authority and trusted advisor to our sales team, customers, partners and community. You will understand and tackle our customer\u2019s business issues with the Elastic Stack, engage the regional Elastic community through events and programs, and enable sales through our Partners. A successful SA at Elastic will be passionate about perfection; taking the initiative to improve both themselves and the team through continuous learning and questioning the status quo.</p> <h2>What You Will Be Doing</h2> <ul> <li>Serving as the technical point of contact for your accounts and account managers in your assigned territory.</li> <li>Developing a deep understanding of customers\u2019 goals and objectives, and articulating how our offerings address their needs.</li> <li>Crafting and owning value based relationships at all levels in customer organizations.</li> <li>Actively participating in all phases of planning and execution for your territory, from initial discovery to the technical win.</li> <li>Developing and maintaining a deep understanding of the Elastic products and solutions to demonstrate the value of our offerings in sales meetings, and at events such as meetups and conferences.</li> <li>Advising the sales team on effective ways of positioning Elastic products, solutions and services.</li> <li>Onboarding, educating and enabling our partners, and supporting them in sales cycles.</li> <li>Crafting collateral, contributing to programs and collaborating with other Elasticians to meet individual client needs.</li> <li>Being the voice of the customer and community to communicate needs, gaps, and improvements to our engineering and leadership teams.</li> <li>Deepening both your sales and technical skills through self driven education while taking advantage of all the professional development opportunities provided by Elastic.</li> </ul> <h2>What You Bring</h2> <ul> <li>A track record of success in a technical presales role-- enough experience selling and implementing technology to earn your customer\u2019s trust.</li> <li>A proven track record to articulate and sell the benefits of modern platforms, software and technol",
+   "ats": "greenhouse",
+   "score": 66,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "presales",
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "partner",
+    "ai",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "25e5dec52ab81a68"
+  },
+  {
+   "source": "linkedin",
+   "company": "KLA",
+   "title": "Customer Engagement Applications Engineer (FaST)",
+   "location": "Hillsboro, OR (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/customer-engagement-applications-engineer-fast-at-kla-4416872903",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 66,
+   "remote": true,
+   "portland": true,
+   "remote_in_listing": true,
+   "matched_title": [
+    "applications engineer",
+    "kla"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "3b29e0c1618e2958"
+  },
+  {
+   "source": "remoteok",
+   "company": "Huzzle",
+   "title": "Sales Development Representative German Speaking",
+   "location": " (Remote)",
+   "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+   "posted": "2026-10-23T16:00:18+00:00",
+   "description": "About Huzzle At Huzzle, we connect exceptional talent with top opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients include fast-growing startups, digital agencies, SaaS companies, and tech-enabled businesses across industries such as MarTech, FinTech, EdTech, and eCommerce. Unlike traditional outsourcing agencies, we place you directly with innovative companies where you become a valued member of the team. About the company Our client is a fast-growing PropTech company revolutionizing the real estate market by bridging the gap between property seekers and managers. Their innovative platform acts as a centralized ecosystem, aggregating listings from all major portals while providing exclusive access to off-market opportunities. By automating the listing and search processes, the team delivers a seamless, data-driven experience that simplifies high-stakes transactions for both individual tenants and professional administrators. Operating within the dynamic European real estate sector, this scale-up focuses on high-impact automation and intelligent matching technology. The team is dedicated to building a scalable, two-sided marketplace where each participant strengthens the overall network. Joining this ambitious company means working in a collaborative, tech-forward environment focused on solving complex logistical challenges through smart software. Candidates will have the opportunity to drive meaningful innovation in a traditional industry, contributing to a product that provides transparency and efficiency in the modern housing market. Job Summary We are looking for a high-energy, resilient Sales Development Representative to be the first point of contact for property management companies across Switzerland and the DACH region. This is a pure \"door-opener\" role focused on high-volume outbound activity. You won't be closing deals or managing long-term accounts; instead, you will be the engine driving our growth by identifying decision-makers and articulating the value of our AI-driven re-letting solutions. This is an opportunity to work directly with the founders, shape the sales playbook, and play a pivotal role in scaling a high-growth prop-tech startup. Key Responsibilities Execute 40\u00e2\u0080\u009350 high-quality outbound dials per day to pre-qualified leads in the property management sector. Pitch decision-makers (Heads of Property Management and C-level executives) to book product demonstrations for the founding team. Manage a high-volume pipeline within Pipedrive, ensuring every contact has a status, next step, and accurate follow-up date. Collaborate with the founders by listening in on booked demos to understand market objections and refine the sales pitch. Verify and approve 10\u00e2\u0080\u009315 new leads daily from the automated lead generation system to maintain CRM health. Consistently hit targets of approximately 15 booked and completed demos per month. Native or bilingual fluency in German and Swiss German (Dial",
+   "ats": "external",
+   "salary": "",
+   "score": 66,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales development representative"
+   ],
+   "matched_skills": [
+    "saas",
+    "crm",
+    "b2b",
+    "ai",
+    "automation",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "17ab13b2febb0783"
+  },
+  {
+   "source": "linkedin",
+   "company": "Nutanix",
+   "title": "Senior Systems Sales Engineer",
+   "location": "Seattle, WA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-systems-sales-engineer-at-nutanix-4475886804",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "281e0a2396e3909f"
+  },
+  {
+   "source": "linkedin",
+   "company": "FORT\u00c9",
+   "title": "Senior AV Sales Engineer",
+   "location": "Washington DC-Baltimore Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-av-sales-engineer-at-fort%C3%A9-4467594330",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "dbdd64d5741b4b2d"
+  },
+  {
+   "source": "linkedin",
+   "company": "Box",
+   "title": "Enterprise Sales Engineer",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-sales-engineer-at-box-4466406266",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "84944b32d8b48771"
+  },
+  {
+   "source": "linkedin",
+   "company": "ElevenLabs",
+   "title": "Enterprise Solutions Engineer - USA",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-usa-at-elevenlabs-4474367565",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e1c16268c907c466"
+  },
+  {
+   "source": "linkedin",
+   "company": "Hakk\u014dda, an IBM Company",
+   "title": "Senior Solution Engineer - Confluent - Public Sector",
+   "location": "No Name, CO (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solution-engineer-confluent-public-sector-at-hakk%C5%8Dda-an-ibm-company-4482829203",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solution engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "143dc4c47a55c2e4"
+  },
+  {
+   "source": "linkedin",
+   "company": "RapDev",
+   "title": "Senior ServiceNow Solutions Engineer (Pre-Sales)",
+   "location": "United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-servicenow-solutions-engineer-pre-sales-at-rapdev-4465336860",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer",
+    "pre-sales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f1d7772709aacf5d"
+  },
+  {
+   "source": "linkedin",
+   "company": "Askable",
+   "title": "Senior Account Executive (New Business)",
+   "location": "Chicago, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-new-business-at-askable-4409364038",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "030bdb939bff716d"
+  },
+  {
+   "source": "linkedin",
+   "company": "Poppulo",
+   "title": "Senior Account Executive",
+   "location": "Denver, CO (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-at-poppulo-4483132414",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "ab93f8db842a19f2"
+  },
+  {
+   "source": "linkedin",
+   "company": "Salesforce",
+   "title": "Enterprise Account Executive - Regrello",
+   "location": "Des Moines Metropolitan Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-regrello-at-salesforce-4438873217",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "883e2ea60004cc4e"
+  },
+  {
+   "source": "linkedin",
+   "company": "Care.com",
+   "title": "Account Executive, Enterprise",
+   "location": "Phoenix, AZ (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/account-executive-enterprise-at-care-com-4465364247",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "37c74525e66e13af"
+  },
+  {
+   "source": "linkedin",
+   "company": "Yelp",
+   "title": "Enterprise Account Executive, AI SaaS Sales (Remote - US)",
+   "location": "Atlanta, GA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-ai-saas-sales-remote-us-at-yelp-4466424722",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "9eb4fb4f98425b8f"
+  },
+  {
+   "source": "linkedin",
+   "company": "Azul",
+   "title": "Enterprise Account Executive (UNCAPPED and Remote)",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-uncapped-and-remote-at-azul-4483178127",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5200f3bca58030ab"
+  },
+  {
+   "source": "linkedin",
+   "company": "DigiCert",
+   "title": "Enterprise Account Executive",
+   "location": "Oklahoma City, OK (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-digicert-4464896665",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5fe6c775ffc7473f"
+  },
+  {
+   "source": "linkedin",
+   "company": "Redpanda Data",
+   "title": "Enterprise Account Executive - San Francisco",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-san-francisco-at-redpanda-data-4457023396",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "cf04493cf4931527"
+  },
+  {
+   "source": "linkedin",
+   "company": "MongoDB",
+   "title": "Enterprise Account Executive",
+   "location": "Los Angeles, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-mongodb-4170338589",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "a0798bd0259f8237"
+  },
+  {
+   "source": "linkedin",
+   "company": "Yelp",
+   "title": "Enterprise Account Executive, AI SaaS Sales (Remote - US)",
+   "location": "Jersey City, NJ (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-ai-saas-sales-remote-us-at-yelp-4466429688",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "fa0cbada1b9fbeb7"
+  },
+  {
+   "source": "linkedin",
+   "company": "KIOXIA America, Inc.",
+   "title": "Sr Sales Business Development Manager - 2253",
+   "location": "San Jose, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-sales-business-development-manager-2253-at-kioxia-america-inc-4481922061",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "business development manager",
+    "business development"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "801de4d6dcf89a38"
+  },
+  {
+   "source": "linkedin",
+   "company": "Esri",
+   "title": "Sr. Business Development Manager \u2013 Emerging Markets",
+   "location": "Redlands, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-business-development-manager-%E2%80%93-emerging-markets-at-esri-4456396323",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "business development manager",
+    "business development"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "53eea0da85e61678"
+  },
+  {
+   "source": "linkedin",
+   "company": "TCP Software",
+   "title": "Enterprise Solutions Consultant",
+   "location": "Dallas-Fort Worth Metroplex (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-consultant-at-tcp-software-4466369994",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "71440f315b0785f8"
+  },
+  {
+   "source": "linkedin",
+   "company": "Anaplan",
+   "title": "Senior Solution Consultant",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solution-consultant-at-anaplan-4465801747",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solution consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "fff17934df36545f"
+  },
+  {
+   "source": "linkedin",
+   "company": "GE Vernova",
+   "title": "Lead Solutions Architect - DERMS",
+   "location": "Boston, MA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/lead-solutions-architect-derms-at-ge-vernova-4483180055",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b515444e4303af98"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Technical Account Manager, AWS Enterprise Support, Strategic Industries",
+   "location": "Herndon, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/technical-account-manager-aws-enterprise-support-strategic-industries-at-amazon-web-services-aws-4457386051",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "6300a790af4040c8"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Sr. Technical Account Manager, ES - WWPS",
+   "location": "Arlington, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-technical-account-manager-es-wwps-at-amazon-web-services-aws-4474558202",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e4d2c623d41bd5d4"
+  },
+  {
+   "source": "linkedin",
+   "company": "Akamai Technologies",
+   "title": "Senior Technical Account Manager, Microsegmentation",
+   "location": "Cambridge, MA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-technical-account-manager-microsegmentation-at-akamai-technologies-4483126679",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f81f90695312078d"
+  },
+  {
+   "source": "linkedin",
+   "company": "Airbyte",
+   "title": "Senior Technical Account Manager",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-technical-account-manager-at-airbyte-4464821125",
+   "posted": "2026-10-23T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "6b154787762c1308"
+  },
+  {
+   "source": "linkedin",
+   "company": "Intuit",
+   "title": "Strategic Partnerships Manager: Digital Marketing Agency/Influencer Partners",
+   "location": "Austin, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-digital-marketing-agency-influencer-partners-at-intuit-4483334014",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "partnerships manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b00029aea9bfd42a"
+  },
+  {
+   "source": "linkedin",
+   "company": "Intuit",
+   "title": "Strategic Partnerships Manager: Digital Marketing Agency/Influencer Partners",
+   "location": "Phoenix, AZ (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/strategic-partnerships-manager-digital-marketing-agency-influencer-partners-at-intuit-4483317480",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "partnerships manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "028f4cd7aa007940"
+  },
+  {
+   "source": "linkedin",
+   "company": "Deepgram",
+   "title": "Senior Partner Manager, AWS",
+   "location": "Seattle, WA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-partner-manager-aws-at-deepgram-4473396550",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "partner manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "0f254d4bae2c2498"
+  }
+ ]
+}
