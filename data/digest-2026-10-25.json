@@ -1,0 +1,843 @@
+{
+ "generated_at": "2026-10-25T16:41:29.682629+00:00",
+ "counts": {
+  "fetched": 15926,
+  "fresh_matches": 92,
+  "in_digest": 40,
+  "boards_ok": 125,
+  "boards_failed": 4
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 204,
+  "title not relevant": 1899,
+  "rejected title": 1475,
+  "onsite outside Portland": 351,
+  "non-US location": 545
+ },
+ "jobs": [
+  {
+   "source": "remoteok",
+   "company": "Onebrief",
+   "title": "Solutions Engineer",
+   "location": " (Remote)",
+   "url": "https://remoteOK.com/remote-jobs/remote-solutions-engineer-onebrief-1137568",
+   "posted": "2026-10-24T00:00:02+00:00",
+   "description": "Consequential Work. Dedicated People. About Onebrief Onebrief builds collaboration and AI-powered workflow software for military planning and operational coordination. Military planning is complex by nature, requiring teams to coordinate information, people, and decisions across systems and locations. Onebrief brings planning, collaboration, simulation, and AI into one connected environment, helping teams test strategies, adapt to changing conditions, and make decisions with greater clarity when the stakes are real. We are a distributed team of builders from military, operational, and technology backgrounds who care deeply about improving how important work gets done. Some team members work remotely, while others work directly alongside customers in operational environments around the world. Founded in 2019, Onebrief is backed by leading investors including General Catalyst, Battery Ventures, Insight Partners, Sapphire Ventures, and Human Capital. Valued at more than $2 billion, we continue to invest in product innovation, AI capabilities, and team growth. Why This Role Exists As a Solutions Engineer at Onebrief, you work where mission, engineering, and compliance meet. You'll own technical solution design and deployment readiness, translating customer requirements into secure, scalable deployment architectures. You'll partner with Platform Engineering, SRE, and our Cybersecurity team to validate infrastructure, configure environments, resolve technical blockers, and successfully transition solutions into production. You\u00e2\u0080\u0099ll work with our go-to-market and customer facing teams to meet with planners, operations officers, and network owners to understand how they work today. You\u00e2\u0080\u0099ll help show them what that work looks like in Onebrief, and then you'll make it real. You connect a staff's planning problem to a live, accredited Onebrief deployment. What You'll Do Core responsibilities: Run technical discovery. With Sales and Engineering, map a staff's current workflow and pain points, specifically focusing on their technical constraints: networks, hosting, identity, and integration requirements, especially in multi-network environments. Lead deployment engineering. Coordinate the technical delivery of new deployments, including infrastructure validation, network configuration checks, and system readiness verification. Write code to configure new deployments and support new environments. Support accreditation. Help create and review security documentation, including STIG checklists and ATO artifacts, alongside our cybersecurity team so deployments are accredited on the customer's timeline. Align stakeholders. Get technical stakeholders on both sides to agree on requirements, constraints, and tradeoffs, so customers see value sooner. Ensure those technical requirements are properly translated into contract deliverables. Scope integrations. Design how Onebrief Connect fits into a command's ecosystem: APIs, data pipelines, Foundry and Maven Smart System",
+   "ats": "external",
+   "salary": "$180000-220000",
+   "score": 68,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "cybersecurity",
+    "cloud",
+    "azure",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "56c440015a5e83fe"
+  },
+  {
+   "source": "linkedin",
+   "company": "Vertiv",
+   "title": "Sr. Presales Engineer - Physical Infrastructure",
+   "location": "Washington, DC (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-presales-engineer-physical-infrastructure-at-vertiv-4422140183",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "3f97976d618b780f"
+  },
+  {
+   "source": "linkedin",
+   "company": "Eaton",
+   "title": "Senior Sales Engineer",
+   "location": "Grapevine, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-eaton-4454631638",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "8c045463ad4e0e4b"
+  },
+  {
+   "source": "linkedin",
+   "company": "NetThunder",
+   "title": "Senior Sales Engineer",
+   "location": "Buffalo Grove, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-netthunder-4482673424",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "4c10f680a0fd26c9"
+  },
+  {
+   "source": "linkedin",
+   "company": "Yelp",
+   "title": "Enterprise Account Executive, AI SaaS Sales (Remote - US)",
+   "location": "Orlando, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-ai-saas-sales-remote-us-at-yelp-4466428758",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "55cd9ea64c373197"
+  },
+  {
+   "source": "linkedin",
+   "company": "Yelp",
+   "title": "Enterprise Account Executive, AI SaaS Sales (Remote - US)",
+   "location": "Miami, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-ai-saas-sales-remote-us-at-yelp-4466415755",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "6b5c248069322051"
+  },
+  {
+   "source": "linkedin",
+   "company": "Brex",
+   "title": "Enterprise Account Executive II",
+   "location": "Seattle, WA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-ii-at-brex-4447093870",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "0c585231948ea8e1"
+  },
+  {
+   "source": "linkedin",
+   "company": "CloudZero",
+   "title": "Enterprise Account Executive - West",
+   "location": "San Francisco Bay Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-west-at-cloudzero-4419560532",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "9fb2d27e04247d78"
+  },
+  {
+   "source": "linkedin",
+   "company": "Braintrust",
+   "title": "Enterprise Account Executive (West Region)",
+   "location": "Seattle, WA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-west-region-at-braintrust-4457037631",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "73aa69cd823e6a75"
+  },
+  {
+   "source": "linkedin",
+   "company": "Serval",
+   "title": "Enterprise Account Executive",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-serval-4438361847",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "9e4f8d0d4ed9e4a6"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cohesity",
+   "title": "Sr. Strategic Account Executive",
+   "location": "Austin, Texas Metropolitan Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-strategic-account-executive-at-cohesity-4466344710",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "9f92395881412ad5"
+  },
+  {
+   "source": "linkedin",
+   "company": "Benchling",
+   "title": "Enterprise Account Executive",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-benchling-4438888485",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "acd3c7345c33c01e"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cohesity",
+   "title": "Senior Strategic Account Executive",
+   "location": "Greater Savannah Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-strategic-account-executive-at-cohesity-4441242191",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "9719d93bda98e591"
+  },
+  {
+   "source": "linkedin",
+   "company": "MongoDB",
+   "title": "Enterprise Account Executive, Growth",
+   "location": "Boston, MA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-growth-at-mongodb-4430714438",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b759d34a044dd2e8"
+  },
+  {
+   "source": "linkedin",
+   "company": "Ping Identity",
+   "title": "Strategic Account Executive",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/strategic-account-executive-at-ping-identity-4447515667",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "163300a596b952cd"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Solutions Architect, Enterprise Greenfield",
+   "location": "Arlington, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-architect-enterprise-greenfield-at-amazon-web-services-aws-4465821585",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "995a23d335ea44a6"
+  },
+  {
+   "source": "linkedin",
+   "company": "Nasuni",
+   "title": "Senior Solutions Engineer",
+   "location": "Seattle, WA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-nasuni-4475335477",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "ac3b818d84b253f0"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Sr. Technical Account Manager, PlusTAM (SDO)",
+   "location": "Atlanta, GA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-technical-account-manager-plustam-sdo-at-amazon-web-services-aws-4455900908",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "ed18f9074e68a812"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Sr. Technical Account Manager, PlusTAM (SDO)",
+   "location": "Arlington, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-technical-account-manager-plustam-sdo-at-amazon-web-services-aws-4455910860",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "a52d7b851d610140"
+  },
+  {
+   "source": "linkedin",
+   "company": "Chainguard",
+   "title": "Senior Partner Manager - Northeast",
+   "location": "Massachusetts, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-partner-manager-northeast-at-chainguard-4473192689",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "partner manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f12d22e488f09656"
+  },
+  {
+   "source": "linkedin",
+   "company": "Intuit",
+   "title": "Staff Strategic Partnerships Manager",
+   "location": "Charlotte, NC (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/staff-strategic-partnerships-manager-at-intuit-4475338494",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "partnerships manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "c836b49282fe0ac3"
+  },
+  {
+   "source": "linkedin",
+   "company": "Varonis",
+   "title": "Sales Engineer",
+   "location": "Boston, MA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sales-engineer-at-varonis-4473946414",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "7c806c679b8a9529"
+  },
+  {
+   "source": "linkedin",
+   "company": "Nokia",
+   "title": "Technical Sales Engineer",
+   "location": "Coppell, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/technical-sales-engineer-at-nokia-4464293453",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "technical sales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "13158b1edb45c5df"
+  },
+  {
+   "source": "linkedin",
+   "company": "Hyve Solutions",
+   "title": "Field Sales Engineer",
+   "location": "Seattle, WA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/field-sales-engineer-at-hyve-solutions-4457545306",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "4eec1b22aa80eb71"
+  },
+  {
+   "source": "linkedin",
+   "company": "Leica Biosystems",
+   "title": "Solutions Architect - Digital Pathology",
+   "location": "Dallas, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-architect-digital-pathology-at-leica-biosystems-4445051395",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "27986cf1b37719eb"
+  },
+  {
+   "source": "linkedin",
+   "company": "Netskope",
+   "title": "Solutions Engineer",
+   "location": "New York, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-netskope-4438829797",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "069ff8edbe7d5075"
+  },
+  {
+   "source": "linkedin",
+   "company": "Stark Tech",
+   "title": "Sales Engineer II",
+   "location": "Orlando, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sales-engineer-ii-at-stark-tech-4390304744",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f48692186f81e521"
+  },
+  {
+   "source": "linkedin",
+   "company": "RG&T Solutions",
+   "title": "Technical Sales Engineer",
+   "location": "Milwaukee, WI (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/technical-sales-engineer-at-rg-t-solutions-4482686304",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "technical sales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "c3f3375993eabf35"
+  },
+  {
+   "source": "linkedin",
+   "company": "Varonis",
+   "title": "Inside Sales Engineer",
+   "location": "United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/inside-sales-engineer-at-varonis-4457051996",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e14b57eea5d62175"
+  },
+  {
+   "source": "linkedin",
+   "company": "SHI International Corp.",
+   "title": "Field Solutions Engineer - Public Sector",
+   "location": "Arizona, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/field-solutions-engineer-public-sector-at-shi-international-corp-4454116989",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "30789f336e50cb61"
+  },
+  {
+   "source": "linkedin",
+   "company": "Superblocks",
+   "title": "Pre-Sales Engineer",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/pre-sales-engineer-at-superblocks-4483358015",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "pre-sales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "4215344ce35a82e1"
+  },
+  {
+   "source": "linkedin",
+   "company": "Eaton",
+   "title": "Inside Sales Engineer",
+   "location": "Indianapolis, IN (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/inside-sales-engineer-at-eaton-4464700366",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "3c8787abd8961456"
+  },
+  {
+   "source": "linkedin",
+   "company": "Captiveaire - Region 114 Western PA",
+   "title": "Technical Inside Sales Engineer",
+   "location": "Tampa, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/technical-inside-sales-engineer-at-captiveaire-region-114-western-pa-4483384459",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "662e781f38c7e0e2"
+  },
+  {
+   "source": "linkedin",
+   "company": "Watson-Marlow - North America",
+   "title": "BioPharm Sales Engineer - Texas",
+   "location": "Texas, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/biopharm-sales-engineer-texas-at-watson-marlow-north-america-4463920557",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "8e8aef82bbc05914"
+  },
+  {
+   "source": "linkedin",
+   "company": "Relay",
+   "title": "Solutions Engineer",
+   "location": "Raleigh, NC (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-relay-4414270949",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "4c8e4c7444b5623a"
+  },
+  {
+   "source": "linkedin",
+   "company": "Dash0",
+   "title": "Commercial Solutions Engineer - US, Remote",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/commercial-solutions-engineer-us-remote-at-dash0-4400402336",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "30279bf926906d22"
+  },
+  {
+   "source": "linkedin",
+   "company": "REAL",
+   "title": "CRE Solutions Engineer",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/cre-solutions-engineer-at-real-4483366525",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "54274785829a0cdd"
+  },
+  {
+   "source": "linkedin",
+   "company": "Salesforce",
+   "title": "Solution Engineer, MuleSoft - Salesforce National Security",
+   "location": "McLean, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solution-engineer-mulesoft-salesforce-national-security-at-salesforce-4420477864",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solution engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f2c3d4d6c7bb4d36"
+  },
+  {
+   "source": "linkedin",
+   "company": "Microsoft",
+   "title": "Solution Engineer - AI Workforce",
+   "location": "United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solution-engineer-ai-workforce-at-microsoft-4457821435",
+   "posted": "2026-10-25T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solution engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "8a53a4f0a4f1beac"
+  },
+  {
+   "source": "linkedin",
+   "company": "LS Solutions",
+   "title": "Solutions Engineer",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-engineer-at-ls-solutions-4483344102",
+   "posted": "2026-10-24T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 61,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "7a1ac9e46f8e0402"
+  }
+ ]
+}
