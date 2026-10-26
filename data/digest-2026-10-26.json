@@ -1,0 +1,442 @@
+{
+ "generated_at": "2026-10-26T18:49:13.689402+00:00",
+ "counts": {
+  "fetched": 15718,
+  "fresh_matches": 16,
+  "in_digest": 16,
+  "boards_ok": 124,
+  "boards_failed": 5
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 206,
+  "title not relevant": 1857,
+  "rejected title": 1454,
+  "onsite outside Portland": 408,
+  "non-US location": 538
+ },
+ "jobs": [
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Senior RevOps Technologist",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8306604?gh_jid=8306604",
+   "posted": "2026-10-26T12:52:58-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Location:&nbsp;</strong></span></p> <ul> <li style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>Preferred Locations:</strong> San Francisco, Austin, NYC OR Remote</span></li> </ul> <h2><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\"><strong>About the Role&nbsp;</strong></span></h2> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">Cloudflare\u2019s GTM organization is scaling rapidly, and its RevOps tech stack must scale with it. We are hiring a RevOps Technologist to shape future-state workflows and move our RevOps technology roadmap from strategy and prototype toward secure, scalable execution.</span></p> <p><span style=\"font-family: arial, helvetica, sans-serif; font-size: 12pt;\">This senior individual contributor will combine deep Sales and Revenue Operations expertise with the hands-on technical fluency to identify strategic solutions and simplified workflows. You'll report directly to the Director of RevTech Strategy &amp; Operations, and be the senior counterpart to our business partners, IT, Procurement, Engineering, Security &amp; Privacy, to ensure our systems are optimized, and governed.</span></p> <p><span style=\"font-family: arial, helveti",
+   "ats": "greenhouse",
+   "score": 85,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "revops"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "smb",
+    "b2b",
+    "partner",
+    "ai",
+    "automation",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "8beb000a9bfbb8f7"
+  },
+  {
+   "source": "ashby",
+   "company": "ramp",
+   "title": "Senior Channel Partner Manager | Private Equity",
+   "location": "New York, NY (HQ) (Remote)",
+   "url": "https://jobs.ashbyhq.com/ramp/9bdecd09-5a15-47d1-83bc-21cf86a54d02",
+   "posted": "2026-10-26T16:34:00.360000+00:00",
+   "description": "About Ramp Ramp is building the smart infrastructure for finance teams, embedded in the transaction flow of every dollar a business spends. We automate how over $275B in annualized spend flows in and out of 85,000+ companies: authorizing payments, flagging risk, categorizing spend, and closing books. The problems are high-stakes, data-dense, and unforgiving. We hire people with high agency and high urgency. We look for slope over intercept. We care less about where you trained and more about what you\u2019ve built. At Ramp, everyone is a builder who owns problems end to end and makes consequential decisions that shape the outcome. The median Ramp customer saves 7.5% and grows revenue 16% in their first year \u2013 far in excess of businesses operating without Ramp. We believe every ambitious company deserves the same. If you want to build systems that directly shape how companies move and manage billions, Ramp is the place to do it. About the Role Ramp is building the Private Equity channel into one of the company's most significant sources of enterprise growth. Sponsors and their operating teams shape how portfolio companies run finance, and when they standardize on a platform, they do it across dozens of companies at once. This role will be focused on managing the largest funds in the market. You will own a book of the most strategic PE firms Ramp works with, many of which have multiple investment investment strategies, fund vehicles, and GP stakes businesses under a single name. Each one likely has a different operating partner for each strategy, a deal team with its own relationships, and portfolio CFOs who make the final call. Your job is to know all of them, keep every thread moving, and turn that access into measurable adoption across their portfolios. It is a high-volume, high-stakes book. The work is relentless relationship management paired with genuine commercial discipline, and it carries the highest CP goal on the channel team. There are only a handful of these seats at Ramp, and real executive visibility comes with them. What You'll Do Own a book of upmarket and megafund PE partners, serving as their primary relationship owner at Ramp. Multi-thread across each firm: operating partners by strategy, deal teams, platform and portfolio operations leaders, and portfolio-company CFOs. Run disciplined portfolio analysis to find where Ramp can create value, and work with Account Executives to convert that into pipeline. Generate and own qualified pipeline against an aggressive CP target, prioritizing the large opportunities that move the number. Negotiate custom partnership structures where they make sense, including adoption commitments, and hold the line where terms do not work for Ramp. Partner with Events, Growth, Marketing, and Finance to deliver sponsorships, webinars, executive dinners and the collateral your partners ask for. Build and maintain the operating system behind the book: relationship maps, portfolio analysis, follow-ups and next st",
+   "ats": "ashby",
+   "salary": "$194K \u2013 $297K \u2022 Offers Equity \u2022 Offers Commission \u2022 70/30 split",
+   "score": 81,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "partner manager"
+   ],
+   "matched_skills": [
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "e0b3540c66249c94"
+  },
+  {
+   "source": "ashby",
+   "company": "elevenlabs",
+   "title": "Hyperscaler & Systems Integrator Partner Manager (North America)",
+   "location": "Remote",
+   "url": "https://jobs.ashbyhq.com/elevenlabs/27e92957-374f-409a-b787-166b10e0f042",
+   "posted": "2026-10-26T16:41:08.291000+00:00",
+   "description": "About ElevenLabs ElevenLabs is an AI research and product company transforming how we interact with technology. We launched in January 2023 with the first human-like AI voice model. Today, we serve millions of users and thousands of businesses - from fast-growing startups to large enterprises like Deutsche Telekom and Meta. Our investors are some of the world's most prominent, including Andreessen Horowitz, ICONIQ Growth and Sequoia. We've raised $781M in funding and our last valuation was $22B - multiples of 11, always. We have expanded from voice into three main platforms: ElevenAgents enables businesses to deliver seamless and intelligent customer experiences, with the integrations, testing, monitoring, and reliability necessary to deploy voice and chat agents at scale. ElevenCreative empowers creators and marketers to generate and edit speech, music, image, and video across 70+ languages. ElevenAPI gives developers access to our leading AI audio foundational models. Everything we do is the result of the creativity and commitment of our team - builders doing the best work of their lives. We are researchers, engineers, and operators. IOI medalists and ex-founders. If you want to work hard and create lasting positive impact, we want to hear from you. How we work High-velocity: Rapid experimentation, lean autonomous teams, and minimal bureaucracy. Impact not job titles: We don\u2019t have job titles. Instead, it\u2019s about the impact you have. No task is above or beneath you. AI first: We use AI to move faster with higher-quality results. We do this across the whole company\u2014from engineering to growth to operations. Excellence everywhere: Everything we do should match the quality of our AI models. Global team: We prioritize your talent, not your location. What we offer Innovative culture: You\u2019ll be part of a generational opportunity to define the trajectory of AI, surrounded by a team pushing the boundaries of what\u2019s possible. Growth paths: Joining ElevenLabs means joining a dynamic team with countless opportunities to drive impact - beyond your immediate role and responsibilities. Learning & development : ElevenLabs proactively supports professional development through an annual discretionary stipend. Social travel : We also provide an annual discretionary stipend to meet up with colleagues each year, however you choose. Annual company offsite: Each year, we bring the entire team together in a new location - past offsites have included Croatia and Italy. Co-working : If you\u2019re not located near one of our main hubs, we offer a monthly co-working stipend. About the role We\u2019re looking for an experienced partnerships leader to own and scale ElevenLabs\u2019 strategic relationships with cloud hyperscalers and Systems Integrators, the companies whose platforms, field teams and delivery capacity sit at the heart of how enterprises buy and deploy voice and customer experience AI. You\u2019ll build and manage co-sell and marketplace programmes with AWS, Microsoft Azure and",
+   "ats": "ashby",
+   "salary": null,
+   "score": 80,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "partner manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "azure",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "north america",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "c36c14bbe3e1b42b"
+  },
+  {
+   "source": "greenhouse",
+   "company": "zoominfo",
+   "title": "Manager, GTM Engineering (Professional Services)",
+   "location": "Waltham, Massachusetts, United States",
+   "url": "https://www.zoominfo.com/careers?gh_jid=8880471002",
+   "posted": "2026-10-26T14:01:24-04:00",
+   "description": "<div class=\"content-intro\"><p>ZoomInfo is where careers accelerate. We move fast, think boldly, and empower you to do the best work of your life. You\u2019ll be surrounded by teammates who care deeply, challenge each other, and celebrate wins. With tools that amplify your impact and a culture that backs your ambition, you won\u2019t just contribute. You\u2019ll make things happen fast.</p></div><p>&nbsp;</p> <p><strong>Manager, GTM Engineering (Professional Services)</strong></p> <p>&nbsp;</p> <p>As a Manager, GTM Engineering within the Professional Services arm of ZoomInfo, you will lead a high-performing pod of senior GTM engineering and consulting talent, and own the capacity, quality, and commercial performance of the GTM Engineering professional services sub-discipline. You will set technical delivery standards, drive staffing and hiring strategy, and partner with Sales, Product, Engineering, and practice leadership to ensure that complex enterprise build engagements are scoped, staffed, and delivered successfully.&nbsp;</p> <p>ZI Professional Services partners with ZoomInfo's most strategic enterprise customers to modernize their GTM motions through comprehensive advisory and execution services spanning enterprise GTM strategy, advanced data architecture, account intelligence, demand generation, and operational enablement. As a Manager, GTM Engineering, you ensure that Professional Services delivers technically excellent, commercially sound, and scalable solutions while building a high-performing, growing team. <br><br>We are looking for a seasoned consulting people leader and trusted C-suite advisor who excels in high-stakes enterprise environments, drives large figure services bookings, and is passionate about scaling professional services operations. As a Manager, GTM Engineering you will manage day-to-day operations for your team, own their capacity planning and utilization, shape pre-sales strategy, serve as an escalation point on critical engagements, and partner with GTM Consulting leadership to ensure seamless collaboration across both sub-disciplines.</p> <p><strong>What You'll Do:</strong></p> <ul> <li>Lead, manage, and develop a high-performing GTM Engineer team, including Team Leads, Senior GTM Engineers, and Principal GTM Engineers, through regular one-on-ones, performance feedback, career planning, and promotion advocacy.</li> <li>Own capacity planning, utilization, and staffing across active engagements and the pre-sales pipeline, balancing customer commitments, team workload, and growth priorities.</li> <li>Partner with Sales leadership and account teams on pre-sales technical strategy, scoping standards, pricing and hour estimation, and enterprise SOW review for build-oriented engagements.</li> <li>Serve as the escalation point for the most complex or at-risk engagements, intervening on scope, staffing, solution architecture, and customer relationship issues.</li> <li>Set and enforce delivery standards for solution design, build quality, ",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "gtm engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "hubspot",
+    "crm",
+    "enterprise",
+    "b2b",
+    "partner",
+    "ai",
+    "agentic",
+    "automation",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "8953e35ac12f4d18"
+  },
+  {
+   "source": "greenhouse",
+   "company": "knowbe4",
+   "title": "Sales Engineer (LATAM) (Remote)",
+   "location": "Remote",
+   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8673949002",
+   "posted": "2026-10-26T08:29:42-04:00",
+   "description": "<div class=\"content-intro\"><p>KnowBe4 empowers the modern workforce to make smarter security decisions every day. Trusted by more than 70,000 organizations worldwide, KnowBe4 is the pioneer of digital workforce security, securing both AI agents and humans. The KnowBe4 Platform provides attack simulation and training, collaboration security, and agent security powered by AIDA (Artificial Intelligence Defense Agents) and a proprietary Risk Score. The platform leverages 15-years of behavioral data to combat advanced threats including social engineering, prompt injection, and shadow AI. By securing humans and agents, KnowBe4 leads the industry in workforce trust and defense.</p></div><p><strong data-stringify-type=\"bold\"><img style=\"max-width: 100%;\" src=\"https://www.knowbe4.com/hubfs/Careers/EXTERNAL%20LINKS%20-%20Do%20Not%20Delete/USA.jpg\" alt=\"\" width=\"455\"><strong><img style=\"max-width: 100%;\"></strong></strong></p> <p><strong>Remote positions open in the US office only.</strong></p> <p><strong data-stringify-type=\"bold\">The Opportunity</strong><br>As a <strong>Sales Engineer supporting the LATAM region</strong>, you'll be the trusted expert who bridges the gap between what prospects need and what our product delivers\u2014turning technical features into clear business value during every sales conversation. Partnering closely with Account Executives dedicated to Latin America, you'll support the end-to-end sales process: conducting engaging product demonstrations in Spanish, addressing technical questions, leading proof-of-value engagements, and helping regional customers understand why our solution is the right fit. The successful candidate is naturally curious about technology, thrives on helping others understand complex concepts, and takes genuine pride in being the technical resource that drives growth across LATAM.</p> <div class=\"p-workspace__primary_view_body\"> <div class=\"p-message_pane p-message_pane--classic-nav p-message_pane--scrollbar-float-adjustment p-message_pane--with-bookmarks-bar\" data-qa=\"message_pane\"> <div id=\"message-list\"> <div id=\"message-list\" class=\"c-virtual_list c-virtual_list--scrollbar c-message_list c-scrollbar c-scrollbar--fade\"> <div class=\"c-scrollbar__hider\" data-qa=\"slack_kit_scrollbar\"> <div class=\"c-scrollbar__child\"> <div class=\"c-virtual_list__scroll_container\" data-qa=\"slack_kit_list\"> <div id=\"message-list_1764685731.353589\" class=\"c-virtual_list__item\" data-qa=\"virtual-list-item\" data-item-key=\"1764685731.353589\"> <div class=\"c-message_kit__background p-message_pane_message__message c-message_kit__message\" data-qa=\"message_container\" data-qa-unprocessed=\"false\" data-qa-placeholder=\"false\"> <div class=\"c-message_kit__hover\" data-qa-hover=\"true\"> <div class=\"c-message_kit__actions c-message_kit__actions--default\"> <div class=\"c-message_kit__gutter\"> <div class=\"c-message_kit__gutter__right\" data-qa=\"message_content\"> <div class=\"c-message_kit__blocks c-message_kit__blocks--rich_text\"> <div class=\"c-message__m",
+   "ats": "greenhouse",
+   "score": 76,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "msp",
+    "cybersecurity",
+    "channel",
+    "partner",
+    "ai",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "779713d88b374030"
+  },
+  {
+   "source": "greenhouse",
+   "company": "zscaler",
+   "title": "Account Executive, Commercial - Ohio",
+   "location": "Remote - Ohio, USA",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5273283007",
+   "posted": "2026-10-26T12:18:00-04:00",
+   "description": "<div class=\"content-intro\"><p data-pm-slice=\"1 1 []\">Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform.</p> <p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p></div><p data-path-to-node=\"1\">We are looking for an Account Executive based in Ohio to join our Sales and Go-to-Market team, reporting to the Regional Director. The Zscaler Sales and Go-to-Market team is a global group of professionals passionate about driving a secure, cloud-enabled digital future. You will demonstrate the power and agility of Zscaler cloud transformation to the world while cementing our position as the global leader in cloud security.</p> <p data-path-to-node=\"2\"><strong data-path-to-node=\"2\" data-index-in-node=\"0\">What you\u2019ll do (Role Expectations)</strong></p> <ul data-path-to-node=\"3\"> <li> <p data-path-to-node=\"3,0,0\">Build relationships with important internal and customer stakeholders, including c-suite decision-makers</p> </li> <li> <p data-path-to-node=\"3,1,0\">Create a long-term account strategy aligned with customer goals</p> </li> <li> <p data-path-to-node=\"3,2,0\">Collaborate with our teams to meet customer needs and contribute to account planning</p> </li> <li> <p data-path-to-node=\"3,3,0\">Be a trusted advisor, understanding client businesses and aligning Zscaler solutions with their goals</p> </li> </ul> <p data-path-to-node=\"4\"><strong data-path-to-node=\"4\" data-index-in-node=\"0\">Who You Are (Success Profile)</strong></p> <ul data-path-to-node=\"5\"> <li> <p data-path-to-node=\"5,0,0\">You thrive in ambiguity. You're comfortable building the path as you walk it. You thrive in a dynamic environment, seeing ambiguity not as a hindrance, but as the raw material to build something meaningful.</p> </li> <li> <p data-path-to-node=\"5,1,0\">You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. True ownership involves leveraging dynamic range: the ability to navigate seamlessly between high-level strategy and hands-on executio",
+   "ats": "greenhouse",
+   "score": 74,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "llm",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "87046cd21894e8ba"
+  },
+  {
+   "source": "ashby",
+   "company": "vanta",
+   "title": "Account Executive, Federal Civilian",
+   "location": "Remote U.S. (Remote)",
+   "url": "https://jobs.ashbyhq.com/vanta/cecaa30a-37a2-42aa-980e-ca44db8fdb34",
+   "posted": "2026-10-26T17:33:16.720000+00:00",
+   "description": "At Vanta, our mission is to help businesses earn and prove trust. We believe that security should be monitored and verified continuously, and we empower companies to practice better security and prove it with ease. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it. As an Account Executive, Federal Civilian at Vanta, you will be responsible for driving a significant share of revenue by guiding new business and growth with federal civilian agencies. Reporting directly to the Head of Public Sector, this is a highly visible role that requires cross-functional collaboration, strategic vision, and operational execution. Vanta\u2019s public sector efforts are growing quickly and we are looking for a passionate, results-oriented, and collaborative sales executive who has a proven track-record of closing complex, multi-stakeholder federal deals within federal markets. Vanta has a kind and talented team, and while some have prior security experience, many have been successful at Vanta without it. What you\u2019ll do as a Account Executive, Federal Civilian at Vanta: Working alongside the Head of Public Sector and other Federal AEs, help develop and execute a comprehensive strategy to build, maintain, and expand Vanta for Government business across priority civilian agencies. As an individual contributor, proactively work to cultivate, pursue, and capture federal civilian sales opportunities. Serve as the primary point of contact between Vanta and key federal civilian accounts, and represent Vanta\u2019s Sales Team at industry events and conferences. Work cross-functionally to drive the sales and implementation of complex contracts, services, and solutions, with the ability to close sales through effective sales and negotiation methods. Be a builder who takes a \u201cno job too small, no job too big\u201d approach to creating a durable, repeatable, and scalable federal sales motion. Beyond selling, you will work cross-functionally to help create marketing materials, build relationships with key channel partners, and streamline GTM ops. Establish and grow strategic relationships with federal decision-makers, systems integrators, and technology partners to expand access and accelerate deals. Serve as a subject matter expert on the federal civilian market, helping inform Vanta\u2019s product roadmap, pricing strategy, service delivery, and positioning to meet customer needs. How to be successful in this role: 8+ years of progressive enterprise sales experience, including at least 4 years selling to federal government agencies within a SaaS company. Experience working in the federal government is a plus. Entrepreneurial mindset that biases to action and leads with resilience through a fast-moving, complex, and collaborative environment. Strong understanding of the federal government sales cycle, federal procurement landscape, including contract vehicles, compliance requirements (e.g., FedRAMP), acquisition regula",
+   "ats": "ashby",
+   "salary": "$278K \u2013 $327K \u2022 Offers Equity \u2022 This role is also eligible for medical benefits, 401(k) plan, and other company perk programs.",
+   "score": 74,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "9668988b3714dd85"
+  },
+  {
+   "source": "ashby",
+   "company": "openai",
+   "title": "Forward Deployed Engineer (FDE) - AI Infra - SF",
+   "location": "San Francisco (Remote)",
+   "url": "https://jobs.ashbyhq.com/openai/7472e486-0aa6-4f9d-86da-2105a42b2dce",
+   "posted": "2026-10-26T17:45:52.245000+00:00",
+   "description": "About the team OpenAI\u2019s Forward Deployed Engineering team partners with customers to turn research breakthroughs into production systems. We operate at the intersection of customer delivery and core platform development. About the role Forward Deployed Engineers lead complex deployments of frontier models in production. You will embed with customers where model performance matters, delivery is urgent, and ambiguity is the default. You will use this to map their problems, structure delivery, and ship fast. As a Forward Deployed Engineer for AI Infra, you will work directly with customer engineers, researchers and product engineers on optimization problems across semiconductors and AI infrastructure. You will write and debug software, run experiments against real workloads and hardware, and improve the tools and product used across engagements. You will help define the problem and success criteria, build the software needed to test an approach, and stay with the work through validation and deployment. Work may include inference performance and chip-design optimization. Success means producing results that stand up to correctness and performance checks, and contributing improvements that other engagements can use. Success in this role means owning the delivery state across workstreams. You will hold the bar on quality and pace and help OpenAI learn through execution. This role is based in San Francisco. We use a hybrid work model of 3 days in the office per week. We offer relocation assistance. Travel up to 50% is required. In this role, you will: Own technical delivery for agreed semiconductor and AI-infrastructure workstreams, from initial scoping and prototypes through validation, production deployment and adoption. Work closely with customer engineers to understand their workflows and constraints, define workloads, baselines and success criteria, and help what you build become part of how they work. Scope and sequence delivery , identify dependencies and blockers early, and make practical trade-offs between scope, speed and quality as the work develops. Personally build and debug production-quality software , including harnesses, integrations and product features that apply frontier models to problems in chip design, verification, inference and performance engineering. Design reproducible experiments, evaluations, graders and benchmarks to test approaches, validate correctness and performance, and establish whether improvements hold up in real engineering environments. Investigate model behavior and failure modes alongside researchers , contributing evaluation or training data and targeted experiments where they can improve the underlying capability. Contribute directly to core product development , working with product engineers to resolve tooling gaps, ship useful improvements and bring field learning into product decisions. Lead technical discussions and maintain alignment across customer, Product and Research teams. Build the domain and prod",
+   "ats": "ashby",
+   "salary": "$185K \u2013 $300K \u2022 Offers Equity",
+   "score": 70,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "forward deployed engineer"
+   ],
+   "matched_skills": [
+    "partner",
+    "ai",
+    "llm",
+    "semiconductor"
+   ],
+   "resume": "generic",
+   "id": "f9eb6160627d93ee"
+  },
+  {
+   "source": "ashby",
+   "company": "openai",
+   "title": "VC Partnerships Manager",
+   "location": "San Francisco (Remote)",
+   "url": "https://jobs.ashbyhq.com/openai/83ac3381-99c0-46a0-897c-abcd8699b466",
+   "posted": "2026-10-26T17:36:08.958000+00:00",
+   "description": "About the Team OpenAI\u2019s mission is to build safe artificial general intelligence (AGI) which benefits all of humanity. This long-term undertaking brings the world\u2019s best scientists, engineers, and business professionals into one lab together to accomplish this. In pursuit of this mission, our Go To Market (GTM) team is responsible for helping customers learn how to leverage and deploy our highly capable AI products across their business. The team is made of Sales, Solutions, Support, Marketing, and Partnership professionals that work together to create valuable solutions that will help bring AI to as many users as possible. About the Role OpenAI is seeking a highly motivated and experienced VC Partnerships Manager to join our Startups Go To Market team. You will play a critical role in managing relationships with top venture capital funds and startup accelerators, with the goal of providing exceptional support to the portfolio companies of these funds. We believe that many of the most disruptive and category-defining AI applications will be created by startups. The Startup Go To Market team\u2019s mission is to help startups harness the power of AI models to drive these advances. You will support startups across stages with resources that help them get started with OpenAI APIs and build quickly, and provide access to OpenAI teams, community, and expertise to support their growth. This role is a mixture of technical understanding, vision, partnership, and strategy. You\u2019ll be responsible for forming and managing partnerships with top venture investors, accelerators, and other partners in the startup ecosystem, as well as working across the OpenAI organization to help startups accelerate their progress and be successful using our models. You\u2019ll work cross-functionality with product, research, engineering, marketing, support, and solutions architecture to help customers get the most out of our models. This role is based in our San Francisco office. We use a hybrid work model (3 days/week in the office) and offer relocation assistance for new employees. In this role, you will: Manage and develop a set of partner-level relationships with top venture capital funds, startup accelerator programs, and other external partners in the startup ecosystem. Develop strategies to drive adoption of OpenAI\u2019s models among thousands of startups and ensure companies have the resources they need to build quickly and effectively using OpenAI\u2019s models. Identify opportunities for 1:many engagements and events for founders, and execute in collaboration with VC firm and internal teams. Provide technical guidance to startups in 1:1 engagements, in partnership with internal technical teams. Represent OpenAI at startup ecosystem events and speaking engagements. Analyze key metrics within startup portfolios and create reports and provide insights to internal and external stakeholders. Contribute to the development of programs and strategic initiatives focused on startup customers. Se",
+   "ats": "ashby",
+   "salary": "$302K \u2013 $352K \u2022 Offers Equity",
+   "score": 66,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "partnerships manager"
+   ],
+   "matched_skills": [
+    "partner",
+    "ai"
+   ],
+   "resume": "generic",
+   "id": "7295a9bc1034655a"
+  },
+  {
+   "source": "greenhouse",
+   "company": "attentive",
+   "title": "Sales Development Representative",
+   "location": "United States",
+   "url": "https://job-boards.greenhouse.io/attentive/jobs/4121033009",
+   "posted": "2026-10-26T14:18:33-04:00",
+   "description": "<div class=\"content-intro\"><div>Attentive\u00ae is the AI marketing platform for 1:1 personalization redefining the way brands and people connect. We\u2019re the only marketing platform that combines powerful technology with human expertise to build authentic customer relationships. By unifying SMS, RCS, email, and push notifications, our AI-powered personalization engine delivers bespoke experiences that drive performance, revenue, and loyalty through real-time behavioral insights.</div> <div>&nbsp;</div> <div>Recognized as the&nbsp;#1&nbsp;provider in SMS Marketing by G2, Attentive partners with more than 8,000 customers across 70+ industries. Leading global brands like Crate and Barrel, Urban Outfitters, and Carter\u2019s work with us to enable billions of interactions that power tens of billions in revenue for our customers.</div> <div>&nbsp;</div> <div>With a distributed global workforce and employee hubs in New York City, San Francisco, London, and Sydney, Attentive\u2019s team has been consistently recognized for its performance and culture. We\u2019re proud to be included in&nbsp;<a href=\"https://www.deloitte.com/content/dam/assets-zone3/us/en/docs/services/deloitte-private/2025/us-2024-technology-fast-500-rankings.pdf\">Deloitte\u2019s Fast 500</a>&nbsp;(four years running!),&nbsp;<a href=\"https://www.attentive.com/blog/attentive-ranked-8-on-linkedins-2020-top-startups-list-in-the-united-states\">LinkedIn\u2019s Top Startups</a>,&nbsp;<a href=\"https://www.forbes.com/lists/cloud100/\">Forbes\u2019 Cloud 100</a> (five years running!),&nbsp;<a href=\"https://www.inc.com/best-workplaces/2025\">Inc.\u2019s Best Workplaces</a>, and the&nbsp;<a href=\"https://www.hrc.org/resources/corporate-equality-index\" target=\"_blank\">Human Rights Campaign Foundation's Corporate Equality Index</a>!</div></div><p><strong>**While we don't have an immediate opening on our team today, we are growing quickly and always looking for exceptional talent. By applying to this Future Openings post, you are joining our proactive talent community. When a position opens up, our recruiting team will look here first.**</strong></p> <p><strong>About the Role</strong></p> <p>We are looking for a Sales Development Representative to book meetings with brands we want to do business with. As the first line of communication with prospects, SDRs have a strong understanding of our sales process, excel at researching leads, facilitating new relationships, and setting our Account Executives up for success. You will coordinate cross-functionally with sales and marketing to bridge the gap between product and revenue.</p> <div>This is a remote-friendly role with offices in New York and San Francisco. Candidates who live outside of the SF or NY areas can have the option to work out of any coworking space of their choice.</div> <p><strong>What You\u2019ll Accomplish</strong></p> <ul> <li>Research and identify potential customers for our multi-product ai powered solution&nbsp;</li> <li>Send outreach via email and LinkedIn as well as make outboun",
+   "ats": "greenhouse",
+   "score": 61,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "sales development representative"
+   ],
+   "matched_skills": [
+    "cloud",
+    "partner",
+    "ai",
+    "outbound"
+   ],
+   "resume": "generic",
+   "id": "2a0a6d8b6e1b07ae"
+  },
+  {
+   "source": "ashby",
+   "company": "ashby",
+   "title": "SMB Customer Success Manager - Americas",
+   "location": "Remote - US (Remote)",
+   "url": "https://jobs.ashbyhq.com/ashby/dd3601fc-3a21-467b-aaff-43fceb65864b",
+   "posted": "2026-10-26T15:03:46.912000+00:00",
+   "description": "Hello! I\u2019m Jared \ud83d\udc4b I joined Ashby four years ago as the first member of the Startup Customer Success team. Since then, I have been a part of building out the onboarding and success functions across our entire startup segment. Today, we\u2019re a team of fifteen spanning across the US, Canada, and EMEA. I am so excited to be hiring another SMB Customer Success Manager in the US or Canada \ud83c\udf89. Our SMB Customer Success Team serves our early-stage customers programmatically. These customers are special to us because they aren\u2019t just learning our software; they are learning how to build hiring excellence into the DNA of their growing organizations. Our SMB Customer Success Managers create high-quality onboarding materials, documentation, and e-webinars that enable our customers to get up and running independently. They also jump in to assist via email and customer calls when needed. This is a mid-level role, so we require at least 2 years of experience as a full-time SMB Customer Success Manager, Account Manager, or Program Manager. In this role, you\u2019ll take ownership of a book of customers for whom you\u2019d be the main point of contact in our shared inbox and hop on customer calls per our SLAs. You\u2019ll also take ownership of medium and large projects that are core to our team\u2019s operations. Existing projects our team has taken on include: Building an in-app onboarding experience using Amplitude Creation of a live, foundational webinar series + recorded content Building retention best practices into our engagement with customers that extend well beyond just onboarding You should apply if: You have 2+ years of customer-facing experience supporting a complex and rapidly evolving product (for complexity, think tools like Zapier, HubSpot, and Acuity Scheduling). You enjoy becoming a subject matter and product expert to help deliver excellent experiences when assisting our customers in solving complex challenges. Oftentimes, there will be multiple solutions to any given challenge and you enjoy getting in the weeds with customers to figure out what exactly they need to suggest the best path forward. You\u2019re skilled at defining the scope of problems and creating comprehensive solutions independently and collaboratively. With a complex product comes complex problems - you are excellent at identifying an issue, mapping multiple paths forward, and taking action based on principled thinking. You possess keen attention to detail, ensuring your email and live responses are thorough, clear, and empathetic along the way. Solving the problem is sometimes only half the battle - you are gifted in extracting only the necessary details that our customers or our team members need to solve a problem. You have strong written and verbal communication skills. You effectively communicate with diverse user groups, whether partnering with an experienced TA leader developing the recruiting function at a Series A startup or instructing individuals who are new to recruiting SaaS tools. You are ",
+   "ats": "ashby",
+   "salary": "$80K \u2013 $138K \u2022 Offers Equity \u2022 Multiple Ranges",
+   "score": 59,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "customer success manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "hubspot",
+    "smb",
+    "partner",
+    "ai",
+    "emea"
+   ],
+   "resume": "generic",
+   "id": "573cd3dc24523ed2"
+  },
+  {
+   "source": "remoteok",
+   "company": "Aprio",
+   "title": "Accounting and Implementation Manager",
+   "location": " (Remote)",
+   "url": "https://remoteOK.com/remote-jobs/remote-accounting-and-implementation-manager-aprio-1137560",
+   "posted": "2026-10-23T08:00:05+00:00",
+   "description": "Work with a Top 20 CPA and advisory firm that Accounts for Anything. Aprio has 40 U.S. office locations, as well as international office locations and more than 3,200 team members that speak 60+ languages across the globe. By bringing together proven expertise, deep understanding, and strategic foresight for fast-growing industries, Aprio ensures clients are prepared for wherever life or business may take them. Discover a top-rated culture, vast growth opportunities and your next big career move with Aprio. Aprio is seeking an Aprio is seeking an Accounting and Implementation Manager to lead restaurant, franchise, and hospitality platform implementations, re-implementations, and optimization initiatives that connect accounting, operations, and technology. In this role, you will partner with clients and our accounting team to translate complex accounting and operational needs into practical configurations, integrations, workflows, controls, reporting structures, and training across platforms including Restaurant365 (R365), QuickBooks Online (QBO), Sage Intacct, and other industry-specific tools. You will serve as a trusted technology resource across the practice \u00e2\u0080\u0094 driving implementation quality, enabling team capability, and building a repeatable, scalable delivery model. This is a high-impact opportunity for a systems-minded professional who brings both accounting fluency and a practical approach to helping people get the most from their technology. \\n What You'll Gain/ Impact Clients will have platform environments that support reliable accounting, disciplined operations, strong controls, and sustainable growth Our accounting team will have the tools, training, documentation, and responsive support needed to serve clients efficiently across multiple platforms Implementations will move forward with clear ownership, clean master data, disciplined testing, timely decisions, and fewer surprises Your improvements will reduce manual work, strengthen operating data, and build a repeatable, high-value delivery capability across the practice Key Responsibilities Platform Implementation & Re-Implementation Lead implementations and re-implementations across restaurant, franchise, and hospitality platforms \u00e2\u0080\u0094 including R365, QBO, Sage Intacct, and other industry-specific tools \u00e2\u0080\u0094 from discovery and design through configuration, testing, cutover, and stabilization Partner with clients and our accounting team to translate accounting and operational needs into practical plans, system designs, and success criteria Configure and validate entities, locations, calendars, chart of accounts, reporting, user roles, approvals, banking, daily sales, AP, payroll, and inventory workflows Guide data readiness, testing, decisions, and go-live activities while helping the accounting team resolve issues that affect service delivery, close, and reporting Client Accounting & Financial Reporting Own accounting and financial reporting for assigned clients, including agreed-u",
+   "ats": "external",
+   "salary": "",
+   "score": 43,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "implementation"
+   ],
+   "matched_skills": [
+    "partner",
+    "ai",
+    "automation",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "df7f152534528cd1"
+  },
+  {
+   "source": "workday",
+   "company": "KLA",
+   "title": "Senior Supervisor",
+   "location": "Hillsboro, OR",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Senior-Supervisor_2640652",
+   "posted": "2026-10-19T18:49:13.689402+00:00",
+   "description": "",
+   "ats": "workday",
+   "score": 35,
+   "remote": false,
+   "portland": true,
+   "remote_in_listing": false,
+   "matched_title": [
+    "kla"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor",
+   "id": "19ccdcd96bc147f4"
+  },
+  {
+   "source": "workday",
+   "company": "KLA",
+   "title": "Senior Field Support Supervisor",
+   "location": "Hillsboro, OR",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Senior-Field-Support-Supervisor_2640428",
+   "posted": "2026-10-19T18:49:13.689402+00:00",
+   "description": "",
+   "ats": "workday",
+   "score": 35,
+   "remote": false,
+   "portland": true,
+   "remote_in_listing": false,
+   "matched_title": [
+    "kla"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor",
+   "id": "85fc1ed13d7fc8b6"
+  },
+  {
+   "source": "workday",
+   "company": "KLA",
+   "title": "Semiconductor Field Service Engineer",
+   "location": "Hillsboro, OR",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Semiconductor-Field-Service-Engineer---New-College-Grad_2642813-1",
+   "posted": "2026-10-20T18:49:13.689402+00:00",
+   "description": "",
+   "ats": "workday",
+   "score": 32,
+   "remote": false,
+   "portland": true,
+   "remote_in_listing": false,
+   "matched_title": [
+    "semiconductor",
+    "kla",
+    "field service engineer"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor",
+   "id": "b9d42bdb5096ddab"
+  },
+  {
+   "source": "workday",
+   "company": "KLA",
+   "title": "Field Support Technician",
+   "location": "Hillsboro, OR",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Hillsboro-OR/Field-Support-Technician_2640143",
+   "posted": "2026-10-23T18:49:13.689402+00:00",
+   "description": "",
+   "ats": "workday",
+   "score": 32,
+   "remote": false,
+   "portland": true,
+   "remote_in_listing": false,
+   "matched_title": [
+    "kla"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor",
+   "id": "2415fe0d4d8c1f9d"
+  }
+ ]
+}
