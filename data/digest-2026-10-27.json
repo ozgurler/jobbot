@@ -1,0 +1,984 @@
+{
+ "generated_at": "2026-10-27T18:09:51.283095+00:00",
+ "counts": {
+  "fetched": 15909,
+  "fresh_matches": 139,
+  "in_digest": 40,
+  "boards_ok": 125,
+  "boards_failed": 4
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 212,
+  "title not relevant": 2045,
+  "rejected title": 1523,
+  "onsite outside Portland": 408,
+  "non-US location": 607
+ },
+ "jobs": [
+  {
+   "source": "greenhouse",
+   "company": "smartsheet",
+   "title": "Senior Channel Account Manager ",
+   "location": "-REMOTE, USA-",
+   "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8325836",
+   "posted": "2026-10-26T18:21:08-04:00",
+   "description": "<div class=\"content-intro\"><p>For over 20 years, Smartsheet has empowered teams to manage work seamlessly and scale solutions smarter. Now, in our most ambitious chapter yet, we are uniting human teams with AI agents. By orchestrating the work agents do best, automating manual tasks and uncovering insights at scale, we create the space for people to focus on what truly matters: judgment, creativity, and big thinking. That is magic at work, and it\u2019s what we show up for every day.</p></div><p>Smartsheet is seeking a Senior Channel Account Manager to own and grow our business with a named list of strategic channel partners, including large resellers and distributors such as SHI. In this role, you will be the day-to-day owner of each assigned partner relationship: building joint business plans, driving partner-sourced and partner-influenced pipeline, and turning those relationships into predictable, repeatable revenue across public sector and enterprise customers.</p> <p>You will work hand in hand with Smartsheet's direct sales, marketing, sales operations, and customer success teams, as well as the partners' own sellers and leadership, to make Smartsheet easy to sell, quote, procure, and renew through the channel. The ideal candidate is a hands-on, execution-focused partner manager who is equally comfortable in a partner QBR with senior leadership and in the details of deal registration, quoting, and contract vehicles.</p> <p>You will report to the Director, Partnerships and Alliances, AMER. This role is based in the Americas, with a primary location in the Eastern or Central Time Zone.</p> <p><strong>You Will</strong></p> <ul> <li>Own the relationship, strategy, and results for a named list of strategic channel partners, serving as the primary point of contact for partner sales, marketing, operations, and executive stakeholders. Build these relationships in person by traveling regularly to partner offices and showing up at customer events.</li> <li>Develop and execute joint business plans for each named partner with clear revenue targets, pipeline goals, key activities, and quarterly milestones.</li> <li>Drive partner-sourced and partner-influenced bookings to quota, and accurately forecast and manage the partner pipeline in Salesforce.</li> <li>Partner with Smartsheet Account Executives and partner sellers on named accounts, joint account planning, and deal strategy to maximize co-selling and win rates.</li> <li>Manage deal registration, partner quoting, pricing, and discount processes to reduce friction and protect deal integrity and channel conflict rules of engagement.</li> <li>Drive transaction readiness through partner contract vehicles, cloud marketplaces, and Private Offers, collaborating with Sales Operations, Deal Desk, and Legal as needed.</li> <li>Build executive relationships and run regular business reviews (QBRs) with partner leadership to align on goals, share performance, and unblock issues.</li> <li>Enable partner sales, pre-sales",
+   "ats": "greenhouse",
+   "score": 85,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "channel account manager",
+    "account manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "crm",
+    "enterprise",
+    "mid-market",
+    "channel",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "e2d286efbe9bdb4a"
+  },
+  {
+   "source": "ashby",
+   "company": "synthesia",
+   "title": "Senior Solutions Engineer ",
+   "location": "Austin (Remote)",
+   "url": "https://jobs.ashbyhq.com/synthesia/689f6008-d096-4a2e-90a6-82ca1eaf6d90",
+   "posted": "2026-10-27T12:17:51.964000+00:00",
+   "description": "Synthesia is the world\u2019s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations. Following our recent Series E funding round, where we raised $200 million, our valuation stands at $4 billion. Our total funding exceeds $530 million from premier investors including Accel, NVentures (Nvidia's VC arm), Kleiner Perkins, GV, and Evantic Capital, alongside the founders and operators of Stripe, Datadog, Miro, and Webflow. The role We\u2019re hiring Senior Solutions Engineers to build Synthesia\u2019s pre-sales function in North America, focusing on Mountain, Central, and West regions. This is a founding role: you\u2019ll be one of the first SEs, shaping the playbook, tooling, and best practices as we scale, not following an established model. If you\u2019re excited by building while scaling, we\u2019d love to hear from you. As a Solutions Engineer at Synthesia, you will partner with Account Executives, Customer Success, and Product Marketing to run discovery, deliver demos, scope POCs, and design the technical solution for each deal. You will be a trusted advisor focused on the value customers get from Synthesia, and you\u2019ll take what you learn in the field back to Product. This is an incredible opportunity to join us as we become a multi-product company for the first time and continue to scale across North America. We're ideally looking for someone based in Austin, where we have an office, for this role, but welcome remote candidates to apply. Sales cycle ownership Co-plan and execute discovery calls to understand customer requirements, their technical environment, and current business challenges. Design and deliver compelling demonstrations that solve customer problems, quantify the value of solving those problems, and tell a clear, credible story of how Synthesia solves them better than anything else. Understand and overcome technical objections and integration concerns; identify blockers early and develop solution paths with customers. Support stakeholder workshops that connect Synthesia to the buyer\u2019s broader technology strategy on complex, multi-stakeholder deals. Partner with Account Executives to define account and deal strategy, advise on competitive positioning, assess opportunity stage, and forecast your book of business for leadership. Demo excellence Design and execute repeatable demo methodologies that prove Synthesia\u2019s business value quickly, whether the customer is deploying Studio at scale, designing Roleplay Sessions for skill building, or integrating Interactive Avatars into their product. Identify, build relationships with, and actively empower executive champions within customer organizations so they can advocate f",
+   "ats": "ashby",
+   "salary": null,
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "crm",
+    "enterprise",
+    "partner",
+    "ai",
+    "north america",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "d1ae424eb3536fa7"
+  },
+  {
+   "source": "ashby",
+   "company": "synthesia",
+   "title": "Senior Solutions Engineer ",
+   "location": "New York City (Remote)",
+   "url": "https://jobs.ashbyhq.com/synthesia/77cf4090-2f3a-4452-b4d9-a609e742964f",
+   "posted": "2026-10-27T12:18:05.626000+00:00",
+   "description": "Synthesia is the world\u2019s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations. Following our recent Series E funding round, where we raised $200 million, our valuation stands at $4 billion. Our total funding exceeds $530 million from premier investors including Accel, NVentures (Nvidia's VC arm), Kleiner Perkins, GV, and Evantic Capital, alongside the founders and operators of Stripe, Datadog, Miro, and Webflow. The role We\u2019re hiring Senior Solutions Engineers to build Synthesia\u2019s pre-sales function in North America. This is a founding role: you\u2019ll be one of the first SEs, shaping the playbook, tooling, and best practices as we scale, not following an established model. If you\u2019re excited by building while scaling, we\u2019d love to hear from you. As a Solutions Engineer at Synthesia, you will partner with Account Executives, Customer Success, and Product Marketing to run discovery, deliver demos, scope POCs, and design the technical solution for each deal. You will be a trusted advisor focused on the value customers get from Synthesia, and you\u2019ll take what you learn in the field back to Product. This is an incredible opportunity to join us as we become a multi-product company for the first time and continue to scale across North America. Sales cycle ownership Co-plan and execute discovery calls to understand customer requirements, their technical environment, and current business challenges. Design and deliver compelling demonstrations that solve customer problems, quantify the value of solving those problems, and tell a clear, credible story of how Synthesia solves them better than anything else. Understand and overcome technical objections and integration concerns; identify blockers early and develop solution paths with customers. Support stakeholder workshops that connect Synthesia to the buyer\u2019s broader technology strategy on complex, multi-stakeholder deals. Partner with Account Executives to define account and deal strategy, advise on competitive positioning, assess opportunity stage, and forecast your book of business for leadership. Demo excellence Design and execute repeatable demo methodologies that prove Synthesia\u2019s business value quickly, whether the customer is deploying Studio at scale, designing Roleplay Sessions for skill building, or integrating Interactive Avatars into their product. Identify, build relationships with, and actively empower executive champions within customer organizations so they can advocate for Synthesia internally. Develop and maintain reusable assets across demo environments, use cases, integration templates, objections, and industry playbooks, brought to life direct",
+   "ats": "ashby",
+   "salary": null,
+   "score": 79,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "crm",
+    "enterprise",
+    "partner",
+    "ai",
+    "north america",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "1ee7dfe356dd84e3"
+  },
+  {
+   "source": "greenhouse",
+   "company": "gitlab",
+   "title": "Senior Solutions Architect",
+   "location": "Remote, United States",
+   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8906915002",
+   "posted": "2026-10-27T11:52:43-04:00",
+   "description": "<div class=\"content-intro\"><p>GitLab is the intelligent orchestration platform for DevSecOps. GitLab enables organizations to increase developer productivity, improve operational efficiency, reduce security and compliance risk, and accelerate digital transformation. More than 50 million registered users and more than 50% of the Fortune 100* trust GitLab to ship better, more secure software faster.</p> <p>The same principles built into our products are reflected in how our team works: we embrace AI as a core productivity multiplier, with all team members expected to incorporate AI into their daily workflows to drive efficiency, innovation, and impact. GitLab is where careers accelerate, innovation flourishes, and every voice is valued. Our high-performance culture is driven by our values&nbsp;and continuous knowledge exchange, enabling our team members to reach their full potential while collaborating with industry leaders to solve complex problems. <a href=\"https://www.youtube.com/watch?v=OuZIb5zszQI\">Co-create the future with us</a> as we build technology that transforms how the world develops software.</p> <p>*<em>Fortune 500\u00ae is a registered trademark of Fortune Media IP Limited, used under license. Claim based on GitLab data. Fortune 100 refers to the top 20% ranked companies in the 2025 Fortune 500 list, published in June 2025. Fortune and Fortune Media IP Limited are not affiliated with, and do not endorse products or services of GitLab.</em></p></div><h2>An overview of this role</h2> <p>As a Senior Solutions Architect in GitLab's Southern EMEA team, you'll be a trusted advisor to GitLab prospects and customers in the MEA region, helping them understand how GitLab's AI-powered DevSecOps platform addresses both technical requirements and business objectives across the entire software development lifecycle. You'll guide organizations through their digital transformation journeys, from planning through monitoring, using your technical expertise, understanding of cloud and modern software development practices, and strong customer empathy.</p> <p>Reporting to a regional Solutions Architect Manager and partnering closely with Account Executives and cross-functional teams, you'll own technical evaluations, including proofs of value and workshops, shape solution architectures, and serve as the voice of the customer back to Product Management. You'll focus on driving successful platform adoption, influencing revenue growth through solution selling, and building long-term, trust-based relationships that showcase GitLab's differentiated position in an AI-driven DevSecOps landscape.</p> <h2>What you\u2019ll do</h2> <ul> <li value=\"1\">Lead technical discovery, demos, and validation to show how GitLab's AI-powered DevSecOps platform meets customers' technical and business needs across the full lifecycle.</li> <li value=\"2\">Drive the technical evaluation process as the directly responsible individual, including solution design, proof of concept or proof of va",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "partner",
+    "ai",
+    "emea",
+    "discovery",
+    "demo",
+    "proof of concept"
+   ],
+   "resume": "generic",
+   "id": "736883b745203a36"
+  },
+  {
+   "source": "greenhouse",
+   "company": "samsara",
+   "title": "Enterprise Account Executive",
+   "location": "Remote - AZ; Remote - TX; Remote - WA",
+   "url": "https://www.samsara.com/company/careers/roles/8325441?gh_jid=8325441",
+   "posted": "2026-10-26T16:11:46-04:00",
+   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>The Select Sales team is responsible for revenue growth in new and existing customers that represent the largest prospective accounts for Samsara by total addressable opportunity.&nbsp;</p> <p><strong><span data-sheets-root=\"1\">This is a remote position open to candidates residing in the US and requires living in the TOLA region.</span></strong></p> <p><strong>You should apply if:&nbsp;</strong></p> <ul> <li><strong>You want to impact the industries that run our world: </strong>Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.</li> <li><strong>Your mantra is #alwaysbeprospecting:</strong> The world of operations is vast. Your customers are often out in the field and the best way to catch them is live on the phone. Samsara\u2019s top reps do constant research to find companies and contacts to expand their pipeline.</li> <li><strong>You have innate curiosity in how businesses work:</strong> One day you\u2019ll meet with someone in waste management and the next you may be learning about the inner workings of a food distribution center. Our top sales team members seek to learn the ins and outs of the businesses they support in order to make a larger impact.&nbsp;</li> <li><strong>You are a life-long learner: </strong>Samsara sales are complex. You will need to learn about businesses where you previously had little knowledge. The payoff is big but you have to be willing to put in the work.&nbsp;</li> <li><strong>You build genuine relationships with your customers: </strong>The industries we serve ",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "8c61ef061233aa68"
+  },
+  {
+   "source": "greenhouse",
+   "company": "fivetran",
+   "title": "Senior Solutions Architect",
+   "location": "Remote, New York, United States, AMER",
+   "url": "https://www.fivetran.com/careers/job?gh_jid=8042380003",
+   "posted": "2026-10-26T15:13:00-04:00",
+   "description": "<div class=\"content-intro\"><p>From Fivetran\u2019s founding until now, our mission has remained the same: to make access to data as simple and reliable as electricity. With Fivetran, customer data arrives in their warehouses, canonical and ready to query, with no engineering or maintenance required. We\u2019re proud that more organizations continue to leverage our technology every day to become truly data-driven.</p></div><p><span style=\"font-size: 10pt;\"><strong>About Us</strong></span><br><span style=\"font-size: 10pt;\">Fivetran and dbt Labs are bringing together two industry-leading companies with a shared mission: helping organizations unlock the full value of their data.</span><br><br><span style=\"font-size: 10pt;\">Together, we\u2019re delivering the data infrastructure layer that helps organizations move, transform, and trust their data \u2014 from the moment data moves, through every transformation, to the context teams and AI systems rely on.</span><br><br><span style=\"font-size: 10pt;\">Fivetran helps organizations automate data movement across the systems, clouds, engines, and tools they rely on. dbt Labs pioneered analytics engineering, helping teams transform data into reliable, governed insights. Together, we support thousands of organizations as they build a trusted foundation for analytics, AI, and better business decisions.</span><br><br><span style=\"font-size: 10pt;\">As we bring our teams and technology together, we\u2019re building on the strengths of both companies while continuing to deliver the products and experiences our customers know and trust. It\u2019s an exciting time to join us: we\u2019re creating a company with the scale, talent, and technology to help more organizations put their data to work with greater speed, confidence, and impact.</span><br><br><span style=\"font-size: 10pt;\">During this transition period, you may see references to both Fivetran and dbt Labs throughout our recruiting process as we integrate our teams, systems, and career sites.</span></p> <p><span style=\"font-size: 10pt;\"><strong>About the Role</strong></span></p> <p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">We\u2019re looking to hire a Solutions Engineer, Enterprise to join our Field Engineering team. As a Solutions Architect, you will be a trusted technical advisor to some of our largest and most strategic customers, helping them evaluate, adopt, and expand their use of dbt.</span></p> <p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">You\u2019ll partner closely with Sales to understand customers\u2019 technical and business priorities, design solutions using the dbt platform, and demonstrate measurable value throughout the evaluation process. You\u2019ll work across the customer lifecycle\u2014from technical discovery and evaluation through adoption and expansion\u2014while partnering with Product, Engineering, and our technology partners to bring customer needs back into the business.</span></p> <p><span style=\"color: rgb(34, 34, 34); font-size: 10pt;\">This is a full-time position base",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "azure",
+    "enterprise",
+    "partner",
+    "ai",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "3de782af200d8351"
+  },
+  {
+   "source": "greenhouse",
+   "company": "zscaler",
+   "title": "Senior Sales Engineer - Majors, Tennessee",
+   "location": "Remote - Kentucky, USA; Remote - Tennessee, USA",
+   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5210723007",
+   "posted": "2026-10-27T10:36:01-04:00",
+   "description": "<div class=\"content-intro\"><p data-pm-slice=\"1 1 []\">Zscaler (NASDAQ: ZS) accelerates digital transformation so customers can be more agile, efficient, resilient, and secure. The Zscaler Zero Trust Exchange platform protects thousands of customers from cyberattacks and data loss by securely connecting users, devices, and applications in any location. Distributed across 200+ public data centers globally and thousands of private sites at the edge, the SASE-based Zero Trust Exchange is the world\u2019s largest in-line cloud security platform.</p> <p>We believe the future of work is Human + AI and are building an AI-native enterprise where human potential is amplified by machine intelligence to solve the world\u2019s hardest security challenges. Driven by deep customer obsession, we are committed to the mission, outcome, and to each other. We bring these commitments to life through three core behaviors: ownership and collaboration, trust through outcomes and impact, and a challenge culture with ongoing feedback. Ready to make an impact at the company pioneering security transformation in the AI era? Join us at Zscaler.</p></div><p><a style=\"display: block; overflow: hidden; position: relative;\" href=\"https://share.synthesia.io/a776e9e3-2fb7-49bf-9d28-fa05bb46094f\" target=\"_blank\"> <img style=\"width: 1336px; display: block; max-width: 100%;\" src=\"https://image.synthesia.io/a776e9e3-2fb7-49bf-9d28-fa05bb46094f/thumbnail.gif\" alt=\"Inside the Life of a Zscaler Sales Engineer, Major Accounts\"> </a></p> <div id=\"model-response-message-contentr_19dae3e78f11e982\" class=\"markdown markdown-main-panel tutor-markdown-rendering stronger enable-updated-hr-color\"> <p data-path-to-node=\"0\"><strong data-path-to-node=\"0\" data-index-in-node=\"0\">Role</strong></p> <p data-path-to-node=\"0\">We are looking for a Senior Sales Engineer to join our Majors Account team. This is an <strong>East Central role in Tennessee</strong>, reporting to the Sales Engineering Manager in the Americas Field Sales department.</p> <p data-path-to-node=\"0\">You will be responsible for architecting technical solutions that directly address and resolve critical customer pain points.</p> <p data-path-to-node=\"1\"><strong data-path-to-node=\"1\" data-index-in-node=\"0\">What you\u2019ll do (Role Expectations)</strong></p> <ul data-path-to-node=\"2\"> <li> <p data-path-to-node=\"2,0,0\">Overseeing the technical sales process</p> </li> <li> <p data-path-to-node=\"2,1,0\">Running Proof of Value from start to finish, as the technical and industry expert</p> </li> <li> <p data-path-to-node=\"2,2,0\">Collaborating and supporting internal Zscaler teams</p> </li> </ul> <p data-path-to-node=\"3\"><strong data-path-to-node=\"3\" data-index-in-node=\"0\">Who You Are (Success Profile)</strong></p> <ul data-path-to-node=\"4\"> <li> <p data-path-to-node=\"4,0,0\">You act like an owner. Your passion for the mission fuels your bias for action. You operate with integrity because you genuinely care about the outcome. You adapt to what\u2019s needed, navigating",
+   "ats": "greenhouse",
+   "score": 77,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "ai",
+    "llm",
+    "agentic",
+    "automation",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "2a5386e95b947dc6"
+  },
+  {
+   "source": "greenhouse",
+   "company": "samsara",
+   "title": "Public Sector Major Account Executive",
+   "location": "Remote - CA; Remote - FL; Remote - OH; Remote - TX",
+   "url": "https://www.samsara.com/company/careers/roles/8325483?gh_jid=8325483",
+   "posted": "2026-10-26T16:12:39-04:00",
+   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>The Majors sales team is responsible for revenue growth in new and existing customers that represent the largest prospective accounts for Samsara by total addressable opportunity. This role can be office-based or fully remote covering a certain geography.&nbsp;</p> <p><strong>This is a remote position open to candidates residing in the Upper Mid West United States.</strong></p> <p><strong>You should apply if:&nbsp;</strong></p> <ul> <li><strong>You want to impact the industries that run our world: </strong>Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.</li> <li><strong>Your mantra is #alwaysbeprospecting:</strong> The world of operations is vast. Your customers are often out in the field and the best way to catch them is live on the phone. Samsara\u2019s top reps do constant research to find companies and contacts to expand their pipeline.</li> <li><strong>You have innate curiosity in how businesses work:</strong> One day you\u2019ll meet with someone in waste management and the next you may be learning about the inner workings of a food distribution center. Our top sales team members seek to learn the ins and outs of the businesses they support in order to make a larger impact.&nbsp;</li> <li><strong>You are a life-long learner: </strong>Samsara sales are complex. You will need to learn about businesses where you previously had little knowledge. The payoff is big but you have to be willing to put in the work.&nbsp;</li> <li><strong>You build genuine relationships with your customers: </st",
+   "ats": "greenhouse",
+   "score": 74,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "198893db1cc4e1c4"
+  },
+  {
+   "source": "greenhouse",
+   "company": "samsara",
+   "title": "Public Sector Major Account Executive",
+   "location": "Remote - AZ; Remote - CA; Remote - IL; Remote - NY; Remote - PA; Remote - TX",
+   "url": "https://www.samsara.com/company/careers/roles/8325481?gh_jid=8325481",
+   "posted": "2026-10-26T16:12:26-04:00",
+   "description": "<div class=\"content-intro\"><p><span style=\"font-family: arial, helvetica, sans-serif;\"><strong>Who we are</strong></span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Samsara (NYSE: IOT) is the pioneer of the Connected Operations\u2122 Cloud, which is a platform that enables organizations that depend on physical operations to harness Internet of Things (IoT) data to develop actionable insights and improve their operations. At Samsara, we are helping improve the safety, efficiency and sustainability of the physical operations that power our global economy. Representing more than 40% of global GDP, these industries are the infrastructure of our planet, including agriculture, construction, field services, transportation, and manufacturing \u2014 and we are excited to help digitally transform their operations at scale.</span></p> <p><span style=\"font-weight: 300; font-family: arial, helvetica, sans-serif;\">Working at Samsara means you\u2019ll help define the future of physical operations and be on a team that\u2019s shaping an exciting array of product solutions, including Video-Based Safety, Vehicle Telematics, Apps and Driver Workflows, and Equipment Monitoring. As part of a recently public company, you\u2019ll have the autonomy and support to make an impact as we build for the long term.</span></p></div><p><strong>About the role:</strong></p> <p>The Majors sales team is responsible for revenue growth in new and existing customers that represent the largest prospective accounts for Samsara by total addressable opportunity. This role can be office-based or fully remote covering a certain geography.&nbsp;</p> <p><strong>This is a remote position open to candidates residing in the Upper Mid West United States.</strong></p> <p><strong>You should apply if:&nbsp;</strong></p> <ul> <li><strong>You want to impact the industries that run our world: </strong>Your efforts will result in real-world impact\u2014helping to keep the lights on, get food into grocery stores, and most importantly, ensure workers return home safely.</li> <li><strong>Your mantra is #alwaysbeprospecting:</strong> The world of operations is vast. Your customers are often out in the field and the best way to catch them is live on the phone. Samsara\u2019s top reps do constant research to find companies and contacts to expand their pipeline.</li> <li><strong>You have innate curiosity in how businesses work:</strong> One day you\u2019ll meet with someone in waste management and the next you may be learning about the inner workings of a food distribution center. Our top sales team members seek to learn the ins and outs of the businesses they support in order to make a larger impact.&nbsp;</li> <li><strong>You are a life-long learner: </strong>Samsara sales are complex. You will need to learn about businesses where you previously had little knowledge. The payoff is big but you have to be willing to put in the work.&nbsp;</li> <li><strong>You build genuine relationships with your customers: </st",
+   "ats": "greenhouse",
+   "score": 74,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "cloud",
+    "enterprise",
+    "ai",
+    "quota",
+    "pipeline",
+    "outbound",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "128b1abb9495bee4"
+  },
+  {
+   "source": "ashby",
+   "company": "synthesia",
+   "title": "Solutions Engineer ",
+   "location": "Austin (Remote)",
+   "url": "https://jobs.ashbyhq.com/synthesia/103ca468-012b-4882-b5ab-001e3d55f71b",
+   "posted": "2026-10-27T12:52:43.675000+00:00",
+   "description": "Synthesia is the world\u2019s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations. Following our recent Series E funding round, where we raised $200 million, our valuation stands at $4 billion. Our total funding exceeds $530 million from premier investors including Accel, NVentures (Nvidia's VC arm), Kleiner Perkins, GV, and Evantic Capital, alongside the founders and operators of Stripe, Datadog, Miro, and Webflow. The Role We\u2019re hiring Solutions Engineers to build Synthesia\u2019s pre-sales function in North America. This is a founding role: you\u2019ll be one of the first SEs, shaping the playbook, tooling and best practices as we scale, not following an established model. If you\u2019re someone who is excited by building while scaling, we\u2019d love to hear from you. As a Solutions Engineer at Synthesia, you will partner with Account Executives, Customer Success and Product Marketing to run discovery, deliver demos, scope POCs and design the technical solution for each deal. You will be a trusted advisor focused on the value customers get from Synthesia, and you\u2019ll take what you learn in the field back to Product. This is an incredible opportunity to join us as we become a multi-product company for the first time, and continue to scale across North America. What You\u2019ll Do Co-plan and support discovery calls with your AE to understand customer requirements, technical environment, and business challenges. Design and execute repeatable demo methodologies that prove Synthesia\u2019s business value quickly, whether the customer is deploying Studio at scale, building Roleplay Sessions for skill uplift, or integrating Interactive Avatars into their product. Build and maintain strong working knowledge of Synthesia\u2019s platform capabilities, roadmap, and positioning across all product lines, so you can speak to the use cases that drive value. Deliver demonstrations that speak to customer problems and tell a credible story of why Synthesia is the right solution. Identify technical objections and integration questions as they come up, working with your AE and the broader ecosystem to find a path forward. Contribute your assessment of technical fit and opportunity risk to help your AE shape account and deal strategy. Keep your deal team and manager informed on deal status, timeline, and technical dependencies. Identify, build relationships with, and actively enable technical champions within customer organizations so they can advocate for Synthesia internally. Provide technical guidance on platform capabilities, API and SDK integrations, security, compliance topics (SOC 2, GDPR, enterprise identity), and scalability for global deployment",
+   "ats": "ashby",
+   "salary": null,
+   "score": 74,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "enterprise",
+    "partner",
+    "ai",
+    "north america",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "89dba36f9ce0946a"
+  },
+  {
+   "source": "ashby",
+   "company": "synthesia",
+   "title": "Solutions Engineer ",
+   "location": "New York City (Remote)",
+   "url": "https://jobs.ashbyhq.com/synthesia/4a884a77-946e-4d4f-8030-d256b961cce8",
+   "posted": "2026-10-27T12:52:53.364000+00:00",
+   "description": "Synthesia is the world\u2019s leading AI video platform for business, used by over 90% of the Fortune 100. Founded in 2017, the company is headquartered in London, with offices and teams across Europe and the US. As AI continues to shape the way we live and work, Synthesia develops products to enhance visual communication and enterprise skill development, helping people work better and stay at the center of successful organizations. Following our recent Series E funding round, where we raised $200 million, our valuation stands at $4 billion. Our total funding exceeds $530 million from premier investors including Accel, NVentures (Nvidia's VC arm), Kleiner Perkins, GV, and Evantic Capital, alongside the founders and operators of Stripe, Datadog, Miro, and Webflow. The Role We\u2019re hiring Solutions Engineers to build Synthesia\u2019s pre-sales function in North America. This is a founding role: you\u2019ll be one of the first SEs, shaping the playbook, tooling and best practices as we scale, not following an established model. If you\u2019re someone who is excited by building while scaling, we\u2019d love to hear from you. As a Solutions Engineer at Synthesia, you will partner with Account Executives, Customer Success and Product Marketing to run discovery, deliver demos, scope POCs and design the technical solution for each deal. You will be a trusted advisor focused on the value customers get from Synthesia, and you\u2019ll take what you learn in the field back to Product. This is an incredible opportunity to join us as we become a multi-product company for the first time, and continue to scale across North America. What You\u2019ll Do Co-plan and support discovery calls with your AE to understand customer requirements, technical environment, and business challenges. Design and execute repeatable demo methodologies that prove Synthesia\u2019s business value quickly, whether the customer is deploying Studio at scale, building Roleplay Sessions for skill uplift, or integrating Interactive Avatars into their product. Build and maintain strong working knowledge of Synthesia\u2019s platform capabilities, roadmap, and positioning across all product lines, so you can speak to the use cases that drive value. Deliver demonstrations that speak to customer problems and tell a credible story of why Synthesia is the right solution. Identify technical objections and integration questions as they come up, working with your AE and the broader ecosystem to find a path forward. Contribute your assessment of technical fit and opportunity risk to help your AE shape account and deal strategy. Keep your deal team and manager informed on deal status, timeline, and technical dependencies. Identify, build relationships with, and actively enable technical champions within customer organizations so they can advocate for Synthesia internally. Provide technical guidance on platform capabilities, API and SDK integrations, security, compliance topics (SOC 2, GDPR, enterprise identity), and scalability for global deployment",
+   "ats": "ashby",
+   "salary": null,
+   "score": 74,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "saas",
+    "enterprise",
+    "partner",
+    "ai",
+    "north america",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "812179d33f035ab5"
+  },
+  {
+   "source": "greenhouse",
+   "company": "cribl",
+   "title": "Solutions Engineer, San Francisco (Enterprise)",
+   "location": "Remote - San Francisco, California",
+   "url": "https://cribl.io/job-detail/?gh_jid=5745375004",
+   "posted": "2026-10-27T13:21:01-04:00",
+   "description": "<div class=\"content-intro\"><p>Join the company that\u2019s building the telemetry infrastructure for the AI era. At Cribl, we partner with IT and Security teams at many of the world\u2019s biggest enterprises, including half of the Fortune 100, to bridge the gap between AI ambition and infrastructure reality. As the AI Platform for Telemetry, we give customers the choice, control, and flexibility to manage and analyze telemetry for both humans and agents, so they can build what\u2019s next.</p> <p>We\u2019re one of the fastest\u2011growing private companies and a leading player in a massive, fast\u2011moving market. With a global workforce, we\u2019re remote\u2011first and grounded in a simple idea: software is a people business. Cribl is the place where curious, collaborative people can do their best work, grow fast, and bring their full selves to the herd.</p></div><p><strong>Why You'll Love This Role<br></strong></p> <p>As a Solutions Engineer, you'll get to flex your technical chops and storytelling skills by helping customers uncover the full potential of Cribl in real-world environments. With the freedom of remote work and the excitement of solving unique data challenges, every day brings something new\u2014and impactful.</p> <p><strong><br>As An Active Member Of Our Team, You Will...</strong></p> <ul> <li>Help customers understand the value of Cribl during the sales process</li> <li>Demo the product and answer customer questions during initial sales calls</li> <li>Support customers during proof of concept sessions</li> <li>Document interesting use cases in blog posts and product documentation</li> <li>Up to 30% Travel</li> <li>We are a remote-first company and work happens across many time-zones \u2013 you may be required to occasionally perform duties outside your standard working hours</li> </ul> <p><strong><br>If You\u2019ve Got It - We Want It</strong></p> <ul> <li>Experience with Logs, Metrics, IT Operations and Security</li> <li>Background in Sales Engineering, Professional Services, or Support</li> <li>Play with the product, be prepared to give us feedback</li> <li>You live in San Francisco</li> <li>Experience working remotely</li> </ul> <p>#LI-JK1<br><span style=\"font-weight: 400;\">#LI-Remote</span></p><div class=\"content-pay-transparency\"><div class=\"pay-input\"><div class=\"description\"><p>The salary for this role is dependent on geographic location and will be based on the individual candidate's job-related knowledge, skills, and experience.<br><br>In addition to base salary, for sales and some sales-adjacent roles, employees are eligible to earn incentive compensation (commission). For all other roles, employees are eligible to participate in the Cribl Corporate Bonus Program.<br><br>In addition to a competitive salary, Cribl also offers a generous benefits package which includes health, dental, vision, short-term disability, and life insurance, paid holidays and paid time off, a fertility treatment benefit, 401(k), and equity.</p></div><div class=\"title\">Base Salary Range</div><div ",
+   "ats": "greenhouse",
+   "score": 73,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "enterprise",
+    "partner",
+    "ai",
+    "demo",
+    "proof of concept"
+   ],
+   "resume": "generic",
+   "id": "f87430813acea092"
+  },
+  {
+   "source": "greenhouse",
+   "company": "databricks",
+   "title": "Strategic Enterprise Account Executive, Life Sciences",
+   "location": "Northeast - United States",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8870720002",
+   "posted": "2026-10-27T10:09:26-04:00",
+   "description": "<p data-pm-slice=\"1 1 []\">SLSQ128R6</p> <p>As a Strategic Enterprise Account Executive at Databricks, you are a strategic sales professional experienced in selling into Large Pharmaceutical accounts. You know how to sell innovation and change through customer vision expansion and can guide deals forward to compress decision cycles. You love understanding a product in depth and are passionate about communicating its value to Customers and System Integrators. Always looking for new opportunities, you will be part of an account team tasked with maintaining and growing a single strategic pharma account. Along with the chance to close an exciting deal, we also offer accelerators above 100% quota attainment.</p> <p>Databricks operates at the leading edge of the Unified Data Analytics and AI space. Our customers turn to us to lead the accelerated innovation that their businesses need to gain first mover advantage in today\u2019s ultra-competitive landscape. As we continue our rapid expansion, we are looking for a creative, execution-oriented Strategic Enterprise Account Executive to join the Databricks team and maximize the phenomenal market opportunity that exists for Databricks.</p> <p>Reporting to our Director of Strategic Life Sciences Sales, you will be part of an account team assigned to one strategic client within the Life Sciences team (Pharma). You will come with an informed point of view on Big Data, Advanced Analytics, and AI, which will help to guide your successful execution strategy and allow you to provide genuine value to the client</p> <p><strong>The impact you will have:</strong></p> <ul> <li>Meet with the CIO, IT executives, LOB executives, Program Managers, and other important partners</li> <li>Grow a strategic pharma account</li> <li>Identify and close quick, small wins while managing longer, complex sales cycles</li> <li>Exceed activity, pipeline, and revenue targets</li> <li>Track all customer details including use case, purchase time frames, next steps, and forecasting in Salesforce</li> <li>Use a solution-based approach to selling and creating value for your customer</li> <li>Promote Databricks' enterprise cloud data platform powered by Apache Spark\u2122</li> <li>Ensure 100% satisfaction among your customer</li> <li>Prioritize opportunities and apply appropriate resources</li> <li>Build a plan for success internally at Databricks and externally with your accounts</li> </ul> <p><strong>What we look for:</strong></p> <ul> <li>You have previously worked in an early-stage company, and you know how to navigate and be successful</li> <li>Field sales experience within big data, Cloud, or SaaS sales</li> <li>Experience managing large, complex Life Sciences accounts is preferred.&nbsp;</li> <li>Prior customer relationships with CIOs, program managers, and essential decision makers</li> <li>Simply articulate intricate cloud technologies</li> <li>7+ years of experience exceeding sales quotas</li> <li>Success working with and growing existing accoun",
+   "ats": "greenhouse",
+   "score": 72,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai",
+    "quota",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "4b9a9d34685b5ca6"
+  },
+  {
+   "source": "ashby",
+   "company": "harvey",
+   "title": "Corporate Business Development Manager, Legal Data",
+   "location": "New York (Remote)",
+   "url": "https://jobs.ashbyhq.com/harvey/6825190c-0cbe-4b53-976a-26afb3734c04",
+   "posted": "2026-10-26T20:04:00.652000+00:00",
+   "description": "Why Harvey At Harvey, we\u2019re transforming how legal and professional services operate. By combining frontier agentic AI, an enterprise-grade platform, and deep domain expertise, we\u2019re reshaping how critical knowledge work gets done for decades to come. This is a rare chance to help build a generational company at a true inflection point. We have strong product-market fit and world-class investor support. We\u2019re scaling fast and defining a new category in real time. The work is ambitious, the bar is high, and the opportunity for growth \u2014 personal, professional, and financial \u2014 is unmatched. Our team moves fast, takes ownership, and is deeply committed to the mission \u2014 operating with intensity, staying close to our customers, and pushing each other for excellence. We live by three values: Decisiveness, Simplicity, and Job's Not Finished. We act quickly on clear judgment over perfect information, we believe simplicity is what scales, and we're never satisfied with where we are. If you want to do the best work of your career alongside people who share that drive, we'd love to build with you. At Harvey, the future of professional services is being written today \u2014 and we\u2019re just getting started. Role Overview The Business Development team at Harvey is responsible for enabling step-change outcomes, working in lock-step with go-to-market and product leadership. We rapidly adapt to the changing market environment, unlock new product experiences, and deliver new business. As a member of this team, you will help us build differentiated product offerings and scalable go-to-market motions. This role owns the legal research side of that work. You will source, evaluate, and negotiate access to the legal research content our products are built on and connected to, across both primary and secondary sources. You will quarterback these deals from identification and evaluation through negotiation and product integration. Legal content is a difficult market to work in. Rights are fragmented, licensing terms are idiosyncratic. We are looking for someone who already understands that terrain, either because they practiced and relied on these materials every day, or because they sat on the other side of the table building and licensing them. You will work closely with senior stakeholders across product, engineering, finance, legal, and go-to-market functions to drive strategic initiatives and ensure successful partnership outcomes. Your ability to articulate the value of Harvey's product and sales strategy, coupled with your passion for groundbreaking AI technologies, will help us shape the future of knowledge work. What You'll Do Develop and execute a strategic plan for legal content and data partnerships, aligned with Harvey's overall product and GTM strategy. Independently identify, evaluate, and establish a range of partnerships with legal content and data providers. Assess corpora on the merits : jurisdictional coverage, historical depth, update cadence, editorial enh",
+   "ats": "ashby",
+   "salary": "$240K \u2013 $260K \u2022 Offers Equity \u2022 OTE 70/30",
+   "score": 72,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "business development manager",
+    "business development"
+   ],
+   "matched_skills": [
+    "enterprise",
+    "partner",
+    "ai",
+    "agentic",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "fe78672b3bb446a2"
+  },
+  {
+   "source": "greenhouse",
+   "company": "grafanalabs",
+   "title": "Solutions Engineer | PST or EST US | Remote",
+   "location": "United States (Remote)",
+   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6236204004",
+   "posted": "2026-10-27T11:10:07-04:00",
+   "description": "<div class=\"content-intro\"><p>Grafana Labs is the company behind Grafana Cloud, the fully managed observability platform trusted by more than 10,000 organizations to ensure reliability, resolve incidents faster, and optimize telemetry at scale. Built on open source and open standards and designed for interoperability across any stack, Grafana Cloud brings AI to observability and observability to AI, giving teams (and their agents) unified visibility so they can see, understand, and act on all their disparate data, wherever it lives, and move at the speed of their ambitions. Customers, including Anthropic, Bloomberg, NVIDIA, Microsoft, and Salesforce, rely on Grafana Labs. We are a 100% remote company with team members across 40+ countries, backed by leading investors including Lightspeed Venture Partners, Sequoia Capital, GIC, Coatue, J.P. Morgan, CapitalG, and Lead Edge Capital. Learn more at <u><span><a href=\"http://grafana.com\" target=\"_blank\">grafana.com</a></span></u> and follow us on <u><span><a href=\"https://www.linkedin.com/company/grafana-labs/\" target=\"_blank\">LinkedIn</a></span></u> and <u><span><a href=\"https://twitter.com/grafana\" target=\"_blank\">X</a></span></u><u>.</u></p> <p>We\u2019re scaling fast and staying true to what makes us different: an open-source legacy, a global collaborative culture, and a passion for meaningful work. Our team thrives in an innovation-driven environment where transparency, autonomy, and trust fuel everything we do.</p> <p>You may not meet every requirement, and that\u2019s okay. If this role excites you, we\u2019d love you to raise your hand for what could be a truly career-defining opportunity.</p></div><div class=\"section page-centered\"> <h4><strong>The Opportunity:</strong></h4> <h4><strong>Make a difference.</strong></h4> <p><span style=\"font-weight: 400;\">Are you looking for something new in your career? Enjoy a challenge? Love to innovate and learn? This is an exciting opportunity to join a technology startup in a high growth phase. Our Commercial Solutions Engineering team are our in-house, customer-facing product experts.&nbsp; The Commercial SE team enables Grafana Labs worldwide growth by educating potential and existing customers to ensure they are happy and successful.&nbsp; We share our technical and product expertise with customers through demos, hands-on enablement, presentations, technical evaluations and ongoing interaction. We also partner closely with our Sales team to help qualify and close opportunities. The Commercial SE team is also one of the primary routes of communication from our customers through into the Product Management and Engineering teams.</span></p> <p><strong>What You\u2019ll Be Doing:</strong></p> <ul> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Join as an early member of a high growth team working together to solve technical and customer problems the right way</span></li> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Partner with our Sales team to a",
+   "ats": "greenhouse",
+   "score": 70,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "cloud",
+    "salesforce",
+    "partner",
+    "ai",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "ce61af1a0f8ed78d"
+  },
+  {
+   "source": "remoteok",
+   "company": "Huzzle",
+   "title": "Account Executive",
+   "location": " (Remote)",
+   "url": "https://remoteOK.com/remote-jobs/remote-account-executive-huzzle-1137573",
+   "posted": "2026-10-26T08:00:12+00:00",
+   "description": "About Huzzle At Huzzle, we connect exceptional talent with exciting opportunities at leading companies across the UK, US, Canada, Europe, and Australia. Our clients range from startups and digital agencies to tech platforms in industries such as SaaS, MarTech, FinTech, and EdTech. Unlike traditional outsourcing agencies, we place you directly with a client, where you become an in-house member of their team and a valued contributor to their success. Job Summary\u00c2 We\u00e2\u0080\u0099re seeking an experienced Account Executive / High-Ticket Sales Closer with a strong track record of converting qualified opportunities into closed-won deals. This remote sales role is ideal for a confident, commercially driven professional who can take ownership of the full closing process, from conducting discovery calls and product presentations to handling objections, negotiating terms, and confidently asking for the sale. You should have at least 3 years of professional sales experience, including hands-on experience closing high-ticket deals. Experience selling within technology, SaaS, or a related B2B industry is highly preferred. Key Responsibilities Manage qualified sales opportunities from initial discovery through negotiation and closing. Lead effective discovery calls to understand prospects\u00e2\u0080\u0099 needs, pain points, budgets, and purchasing motivations. Deliver compelling sales presentations, product demos, and closing calls. Demonstrate value and clearly communicate ROI to potential customers. Confidently address objections related to pricing, timing, competitors, and decision-making. Manage follow-ups and keep deals moving forward throughout the sales cycle. Negotiate commercial terms and consistently drive opportunities toward closing. Keep CRM records up to date, including pipeline, opportunities, and customer details. Work closely with SDRs, marketing, customer success, and other internal teams. Consistently meet or exceed individual sales and revenue targets. Identify ways to improve conversion rates and enhance overall sales performance. At least 3 years of professional sales experience, preferably in an Account Executive, Sales Executive, Business Development, or Sales Closing role. Proven experience closing high-ticket deals is essential. A demonstrated track record of meeting or exceeding sales targets. Strong skills in discovery, objection handling, negotiation, and closing. Excellent verbal and written English, with strong client-facing communication abilities. Comfortable selling via video calls, phone, email, and other remote communication channels. Experience managing sales pipelines and working with CRM platforms. Strong commercial awareness and the ability to communicate value beyond price. Self-driven, accountable, and motivated to achieve ambitious revenue targets. Experience in Tech, SaaS, software, or other B2B technology sectors is preferred. \u00f0\u009f\u008c\u008e Fully remote position with a flexible working environment \u00f0\u009f\u009a\u0080 Partner with fast-growing global companies an",
+   "ats": "external",
+   "salary": "",
+   "score": 68,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "crm",
+    "b2b",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "689e11a813673cff"
+  },
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Senior Partner Account Manager, Southeast & MidAtlantic Region",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8306651?gh_jid=8306651",
+   "posted": "2026-10-26T18:29:33-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><p><strong>Open to any of the listed location(s):</strong></p> <ul> <li>Florida: Miami (MIA), Tampa (TPA)</li> <li>Georgia: Atlanta (ATL)</li> <li>North Carolina: Charlotte (CLT), Raleigh (RDU)</li> <li>Tennessee: Nashville (BNA)</li> </ul> <h3><strong>About the Department</strong></h3> <p>Partner Account Managers, Account Executives, Business Development Representatives, Solution Engineers, Customer Success, and Sales Operations - all working together help our customers adopt Cloudflare and create great Internet-enabled experiences. The sales team at Cloudflare helps customers solve real, technical problems while creating the revenue streams that help the company provide free service to millions in our community.</p> <h3><strong>What you'll do</strong></h3> <p>We are looking for a seasoned channel sales professional to help us build out the channel organization in the Southeast and MidAtlantic regions.</p> <p>In this role, you\u2019ll identify and operationalize varied types of partner organizations to help expand Cloudflare\u2019s sales team reach within an assigned territory. You will build a regional partner business plan with quantified goals and milestones to achieve partner sourced revenue metrics to meet all quarterly sales requirements.</p> <p>As a Partner Account Manager, you will work with a strategic group of partners in your territory and build a plan to drive alignment, enabl",
+   "ats": "greenhouse",
+   "score": 66,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account manager"
+   ],
+   "matched_skills": [
+    "saas",
+    "msp",
+    "cloud",
+    "enterprise",
+    "smb",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline"
+   ],
+   "resume": "generic",
+   "id": "4f669daafdc83957"
+  },
+  {
+   "source": "greenhouse",
+   "company": "huntress",
+   "title": "Sales Operations Specialist",
+   "location": "United States of America",
+   "url": "https://job-boards.greenhouse.io/huntress/jobs/8044553003",
+   "posted": "2026-10-27T12:30:01-04:00",
+   "description": "<div class=\"content-intro\"><p>&nbsp;</p> <p><strong>What We Do:</strong></p> <p>Cybercrime is growing, and more businesses are getting hit by threats that used to target only the biggest organizations. That pushes defenders like us to operate at the highest level, and it deepens our need for good people who want to make a meaningful impact.</p> <p>Founded in 2015 by former NSA cyber operators, Huntress is a remote-first team working to make enterprise-grade cybersecurity accessible to businesses of all sizes. We work closely with security teams and service providers protecting complex environments, often without the time or headcount to handle it all. That\u2019s why we build our technology in-house and back it with a 24/7 human-led Security Operations Center (SOC). As a result, our platform is never disconnected from the experts who manage it, ensuring our customers' protection.</p> <p>Huntress now secures more than 6M endpoints and 16M identities worldwide. Those numbers keep growing because more businesses rely on us to help carry the load and operate with more confidence. Every day, you can see that commitment in how we stand with our customers and how we show up for each other.</p> <p>&nbsp;</p></div><p><strong>Reports to: </strong>Manager, Sales Support</p> <p><strong>Location: </strong>Remote US - Must be based in Pacific time zone</p> <p><strong>Compensation Range: </strong>$80,000 to $90,000 base plus bonus and equity</p> <p><strong>What You'll Do:</strong></p> <p>You are a detail-oriented, process-driven Sales Operations Specialist who helps the full sales organization work more effectively. You support SDRs, AEs, CAMs, Reseller Reps, and SEs by removing obstacles, providing practical operational guidance, and keeping the right teams connected. You bring Candor to cross-functional work by communicating clearly, surfacing issues early, and helping Sales, Finance, Legal, GTM Systems, and Engineering solve problems together.</p> <p>You are Outcome-Obsessed about the systems and processes that enable the sales team to deliver results. You look for bottlenecks, improve workflows, maintain accurate data, and follow issues through to resolution. You take ownership when something is not working, help others navigate tools and processes, and measure your impact by how much more smoothly the sales organization can operate.</p> <p><strong>Responsibilities:</strong></p> <ul> <li>Serve as a frontline resource for the sales organization by answering questions, resolving issues, and helping SDRs, AEs, CAMs, Reseller Reps, and SEs stay unblocked.</li> <li>Partner with RevOps leadership to identify operational bottlenecks and implement practical solutions.</li> <li>Document, maintain, and optimize sales operations workflows so teams can work with greater clarity, efficiency, and consistency.</li> <li>Identify opportunities to improve processes, implement sales technology enhancements, and reduce manual effort through tools and automation.</li> <li>Support mo",
+   "ats": "greenhouse",
+   "score": 65,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "sales operations"
+   ],
+   "matched_skills": [
+    "cybersecurity",
+    "salesforce",
+    "enterprise",
+    "partner",
+    "ai",
+    "automation"
+   ],
+   "resume": "generic",
+   "id": "786811908cbd9707"
+  },
+  {
+   "source": "linkedin",
+   "company": "CentralReach",
+   "title": "Senior Sales Engineer, Data Products",
+   "location": "Holmdel, NJ (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-data-products-at-centralreach-4483725657",
+   "posted": "2026-10-26T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "6eb431acab3cbacd"
+  },
+  {
+   "source": "linkedin",
+   "company": "Everpure",
+   "title": "Senior Pre-Sales Systems Engineer, Enterprise - Philadelphia",
+   "location": "Philadelphia, PA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-pre-sales-systems-engineer-enterprise-philadelphia-at-everpure-4474656210",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "pre-sales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "98112f8749ddafc7"
+  },
+  {
+   "source": "linkedin",
+   "company": "HPE Aruba Networking",
+   "title": "Senior Presales Systems Engineer - FL",
+   "location": "Miami-Fort Lauderdale Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-presales-systems-engineer-fl-at-hpe-aruba-networking-4484013352",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "ecc681a78aa4a9cb"
+  },
+  {
+   "source": "linkedin",
+   "company": "Hightouch",
+   "title": "Solutions Engineer, Senior Enterprise (Pre-Sales)",
+   "location": "Powderhorn, CO (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-engineer-senior-enterprise-pre-sales-at-hightouch-4475872682",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer",
+    "pre-sales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f7b4bdad3721ee0d"
+  },
+  {
+   "source": "linkedin",
+   "company": "PreSales Collective",
+   "title": "Senior Presales Systems Engineer - FL",
+   "location": "Miami-Fort Lauderdale Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-presales-systems-engineer-fl-at-presales-collective-4481875540",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "eb6e3569c36ca806"
+  },
+  {
+   "source": "linkedin",
+   "company": "Vertiv",
+   "title": "Sr. Presales Engineer - Physical Infrastructure",
+   "location": "Reno, NV (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-presales-engineer-physical-infrastructure-at-vertiv-4467286499",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer",
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5e46dcec8297647e"
+  },
+  {
+   "source": "linkedin",
+   "company": "Everpure",
+   "title": "Senior Pre-Sales Systems Engineer, Commercial - CT/NY",
+   "location": "Connecticut, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-pre-sales-systems-engineer-commercial-ct-ny-at-everpure-4483295131",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "pre-sales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "652cc965b8102f03"
+  },
+  {
+   "source": "linkedin",
+   "company": "CData Software",
+   "title": "Senior Solutions Engineer",
+   "location": "Chapel Hill, NC (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-cdata-software-4426551226",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e7cbc64e16cf1d25"
+  },
+  {
+   "source": "linkedin",
+   "company": "Hightouch",
+   "title": "Solutions Engineer, Enterprise East (Pre-Sales)",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/solutions-engineer-enterprise-east-pre-sales-at-hightouch-4475875587",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer",
+    "pre-sales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "6d002983e1770a12"
+  },
+  {
+   "source": "linkedin",
+   "company": "PreSales Collective",
+   "title": "Senior Solutions Engineer",
+   "location": "New York, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-presales-collective-4481826083",
+   "posted": "2026-10-26T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "165c105d366122b8"
+  },
+  {
+   "source": "linkedin",
+   "company": "Synthesia",
+   "title": "Senior Solutions Engineer",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-synthesia-4484081558",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "03d2a50e60c05601"
+  },
+  {
+   "source": "linkedin",
+   "company": "Synthesia",
+   "title": "Senior Solutions Engineer",
+   "location": "Austin, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-synthesia-4484091338",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "bccf7b85ed29f72f"
+  },
+  {
+   "source": "linkedin",
+   "company": "HPE Aruba Networking",
+   "title": "Senior Presales Systems Engineer - DC / MD",
+   "location": "Maryland, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-presales-systems-engineer-dc-md-at-hpe-aruba-networking-4483762668",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "bbc5b16fce0285fb"
+  },
+  {
+   "source": "linkedin",
+   "company": "Harmonic",
+   "title": "Senior Sales Engineer",
+   "location": "Philadelphia, PA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-harmonic-4474625821",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "57295ace9be240b3"
+  },
+  {
+   "source": "linkedin",
+   "company": "Boomi",
+   "title": "Senior Presales Solutions Engineer, SLED",
+   "location": "Dallas, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-presales-solutions-engineer-sled-at-boomi-4481484420",
+   "posted": "2026-10-26T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer",
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5471b3ee0971b29b"
+  },
+  {
+   "source": "linkedin",
+   "company": "Flagright",
+   "title": "Senior Account Executive - US",
+   "location": "Salt Lake City, UT (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-us-at-flagright-4483670322",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "28e62d5a000fb881"
+  },
+  {
+   "source": "linkedin",
+   "company": "Paystand",
+   "title": "Senior Account Executive",
+   "location": "Austin, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-at-paystand-4484201124",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "a65425df163766d6"
+  },
+  {
+   "source": "linkedin",
+   "company": "Harness",
+   "title": "Sr Enterprise Account Executive - Miami",
+   "location": "Miami, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-enterprise-account-executive-miami-at-harness-4481476447",
+   "posted": "2026-10-26T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "8884dde54b77001a"
+  },
+  {
+   "source": "linkedin",
+   "company": "Paystand",
+   "title": "Senior Account Executive",
+   "location": "Minneapolis, MN (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-at-paystand-4484079856",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "efa060221392d3a6"
+  },
+  {
+   "source": "linkedin",
+   "company": "Box",
+   "title": "Enterprise Account Executive",
+   "location": "Chicago, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-box-4484072798",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5a32503cdbd65656"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cohere",
+   "title": "Senior Account Executive, SLED (East)",
+   "location": "Austin, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-sled-east-at-cohere-4465499911",
+   "posted": "2026-10-27T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "5a358ae089676e26"
+  },
+  {
+   "source": "linkedin",
+   "company": "Aiven",
+   "title": "Enterprise Account Executive",
+   "location": "Austin, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-aiven-4361003432",
+   "posted": "2026-10-26T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "d091064d14d4dd5c"
+  }
+ ]
+}
