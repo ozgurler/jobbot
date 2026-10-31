@@ -1,0 +1,916 @@
+{
+ "generated_at": "2026-10-31T17:19:41.768927+00:00",
+ "counts": {
+  "fetched": 15855,
+  "fresh_matches": 132,
+  "in_digest": 40,
+  "boards_ok": 126,
+  "boards_failed": 3
+ },
+ "rejected_reasons": {
+  "location unclear/onsite elsewhere": 222,
+  "title not relevant": 2495,
+  "rejected title": 1939,
+  "onsite outside Portland": 519,
+  "non-US location": 787
+ },
+ "jobs": [
+  {
+   "source": "greenhouse",
+   "company": "intercom",
+   "title": "Senior Manager, Solutions Engineering",
+   "location": "NYC, Remote; San Francisco, California",
+   "url": "https://job-boards.greenhouse.io/intercom/jobs/8155204",
+   "posted": "2026-10-30T18:05:11-04:00",
+   "description": "<div class=\"content-intro\"><p><a href=\"https://fin.ai/\">Fin</a>, now part of Salesforce, is on a mission to help businesses provide perfect customer experiences.</p> <p>Our AI Agent Fin is the highest-performing AI Customer Agent on the market today, enabling businesses to deliver impeccable, always-on customer support across the customer journey, from service, to sales, to ecommerce. Powered by our own AI models, Fin resolves complex customer issues end-to-end across every channel, with minimal set-up and integration. Fin can also be combined with our natively integrated Intercom help desk, giving modern support teams one single system.</p> <p>Together with Salesforce, the #1 AI CRM, where humans with agents drive customer success, we're building the future of customer experience. Here, ambition meets action. Tech meets trust. And innovation isn't a buzzword, it's a way of life. The world of work as we know it is changing, and we're looking for Trailblazers who are passionate about bettering business and the world through AI.</p> <p>Ready to level up your career at the company leading workforce transformation in the agentic era? You're in the right place. Agentforce is the future of AI, and you are the future of Salesforce.</p></div><h2>What's the opportunity?&nbsp;</h2> <p>We\u2019re seeking a transformational Solutions Engineering leader to lead our Mid Market and Enterprise SE teams in North America. You\u2019ll be a pivotal figure in helping Intercom scale its AI-driven support platform to some of the world\u2019s most well-known brands. This role will shape how we engage with large, complex organizations, defining our go-to-market, building a world-class team, and delivering tangible customer outcomes through innovation and credibility.</p> <p>This role is both strategic and hands-on. You will lead a Solutions Engineering team focused on winning complex deals, creating vertical-specific solution architectures, and building repeatable playbooks. We believe in leaders who are open to be a player and a coach, regardless of seniority. You\u2019ll collaborate closely with Sales, Success, Product, Engineering, and Services to deliver customer transformation through Intercom\u2019s AI-first platform \u2013 be it through strategic guidance as a senior leader on the team, or securing deals with your own technical credibility where needed.</p> <h2>What will I be doing?&nbsp;</h2> <ul> <li>Define and evolve the strategic vision and go-to-market (GTM) approach for the Solutions Engineering function.</li> <li>Lead, coach, and scale a high-performing SE team across global regions and core verticals.</li> <li>Operate as a player-coach, actively engaging in strategic deals while developing team capabilities.</li> <li>Support complex, six-figure sales cycles with technical guidance, architecture, demos, and product evaluation support, as well as sales expertise.</li> <li>Serve as a trusted technical advisor and executive point of contact for large customers.</li> <li>Partner closely wit",
+   "ats": "greenhouse",
+   "score": 87,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [
+    "salesforce",
+    "crm",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "agentic",
+    "emea",
+    "north america",
+    "outbound",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "9f62e7fdee76c9cd"
+  },
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Territory Account Executive, Saskatchewan / Manitoba",
+   "location": "Remote",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8335469?gh_jid=8335469",
+   "posted": "2026-10-30T18:18:24-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><p><strong>Available Locations: Remote from Canada in either British Columbia, Ontario or Quebec</strong></p> <p><strong>About the Department</strong></p> <p><span style=\"font-weight: 400;\">The sales team at Cloudflare helps customers solve real, technical problems while creating the revenue streams that help the company provide free service to millions in our community.&nbsp; Account Executives, Channel Account Managers, Business Development Representatives, Solution Engineers, Customer Success, and Sales Operations - all working together help our customers adopt Cloudflare and create great Internet-enabled experiences.&nbsp;</span></p> <p><strong>What you'll do</strong></p> <p><span style=\"font-weight: 400;\">You'll drive new business by identifying and qualifying target Commercial accounts for Cloudflare\u2019s Enterprise service plan. This is a great opportunity for a Sales Professional to help build the business at Cloudflare Canada. You will have both a sales and technical background that enables them to drive customer engagement from technical professionals through to senior executive levels, and across Security, Network, Development and Infrastructure teams.&nbsp;&nbsp;</span></p> <p><strong>Responsibilities</strong></p> <ul> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Develop and execute against a comprehensive account/territory plan</span></li> <li style=\"fo",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "enterprise",
+    "smb",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "technical background"
+   ],
+   "resume": "generic",
+   "id": "8f07fe671955c9da"
+  },
+  {
+   "source": "greenhouse",
+   "company": "cloudflare",
+   "title": "Territory Account Executive, Saskatchewan / Manitoba",
+   "location": "Distributed",
+   "url": "https://boards.greenhouse.io/cloudflare/jobs/8335468?gh_jid=8335468",
+   "posted": "2026-10-30T18:18:36-04:00",
+   "description": "<div class=\"content-intro\"><h3>About Us</h3> <p>At Cloudflare, we are on a mission to help build a better Internet. Today the company runs one of the world\u2019s largest networks that powers millions of websites and other Internet properties for customers ranging from individual bloggers to SMBs to Fortune 500 companies. Cloudflare protects and accelerates any Internet application online without adding hardware, installing software, or changing a line of code. Internet properties powered by Cloudflare all have web traffic routed through its intelligent global network, which gets smarter with every request. As a result, they see significant improvement in performance and a decrease in spam and other attacks. Cloudflare was named to Entrepreneur Magazine\u2019s Top Company Cultures list and ranked among the World\u2019s Most Innovative Companies by Fast Company.</p> <p>At Cloudflare, we\u2019re not looking for people who wait for a polished roadmap; we\u2019re looking for the builders who see the cracks in the Internet that everyone else has simply learned to live with. We value candidates who have the instinct to spot a \"normalized\" problem and the AI-native curiosity to create a solution using the latest tools. Our culture is built on iteration, leveraging AI to ship faster today to make it better tomorrow, while ensuring that every improvement, no matter how small, is shared across the team to lift everyone up. If you\u2019re the type of person who values curiosity over bureaucracy, and that AI is a partner in solving tough problems to keep the Internet moving forward, you\u2019ll fit right in.</p></div><p><strong>Available Locations: Winnipeg, Manitoba</strong></p> <p><strong>About the Department</strong></p> <p><span style=\"font-weight: 400;\">The sales team at Cloudflare helps customers solve real, technical problems while creating the revenue streams that help the company provide free service to millions in our community.&nbsp; Account Executives, Channel Account Managers, Business Development Representatives, Solution Engineers, Customer Success, and Sales Operations - all working together help our customers adopt Cloudflare and create great Internet-enabled experiences.&nbsp;</span></p> <p><strong>What you'll do</strong></p> <p><span style=\"font-weight: 400;\">You'll drive new business by identifying and qualifying target commercial accounts in Ontario for Cloudflare\u2019s Enterprise service plan. This is a great opportunity for a Sales Professional to help build the business in Central Canada. You will have both a sales and technical background that enables them to drive customer engagement from technical professionals through to senior executive levels, and across Security, Network, Development and Infrastructure teams.&nbsp;&nbsp;</span></p> <p><strong>Responsibilities</strong></p> <ul> <li style=\"font-weight: 400;\"><span style=\"font-weight: 400;\">Develop and execute against a comprehensive account/territory plan</span></li> <li style=\"font-weight: 400;\"><span style=\"font-wei",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "enterprise",
+    "smb",
+    "channel",
+    "partner",
+    "ai",
+    "pipeline",
+    "technical background"
+   ],
+   "resume": "generic",
+   "id": "7c045a9a1975dcc9"
+  },
+  {
+   "source": "greenhouse",
+   "company": "rubrik",
+   "title": "Account Executive, M365 Product Specialist",
+   "location": "Central  US",
+   "url": "https://www.rubrik.com/company/careers/departments/job.8328039?gh_jid=8328039",
+   "posted": "2026-10-30T18:54:09-04:00",
+   "description": "<h2>About the Team &amp; Role</h2> <p>Rubrik's Product Line Sales organization drives focused growth across Rubrik's specialized workloads, including our SaaS data protection and security portfolio (Microsoft 365, Google Workspace, Salesforce, and other critical SaaS applications). This team partners closely with core Account Executives, Sales Engineers, and Customer Success to bring deep product and technical expertise into every SaaS opportunity \u2014 from first conversation through technical validation to close.</p> <p>We're hiring a SaaS Product Line Sales Specialist to own and accelerate Rubrik's SaaS data protection business within a defined territory. This is a highly technical, quota-carrying overlay role: you'll be the subject-matter expert who can go deep on tenant architecture, identity and access models, backup and recovery mechanics, and the shared responsibility model \u2014 and use that fluency to win deals against SaaS-native point solutions. The ideal candidate has sold in this exact space before, at a company like AvePoint, CoreView, or Keepit, and understands both the buyer and the competitive landscape intimately.</p> <h2>What You\u2019ll Do</h2> <ul> <li><strong>Own the SaaS product line number: </strong>partner with core Account Executives to identify, qualify, and close SaaS data protection and security opportunities across net-new and existing accounts.</li> <li><strong>Lead with technical credibility: </strong>articulate Rubrik\u2019s SaaS architecture, security posture, and the gaps in Microsoft\u2019s and Google\u2019s native shared responsibility model in a way that resonates with both technical and business buyers.</li> <li><strong>Drive technical discovery and validation: </strong>run or co-lead discovery calls, demos, and proof-of-concept engagements for M365, Google Workspace, and Salesforce workloads alongside Sales Engineers.</li> <li><strong>Win competitive deals: </strong>build and defend positioning against SaaS-native vendors (AvePoint, CoreView, Keepit, Veeam, Druva, and similar), translating technical differentiation into business value.</li> <li><strong>Build territory and account plans: </strong>develop a coverage strategy in partnership with core sales, SE, and channel teams to maximize SaaS attach and expansion within the install base.</li> <li><strong>Engage multiple stakeholders: </strong>present to IT administrators, security and compliance teams, and executive economic buyers, tailoring the message to each audience.</li> <li><strong>Forecast with discipline: </strong>maintain accurate pipeline and forecast data in Salesforce and participate in regular business reviews.</li> <li><strong>Stay current: </strong>maintain deep knowledge of Rubrik\u2019s SaaS roadmap, the M365/Google Workspace/Salesforce ecosystems, and the competitive landscape.</li> </ul> <h2>Experience You\u2019ll Need</h2> <ul> <li><strong>SaaS sales experience: </strong>3+ years of quota-carrying sales experience selling SaaS data protection, security, or governance solut",
+   "ats": "greenhouse",
+   "score": 78,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "account executive",
+    "product specialist"
+   ],
+   "matched_skills": [
+    "saas",
+    "cloud",
+    "azure",
+    "microsoft 365",
+    "salesforce",
+    "enterprise",
+    "mid-market",
+    "channel",
+    "partner",
+    "ai",
+    "agentic",
+    "quota"
+   ],
+   "resume": "generic",
+   "id": "a93e88620adf45c4"
+  },
+  {
+   "source": "greenhouse",
+   "company": "elastic",
+   "title": "Senior Solutions Architect - Federal Civilian",
+   "location": "Maryland, United States",
+   "url": "https://jobs.elastic.co/jobs?gh_jid=8337793&gh_jid=8337793",
+   "posted": "2026-10-30T15:50:02-04:00",
+   "description": "<div class=\"content-intro\"><p>Elastic, the Search AI Company, enables everyone to find the answers they need in real time, using all their data, at scale \u2014 unleashing the potential of businesses and people. The Elastic Search AI Platform, used by more than 50% of the Fortune 500, brings together the precision of search and the intelligence of AI to enable everyone to accelerate the results that matter. By taking advantage of all structured and unstructured data \u2014 securing and protecting private information more effectively \u2014 Elastic\u2019s complete, cloud-based solutions for search, security, and observability help organizations deliver on the promise of AI.</p></div><div id=\"model-response-message-contentr_76c2080b94ac2b1a\" class=\"markdown markdown-main-panel md-content enable-luminous-fast-follows enable-updated-hr-color tutor-markdown-rendering\"> <h3><strong>About Elastic</strong></h3> <p>Elastic, the Search AI Company, enables government agencies and enterprises to turn massive, disparate data into real-time operational intelligence at scale. The Elastic Search AI Platform brings together the precision of search and the speed of AI to accelerate mission-critical outcomes across the public sector. By unifying structured and unstructured data while maintaining strict security, compliance, and data sovereignty standards, Elastic\u2019s cloud and hybrid solutions for enterprise search, observability, and cyber threat hunting help agencies deliver on the promise of modern AI and IT modernization.</p> <p>Thousands of organizations worldwide\u2014including federal agencies like <strong>NASA, DHS, VA, US Army, US Airforce, GSA</strong>, as well as enterprise leaders such as Barclays, Cisco, eBay, Fairfax, ING, Goldman Sachs, Microsoft, The Mayo Clinic, The New York Times, Wikipedia, and Verizon\u2014rely on Elastic to power their most vital infrastructure. Founded in 2012, Elastic is a distributed company with Elasticians supporting missions around the globe. Learn more at<a href=\"https://www.elastic.co/\"> elastic.co</a>.<br><br></p> <h3><strong>The Opportunity</strong></h3> <p>Are you ready to apply your technical expertise to high-impact public sector missions?</p> <p>As a <strong>Federal Civilian Solutions Architect (SA)</strong> at Elastic, you will serve as the primary technical strategist and trusted advisor to Federal Civilian agencies, system integrators, and channel partners. You will map complex agency mission requirements\u2014ranging from cyber defense and infrastructure monitoring to enterprise search and analytics\u2014directly to the Elastic Stack.</p> <p>In this role, you will lead technical engagements across the sales lifecycle, advocate for agency needs within Elastic product teams, and serve as a technical thought leader in the local D.C., Maryland, and Virginia (DMV) federal ecosystem.</p> <p>We\u2019re looking for architects and engineers with experience in influencing technical product, design and architecture decisions on technical merit, but also on value to t",
+   "ats": "greenhouse",
+   "score": 76,
+   "remote": false,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "solutions architect"
+   ],
+   "matched_skills": [
+    "cloud",
+    "rfp",
+    "rfi",
+    "enterprise",
+    "channel",
+    "partner",
+    "ai",
+    "llm",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "9aa260534f9d4f02"
+  },
+  {
+   "source": "ashby",
+   "company": "zip",
+   "title": "Enterprise Account Executive - Central",
+   "location": "Remote - US (Remote)",
+   "url": "https://jobs.ashbyhq.com/zip/f5318e56-1fb8-43ba-917c-83983ac7d9d5",
+   "posted": "2026-10-30T20:23:02.023000+00:00",
+   "description": "About Zip Zip is the AI platform for enterprise procurement \u2014 built for humans and agents working together. By orchestrating procurement across teams, tools, and suppliers with the help of AI agents, companies can secure the resources they need to innovate faster than ever before. The world\u2019s most influential enterprises trust Zip, including T-Mobile, OpenAI, AMD, Mars, Dollar Tree, and more. Together they\u2019ve saved over $8 billion and processed over $500 billion in spend. Zip\u2019s team includes product leaders from Apple, Airbnb, and Meta, as well as former procurement leaders from United Health, Sanofi, MGM Resorts, Discover, and NASA. Backed by Adams Street, Alkeon, BOND, CRV, DST, Tiger Global, and Y Combinator, Zip has raised $371 million, most recently at a $2.2 billion valuation and has been recognized by Forbes Fintech 50, Fast Company's Most Innovative Companies, Inc. Best in Business, and LinkedIn Top Startups. Your Role You\u2019re a closer, trusted advisor, product consultant \u2013 you\u2019re working with prospects day-in-day-out to deliver immense ROI in an efficient, value-based sales cycle You\u2019re a hunter \u2013 you\u2019ll get a healthy supply of BDR leads and marketing opportunities, but you\u2019ll prospect and tap into your network to knock down doors and blockers You\u2019re a product evangelist \u2013 you\u2019ll solution Zip to meet the pain points today, but also with an eye toward our product of the future You\u2019re a builder \u2013 at a startup, you\u2019re not just a team member, but you help build the team culture and bring your best practice to the org You Will Become a product expert \u2013 learning the Zip platform through and through, so that you\u2019re demo ready Become a procurement expert \u2013 learning the ins and outs of the procurement market, which is deeply ready for change and new solutions Use cutting-edge sales intelligence and engagement solutions to prospect, manage deal cycles, and ultimately bring on new customers Be adaptable and flexible \u2013 as part of an early-stage hyper growth company, we are rapidly growing out our process but we want to you to help shape our sales process Qualifications 5+ year of closing experience in technology SaaS sales at enterprise level Self driven \u2013 you don\u2019t need someone to motivate you to put in your best every day You\u2019d describe yourself as organized, efficient with your time, and excellent communicator Experience using tools like Salesforce, Zoominfo, LinkedIn SalesNav, and Outreach Willing to go the extra mile to make sure our customers, company, team, and yourself succeed Bachelor\u2019s degree is required (specifically in Finance, Technology, or a related field or experiential equivalent) Nice to Haves Experience selling to procurement, finance, IT, legal The salary range for this role is $250,000 - $315,000 OTE. The salary for this position is determined based on a variety of job-related factors that may include location, relevant experience, education, or particular skills and expertise. Perks & Benefits At Zip, we\u2019re committed to providin",
+   "ats": "ashby",
+   "salary": null,
+   "score": 73,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "salesforce",
+    "enterprise",
+    "ai",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "72cf3d079473e097"
+  },
+  {
+   "source": "himalayas",
+   "company": "Merative",
+   "title": "Account Executive, Springbuk",
+   "location": "United States (Remote)",
+   "url": "https://himalayas.app/companies/merative/jobs/account-executive-springbuk?utm_source=api",
+   "posted": "2026-10-31T14:56:25+00:00",
+   "description": "The Company At Truven by Merative , we turn complex healthcare data into clear, actionable insights. Our solutions help organizations improve population health, control costs, and strengthen program performance. We support hospitals, health plans, employers, government agencies, and life sciences organizations with data-driven tools that improve decision-making and healthcare outcomes. Our core products include: Springbuk: Actionable health intelligence to inform strategic employer benefits decisions Truven Health Insights: Employer benefits analytics and member engagement tools MarketScan: The industry's largest, longest-running U.S. claims database for research Flexible Analytics: Solutions to enhance population health and program performance At Truven, you'll join a team transforming healthcare through data, innovation, and real-world impact \u2014 working alongside experts committed to improving health outcomes nationwide.The Role Ready to transform healthcare with powerful data, trusted insights, and real-world results? We are seeking an Account Executive, Springbuk to drive new business growth by helping employers leverage actionable health intelligence to improve employee wellbeing, manage healthcare costs, and achieve better outcomes. In this role, you will build relationships with prospective clients, identify business needs, and demonstrate how Springbuk's solutions deliver value. How you will contribute: Develop and manage a pipeline of prospective employer clients within an assigned territory or market segment Identify, qualify, and pursue new business opportunities to achieve revenue and growth targets Conduct discovery meetings to understand client business objectives, healthcare challenges, and benefits priorities Present and demonstrate Springbuk solutions to HR, Benefits, Total Rewards, and other key stakeholders Manage opportunities through the full sales cycle, including prospecting, proposal development, contract negotiation, and close Build and maintain strong relationships with prospective and current clients Partner with internal teams, including Marketing, Solutions Consulting, Customer Success, and Product Management, to support sales opportunities Maintain accurate pipeline and forecast information within CRM tools Stay informed on healthcare, benefits, wellbeing, and population health industry trends Represent Springbuk at client meetings, conferences, and industry events as needed What you will bring: 5+ years of sales experience with a bachelor's degree or equivalent experience Proven success achieving sales targets in a B2B environment Strong consultative selling, communication, and relationship-building skills Experience managing a sales pipeline and complex opportunities Ability to work independently and collaboratively across teams Preferred: Experience selling SaaS, healthcare, benefits, or analytics solutions What We Offer A team connected by a bigger purpose \u2014 Truven offers a unique opportunity to be part of a missi",
+   "ats": "external",
+   "salary": "$128544-192816",
+   "score": 73,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "saas",
+    "crm",
+    "b2b",
+    "partner",
+    "ai",
+    "pipeline",
+    "discovery",
+    "demo"
+   ],
+   "resume": "generic",
+   "id": "90716fb451733ea5"
+  },
+  {
+   "source": "greenhouse",
+   "company": "connectwise",
+   "title": "Account Executive",
+   "location": "USA",
+   "url": "https://job-boards.greenhouse.io/connectwise/jobs/4749568005",
+   "posted": "2026-10-30T16:45:30-04:00",
+   "description": "<div class=\"content-intro\"><p><em>ConnectWise is an industry and Global leading software company</em><em> with over 3,000 colleagues in North America, EMEA and APAC. As a community-driven software company dedicated to the success of technology solution providers, our suite helps </em><em>over 45,000 of our partners manage their businesses better, sell more efficiently, automate service delivery, and remotely control technology so they can consistently deliver amazing customer experiences.</em></p> <p><em>Our company is powered by our connections, our colleagues, and our community. And, we accept all kinds. </em></p> <p><em>Game-changers, innovators, culture-lovers\u2014and humankind.</em></p> <p><em>We invite discovery and debate. We recognize key moments as milestones. </em></p> <p><em>We see you and value you for your unique contributions. Our inclusive, positive culture lays the foundation to ensure every colleague is valued for their perspectives and skills, giving you the choice of how YOU make a difference.</em></p> <p><strong>Curious? Read this opportunity to learn how YOU can make a difference at ConnectWise!</strong></p> <p>&nbsp;</p> <p>&nbsp;</p></div><h2><span style=\"text-decoration: underline;\"><em><strong>Account Executive</strong></em></span></h2> <p><strong>General Summary:</strong></p> <p>The Account Executive is responsible for acquiring new partners, expanding our partner base, and selling new software solutions. This role works in partnership with the broader Sales team to manage the sales cycle, open to close, and attracting new business.</p> <p><strong>Essential Duties and Responsibilities:</strong></p> <ul> <li>Provides support to cross-functional teams, with a high attention to detail</li> <li>Researches, analyzes, and documents findings</li> <li>May coach, review, and/or delegate work to other team members</li> <li>Achieves personal annual sales growth contract value based on the total opportunity</li> <li>Achieves personal annual sales growth contract value based on the ability to both Sell-To and Sell&nbsp;<br>Through our existing customers (specific to Partner Sales)</li> <li>Acquires and/or manages all prospects/partners within our Ideal Customer Profile and within their designated territory</li> <li>Follows ConnectWise value/solution based-sales process</li> <li>Either prospects new accounts through cold calling and email communication or prospects existing accounts through business review and email communication</li> <li>Closes sales that meet the ConnectWise standards for pricing, margins, terms, and conditions (averages are subject to change based on segment, industry, product, etc.) o <ul> <li>Average size of transaction: $15K annual per sale</li> <li>Average number of sales: 85 transactions/year</li> <li>Average length of sales cycle: 25-30 days</li> </ul> </li> <li>Qualifies either prospective or existing accounts to build and maintain a pipeline of opportunities to achieve annual sales goals that are set quarterly<",
+   "ats": "greenhouse",
+   "score": 69,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": false,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [
+    "msp",
+    "partner",
+    "ai",
+    "emea",
+    "north america",
+    "pipeline",
+    "outbound",
+    "discovery"
+   ],
+   "resume": "generic",
+   "id": "5e150285e0217f9d"
+  },
+  {
+   "source": "linkedin",
+   "company": "KLA",
+   "title": "Customer Engagement Applications Engineer (RAPID)",
+   "location": "Boise, ID (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/customer-engagement-applications-engineer-rapid-at-kla-4438439247",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 66,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "applications engineer",
+    "kla"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "1bb352679256ff75"
+  },
+  {
+   "source": "linkedin",
+   "company": "KLA",
+   "title": "Customer Engagement Applications Engineer - SWIFT",
+   "location": "Hillsboro, OR (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/customer-engagement-applications-engineer-swift-at-kla-4483901726",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 66,
+   "remote": true,
+   "portland": true,
+   "remote_in_listing": true,
+   "matched_title": [
+    "applications engineer",
+    "kla"
+   ],
+   "matched_skills": [],
+   "resume": "semiconductor_sales",
+   "id": "6e2ff19dc5d9cb19"
+  },
+  {
+   "source": "linkedin",
+   "company": "Nutanix",
+   "title": "Sr. Systems Sales Engineer",
+   "location": "Richmond, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-systems-sales-engineer-at-nutanix-4482722732",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "943739b5b74f0e10"
+  },
+  {
+   "source": "linkedin",
+   "company": "Eon.io",
+   "title": "Senior Sales Engineer - East",
+   "location": "Tampa, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-east-at-eon-io-4477427001",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "98fb5b4d6a4a2458"
+  },
+  {
+   "source": "linkedin",
+   "company": "NetApp",
+   "title": "Enterprise Solutions Engineer - SoCal",
+   "location": "Los Angeles, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-solutions-engineer-socal-at-netapp-4483464967",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "7ed78edbce166729"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cohesity",
+   "title": "Senior Sales Engineer - Public Healthcare NY/NJ/MA/CT",
+   "location": "Greater Hartford (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-public-healthcare-ny-nj-ma-ct-at-cohesity-4449948471",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "23fdd80902ab1f2b"
+  },
+  {
+   "source": "linkedin",
+   "company": "Infoblox",
+   "title": "Sales Engineer - Enterprise, New York Metro",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sales-engineer-enterprise-new-york-metro-at-infoblox-4483469837",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b507845cb867225a"
+  },
+  {
+   "source": "linkedin",
+   "company": "Forma.ai",
+   "title": "Senior Sales Engineer",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-sales-engineer-at-forma-ai-4485919102",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "sales engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "ec0a325b305b361e"
+  },
+  {
+   "source": "linkedin",
+   "company": "Esri",
+   "title": "Sr. GIS Solution Engineer \u2013 AEC",
+   "location": "Charlotte, NC (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-gis-solution-engineer-%E2%80%93-aec-at-esri-4440982817",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solution engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "8e5d30ad99d96220"
+  },
+  {
+   "source": "linkedin",
+   "company": "Atlassian",
+   "title": "Senior Solutions Engineer, Enterprise - LATAM",
+   "location": "New York, NY (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-enterprise-latam-at-atlassian-4477887060",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "3f1a4dbb87740530"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cisco",
+   "title": "Senior Solutions Engineer - FDSE Public Sector - Splunk (Remote)",
+   "location": "Tampa, FL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-fdse-public-sector-splunk-remote-at-cisco-4485374931",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "61706be1e2a312a1"
+  },
+  {
+   "source": "linkedin",
+   "company": "Everpure",
+   "title": "Senior Pre-Sales Systems Engineer, Higher Education (Northeast)",
+   "location": "Pennsylvania, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-pre-sales-systems-engineer-higher-education-northeast-at-everpure-4467891869",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "pre-sales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "2cc683c5a2464d25"
+  },
+  {
+   "source": "linkedin",
+   "company": "Mitsubishi Electric Power Products, Inc.",
+   "title": "Senior Solutions Engineer",
+   "location": "Freedom, PA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-engineer-at-mitsubishi-electric-power-products-inc-4459851825",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "bd87ae9aae6a3eb5"
+  },
+  {
+   "source": "linkedin",
+   "company": "NexHealth",
+   "title": "Senior Account Executive - API Platform",
+   "location": "Chicago, IL (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-api-platform-at-nexhealth-4440826605",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "494e0ac02d8961ed"
+  },
+  {
+   "source": "linkedin",
+   "company": "NexHealth",
+   "title": "Senior Account Executive - API Platform",
+   "location": "Washington, DC (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-account-executive-api-platform-at-nexhealth-4440824665",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e9729619960fed7a"
+  },
+  {
+   "source": "linkedin",
+   "company": "Dash0",
+   "title": "Enterprise Account Executive - West Coast",
+   "location": "San Francisco, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-west-coast-at-dash0-4331737199",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "f55aea74208218a3"
+  },
+  {
+   "source": "linkedin",
+   "company": "Checkr, Inc.",
+   "title": "Enterprise Account Executive, Upper Mid-Market",
+   "location": "Atlanta, GA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-upper-mid-market-at-checkr-inc-4441243870",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "ba0c280817982bd4"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amplitude",
+   "title": "Emerging Enterprise Account Executive",
+   "location": "Atlanta, GA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/emerging-enterprise-account-executive-at-amplitude-4485615613",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "ba6f48d1ae9bdefe"
+  },
+  {
+   "source": "linkedin",
+   "company": "Talkdesk",
+   "title": "Enterprise Account Executive - Mixed Industries",
+   "location": "Dallas, TX (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-mixed-industries-at-talkdesk-4474346468",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "4ccdbde5f56fe798"
+  },
+  {
+   "source": "linkedin",
+   "company": "Dashlane",
+   "title": "Enterprise Account Executive",
+   "location": "New York City Metropolitan Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/enterprise-account-executive-at-dashlane-4476855369",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "7b84d472dc8fb951"
+  },
+  {
+   "source": "linkedin",
+   "company": "Zendesk",
+   "title": "Senior Enterprise Account Executive",
+   "location": "Georgia, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-enterprise-account-executive-at-zendesk-4447302654",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "account executive",
+    "enterprise account executive"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "aa7b8cfca11e9c13"
+  },
+  {
+   "source": "linkedin",
+   "company": "Leidos",
+   "title": "Business Development Manager - Enterprise Civil Agencies IT, Digital Sector",
+   "location": "Reston, VA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/business-development-manager-enterprise-civil-agencies-it-digital-sector-at-leidos-4477846370",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "business development manager",
+    "business development"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "04646c5a588551ad"
+  },
+  {
+   "source": "linkedin",
+   "company": "PreSales Collective",
+   "title": "Sr. Solutions Consultant",
+   "location": "Greater Phoenix Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-solutions-consultant-at-presales-collective-4483950038",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "203e0cdc55ac6b95"
+  },
+  {
+   "source": "linkedin",
+   "company": "Candescent",
+   "title": "Sr. Solutions Consultant",
+   "location": "Greater Phoenix Area (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-solutions-consultant-at-candescent-4483489999",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "78a828c435ee58b9"
+  },
+  {
+   "source": "linkedin",
+   "company": "Freshworks",
+   "title": "Lead - Solutions Engineer (Verticals)",
+   "location": "New York, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/lead-solutions-engineer-verticals-at-freshworks-4478028153",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions engineer"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "93d7578caeaf7816"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cencora",
+   "title": "Senior Solutions Consultant-Speciality",
+   "location": "United, PA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-consultant-speciality-at-cencora-4483943774",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "d43aad35ce81203c"
+  },
+  {
+   "source": "linkedin",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Senior Presales Architect- Data Solutions",
+   "location": "San Jose, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-presales-architect-data-solutions-at-hewlett-packard-enterprise-4485297720",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "e5d856f58c6f12fc"
+  },
+  {
+   "source": "linkedin",
+   "company": "Hewlett Packard Enterprise",
+   "title": "Senior Presales Architect- Data Solutions",
+   "location": "San Jose, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-presales-architect-data-solutions-at-hewlett-packard-enterprise-4485287897",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "presales"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "97c8d11e4134f50d"
+  },
+  {
+   "source": "linkedin",
+   "company": "Cencora",
+   "title": "Senior Solutions Consultant-Infusion",
+   "location": "United, PA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-solutions-consultant-infusion-at-cencora-4483942828",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "solutions consultant"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "d7e4a9103e7f9236"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Sr. Technical Account Manager, Sr. TAM",
+   "location": "San Diego, CA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-technical-account-manager-sr-tam-at-amazon-web-services-aws-4460332478",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "ff809e407271727a"
+  },
+  {
+   "source": "linkedin",
+   "company": "Amazon Web Services (AWS)",
+   "title": "Sr. Technical Account Manager, ES - NAMER - US",
+   "location": "Atlanta, GA (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/sr-technical-account-manager-es-namer-us-at-amazon-web-services-aws-4469214000",
+   "posted": "2026-10-31T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "b7fa21384175a2dc"
+  },
+  {
+   "source": "linkedin",
+   "company": "Red Hat",
+   "title": "Senior Technical Account Manager",
+   "location": "Maryland, United States (Remote)",
+   "url": "https://www.linkedin.com/jobs/view/senior-technical-account-manager-at-red-hat-4485121302",
+   "posted": "2026-10-30T00:00:00+00:00",
+   "description": "",
+   "ats": "linkedin",
+   "score": 64,
+   "remote": true,
+   "portland": false,
+   "remote_in_listing": true,
+   "matched_title": [
+    "technical account manager",
+    "account manager"
+   ],
+   "matched_skills": [],
+   "resume": "generic",
+   "id": "6c80a30df84124ea"
+  }
+ ]
+}
